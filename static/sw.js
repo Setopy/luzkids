@@ -17,7 +17,8 @@ self.addEventListener("activate", e => {
 });
 
 self.addEventListener("fetch", e => {
-  // Network first for API and dynamic routes; cache first for static assets
+  // Never intercept POST requests
+  if (e.request.method !== "GET") return;
   const url = new URL(e.request.url);
   if (url.pathname.startsWith("/api/") || url.pathname.startsWith("/series/") ||
       url.pathname.startsWith("/certificate/")) {
