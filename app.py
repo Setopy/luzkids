@@ -495,63 +495,56 @@ def feedback_list():
 @app.route("/api/ask", methods=["POST"])
 @login_required
 def api_ask():
-    import urllib.request, json as _json, os
+    if not current_user.is_authenticated:
+        return jsonify(answer="Please log in to use the AI companion."), 200
+    import os as _os
     data = request.get_json(force=True)
     question = data.get("question", "").strip()[:300]
     lesson_id = data.get("lesson_id", "")
     series_id = data.get("series_id", "")
     lang = data.get("lang", "en")
     if not question:
-        return jsonify(error="No question provided"), 400
-
-    key = os.environ.get("GROQ_API_KEY")
+        return jsonify(error="No question"), 400
+    key = _os.environ.get("GROQ_API_KEY")
     if not key:
-        return jsonify(answer=t({
-            "en": "The AI companion needs a GROQ_API_KEY to work. Ask your parent to set it up!",
-            "es": "El compañero IA necesita una clave GROQ_API_KEY. ¡Pídele a tu padre que la configure!",
-            "fr": "Le compagnon IA a besoin d'une clé GROQ_API_KEY. Demande à ton parent de la configurer !"
-        }))
-
+        return jsonify(answer="The AI companion needs a GROQ_API_KEY. Ask your parent to set it up!")
     lesson = load_lesson(series_id, lesson_id)
     lesson_text = ""
     if lesson:
         for b in lesson.get("blocks", []):
             if b["type"] == "story":
-                lesson_text = b.get("body", {}).get("en", "")[:800]
+                lesson_text = b.get("body", {}).get("en", "")[:400]
                 break
-
-    lang_name = {"en": "English", "es": "Spanish", "fr": "French"}.get(lang, "English")
-    system = f"""You are a warm, wise Bible teacher answering questions from a child aged 6-12 about a Bible lesson.
-Lesson topic: {lesson_id} from Ephesians.
-Lesson content summary: {lesson_text[:400]}
-Doctrinal framework: Wesleyan-Holiness biblical Christianity, consistent with the Deeper Life Bible Church doctrinal tradition — (1) Scripture as final authority, (2) Total depravity of man, (3) Repentance: complete turning from all sin, required before saving faith, (4) Restitution: making amends for wrongs done, (5) Justification by grace through faith in the atoning blood of Christ, (6) Entire Sanctification: a definite second work of grace, instantaneous, by which the heart is purified — NOT progressive but received by faith, (7) Holy Ghost Baptism: enduement of power upon the sanctified believer, (8) Holy living and separation from the world, (9) Personal evangelism as every believer's calling, (10) Salvation CAN be lost through wilful persistent sin — no unconditional eternal security. Always answer within these convictions. Never contradict them.
-Rules: Answer in {lang_name}. Keep answers to 3-4 sentences maximum. Use simple, joyful, age-appropriate language.
-Never speculate beyond scripture. Never contradict the doctrinal framework. If a question is off-topic, gently bring it back to the lesson.
-Do not mention AI, Groq, or any technology. You are simply a Bible teacher."""
-
-    body = _json.dumps({
-        "model": "llama-3.3-70b-versatile",
-        "messages": [{"role": "system", "content": system},
-                     {"role": "user", "content": question}],
-        "max_tokens": 180, "temperature": 0.5
-    }).encode()
-    req = urllib.request.Request(
-        "https://api.groq.com/openai/v1/chat/completions", data=body,
-        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
+    lang_name = {"en":"English","es":"Spanish","fr":"French","pt":"Portuguese"}.get(lang,"English")
+    system = (f"You are a warm, wise Bible teacher answering questions from a child aged 6-12. "
+              f"Lesson: {lesson_id} from Ephesians. Content: {lesson_text[:300]} "
+              f"Doctrinal framework: Wesleyan-Holiness biblical Christianity consistent with "
+              f"Deeper Life Bible Church — repentance required before saving faith, entire sanctification "
+              f"as a definite second work of grace, Holy Ghost baptism upon the sanctified believer, "
+              f"holy living, personal evangelism, no unconditional eternal security. "
+              f"Answer in {lang_name}. Max 4 sentences. Warm, simple, joyful, age-appropriate. "
+              f"Never mention AI, technology, or any denomination by name.")
     try:
-        with urllib.request.urlopen(req, timeout=15) as r:
-            result = _json.load(r)
-        answer = result["choices"][0]["message"]["content"].strip()
-        return jsonify(answer=answer)
+        from groq import Groq
+        client = Groq(api_key=key)
+        completion = client.chat.completions.create(
+            model="llama-3.1-8b-instant",
+            messages=[{"role":"system","content":system},
+                      {"role":"user","content":question}],
+            max_completion_tokens=180,
+            temperature=0.5,
+        )
+        return jsonify(answer=completion.choices[0].message.content.strip())
     except Exception as e:
+        print("Groq error:", e)
         return jsonify(answer=t({
             "en": "I couldn't answer right now — try again in a moment!",
             "es": "No pude responder ahora — ¡inténtalo de nuevo en un momento!",
-            "fr": "Je n'ai pas pu répondre maintenant — réessaie dans un moment !"
+            "fr": "Je n'ai pas pu répondre maintenant — réessaie dans un moment !",
+            "pt": "Não consegui responder agora — tente novamente em um momento!"
         }))
 
 
-# ----------------------------------------------------- soul winner tracker
 @app.route("/mission")
 @login_required
 def mission():
