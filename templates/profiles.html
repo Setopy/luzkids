@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ t(UI.who_learning) }}{% endblock %}
+{% block content %}
+<section class="strip">
+  <h1>{{ t(UI.who_learning) }}</h1>
+  <div class="cards profiles">
+    {% for c in current_user.children %}
+    <a class="card profile {{ 'selected' if session.get('active_child_id') == c.id }}"
+       href="{{ url_for('select_child', child_id=c.id) }}">
+      <div class="card-emoji big">{{ c.avatar }}</div>
+      <h3>{{ c.name }}</h3>
+    </a>
+    {% endfor %}
+    {% if current_user.children|length < current_user.max_children %}
+    <form class="card add-profile" method="post">
+      <input name="name" placeholder="{{ t({'en':'Child\'s name','es':'Nombre del niño'}) }}" required>
+      <select name="avatar">
+        {% for e in ['🌟','🦁','🐑','🕊️','🌈','🛡️','🎺','🌻'] %}<option>{{ e }}</option>{% endfor %}
+      </select>
+      <button class="btn small" type="submit">{{ t({'en':'Add child','es':'Agregar niño'}) }}</button>
+    </form>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}

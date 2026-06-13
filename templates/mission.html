@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}{{ t({'en':'My Mission Field','es':'Mi Campo Misionero','fr':'Mon Champ de Mission'}) }}{% endblock %}
+{% block content %}
+<section class="strip">
+  <h1>🌍 {{ t({'en':'My Mission Field','es':'Mi Campo Misionero','fr':'Mon Champ de Mission'}) }}</h1>
+  <p class="tagline">{{ t({'en':'Jesus said: Go and make disciples. These are the people you are praying for and sharing Jesus with.',
+    'es':'Jesús dijo: Vayan y hagan discípulos. Estas son las personas por las que oras y con quienes compartes a Jesús.',
+    'fr':'Jésus a dit : Allez, faites des disciples. Ce sont les personnes pour lesquelles tu pries et avec qui tu partages Jésus.'}) }}</p>
+
+  {% if not child %}
+  <div class="card" style="text-align:center">
+    <p>{{ t({'en':'Choose a child profile to see their mission field.','es':'Elige un perfil de niño para ver su campo misionero.','fr':'Choisis un profil d\'enfant pour voir son champ de mission.'}) }}</p>
+    <a class="btn" href="{{ url_for('profiles') }}">{{ t({'en':'Choose profile','es':'Elegir perfil','fr':'Choisir le profil'}) }}</a>
+  </div>
+  {% else %}
+
+  <div class="mission-add-card card">
+    <h3>{{ t({'en':'Add someone to pray for','es':'Agregar a alguien para orar','fr':'Ajouter quelqu\'un à prier'}) }}</h3>
+    <form method="post" action="{{ url_for('mission_add') }}">
+      <div class="mission-add-row">
+        <input name="name" required maxlength="100"
+          placeholder="{{ t({'en':'Friend\'s or family member\'s name','es':'Nombre de un amigo o familiar','fr':'Nom d\'un ami ou d\'un membre de la famille'}) }}" />
+        <input name="notes" maxlength="300"
+          placeholder="{{ t({'en':'Notes (optional)','es':'Notas (opcional)','fr':'Notes (facultatif)'}) }}" />
+        <button class="btn small" type="submit">➕ {{ t({'en':'Add','es':'Agregar','fr':'Ajouter'}) }}</button>
+      </div>
+    </form>
+    <p class="meta">{{ t({'en':'Based on Ephesians Lesson 7 — personal evangelism is every believer\'s calling.',
+      'es':'Basado en Efesios Lección 7 — la evangelización personal es el llamado de todo creyente.',
+      'fr':'Basé sur Éphésiens Leçon 7 — l\'évangélisation personnelle est la vocation de tout croyant.'}) }}</p>
+  </div>
+
+  {% if targets %}
+  <div class="mission-grid">
+    {% for tgt in targets %}
+    <div class="mission-card {{ 'responded' if tgt.responded }}">
+      <div class="mission-name">
+        {{ tgt.name }}
+        {% if tgt.responded %}<span class="mission-badge won">🎉 {{ t({'en':'Responded!','es':'¡Respondió!','fr':'A répondu !'}) }}</span>{% endif %}
+      </div>
+      {% if tgt.notes %}<p class="meta mission-notes">{{ tgt.notes }}</p>{% endif %}
+      <div class="mission-actions">
+        <form method="post" action="{{ url_for('mission_toggle', target_id=tgt.id, field='prayed_today') }}" style="display:inline">
+          <button class="mission-btn {{ 'active' if tgt.prayed_today }}" type="submit">
+            🙏 {{ t({'en':'Prayed','es':'Oré','fr':'Prié'}) }}
+          </button>
+        </form>
+        <form method="post" action="{{ url_for('mission_toggle', target_id=tgt.id, field='shared_gospel') }}" style="display:inline">
+          <button class="mission-btn {{ 'active' if tgt.shared_gospel }}" type="submit">
+            📢 {{ t({'en':'Shared Jesus','es':'Compartí a Jesús','fr':'Partagé Jésus'}) }}
+          </button>
+        </form>
+        <form method="post" action="{{ url_for('mission_toggle', target_id=tgt.id, field='responded') }}" style="display:inline">
+          <button class="mission-btn {{ 'won' if tgt.responded }}" type="submit">
+            💛 {{ t({'en':'They responded!','es':'¡Respondió!','fr':'A répondu !'}) }}
+          </button>
+        </form>
+        <form method="post" action="{{ url_for('mission_delete', target_id=tgt.id) }}" style="display:inline">
+          <button class="mission-btn del" type="submit" onclick="return confirm('Remove {{ tgt.name }}?')">✕</button>
+        </form>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="card" style="text-align:center; margin-top:1.5rem">
+    <div class="card-emoji">🌱</div>
+    <h3>{{ t({'en':'Your mission field is empty — who will you add first?',
+      'es':'Tu campo misionero está vacío — ¿a quién agregarás primero?',
+      'fr':'Ton champ de mission est vide — qui ajouteras-tu en premier ?'}) }}</h3>
+    <p>{{ t({'en':'Think of one friend, classmate or family member who doesn\'t yet know Jesus. Add their name and begin to pray!',
+      'es':'Piensa en un amigo, compañero o familiar que aún no conoce a Jesús. ¡Agrega su nombre y empieza a orar!',
+      'fr':'Pense à un ami, un camarade ou un membre de la famille qui ne connaît pas encore Jésus. Ajoute son nom et commence à prier !'}) }}</p>
+  </div>
+  {% endif %}
+
+  <div class="mission-stats card" style="margin-top:1.5rem">
+    <h3>{{ t({'en':'Mission stats','es':'Estadísticas de misión','fr':'Statistiques de mission'}) }}</h3>
+    <div class="stats-ribbon" style="margin:0; border-radius: var(--radius)">
+      <div><strong>{{ targets|length }}</strong><span>{{ t({'en':'praying for','es':'orando por','fr':'en prière pour'}) }}</span></div>
+      <div><strong>{{ targets|selectattr('shared_gospel')|list|length }}</strong><span>{{ t({'en':'heard the gospel','es':'oyeron el evangelio','fr':'ont entendu l\'évangile'}) }}</span></div>
+      <div><strong>{{ targets|selectattr('responded')|list|length }}</strong><span>{{ t({'en':'responded','es':'respondieron','fr':'ont répondu'}) }}</span></div>
+    </div>
+  </div>
+  {% endif %}
+</section>
+{% endblock %}

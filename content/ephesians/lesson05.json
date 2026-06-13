@@ -1,0 +1,207 @@
+{
+  "title": {
+    "en": "Alive in Christ",
+    "es": "Vivos en Cristo",
+    "fr": "Vivants en Christ"
+  },
+  "ref": "Ephesians 2:1-10 / Efesios 2:1-10",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Dead — then ALIVE! The door is called Repentance",
+        "es": "Las dos palabras más emocionantes: '¡Pero Dios!'",
+        "fr": "Les deux mots les plus passionnants : « Mais Dieu ! »"
+      },
+      "body": {
+        "en": "Paul begins with the hardest truth: without Jesus, every person is spiritually DEAD — not sick, not lost, not confused, but DEAD in sins. And dead people cannot fix themselves. The Bible says all of us were born this way — it is called Total Depravity — and every one of us needs rescuing. \n\nBut then come the two most wonderful words in the Bible: 'BUT GOD...' God, who is rich in mercy and bursting with love, acted! He made a way. \n\nBut first — before God can make anyone alive — something must happen. Every person must REPENT. Repentance means turning COMPLETELY away from sin and everything wrong — not reducing it a little, not promising to try harder, but turning around and walking the other way. Then by faith in Jesus — trusting that His blood on the cross paid for every sin — God forgives us and makes us ALIVE! And then — here is the most wonderful thing — Paul calls us God's MASTERPIECE! In Greek: 'poiema' — His work of art, created to do beautiful things. You are not an accident. But you must come through the door — and the door is repentance.",
+        "es": "Pablo comienza con la imagen más triste que puedas imaginar: sin Jesús, las personas no están solo un poco perdidas — están espiritualmente MUERTAS. Y los muertos no pueden arreglarse a sí mismos, ¿verdad? ¡Ni siquiera pueden pedir ayuda! Justo cuando todo parece sin esperanza, Pablo escribe dos palabras que lo cambian todo: 'PERO DIOS...' Dios, que es rico en misericordia y rebosa de amor, ¡nos dio VIDA con Cristo! Y aquí está lo más maravilloso: es un regalo gratuito. No puedes ganarlo portándote bien, igual que no puedes ganar un regalo de cumpleaños. Pablo dice que somos la obra maestra de Dios — en griego, Su 'poiema', Su obra de arte — creados para hacer cosas hermosas que Él planeó hace mucho tiempo. No eres un accidente. ¡Eres una obra maestra!",
+        "fr": "Paul commence par l'image la plus triste qu'on puisse imaginer : sans Jésus, les gens ne sont pas juste un peu perdus — ils sont spirituellement MORTS. Et les morts ne peuvent pas se réparer eux-mêmes, n'est-ce pas ? Ils ne peuvent même pas appeler à l'aide ! Juste quand tout semble sans espoir, Paul écrit deux mots qui changent tout : « MAIS DIEU… » Dieu, qui est riche en miséricorde et débordant d'amour, nous a rendus VIVANTS avec Christ ! Et voici le plus merveilleux : c'est un cadeau gratuit. Tu ne peux pas le gagner en étant sage, tout comme tu ne peux pas gagner un cadeau d'anniversaire. Paul dit que nous sommes le chef-d'œuvre de Dieu — en grec, Son « poiema », Son œuvre d'art — créés pour faire de belles choses qu'Il a préparées pour nous depuis longtemps. Tu n'es pas un accident. Tu es un chef-d'œuvre !"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God.",
+        "es": "Porque por gracia ustedes han sido salvados mediante la fe; esto no procede de ustedes, sino que es el regalo de Dios.",
+        "fr": "Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu.",
+        "pt": "Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus."
+      },
+      "ref": {
+        "en": "Ephesians 2:8 (NIV)",
+        "es": "Efesios 2:8 (NVI)",
+        "fr": "Éphésiens 2:8 (LSG)",
+        "pt": "Efésios 2:8 (ARC)"
+      },
+      "scramble_words": {
+        "en": [
+          "For",
+          "it",
+          "is",
+          "by",
+          "grace",
+          "you",
+          "have",
+          "been",
+          "saved"
+        ],
+        "es": [
+          "Porque",
+          "por",
+          "gracia",
+          "ustedes",
+          "han",
+          "sido",
+          "salvados"
+        ],
+        "fr": [
+          "c'est",
+          "par",
+          "la",
+          "grâce",
+          "que",
+          "vous",
+          "êtes",
+          "sauvés"
+        ],
+        "pt": [
+          "Porque",
+          "pela",
+          "graça",
+          "sois",
+          "salvos,",
+          "mediante",
+          "a"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "But God! (The Alive Song)",
+        "es": "¡Pero Dios! (La Canción de la Vida)",
+        "fr": "Mais Dieu ! (La chanson de la vie)"
+      },
+      "audio_en": "/static/audio/ephesians/lesson05_en.mp3",
+      "audio_es": "/static/audio/ephesians/lesson05_es.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does 'Total Depravity' mean?",
+            "es": "¿Qué dice Pablo que éramos antes de que Dios nos rescatara?",
+            "fr": "Que dit Paul que nous étions avant que Dieu nous sauve ?",
+            "pt": "O que significa 'Depravação Total'?"
+          },
+          "options": {
+            "en": [
+              "That some people are really, really bad",
+              "That every person is born spiritually dead in sin and needs rescuing",
+              "That God doesn't love sinners",
+              "That children cannot be saved"
+            ],
+            "es": [
+              "Un poco cansados",
+              "Espiritualmente muertos",
+              "Personas casi buenas",
+              "Solo un poco perdidos"
+            ],
+            "fr": [
+              "Un peu fatigués",
+              "Spirituellement morts",
+              "Des gens plutôt bons",
+              "Juste un peu perdus"
+            ],
+            "pt": [
+              "Que algumas pessoas são muito, muito más",
+              "Que todo ser humano nasce espiritualmente morto no pecado e precisa ser salvo",
+              "Que Deus não ama os pecadores",
+              "Que as crianças não podem ser salvas"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What must happen BEFORE God can make us spiritually alive?",
+            "es": "¿Qué dos palabras marcan el gran cambio del capítulo?",
+            "fr": "Quels deux mots marquent le grand tournant du chapitre ?"
+          },
+          "options": {
+            "en": [
+              "We must do enough good works",
+              "We must repent — turn completely away from sin — and believe",
+              "We must be born in a Christian home",
+              "We must go to church for a year"
+            ],
+            "es": [
+              "Está bien",
+              "Pero Dios",
+              "Luego Jesús",
+              "Ahora fe"
+            ],
+            "fr": [
+              "Très bien",
+              "Mais Dieu",
+              "Puis Jésus",
+              "Maintenant la foi"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul call us after God saves us?",
+            "es": "¿Cómo recibimos la salvación?",
+            "fr": "Comment recevons-nous le salut ?"
+          },
+          "options": {
+            "en": [
+              "Lucky survivors",
+              "Good students",
+              "God's masterpiece — His work of art",
+              "Perfect people who never sin again"
+            ],
+            "es": [
+              "Haciendo muchas buenas obras",
+              "Siendo mejores que otros",
+              "Como un regalo gratuito, por gracia mediante la fe",
+              "Yendo a la iglesia cada semana"
+            ],
+            "fr": [
+              "En faisant beaucoup de bonnes œuvres",
+              "En étant meilleurs que les autres",
+              "Comme un cadeau gratuit, par la grâce au moyen de la foi",
+              "En allant à l'église chaque semaine"
+            ]
+          },
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Colouring sheet: 'God's masterpiece'",
+            "es": "Hoja para colorear: 'La obra maestra de Dios'",
+            "fr": "Coloriage : « Le chef-d'œuvre de Dieu »"
+          },
+          "file": "/static/printables/ephesians/lesson05_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Total Depravity + Repentance + Justification — three of Scripture's core doctrines meet here. (1) Total Depravity (Eph 2:1, Ps 51:5): every human being, including children, is born spiritually dead and inclined toward sin. This is not pessimism; it is the diagnosis that makes the cure glorious. (2) Repentance: The Bible is clear: that repentance is \"a complete turning away from all sins and its deceitful pleasures, and is REQUIRED before one can truly believe with saving faith.\" Many churches today preach grace without repentance, producing shallow conversions. LuzKids must never do this. Repentance is the door. (3) Justification: God's grace through which one receives forgiveness and is counted righteous through faith in the atoning blood. \n\nPractical for parents: When your child \"receives Jesus,\" is there genuine repentance — a turning from known sin — or just an emotional response? Both the emotion and the turning are needed. One without the other is incomplete. \n\nConversation starters: (1) What is repentance — and how is it different from just feeling sorry? (2) Has there been a specific moment when YOU turned completely from sin and gave your life to Jesus? Tell your children about it. (3) What beautiful things might God have created you (His masterpiece) to do? \n\nPray together — and invite any child who has never truly repented to do so tonight.",
+        "es": "Idea central: la salvación es completamente un regalo de Dios — gracia, no salario. La imagen de 'muertos a vivos' descarta el auto-rescate, y 'obra maestra' (poiema, Ef 2:10) establece un valor que el comportamiento no puede ganar ni borrar. Preguntas para conversar: (1) ¿Por qué un muerto no puede ayudarse a sí mismo — y por qué eso hace que el rescate de Dios sea tan buena noticia? (2) ¿Cuál es la diferencia entre un regalo y un pago? ¿Cuál es la gracia de Dios? (3) Si eres la obra de arte de Dios, ¿qué 'buenas obras' habrá preparado para ti esta semana? Oren juntos agradeciendo a Dios por el regalo que nadie podía ganar, y pídanle que muestre a cada niño una acción bondadosa para mañana.",
+        "fr": "Idée centrale : le salut est entièrement le don de Dieu — la grâce, pas un salaire. L'image « de morts à vivants » exclut l'auto-sauvetage, et « chef-d'œuvre » (poiema, Éph 2:10) établit une valeur que la conduite ne peut ni gagner ni effacer. Pour lancer la conversation : (1) Pourquoi un mort ne peut-il pas s'aider lui-même — et pourquoi cela rend-il le sauvetage de Dieu si extraordinaire ? (2) Quelle est la différence entre un cadeau et un paiement ? Lequel est la grâce de Dieu ? (3) Si tu es l'œuvre d'art de Dieu, quelles « bonnes œuvres » a-t-Il peut-être préparées pour toi cette semaine ? Priez ensemble en remerciant Dieu pour le cadeau que personne ne pouvait gagner, et demandez-Lui de montrer à chaque enfant une gentillesse à faire demain."
+      }
+    }
+  ]
+}

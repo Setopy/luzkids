@@ -1,0 +1,168 @@
+{
+  "title": {
+    "en": "Ephesians for Kids",
+    "es": "Efesios para Niños",
+    "fr": "Éphésiens pour les enfants"
+  },
+  "subtitle": {
+    "en": "Every chapter, every verse — 16 adventures through Paul's letter",
+    "es": "Cada capítulo, cada versículo — 16 aventuras por la carta de Pablo",
+    "fr": "Chaque chapitre, chaque verset — 16 aventures à travers la lettre de Paul"
+  },
+  "description": {
+    "en": "Paul wrote a letter from prison that overflows with joy! From the streets of ancient Ephesus to the full armour of God, we'll journey through all six chapters — discovering who we are in Christ, God's amazing plan, and how to walk in love every day.",
+    "es": "¡Pablo escribió una carta desde la cárcel que rebosa de alegría! Desde las calles de la antigua Éfeso hasta toda la armadura de Dios, recorreremos los seis capítulos completos — descubriendo quiénes somos en Cristo, el plan maravilloso de Dios, y cómo caminar en amor cada día.",
+    "fr": "Paul a écrit depuis la prison une lettre qui déborde de joie ! Des rues de l'ancienne Éphèse jusqu'à toute l'armure de Dieu, nous parcourrons les six chapitres complets — en découvrant qui nous sommes en Christ, le plan merveilleux de Dieu, et comment marcher dans l'amour chaque jour."
+  },
+  "age_range": "6-12",
+  "free": true,
+  "order": 1,
+  "emoji": "💌",
+  "color": "#F4A938",
+  "lessons": [
+    {
+      "id": "lesson01",
+      "title": {
+        "en": "Welcome to Ephesus!",
+        "es": "¡Bienvenidos a Éfeso!",
+        "fr": "Bienvenue à Éphèse !"
+      },
+      "ref": "Ephesians 1:1-2"
+    },
+    {
+      "id": "lesson02",
+      "title": {
+        "en": "Chosen and Loved",
+        "es": "Escogidos y Amados",
+        "fr": "Choisis et aimés"
+      },
+      "ref": "Ephesians 1:3-6"
+    },
+    {
+      "id": "lesson03",
+      "title": {
+        "en": "Bought Back and Sealed",
+        "es": "Rescatados y Sellados",
+        "fr": "Rachetés et scellés"
+      },
+      "ref": "Ephesians 1:7-14"
+    },
+    {
+      "id": "lesson04",
+      "title": {
+        "en": "Paul's Power Prayer",
+        "es": "La Oración Poderosa de Pablo",
+        "fr": "La puissante prière de Paul"
+      },
+      "ref": "Ephesians 1:15-23"
+    },
+    {
+      "id": "lesson05",
+      "title": {
+        "en": "Alive in Christ",
+        "es": "Vivos en Cristo",
+        "fr": "Vivants en Christ"
+      },
+      "ref": "Ephesians 2:1-10"
+    },
+    {
+      "id": "lesson06",
+      "title": {
+        "en": "One Big Family",
+        "es": "Una Gran Familia",
+        "fr": "Une grande famille"
+      },
+      "ref": "Ephesians 2:11-22"
+    },
+    {
+      "id": "lesson07",
+      "title": {
+        "en": "God's Secret Plan",
+        "es": "El Plan Secreto de Dios",
+        "fr": "Le plan secret de Dieu"
+      },
+      "ref": "Ephesians 3:1-10"
+    },
+    {
+      "id": "lesson08",
+      "title": {
+        "en": "Rooted in Love",
+        "es": "Arraigados en Amor",
+        "fr": "Enracinés dans l'amour"
+      },
+      "ref": "Ephesians 3:11-21"
+    },
+    {
+      "id": "lesson09",
+      "title": {
+        "en": "Walk Worthy",
+        "es": "Camina Dignamente",
+        "fr": "Marche dignement"
+      },
+      "ref": "Ephesians 4:1-10"
+    },
+    {
+      "id": "lesson10",
+      "title": {
+        "en": "Gifts for the Team",
+        "es": "Dones para el Equipo",
+        "fr": "Des dons pour l'équipe"
+      },
+      "ref": "Ephesians 4:11-20"
+    },
+    {
+      "id": "lesson11",
+      "title": {
+        "en": "Old Clothes, New Clothes",
+        "es": "Ropa Vieja, Ropa Nueva",
+        "fr": "Vieux habits, habits neufs"
+      },
+      "ref": "Ephesians 4:21-32"
+    },
+    {
+      "id": "lesson12",
+      "title": {
+        "en": "Children of Light",
+        "es": "Hijos de Luz",
+        "fr": "Enfants de lumière"
+      },
+      "ref": "Ephesians 5:1-10"
+    },
+    {
+      "id": "lesson13",
+      "title": {
+        "en": "Wake Up and Sing",
+        "es": "Despierta y Canta",
+        "fr": "Réveille-toi et chante"
+      },
+      "ref": "Ephesians 5:11-20"
+    },
+    {
+      "id": "lesson14",
+      "title": {
+        "en": "The Great Mystery of Love",
+        "es": "El Gran Misterio del Amor",
+        "fr": "Le grand mystère de l'amour"
+      },
+      "ref": "Ephesians 5:21-33"
+    },
+    {
+      "id": "lesson15",
+      "title": {
+        "en": "The First Promise",
+        "es": "La Primera Promesa",
+        "fr": "La première promesse"
+      },
+      "ref": "Ephesians 6:1-10"
+    },
+    {
+      "id": "lesson16",
+      "title": {
+        "en": "The Armour of God",
+        "es": "La Armadura de Dios",
+        "fr": "L'armure de Dieu"
+      },
+      "ref": "Ephesians 6:10-24"
+    }
+  ]
+}

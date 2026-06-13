@@ -1,0 +1,238 @@
+{
+  "title": {
+    "en": "One Big Family",
+    "es": "Una Gran Familia",
+    "fr": "Une grande famille"
+  },
+  "ref": "Ephesians 2:11-22 / Efesios 2:11-22",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The wall that came crashing down — and making things right",
+        "es": "El muro que se vino abajo",
+        "fr": "Le mur qui s'est effondré"
+      },
+      "body": {
+        "en": "In Paul's time, Jews and Gentiles were divided by a wall of hatred — there was even a real stone wall in the Jerusalem temple with warning signs: 'No Gentile may cross this barrier!' But Paul announces the most astonishing news: Jesus IS our peace! On the cross, He destroyed that dividing wall, reconciling both groups to God in one body. Now there are no outsiders in God's family — no 'us' and 'them', just one new people. But true reconciliation goes deeper than feelings. Jesus teaches that if we have wronged someone, we must make it right BEFORE we come to worship God. If you took something that didn't belong to you — give it back. If you told a lie that hurt someone — apologise AND make amends. \n\nThis is called RESTITUTION — having a conscience void of offence toward God AND toward people. God is building us into a living temple — each of us a living stone — with Jesus as the cornerstone. But a temple built on unresolved wrongs is a temple with cracks. Make things right, and God can truly dwell in the family He is building.",
+        "es": "En tiempos de Pablo, la gente estaba dividida en dos grandes grupos que NO se llevaban bien: judíos y gentiles (todos los demás). En el templo de Jerusalén había incluso un verdadero muro de piedra que los gentiles no podían cruzar — ¡con letreros de advertencia! Pero Pablo anuncia una noticia asombrosa: Jesús ES nuestra paz, y en la cruz hizo pedazos ese muro divisorio. Ahora no hay extraños en la familia de Dios — no hay 'nosotros' y 'ellos', solo una nueva familia. Pablo dice que Dios nos está edificando juntos como un gran templo: Jesús es la piedra angular (la piedra más importante que mantiene derecho todo el edificio), y cada creyente — ¡incluido tú! — es una piedra viva. ¿Y lo más maravilloso? Dios mismo decide vivir en esta familia que está construyendo.",
+        "fr": "Au temps de Paul, les gens étaient divisés en deux grands groupes qui ne s'entendaient PAS : les Juifs et les païens (tous les autres). Dans le temple de Jérusalem, il y avait même un vrai mur de pierre que les païens n'avaient pas le droit de franchir — avec des panneaux d'avertissement ! Mais Paul annonce une nouvelle stupéfiante : Jésus EST notre paix, et sur la croix Il a mis ce mur de séparation en pièces. Maintenant il n'y a plus d'étrangers dans la famille de Dieu — pas de « nous » et « eux », juste une seule famille nouvelle. Paul dit que Dieu nous bâtit tous ensemble comme un grand temple : Jésus est la pierre angulaire (la pierre la plus importante qui garde tout le bâtiment droit), et chaque croyant — y compris toi ! — est une pierre vivante. Et le plus merveilleux ? Dieu lui-même choisit d'habiter dans cette famille qu'Il construit."
+      }
+    },
+    {
+      "type": "wall_game",
+      "title": {
+        "en": "Demolish the Dividing Wall!",
+        "es": "¡Derriba el Muro Divisorio!",
+        "fr": "Démolis le mur de séparation !"
+      },
+      "bricks": [
+        {
+          "en": "We are different",
+          "es": "Somos diferentes"
+        },
+        {
+          "en": "You are not welcome",
+          "es": "No eres bienvenido"
+        },
+        {
+          "en": "Stay on your side",
+          "es": "Quédate en tu lado"
+        },
+        {
+          "en": "You don't belong",
+          "es": "No perteneces aquí"
+        },
+        {
+          "en": "Outsider!",
+          "es": "¡Extraño!"
+        },
+        {
+          "en": "Different culture",
+          "es": "Cultura diferente"
+        },
+        {
+          "en": "Different language",
+          "es": "Idioma diferente"
+        },
+        {
+          "en": "You are not like us",
+          "es": "No eres como nosotros"
+        }
+      ],
+      "reveal": {
+        "en": "ONE NEW FAMILY! Jesus broke every wall — there are no outsiders with God!",
+        "es": "¡UNA NUEVA FAMILIA! Jesús derribó cada muro — ¡con Dios no hay extraños!"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility.",
+        "es": "Porque Cristo es nuestra paz: de los dos pueblos ha hecho uno solo, derribando mediante su sacrificio el muro de enemistad que nos separaba.",
+        "fr": "Car il est notre paix, lui qui des deux n'en a fait qu'un, et qui a renversé le mur de séparation.",
+        "pt": "Porque ele é a nossa paz, o qual de ambos fez um, e derrubou a parede de separação que estava no meio."
+      },
+      "ref": {
+        "en": "Ephesians 2:14 (NIV)",
+        "es": "Efesios 2:14 (NVI)",
+        "fr": "Éphésiens 2:14 (LSG)",
+        "pt": "Efésios 2:14 (ARC)"
+      },
+      "scramble_words": {
+        "en": [
+          "For",
+          "he",
+          "himself",
+          "is",
+          "our",
+          "peace"
+        ],
+        "es": [
+          "Porque",
+          "Cristo",
+          "es",
+          "nuestra",
+          "paz"
+        ],
+        "fr": [
+          "Car",
+          "il",
+          "est",
+          "notre",
+          "paix"
+        ],
+        "pt": [
+          "Porque",
+          "ele",
+          "é",
+          "a",
+          "nossa",
+          "paz,",
+          "o"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "One Family (The Wall Came Down)",
+        "es": "Una Familia (El Muro Cayó)",
+        "fr": "Une famille (Le mur est tombé)"
+      },
+      "audio_en": "/static/audio/ephesians/lesson06_en.mp3",
+      "audio_es": "/static/audio/ephesians/lesson06_es.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus do to the wall that divided people?",
+            "es": "¿Qué hizo Jesús con el muro que dividía a las personas?",
+            "fr": "Qu'a fait Jésus du mur qui divisait les gens ?"
+          },
+          "options": {
+            "en": [
+              "He painted it",
+              "He climbed over it",
+              "He destroyed it",
+              "He built it higher"
+            ],
+            "es": [
+              "Lo pintó",
+              "Lo escaló",
+              "Lo destruyó",
+              "Lo hizo más alto"
+            ],
+            "fr": [
+              "Il l'a peint",
+              "Il l'a escaladé",
+              "Il l'a détruit",
+              "Il l'a rendu plus haut"
+            ]
+          },
+          "answer": 2
+        },
+        {
+          "q": {
+            "en": "Who does Paul say IS our peace?",
+            "es": "¿Quién dice Pablo que ES nuestra paz?",
+            "fr": "Qui, selon Paul, EST notre paix ?"
+          },
+          "options": {
+            "en": [
+              "The emperor of Rome",
+              "Jesus himself",
+              "The temple priests",
+              "Paul the apostle"
+            ],
+            "es": [
+              "El emperador de Roma",
+              "Jesús mismo",
+              "Los sacerdotes del templo",
+              "El apóstol Pablo"
+            ],
+            "fr": [
+              "L'empereur de Rome",
+              "Jésus lui-même",
+              "Les prêtres du temple",
+              "L'apôtre Paul"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "In God's new temple, what is Jesus?",
+            "es": "En el nuevo templo de Dios, ¿qué es Jesús?",
+            "fr": "Dans le nouveau temple de Dieu, qu'est-ce que Jésus ?"
+          },
+          "options": {
+            "en": [
+              "The roof",
+              "The door handle",
+              "The cornerstone",
+              "The window"
+            ],
+            "es": [
+              "El techo",
+              "La manija de la puerta",
+              "La piedra angular",
+              "La ventana"
+            ],
+            "fr": [
+              "Le toit",
+              "La poignée de porte",
+              "La pierre angulaire",
+              "La fenêtre"
+            ]
+          },
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: 'Build the living temple'",
+            "es": "Hoja de actividades: 'Construye el templo vivo'",
+            "fr": "Fiche d'activité : « Construis le temple vivant »"
+          },
+          "file": "/static/printables/ephesians/lesson06_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Reconciliation and restitution — two sides of the peace Christ made. The scriptural doctrine of restitution of Restitution is: 'making amends for wrongs done against our fellow men, restoring stolen things to their rightful owners, paying debts, giving back where one has defrauded, making confessions to the offended and apologising to those slandered, so as to have a conscience void of offence toward God and man.' Ephesians 2:14-22 is about exactly this — the wall of hostility torn down — but genuine peace requires more than changed feelings; it requires changed actions. Paul's one new family cannot be built on a foundation of unresolved wrongs. For families: restitution is the forgotten doctrine in many homes. Teaching children to make things right — not just say sorry but actually restore — builds both character and genuine conscience. \n\nConversation starters: (1) Is there something you have taken, broken, or done wrong that you haven't made right yet? (2) What is the difference between saying sorry and making restitution? (3) How does making things right with people also affect our relationship with God? \n\nAct tonight: take five minutes for each family member (adults included) to think of one restitution they need to make. \n\nPray together and plan to do it this week.",
+        "es": "Idea central: la cruz no solo nos reconcilia con Dios — nos reconcilia unos con otros, creando un pueblo nuevo donde ninguna etnia u origen es de segunda clase. La iglesia es el proyecto de paz de Dios en un mundo dividido. Preguntas para conversar: (1) ¿Alguna vez te has sentido como un extraño? ¿Cómo se siente saber que con Jesús no hay extraños? (2) ¿Por qué es importante la piedra angular — y qué le pasa a un edificio (o a una iglesia) si no está alineado con Jesús? (3) ¿Hay alguien en la escuela o en nuestro barrio a quien traten como 'ellos'? ¿Qué podría hacer nuestra familia para derribar ese muro? Oren juntos agradeciendo a Jesús por hacer la paz, nombrando a una persona para recibir con amor esta semana.",
+        "fr": "Idée centrale : la croix ne nous réconcilie pas seulement avec Dieu — elle nous réconcilie les uns avec les autres, créant un peuple nouveau où aucune ethnie ni origine n'est de seconde classe. L'Église est le projet de paix de Dieu dans un monde divisé. Pour lancer la conversation : (1) T'es-tu déjà senti comme un étranger ? Que ressens-tu en sachant qu'avec Jésus il n'y a pas d'étrangers ? (2) Pourquoi une pierre angulaire est-elle importante — et qu'arrive-t-il à un bâtiment (ou une église) qui n'est pas aligné sur Jésus ? (3) Y a-t-il quelqu'un à l'école ou dans notre quartier qu'on traite comme « eux » ? Que pourrait faire notre famille pour abattre ce mur ? Priez ensemble en remerciant Jésus d'avoir fait la paix, en nommant une personne à accueillir cette semaine."
+      }
+    }
+  ]
+}

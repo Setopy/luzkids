@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}{{ t(UI.library) }}{% endblock %}
+{% block content %}
+<section class="strip">
+  <h1>{{ t(UI.library) }}</h1>
+  <div class="cards">
+    {% for s in series_list %}
+    <a class="card" href="{{ url_for('series_page', series_id=s.id) }}" style="--accent: {{ s.color }}">
+      <div class="card-emoji">{{ s.emoji }}</div>
+      <h3>{{ t(s.title) }}</h3>
+      <p>{{ t(s.subtitle) }}</p>
+      <span class="meta">{{ s.lessons|length }} {{ t({'en':'lessons','es':'lecciones'}) }} · {{ t({'en':'ages','es':'edades'}) }} {{ s.age_range }}</span>
+      <span class="pill">{{ t(UI.free) }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

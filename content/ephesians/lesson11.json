@@ -1,0 +1,197 @@
+{
+  "title": {
+    "en": "Old Clothes, New Clothes",
+    "es": "Ropa Vieja, Ropa Nueva",
+    "fr": "Vieux habits, habits neufs"
+  },
+  "ref": "Ephesians 4:21-32 / Efesios 4:21-32",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Old clothes, new clothes — and the great second work",
+        "es": "Ropa nueva para un nuevo tú",
+        "fr": "Des habits neufs pour un nouveau toi"
+      },
+      "body": {
+        "en": "After you give your life to Jesus, you start to discover something: even though your sins are forgiven, there is still something inside that pulls toward wrong things. Anger rises faster than it should. Selfish thoughts come back. Pride sneaks in. The Bible calls this the 'old self' — the sinful nature that remains even after salvation. \n\nBut here is the wonderful news that \n\nScripture has preached for decades: God does not just leave you fighting this old self for the rest of your life! After justification — being born again — there is a SECOND, DEFINITE work of grace called ENTIRE SANCTIFICATION. It is not something that happens gradually over years. It happens in a moment — a crisis moment — when you say to God: 'I surrender everything. Make my heart completely clean.' And by faith in the SANCTIFYING BLOOD of Jesus Christ, God purifies and fills your heart. The old selfish root is cleansed. This is not perfection — you can still grow, and you can still choose to sin — but the power of sin at the root is broken. THEN from that clean heart, you grow and grow in holiness. First the crisis. Then the growth. Put off — put on — ALL AT ONCE, by faith!",
+        "es": "Durante tres capítulos Pablo nos ha dicho QUIÉNES somos: escogidos, vivos, parte de la familia de Dios. Ahora dice: ¡entonces CAMINA como tal! En el idioma de Pablo, 'caminar' significaba toda tu forma de vivir — cada paso diario. ¿Cómo caminamos dignamente? Con humildad (poniendo a otros primero), mansedumbre (fuerza bajo control) y paciencia (siendo amables aun cuando cuesta). Luego Pablo nos da una imagen que los niños entienden perfectamente: ¡cambiarse de ropa! QUÍTATE la ropa vieja y sucia — mentir, el enojo que lastima, tomar lo que no es tuyo, palabras podridas que derriban a la gente. PONTE la ropa nueva — decir la verdad, compartir, palabras que edifican a las personas como pequeños regalos. ¿Y la regla de oro del nuevo guardarropa? 'Sean bondadosos y compasivos unos con otros, y perdónense mutuamente, así como Dios los perdonó a ustedes en Cristo.' ¡Perdonamos porque hemos sido perdonados!",
+        "fr": "Pendant trois chapitres, Paul nous a dit QUI nous sommes : choisis, vivants, membres de la famille de Dieu. Maintenant il dit : alors VIS comme tel ! Dans la langue de Paul, « marcher » signifiait toute ta façon de vivre — chaque pas quotidien. Comment marcher dignement ? Avec humilité (mettre les autres en premier), douceur (la force maîtrisée) et patience (rester gentil même quand c'est dur). Puis Paul nous donne une image que les enfants comprennent parfaitement : se changer ! ENLÈVE les vieux habits sales — mentir, la colère qui blesse, prendre ce qui n'est pas à toi, les paroles pourries qui démolissent les gens. METS les habits neufs — dire la vérité, partager, des paroles qui édifient les gens comme de petits cadeaux. Et la règle d'or de la nouvelle garde-robe ? « Soyez bons les uns envers les autres, compatissants, vous pardonnant réciproquement, comme Dieu vous a pardonné en Christ. » Nous pardonnons parce que nous avons été pardonnés !"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+        "es": "Sean bondadosos y compasivos unos con otros, y perdónense mutuamente, así como Dios los perdonó a ustedes en Cristo.",
+        "fr": "Soyez bons les uns envers les autres, compatissants, vous pardonnant réciproquement, comme Dieu vous a pardonné en Christ.",
+        "pt": "sede bondosos uns para com os outros, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo."
+      },
+      "ref": {
+        "en": "Ephesians 4:32 (NIV)",
+        "es": "Efesios 4:32 (NVI)",
+        "fr": "Éphésiens 4:32 (LSG)",
+        "pt": "Efésios 4:32 (ARC)"
+      },
+      "scramble_words": {
+        "en": [
+          "Be",
+          "kind",
+          "and",
+          "compassionate",
+          "to",
+          "one",
+          "another"
+        ],
+        "es": [
+          "Sean",
+          "bondadosos",
+          "y",
+          "compasivos",
+          "unos",
+          "con",
+          "otros"
+        ],
+        "fr": [
+          "Soyez",
+          "bons",
+          "les",
+          "uns",
+          "envers",
+          "les",
+          "autres"
+        ],
+        "pt": [
+          "sede",
+          "bondosos",
+          "uns",
+          "para",
+          "com",
+          "os",
+          "outros,"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "Put On the New You",
+        "es": "Ponte el Nuevo Tú",
+        "fr": "Mets le nouveau toi"
+      },
+      "audio_en": "/static/audio/ephesians/lesson11_en.mp3",
+      "audio_es": "/static/audio/ephesians/lesson11_es.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "After we are born again, what do we sometimes discover?",
+            "es": "¿Qué significaba la palabra 'caminar' en la carta de Pablo?",
+            "fr": "Que signifiait le mot « marcher » dans la lettre de Paul ?"
+          },
+          "options": {
+            "en": [
+              "Everything is perfect",
+              "There is still something that pulls toward wrong things",
+              "Sin is no longer a problem at all",
+              "We never need to pray again"
+            ],
+            "es": [
+              "Salir a hacer ejercicio",
+              "Toda tu forma de vivir, cada día",
+              "Un largo viaje a Roma",
+              "Marchar como soldado"
+            ],
+            "fr": [
+              "Faire de l'exercice",
+              "Toute ta façon de vivre, chaque jour",
+              "Un long voyage vers Rome",
+              "Défiler comme un soldat"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is Entire Sanctification?",
+            "es": "¿Qué significa 'mansedumbre' en esta lección?",
+            "fr": "Que signifie la « douceur » dans cette leçon ?"
+          },
+          "options": {
+            "en": [
+              "Trying harder to be good over many years",
+              "A second definite work of grace where God cleanses the heart instantly, by faith",
+              "Going to church every day",
+              "Reading the Bible from cover to cover"
+            ],
+            "es": [
+              "Ser débil y callado",
+              "Fuerza bajo control",
+              "Nunca jugar juegos bruscos",
+              "Susurrar todo el tiempo"
+            ],
+            "fr": [
+              "Être faible et silencieux",
+              "La force maîtrisée",
+              "Ne jamais jouer à des jeux brusques",
+              "Chuchoter tout le temps"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is the right order according to Scripture?",
+            "es": "¿Por qué perdonamos a los demás?",
+            "fr": "Pourquoi pardonnons-nous aux autres ?"
+          },
+          "options": {
+            "en": [
+              "Grow slowly until your heart is clean",
+              "Be born again — then seek Entire Sanctification — then keep growing",
+              "Entire Sanctification first, then salvation",
+              "Salvation is all you need — nothing else"
+            ],
+            "es": [
+              "Para que nos deban un favor",
+              "Porque Dios nos perdonó en Cristo",
+              "Solo cuando piden perdón primero",
+              "Para quedar bien con la gente"
+            ],
+            "fr": [
+              "Pour qu'ils nous doivent un service",
+              "Parce que Dieu nous a pardonné en Christ",
+              "Seulement s'ils s'excusent d'abord",
+              "Pour paraître bons devant les gens"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: 'Old clothes, new clothes'",
+            "es": "Hoja de actividades: 'Ropa vieja, ropa nueva'",
+            "fr": "Fiche d'activité : « Vieux habits, habits neufs »"
+          },
+          "file": "/static/printables/ephesians/lesson11_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Entire Sanctification — the heart of this precious scriptural truth teaching. \n\nThis is the most important lesson doctrinally. The official \n\nScripture statement: 'Entire Sanctification is a definite act of God's grace, SUBSEQUENT TO THE NEW BIRTH, by which the believer's heart is purified and made holy. It CANNOT BE ATTAINED PROGRESSIVELY by works, struggle or suppression, but is obtained by faith in the sanctifying blood of Jesus Christ. Holiness of life and purity of heart are central to Christian living.' (Eph 5:25-27, Heb 10:10, 1 John 1:7, Heb 12:14.) \n\nThree crucial points: (1) SUBSEQUENT — it comes AFTER the new birth, not at the same time. (2) DEFINITE — it is a moment, not a process. (3) BY FAITH — not by striving, willpower or suppression of sin, but by simple faith in the sanctifying blood. Parents: have YOU experienced entire sanctification? If you have, tell your children when and how it happened. If you have not, tonight is the night to seek it. And begin to teach your children from young that after salvation, they should seek a clean heart. This is Scripture's treasure — don't let it be a doctrine they learn intellectually without experiencing it personally. \n\nConversation starters: (1) Can you explain the difference between the first work of grace (salvation) and the second work (entire sanctification)? (2) Why can't we get a clean heart just by trying harder? What makes faith different from effort? (3) Have you asked God to make your heart completely clean? If not, would you like to do that right now? Lead your children through a prayer of consecration for entire sanctification.",
+        "es": "Idea central: la identidad precede al comportamiento. Los capítulos 1–3 establecen quiénes somos; el capítulo 4 dice 'por lo tanto, caminen dignamente.' La imagen de la ropa vieja y nueva (4:22-24) hace concreta la santidad para los niños — no es cumplir reglas sino cambiarse de ropa — y 4:32 fundamenta el perdón en el evangelio, no en los sentimientos. Preguntas para conversar: (1) ¿Qué 'ropa vieja' te cuesta más quitarte — palabras hirientes, enojo u otra cosa? (Padres: compartan lo suyo con honestidad primero.) (2) ¿Qué 'palabra que edifica' podrías regalarle a alguien mañana? (3) ¿Hay alguien a quien te cuesta perdonar? ¿Cómo ayuda recordar el perdón de Dios? Oren juntos, agradeciendo a Dios por perdonarnos primero y pidiendo un cambio específico de 'ropa nueva' esta semana.",
+        "fr": "Idée centrale : l'identité précède le comportement. Les chapitres 1–3 établissent qui nous sommes ; le chapitre 4 dit « marchez donc dignement ». L'image des vieux et nouveaux habits (4:22-24) rend la sainteté concrète pour les enfants — non pas suivre des règles mais changer de garde-robe — et 4:32 fonde le pardon sur l'Évangile, pas sur les sentiments. Pour lancer la conversation : (1) Quels « vieux habits » sont les plus durs à enlever pour toi — paroles méchantes, colère, ou autre chose ? (Parents : partagez d'abord les vôtres honnêtement.) (2) Quelle « parole qui édifie » pourrais-tu offrir à quelqu'un demain ? (3) Y a-t-il quelqu'un que tu trouves dur à pardonner ? Comment le souvenir du pardon de Dieu aide-t-il ? Priez ensemble, en remerciant Dieu de nous avoir pardonnés le premier et en demandant un changement précis d'« habits neufs » cette semaine."
+      }
+    }
+  ]
+}

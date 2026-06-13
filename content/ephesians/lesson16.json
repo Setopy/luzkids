@@ -1,0 +1,294 @@
+{
+  "title": {
+    "en": "The Armour of God",
+    "es": "La Armadura de Dios",
+    "fr": "L'armure de Dieu"
+  },
+  "ref": "Ephesians 6:10-24 / Efesios 6:10-24",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Suit up — the battle is real, and Jesus is coming soon!",
+        "es": "¡Ponte la armadura, soldado de luz!",
+        "fr": "Enfile l'armure, soldat de lumière !"
+      },
+      "body": {
+        "en": "Paul finishes with a picture every child in Ephesus would recognise — a Roman soldier's armour! He says: be strong in the LORD (not yourself!), because we have a real enemy. Not people — the devil and his schemes. And God has given us complete armour: the BELT of truth (holding everything together), the BREASTPLATE of righteousness (guarding your heart — a clean, holy heart is your protection!), the SHOES of the gospel (always ready to share the good news), the SHIELD of faith (quenching every fiery arrow), the HELMET of salvation (protecting your mind), and the SWORD of the Spirit — God's Word! And the armour must be held together by PRAYER — pray at all times! \n\nBut here is the most urgent truth of all: this battle has an end date. Jesus is coming back! First, He will catch away His church in the RAPTURE — in a moment, in the twinkling of an eye, those who are ready will go up to meet Him! \n\nThen comes judgment for all. The armour is not for dressing up — it is for a real battle with a real deadline. Only those who have kept their armour on, who have lived in holiness and endured to the END, will be found ready when He comes. \n\nAre YOU ready?",
+        "es": "Pablo termina su carta con una imagen que todo niño de Éfeso reconocería — recuerda, ¡Pablo escribió esto encadenado a un soldado romano de verdad, mirando una armadura de verdad! Dice: sé fuerte en el SEÑOR (¡no en ti mismo!), porque tenemos un enemigo real — no las personas, sino el diablo y sus trampas astutas. Y Dios no nos envía sin protección. Nos da seis piezas de armadura: el CINTURÓN de la verdad (que sostiene todo), la CORAZA de justicia (que guarda tu corazón), el CALZADO del evangelio (listo para llevar buenas noticias a donde sea), el ESCUDO de la fe (¡los escudos romanos podían detener hasta flechas encendidas!), el CASCO de la salvación (que protege tu mente), y la ESPADA del Espíritu — la Palabra de Dios, la única arma de ataque, la misma espada que Jesús usó contra el diablo en el desierto. ¿Y qué une toda la armadura? La oración. ¡Ora siempre, por todo! Pablo termina toda su carta como vivió: pidiendo a sus amigos que oren para que siga predicando con valentía aun encadenado, enviando a su amigo Tíquico a llevar la carta y las noticias, y bendiciendo a todos con paz, amor, fe y gracia. ¡Qué carta!",
+        "fr": "Paul termine sa lettre par une image que chaque enfant d'Éphèse reconnaîtrait — souviens-toi, Paul a écrit ceci enchaîné à un vrai soldat romain, en regardant une vraie armure ! Il dit : fortifie-toi dans le SEIGNEUR (pas en toi-même !), parce que nous avons un vrai ennemi — pas les gens, mais le diable et ses ruses. Et Dieu ne nous envoie pas sans protection. Il nous donne six pièces d'armure : la CEINTURE de la vérité (qui tient tout ensemble), la CUIRASSE de la justice (qui garde ton cœur), les CHAUSSURES de l'Évangile (prêtes à porter la bonne nouvelle partout), le BOUCLIER de la foi (les boucliers romains pouvaient même arrêter les flèches enflammées !), le CASQUE du salut (qui protège ta pensée), et l'ÉPÉE de l'Esprit — la Parole de Dieu, la seule arme d'attaque, l'épée même que Jésus a utilisée contre le diable dans le désert. Et qu'est-ce qui relie toute l'armure ? La prière. Prie toujours, pour tout ! Paul termine toute sa lettre comme il a vécu : en demandant à ses amis de prier pour qu'il continue à prêcher avec hardiesse même enchaîné, en envoyant son ami Tychique porter la lettre et les nouvelles, et en bénissant tout le monde avec la paix, l'amour, la foi et la grâce. Quelle lettre !"
+      }
+    },
+    {
+      "type": "armour_game",
+      "title": {
+        "en": "Build the Armour of God!",
+        "es": "¡Construye la Armadura de Dios!",
+        "fr": "Construis l'armure de Dieu !"
+      },
+      "pieces": [
+        {
+          "id": "belt",
+          "en": "Belt of Truth",
+          "es": "Cinturón de la Verdad",
+          "fr": "Ceinture de la Vérité",
+          "zone": "waist",
+          "icon": "🔆",
+          "meaning": {
+            "en": "Holds everything together — truth in your heart and mind",
+            "es": "Une todo — la verdad en tu corazón y mente",
+            "fr": "Tient tout ensemble — la vérité dans ton cœur"
+          }
+        },
+        {
+          "id": "breastplate",
+          "en": "Breastplate of Righteousness",
+          "es": "Coraza de Justicia",
+          "fr": "Cuirasse de Justice",
+          "zone": "chest",
+          "icon": "🛡️",
+          "meaning": {
+            "en": "Guards your heart — a holy, clean life is your protection",
+            "es": "Guarda tu corazón — una vida santa es tu protección",
+            "fr": "Protège ton cœur — une vie sainte est ta protection"
+          }
+        },
+        {
+          "id": "shoes",
+          "en": "Gospel Shoes",
+          "es": "Calzado del Evangelio",
+          "fr": "Chaussures de l'Évangile",
+          "zone": "feet",
+          "icon": "👟",
+          "meaning": {
+            "en": "Ready to carry the good news everywhere",
+            "es": "Listo para llevar las buenas noticias a todas partes",
+            "fr": "Prêt à porter la bonne nouvelle partout"
+          }
+        },
+        {
+          "id": "shield",
+          "en": "Shield of Faith",
+          "es": "Escudo de la Fe",
+          "fr": "Bouclier de la Foi",
+          "zone": "arm",
+          "icon": "🔵",
+          "meaning": {
+            "en": "Stops the enemy's fiery arrows — trust God completely!",
+            "es": "Detiene las flechas del enemigo — ¡confía en Dios!",
+            "fr": "Arrête les flèches enflammées — fais confiance à Dieu !"
+          }
+        },
+        {
+          "id": "helmet",
+          "en": "Helmet of Salvation",
+          "es": "Casco de la Salvación",
+          "fr": "Casque du Salut",
+          "zone": "head",
+          "icon": "⛑️",
+          "meaning": {
+            "en": "Protects your mind — remember you belong to Jesus!",
+            "es": "Protege tu mente — ¡recuerda que perteneces a Jesús!",
+            "fr": "Protège ton esprit — souviens-toi que tu appartiens à Jésus !"
+          }
+        },
+        {
+          "id": "sword",
+          "en": "Sword of the Spirit",
+          "es": "Espada del Espíritu",
+          "fr": "Épée de l'Esprit",
+          "zone": "hand",
+          "icon": "⚔️",
+          "meaning": {
+            "en": "God's Word — the only attacking weapon. Know your Bible!",
+            "es": "La Palabra de Dios — el único arma de ataque. ¡Conoce tu Biblia!",
+            "fr": "La Parole de Dieu — la seule arme d'attaque. Connais ta Bible !"
+          }
+        }
+      ]
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Finally, be strong in the Lord and in his mighty power. Put on the full armour of God.",
+        "es": "Por último, fortalézcanse con el gran poder del Señor. Pónganse toda la armadura de Dios.",
+        "fr": "Au reste, fortifiez-vous dans le Seigneur, et par sa force toute-puissante. Revêtez-vous de toutes les armes de Dieu.",
+        "pt": "Quanto ao mais, fortalecei-vos no Senhor e na força do seu poder. Revesti-vos de toda a armadura de Deus."
+      },
+      "ref": {
+        "en": "Ephesians 6:10-11 (NIV)",
+        "es": "Efesios 6:10-11 (NVI)",
+        "fr": "Éphésiens 6:10-11 (LSG)",
+        "pt": "Efésios 6:10-11 (ARC)"
+      },
+      "scramble_words": {
+        "en": [
+          "Be",
+          "strong",
+          "in",
+          "the",
+          "Lord",
+          "and",
+          "his",
+          "mighty",
+          "power"
+        ],
+        "es": [
+          "Fortalézcanse",
+          "con",
+          "el",
+          "gran",
+          "poder",
+          "del",
+          "Señor"
+        ],
+        "fr": [
+          "fortifiez-vous",
+          "dans",
+          "le",
+          "Seigneur",
+          "et",
+          "sa",
+          "force"
+        ],
+        "pt": [
+          "Quanto",
+          "ao",
+          "mais,",
+          "fortalecei-vos",
+          "no",
+          "Senhor",
+          "e"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "Put On the Armour!",
+        "es": "¡Ponte la Armadura!",
+        "fr": "Enfile l'armure !"
+      },
+      "audio_en": "/static/audio/ephesians/lesson16_en.mp3",
+      "audio_es": "/static/audio/ephesians/lesson16_es.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What is the breastplate in the armour of God?",
+            "es": "¿De dónde viene nuestra fuerza para la batalla?",
+            "fr": "D'où vient notre force pour le combat ?"
+          },
+          "options": {
+            "en": [
+              "A feeling of bravery",
+              "Righteousness — a clean and holy heart",
+              "A good reputation at school",
+              "Knowing a lot of Bible verses"
+            ],
+            "es": [
+              "De comer verduras",
+              "Del Señor y Su gran poder",
+              "De ser el niño más grande",
+              "De nunca tener miedo"
+            ],
+            "fr": [
+              "De manger des légumes",
+              "Du Seigneur et de Sa force toute-puissante",
+              "D'être le plus grand enfant",
+              "De ne jamais avoir peur"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is the RAPTURE?",
+            "es": "¿Contra quién es realmente nuestra batalla?",
+            "fr": "Contre qui notre combat est-il vraiment ?",
+            "pt": "O que é o ARREBATAMENTO?"
+          },
+          "options": {
+            "en": [
+              "A feeling of excitement in worship",
+              "When Jesus comes to catch away His ready, holy people",
+              "The end of the earth",
+              "A special church programme"
+            ],
+            "es": [
+              "Compañeros molestos",
+              "Otros países",
+              "Las trampas del diablo — no las personas",
+              "Nuestros hermanos"
+            ],
+            "fr": [
+              "Des camarades agaçants",
+              "D'autres pays",
+              "Les ruses du diable — pas les gens",
+              "Nos frères et sœurs"
+            ],
+            "pt": [
+              "Uma sensação de emoção no louvor",
+              "Quando Jesus vem buscar Seu povo santo e pronto",
+              "O fim da terra",
+              "Um programa especial da igreja"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who will be found ready when Jesus comes?",
+            "es": "¿Qué pieza de la armadura es la Palabra de Dios?",
+            "fr": "Quelle pièce de l'armure est la Parole de Dieu ?"
+          },
+          "options": {
+            "en": [
+              "Everyone who was born in a Christian home",
+              "Everyone who went to church occasionally",
+              "Those who lived in holiness and endured faithfully to the end",
+              "Those who prayed once as a child"
+            ],
+            "es": [
+              "El casco",
+              "El escudo",
+              "El cinturón",
+              "La espada del Espíritu"
+            ],
+            "fr": [
+              "Le casque",
+              "Le bouclier",
+              "La ceinture",
+              "L'épée de l'Esprit"
+            ]
+          },
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: 'Dress the soldier — all six pieces'",
+            "es": "Hoja de actividades: 'Viste al soldado — las seis piezas'",
+            "fr": "Fiche d'activité : « Habille le soldat — les six pièces »"
+          },
+          "file": "/static/printables/ephesians/lesson16_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: spiritual warfare, the full armour, and the urgency of eschatology. The breastplate of RIGHTEOUSNESS (6:14) is not merely imputed righteousness — in context it is the righteous, holy living that protects the believer's heart. A clean, sanctified heart is a protected heart; a heart living in unconfessed sin is a heart without armour. \n\nThis is why entire sanctification and holy living are not theological luxuries — they are armour. Scripture's eschatological doctrines (15-22): Rapture (15), Resurrection (16), Great Tribulation (17), Second Coming (18), Millennial Reign (19), Great White Throne Judgment (20), New Heaven and Earth (21), Hell Fire (22). These are not marginal add-ons; they are the motivating horizon of the holy life. \n\nScripture takes hell seriously and heaven seriously because it takes God seriously. The armour lesson without eschatology is a warrior without urgency. The armour lesson WITH eschatology is a warrior who knows the battle ends in victory — and who must be found faithful when the King returns. PERSEVERANCE TO THE END is essential: 'he who stands firm to the end will be saved' (Matt 24:13). \n\nScripture does not teach that a saved person automatically endures; endurance is a matter of ongoing faithfulness and grace. \n\nConversation starters: (1) Which piece of the armour do you think you need most right now — and why? (2) If Jesus came back tonight, would you be ready? What does 'being ready' mean — is it just having prayed a prayer once, or is it something ongoing? (3) How does knowing Jesus is coming SOON change how you want to live TODAY? \n\nPray together — put on the armour piece by piece, out loud, as a family. Commit to endure to the end. Remind your children that the crown goes to those who FINISH.",
+        "es": "Idea central: la vida cristiana implica oposición espiritual real, pero Dios provee protección completa — nota que cada pieza es Suya ('la armadura de DIOS'), recibida, no fabricada. Pablo probablemente tomó la imagen del soldado romano que lo custodiaba mientras escribía. Manéjenlo con cuidado para menores de 12: el énfasis es la seguridad ('estás completamente equipado'), nunca el miedo al diablo. La espada (la Escritura) es la única arma ofensiva — exactamente como Jesús respondió a la tentación (Mt 4). Preguntas para conversar: (1) ¿Qué pieza de la armadura crees que más necesitas esta semana, y por qué? (2) ¿Por qué crees que la oración une toda la armadura? (3) Cuando algo da miedo o tienta, ¿qué palabras de la Biblia podrían ser tu 'espada'? (Memoricen una juntos.) Cierren con cada miembro de la familia 'poniéndose' una pieza en voz alta en oración. ¡Esto completa Efesios — celebren! Ocho lámparas encendidas merecen algo especial.",
+        "fr": "Idée centrale : la vie chrétienne comporte une opposition spirituelle réelle, mais Dieu fournit une protection complète — note que chaque pièce est la Sienne (« les armes de DIEU »), reçue et non fabriquée. Paul a probablement tiré l'image du soldat romain qui le gardait pendant qu'il écrivait. À manier avec soin pour les moins de 12 ans : l'accent est la sécurité (« tu es pleinement équipé »), jamais la peur du diable. L'épée (l'Écriture) est la seule arme offensive — exactement la manière dont Jésus a répondu à la tentation (Mt 4). Pour lancer la conversation : (1) De quelle pièce d'armure penses-tu avoir le plus besoin cette semaine, et pourquoi ? (2) Pourquoi penses-tu que la prière relie toute l'armure ? (3) Quand quelque chose fait peur ou tente, quelles paroles de la Bible pourraient être ton « épée » ? (Mémorisez-en une ensemble.) Terminez avec chaque membre de la famille « enfilant » une pièce à voix haute en prière. Ceci achève Éphésiens — célébrez ! Seize lampes allumées méritent quelque chose de spécial."
+      }
+    }
+  ]
+}

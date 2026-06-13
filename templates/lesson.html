@@ -1,0 +1,208 @@
+{% extends "base.html" %}
+{% block title %}{{ t(lesson.title) }}{% endblock %}
+{% block content %}
+<article class="lesson" data-series="{{ series.id }}" data-lesson="{{ lesson.id }}">
+  <header class="lesson-head" style="--accent: {{ series.color }}">
+    <a class="crumb" href="{{ url_for('series_page', series_id=series.id) }}">← {{ t(series.title) }}</a>
+    <h1>{{ t(lesson.title) }}</h1>
+    <p class="meta">{{ lesson.ref }}</p>
+  </header>
+
+  {% for b in lesson.blocks %}
+
+    {% if b.type == 'story' %}
+    <section class="block story">
+      <h2>{{ t(b.heading) }}</h2>
+      {{ t(b.body)|paragraphs }}
+    </section>
+
+    {% elif b.type == 'memory_verse' %}
+    <section class="block verse-block">
+      <h2>✨ {{ t(UI.memory_verse) }}</h2>
+      <blockquote>“{{ t(b.verse) }}”<cite>{{ t(b.ref) }}</cite></blockquote>
+      <div class="scramble" data-words='{{ t(b.scramble_words)|tojson }}'>
+        <p class="scramble-hint">{{ t({'en':'Tap the words in the right order:','es':'Toca las palabras en el orden correcto:'}) }}</p>
+        <div class="scramble-pool"></div>
+        <div class="scramble-answer"></div>
+        <p class="scramble-result" hidden>🎉 {{ t({'en':'You did it!','es':'¡Lo lograste!'}) }}</p>
+        <button class="btn small ghost scramble-reset">{{ t({'en':'Try again','es':'Intentar de nuevo','fr':'Réessayer'}) }}</button>
+        {% if b.typing_challenge %}
+        <div class="typing-challenge" id="typing-{{ loop.index }}" hidden>
+          <p class="scramble-hint">{{ t({'en':'Type the verse from memory:','es':'Escribe el versículo de memoria:','fr':'Tape le verset de mémoire :'}) }}</p>
+          <textarea class="typing-input" rows="3" placeholder="{{ t({'en':'Type here...','es':'Escribe aquí...','fr':'Écris ici...'}) }}"></textarea>
+          <div class="typing-result" hidden></div>
+          <button class="btn small typing-check">{{ t({'en':'Check my answer','es':'Verificar mi respuesta','fr':'Vérifier ma réponse'}) }}</button>
+        </div>
+        <button class="btn small ghost typing-toggle" data-target="typing-{{ loop.index }}">
+          {{ t({'en':'⌨️ Try from memory','es':'⌨️ Intentar de memoria','fr':'⌨️ Essayer de mémoire'}) }}
+        </button>
+        {% endif %}
+      </div>
+    </section>
+
+    {% elif b.type == 'song' %}
+    <section class="block song-block">
+      <h2>🎵 {{ t(UI.song) }}: {{ t(b.title) }}</h2>
+      <audio controls preload="none" src="{{ b['audio_' + get_lang()] or b.audio_en }}"></audio>
+      {% if b.note %}<p class="meta">{{ t(b.note) }}</p>{% endif %}
+    </section>
+
+
+
+    {% elif b.type == 'wall_game' %}
+    <section class="block wall-game" data-bricks='{{ b.bricks|tojson }}' data-lang="{{ get_lang() }}"
+             data-reveal='{{ b.reveal|tojson }}'>
+      <h2>🧱 {{ t(b.title) }}</h2>
+      <p class="scramble-hint">{{ t({'en':'Tap each brick to demolish the dividing wall!',
+        'es':'¡Toca cada ladrillo para derribar el muro divisorio!',
+        'fr':'Touche chaque brique pour démolir le mur de séparation !'}) }}</p>
+      <div class="wall-bricks" id="wall-bricks"></div>
+      <div class="wall-reveal" id="wall-reveal" hidden></div>
+    </section>
+
+    {% elif b.type == 'light_sorter' %}
+    <section class="block light-sorter" data-items='{{ b["items"]|tojson }}' data-lang="{{ get_lang() }}">
+      <h2>☀️ {{ t(b.title) }}</h2>
+      <p class="scramble-hint">{{ t({'en':'Tap each card — is it Light or Darkness?',
+        'es':'¡Toca cada tarjeta — ¿es Luz u Oscuridad?',
+        'fr':'Touche chaque carte — Lumière ou Ténèbres ?'}) }}</p>
+      <div class="sorter-card-pool" id="sorter-pool"></div>
+      <div class="sorter-baskets">
+        <div class="sorter-basket light-basket" id="basket-light">
+          ☀️ {{ t({'en':'Light','es':'Luz','fr':'Lumière'}) }}
+          <div class="basket-count" id="light-count">0</div>
+        </div>
+        <div class="sorter-basket dark-basket" id="basket-dark">
+          🌑 {{ t({'en':'Darkness','es':'Oscuridad','fr':'Ténèbres'}) }}
+          <div class="basket-count" id="dark-count">0</div>
+        </div>
+      </div>
+      <p class="sorter-result" id="sorter-result" hidden>
+        🌟 {{ t({'en':'Well done! Walk as a child of light every day!',
+          'es':'¡Bien hecho! ¡Camina como hijo de luz cada día!',
+          'fr':'Bravo ! Marche chaque jour comme un enfant de lumière !'}) }}
+      </p>
+    </section>
+
+    {% elif b.type == 'armour_game' %}
+    <section class="block armour-game" id="armour-game"
+      data-pieces='{{ b.pieces|tojson }}'
+      data-lang="{{ get_lang() }}">
+      <h2>⚔️ {{ t(b.title) }}</h2>
+      <p class="armour-intro">{{ t({'en':'Tap a piece below, then tap the right place on the soldier to put it on!',
+        'es':'¡Toca una pieza abajo y luego toca el lugar correcto en el soldado para ponérsela!',
+        'fr':'Touche une pièce ci-dessous, puis touche le bon endroit sur le soldat pour la mettre !'}) }}</p>
+      <div class="armour-arena">
+        <div class="soldier-figure">
+          <div class="soldier-zone sz-head"  data-zone="head"  title="Head">
+            <span class="sz-label">{{ t({'en':'Head','es':'Cabeza','fr':'Tête'}) }}</span>
+          </div>
+          <div class="soldier-zone sz-chest" data-zone="chest" title="Chest">
+            <span class="sz-label">{{ t({'en':'Chest','es':'Pecho','fr':'Poitrine'}) }}</span>
+          </div>
+          <div class="soldier-row">
+            <div class="soldier-zone sz-arm"  data-zone="arm"  title="Shield arm">
+              <span class="sz-label">{{ t({'en':'Arm','es':'Brazo','fr':'Bras'}) }}</span>
+            </div>
+            <div class="soldier-zone sz-waist" data-zone="waist" title="Waist">
+              <span class="sz-label">{{ t({'en':'Waist','es':'Cintura','fr':'Taille'}) }}</span>
+            </div>
+            <div class="soldier-zone sz-hand"  data-zone="hand"  title="Sword hand">
+              <span class="sz-label">{{ t({'en':'Hand','es':'Mano','fr':'Main'}) }}</span>
+            </div>
+          </div>
+          <div class="soldier-zone sz-feet" data-zone="feet" title="Feet">
+            <span class="sz-label">{{ t({'en':'Feet','es':'Pies','fr':'Pieds'}) }}</span>
+          </div>
+        </div>
+        <div class="armour-meaning" id="armour-meaning" hidden>
+          <h4 id="armour-meaning-title"></h4>
+          <p id="armour-meaning-text"></p>
+        </div>
+      </div>
+      <div class="armour-pool" id="armour-pool"></div>
+      <p class="armour-complete" id="armour-complete" hidden>
+        ⚔️ {{ t({'en':'The armour is complete! Now go — Jesus sends you into the battle fully equipped!',
+          'es':'¡La armadura está completa! Ahora ve — ¡Jesús te envía a la batalla completamente equipado!',
+          'fr':"L'armure est complète ! Va maintenant — Jésus t'envoie au combat entièrement équipé !"}) }}
+      </p>
+    </section>
+
+    {% elif b.type == 'quiz' %}
+    <section class="block quiz" data-quiz='{{ b.questions|tojson }}'>
+      <h2>❓ {{ t(UI.quiz) }}</h2>
+      <div class="quiz-area"></div>
+      <p class="quiz-score" hidden></p>
+    </section>
+
+    {% elif b.type == 'printable' %}
+    <section class="block printable">
+      <h2>🖍️ {{ t(UI.printables) }}</h2>
+      <ul>
+        {% for item in b['items'] %}
+        <li><a href="{{ item.file }}" target="_blank">{{ t(item.label) }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    {% elif b.type == 'parent_guide' %}
+    <section class="block guide">
+      <h2>👨‍👩‍👧 {{ t(UI.parent_guide) }}</h2>
+      {{ t(b.body)|paragraphs }}
+    </section>
+    {% endif %}
+
+  {% endfor %}
+
+  <footer class="lesson-foot">
+    {% set child = active_child() %}
+    {% if current_user.is_authenticated and child %}
+      {% set rank_info = get_rank(child.xp or 0) %}
+      <div class="pre-complete-bar">
+        <span class="streak-chip">🔥 {{ child.streak or 0 }} {{ t({'en':'day streak','es':'días seguidos','fr':'jours de suite'}) }}</span>
+        <span class="rank-chip">{{ rank_info[2] }} {{ rank_info[1] }}</span>
+        <span class="xp-chip">⭐ {{ child.xp or 0 }} XP</span>
+      </div>
+      <button id="complete-btn" class="btn big">🕯️ {{ t(UI.complete) }}</button>
+      <div id="complete-panel" hidden>
+        <p class="complete-name">{{ t({'en':'Lamp lit! Well done,','es':'¡Lámpara encendida! Bien hecho,','fr':'Lampe allumée ! Bravo,'}) }} <strong>{{ child.name }}</strong> 🌟</p>
+        <div class="xp-award" id="xp-award"></div>
+        <div class="rank-award" id="rank-award"></div>
+        <div class="cert-links" id="cert-links">
+          <a class="btn small" href="{{ url_for('cert_lesson', series_id=series.id, lesson_id=lesson.id, child_id=child.id) }}" target="_blank">
+            📜 {{ t({'en':'Download lesson certificate','es':'Descargar certificado de lección','fr':'Télécharger le certificat de leçon'}) }}
+          </a>
+          <span id="series-cert-link" hidden>
+            <a class="btn small gold" href="{{ url_for('cert_series', series_id=series.id, child_id=child.id) }}" target="_blank">
+              🏆 {{ t({'en':'Download SERIES certificate!','es':'¡Descargar certificado de SERIE!','fr':'Télécharger le certificat de SÉRIE !'}) }}
+            </a>
+          </span>
+        </div>
+      </div>
+    {% elif current_user.is_authenticated %}
+      <a class="btn ghost" href="{{ url_for('profiles') }}">{{ t(UI.who_learning) }}</a>
+    {% else %}
+      <a class="btn ghost" href="{{ url_for('register') }}">{{ t({'en':'Join free to track progress','es':'Únete gratis para guardar el progreso','fr':'Rejoignez gratuitement pour suivre les progrès'}) }}</a>
+    {% endif %}
+  </footer>
+
+  <section class="block ai-companion">
+    <h2>💬 {{ t({'en':'Ask a question about this lesson','es':'Haz una pregunta sobre esta lección','fr':'Pose une question sur cette leçon'}) }}</h2>
+    <p class="meta">{{ t({'en':'Powered by AI — answers are grounded in this lesson and Bible truth.',
+      'es':'Impulsado por IA — las respuestas se basan en esta lección y la verdad bíblica.',
+      'fr':'Propulsé par l\'IA — les réponses sont ancrées dans cette leçon et la vérité biblique.'}) }}</p>
+    <div class="ai-form">
+      <input type="text" id="ai-question" maxlength="200"
+        placeholder="{{ t({'en':'e.g. Why did Paul write this from prison?','es':'Ej: ¿Por qué Pablo escribió esto desde la cárcel?','fr':'Ex : Pourquoi Paul a-t-il écrit cela depuis la prison ?'}) }}" />
+      <button class="btn small" id="ai-ask-btn">{{ t({'en':'Ask','es':'Preguntar','fr':'Demander'}) }}</button>
+    </div>
+    <div class="ai-answer" id="ai-answer" hidden></div>
+    <p class="ai-limit meta" id="ai-limit"></p>
+  </section>
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script>window.LANG = "{{ get_lang() }}";</script>
+<script src="{{ url_for('static', filename='js/lesson.js') }}"></script>
+{% endblock %}

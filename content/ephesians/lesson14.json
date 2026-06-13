@@ -1,0 +1,196 @@
+{
+  "title": {
+    "en": "The Great Mystery of Love",
+    "es": "El Gran Misterio del Amor",
+    "fr": "Le grand mystère de l'amour"
+  },
+  "ref": "Ephesians 5:21-33 / Efesios 5:21-33",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The great mystery of love — God's design for marriage",
+        "es": "De qué se tratan realmente las bodas",
+        "fr": "Ce que les mariages racontent vraiment"
+      },
+      "body": {
+        "en": "Paul gives the whole family of God a golden rule: submit to ONE ANOTHER out of reverence for Christ — putting each other first, lovingly, the way Jesus did. \n\nThen he speaks directly to husbands and wives. Husbands are commanded to love their wives the same way Christ loved the church — which means SACRIFICIAL love, giving everything, holding nothing back for yourself. This is not soft or easy; this is the strongest love command in the whole Bible. \n\nThen Paul reveals the secret: a marriage is a PICTURE — a living sermon — of the relationship between Christ and His church. Every faithful, holy, loving marriage preaches the gospel! \n\nScripture holds firmly that marriage is between ONE MAN and ONE WOMAN for LIFE — monogamy is the clear and uniform teaching of Scripture. God designed it this way from creation, and Christ's covenant with His church is undivided and unbreakable. Your marriage — your future marriage, or your parents' marriage — is meant to show the world what Jesus' love for His people looks like. That is an enormous calling and a glorious privilege.",
+        "es": "¿Has ido alguna vez a una boda? Todos se visten elegantes, hay música y pastel, y dos personas prometen amarse para siempre. Pablo dice algo asombroso: ¡una boda es una IMAGEN de algo aún más grande! Primero le da a la familia de Dios una regla de oro: 'sométanse unos a otros por reverencia a Cristo' — eso significa ponerse primero el uno al otro con amor, como lo hizo Jesús. Luego habla a los esposos y esposas. A los esposos se les manda amar a sus esposas 'así como Cristo amó a la iglesia y se entregó por ella' — ¡ese es el amor que lo sacrifica todo, el mandato de amor más fuerte de toda la Biblia! Y entonces Pablo revela el secreto: 'Esto es un MISTERIO profundo; yo me refiero a Cristo y a la iglesia.' Cada matrimonio amoroso — como el de mamá y papá — es una pequeña imagen que apunta a la historia de amor más grande de todas: Jesús, el novio, que dio todo por Su pueblo. Cuando ves una boda, ¡estás viendo un anticipo de la celebración del cielo!",
+        "fr": "Es-tu déjà allé à un mariage ? Tout le monde s'habille élégamment, il y a de la musique et du gâteau, et deux personnes promettent de s'aimer pour toujours. Paul dit quelque chose d'étonnant : un mariage est une IMAGE de quelque chose d'encore plus grand ! D'abord il donne à la famille de Dieu une règle d'or : « soumettez-vous les uns aux autres dans la crainte de Christ » — c'est-à-dire se mettre l'un l'autre en premier avec amour, comme Jésus l'a fait. Puis il parle aux maris et aux femmes. Aux maris il est commandé d'aimer leur femme « comme Christ a aimé l'Église et s'est livré lui-même pour elle » — c'est l'amour qui sacrifie tout, le commandement d'amour le plus fort de toute la Bible ! Et alors Paul révèle le secret : « Ce mystère est grand ; je dis cela par rapport à Christ et à l'Église. » Chaque mariage aimant — comme celui de papa et maman — est une petite image qui pointe vers la plus grande histoire d'amour de toutes : Jésus, l'époux, qui a tout donné pour Son peuple. Quand tu vois un mariage, tu vois un avant-goût de la fête du ciel !"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Husbands, love your wives, just as Christ loved the church and gave himself up for her.",
+        "es": "Esposos, amen a sus esposas, así como Cristo amó a la iglesia y se entregó por ella.",
+        "fr": "Maris, aimez vos femmes, comme Christ a aimé l'Église, et s'est livré lui-même pour elle.",
+        "pt": "Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela."
+      },
+      "ref": {
+        "en": "Ephesians 5:25 (NIV)",
+        "es": "Efesios 5:25 (NVI)",
+        "fr": "Éphésiens 5:25 (LSG)",
+        "pt": "Efésios 5:25 (ARC)"
+      },
+      "scramble_words": {
+        "en": [
+          "Christ",
+          "loved",
+          "the",
+          "church",
+          "and",
+          "gave",
+          "himself"
+        ],
+        "es": [
+          "Cristo",
+          "amó",
+          "a",
+          "la",
+          "iglesia",
+          "y",
+          "se",
+          "entregó"
+        ],
+        "fr": [
+          "comme",
+          "Christ",
+          "a",
+          "aimé",
+          "l'Église"
+        ],
+        "pt": [
+          "Vós,",
+          "maridos,",
+          "amai",
+          "vossas",
+          "mulheres,",
+          "como",
+          "também"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "The Greatest Love Story",
+        "es": "La Historia de Amor Más Grande",
+        "fr": "La plus grande histoire d'amour"
+      },
+      "audio_en": "/static/audio/ephesians/lesson14_en.mp3",
+      "audio_es": "/static/audio/ephesians/lesson14_es.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What golden rule does Paul give God's whole family first?",
+            "es": "¿Qué regla de oro le da Pablo primero a toda la familia de Dios?",
+            "fr": "Quelle règle d'or Paul donne-t-il d'abord à toute la famille de Dieu ?"
+          },
+          "options": {
+            "en": [
+              "Always be first in line",
+              "Submit to one another out of reverence for Christ",
+              "Keep your room tidy",
+              "Never go to weddings"
+            ],
+            "es": [
+              "Siempre ser primero en la fila",
+              "Sométanse unos a otros por reverencia a Cristo",
+              "Mantén tu cuarto ordenado",
+              "Nunca vayas a bodas"
+            ],
+            "fr": [
+              "Toujours être le premier de la file",
+              "Soumettez-vous les uns aux autres dans la crainte de Christ",
+              "Range ta chambre",
+              "Ne va jamais aux mariages"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How are husbands told to love their wives?",
+            "es": "¿Cómo se les manda a los esposos amar a sus esposas?",
+            "fr": "Comment les maris doivent-ils aimer leur femme ?"
+          },
+          "options": {
+            "en": [
+              "Only on special days",
+              "As Christ loved the church, giving himself up for her",
+              "When it's convenient",
+              "Like a business deal"
+            ],
+            "es": [
+              "Solo en días especiales",
+              "Como Cristo amó a la iglesia, entregándose por ella",
+              "Cuando sea conveniente",
+              "Como un trato de negocios"
+            ],
+            "fr": [
+              "Seulement les jours spéciaux",
+              "Comme Christ a aimé l'Église, en se livrant pour elle",
+              "Quand c'est pratique",
+              "Comme une affaire commerciale"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is the 'profound mystery' marriage points to?",
+            "es": "¿Cuál es el 'misterio profundo' al que apunta el matrimonio?",
+            "fr": "Quel est le « grand mystère » vers lequel le mariage pointe ?"
+          },
+          "options": {
+            "en": [
+              "How wedding cakes are made",
+              "Christ and the church",
+              "The Temple of Artemis",
+              "Roman wedding laws"
+            ],
+            "es": [
+              "Cómo se hacen los pasteles de boda",
+              "Cristo y la iglesia",
+              "El Templo de Artemisa",
+              "Las leyes romanas de matrimonio"
+            ],
+            "fr": [
+              "Comment on fait les gâteaux de mariage",
+              "Christ et l'Église",
+              "Le temple d'Artémis",
+              "Les lois romaines du mariage"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Colouring sheet: 'The wedding feast of the King'",
+            "es": "Hoja para colorear: 'La fiesta de bodas del Rey'",
+            "fr": "Coloriage : « Le festin des noces du Roi »"
+          },
+          "file": "/static/printables/ephesians/lesson14_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Marriage as a living gospel illustration — and Scripture's firm doctrine of monogamy. Scripture is clear:: 'Monogamy is the uniform teaching of the Bible. Polygamy is contrary to God's perfect will.' This is an important doctrine to teach clearly in our context, where plural marriage is culturally accepted in parts of Nigeria and West Africa. The Ephesians 5 passage grounds Christian marriage not in culture but in the Christ-church relationship (5:32) — and that relationship is exclusive, covenant, and sacrificial. \n\nNote also 5:21 — MUTUAL submission (each putting the other first) is the frame for the whole passage, applied to both husband and wife. The husband's specific command is not headship as authority but headship as sacrificial servanthood (5:25 — 'gave himself UP for her'). \n\nConversation starters: (1) What does it mean that a marriage is a 'living sermon' — a picture of Christ and the church? (2) Why does \n\nScripture believe so strongly in monogamy — one husband and one wife? What scriptures support this? (3) What is ONE way our family can show the world what Jesus' love looks like — not just in marriage but in how we treat each other daily? \n\nPray together for marriages in your family and in your church — that they would be holy, faithful pictures of Christ's covenant love.",
+        "es": "Idea central: el matrimonio es un letrero sacramental — una imagen viva del amor de pacto de Cristo por Su iglesia (5:32). El pasaje abre con la sumisión mutua (5:21) como marco; el mandato al esposo es el sacrificio cruciforme (5:25), la exigencia más fuerte del código familiar. Para los niños, la enseñanza es que el amor que ven modelado en casa predica un sermón sobre Jesús. Nota pastoral: sean delicados e intencionales aquí con niños de hogares monoparentales o difíciles — el énfasis es el amor fiel de Cristo, que nunca falla aun cuando las imágenes humanas fallan. Preguntas para conversar: (1) ¿Qué es lo que más te gusta de una boda? ¿Sabías que es un anticipo de la fiesta del cielo? (2) ¿Cómo 'se entregó' Jesús por Su novia, la iglesia? (3) ¿Cómo puede nuestra familia practicar 'ponerse primero el uno al otro' esta semana — concretamente, en la mesa y con los videojuegos? Oren juntos agradeciendo a Jesús por amar a Su pueblo con una promesa inquebrantable.",
+        "fr": "Idée centrale : le mariage est un panneau sacramentel — une image vivante de l'amour d'alliance de Christ pour Son Église (5:32). Le passage s'ouvre sur la soumission mutuelle (5:21) comme cadre ; le commandement au mari est le sacrifice cruciforme (5:25), l'exigence la plus forte du code familial. Pour les enfants, la leçon est que l'amour qu'ils voient modelé à la maison prêche un sermon sur Jésus. Note pastorale : soyez doux et intentionnels ici avec les enfants de foyers monoparentaux ou difficiles — l'accent est l'amour fidèle de Christ, qui ne faillit jamais même quand les images humaines faillissent. Pour lancer la conversation : (1) Qu'est-ce que tu préfères dans un mariage ? Savais-tu que c'est un avant-goût du festin du ciel ? (2) Comment Jésus « s'est-il livré » pour son épouse, l'Église ? (3) Comment notre famille peut-elle pratiquer « se mettre l'un l'autre en premier » cette semaine — concrètement, à table et devant les jeux vidéo ? Priez ensemble en remerciant Jésus d'aimer Son peuple d'une promesse incassable."
+      }
+    }
+  ]
+}

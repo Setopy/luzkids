@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}{{ t({'en':'Log in','es':'Entrar'}) }}{% endblock %}
+{% block content %}
+<section class="auth-card">
+  <h1>{{ t({'en':'Welcome back','es':'Bienvenido de nuevo'}) }}</h1>
+  <form method="post">
+    <label>{{ t({'en':'Email','es':'Correo'}) }}<input type="email" name="email" required></label>
+    <label>{{ t({'en':'Password','es':'Contraseña'}) }}<input type="password" name="password" required></label>
+    <button class="btn big" type="submit">{{ t({'en':'Log in','es':'Entrar'}) }}</button>
+  </form>
+  <p class="meta"><a href="{{ url_for('register') }}">{{ t({'en':'New here? Join free','es':'¿Nuevo aquí? Únete gratis'}) }}</a></p>
+</section>
+{% endblock %}

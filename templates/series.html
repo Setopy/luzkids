@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}{{ t(series.title) }}{% endblock %}
+{% block content %}
+<section class="strip">
+  <div class="series-head" style="--accent: {{ series.color }}">
+    <div class="card-emoji big">{{ series.emoji }}</div>
+    <div>
+      <h1>{{ t(series.title) }}</h1>
+      <p class="tagline">{{ t(series.description) }}</p>
+    </div>
+  </div>
+
+  <ol class="lesson-list">
+    {% for l in series.lessons %}
+    <li class="lesson-row {{ 'done' if l.id in done }}">
+      <span class="lamp-mark" title="{{ t({'en':'Lamp lit!','es':'¡Lámpara encendida!'}) if l.id in done }}">{{ '🕯️' if l.id in done else '·' }}</span>
+      <div class="lesson-row-main">
+        <strong>{{ t(l.title) }}</strong>
+        <span class="meta">{{ l.ref }}</span>
+      </div>
+      <a class="btn small" href="{{ url_for('lesson_page', series_id=series.id, lesson_id=l.id) }}">{{ t(UI.start) }}</a>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endblock %}

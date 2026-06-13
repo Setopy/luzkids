@@ -1,0 +1,9 @@
+venv/
+luz_kids/
+instance/
+__pycache__/
+*.db
+*.pyc
+.env
+review_flags.txt
+.DS_Store

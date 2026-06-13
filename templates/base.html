@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="{{ get_lang() }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}LuzKids{% endblock %} · LuzKids</title>
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#f6ab3a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="LuzKids">
+<link rel="apple-touch-icon" href="/static/icons/icon-152x152.png">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:ital,wght@0,400;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<nav class="nav">
+  <a class="brand" href="{{ url_for('index') }}"><span class="lamp">🕯️</span> Luz<span>Kids</span></a>
+  <div class="nav-right">
+    <a href="{{ url_for('library') }}">{{ t(UI.library) }}</a>
+    {% if current_user.is_authenticated %}
+      {% set child = active_child() %}
+      <a href="{{ url_for('profiles') }}" class="child-chip">
+        {% if child %}{{ child.avatar }} {{ child.name }}{% else %}👤 {{ t({'en':'Choose child','es':'Elegir niño'}) }}{% endif %}
+      </a>
+      <a href="{{ url_for('dashboard') }}">{{ t({'en':'Dashboard','es':'Panel'}) }}</a>
+      <a href="{{ url_for('logout') }}">{{ t({'en':'Log out','es':'Salir'}) }}</a>
+    {% else %}
+      <a href="{{ url_for('login') }}">{{ t({'en':'Log in','es':'Entrar'}) }}</a>
+      <a class="btn small" href="{{ url_for('register') }}">{{ t({'en':'Join free','es':'Únete gratis'}) }}</a>
+    {% endif %}
+    <select class="lang-select" onchange="location.href='/lang/'+this.value" aria-label="Language">
+      {% for code, name in LANGUAGES.items() %}
+      <option value="{{ code }}" {{ 'selected' if get_lang()==code }}>{{ name }}</option>
+      {% endfor %}
+    </select>
+  </div>
+</nav>
+
+{% if true %}
+<div class="ai-lang-note">🌍 {{ t({'en':'We know we can make mistakes. Spot something off? We\'d love to know.',
+'es':'Sabemos que podemos equivocarnos. ¿Notas algo extraño? Nos encantaría saberlo.',
+'fr':'Nous savons que nous pouvons nous tromper. Quelque chose vous semble étrange ? Nous aimerions le savoir.'}) }}</div>
+{% endif %}
+{% with messages = get_flashed_messages() %}
+  {% for m in messages %}<div class="flash">{{ m }}</div>{% endfor %}
+{% endwith %}
+
+<main>{% block content %}{% endblock %}</main>
+
+<details class="report-box">
+  <summary>⚑ {{ t({'en':'Report an issue','es':'Reportar un problema','fr':'Signaler un problème'}) }}</summary>
+  <form method="post" action="{{ url_for('feedback_submit') }}">
+    <input type="hidden" name="page" value="{{ request.path }}">
+    <textarea name="message" rows="3" required maxlength="2000"
+      placeholder="{{ t({'en':'A typo, a wrong translation, anything off — tell us.','es':'Un error, una mala traducción, lo que sea — cuéntanos.','fr':'Une faute, une mauvaise traduction, quoi que ce soit — dites-nous.'}) }}"></textarea>
+    <button class="btn small" type="submit">{{ t({'en':'Send','es':'Enviar','fr':'Envoyer'}) }}</button>
+  </form>
+</details>
+<footer class="footer">
+  <p>“{{ t({'en':'Let your light shine before others','es':'Que brille la luz de ustedes delante de todos'}) }}” — {{ t({'en':'Matthew','es':'Mateo'}) }} 5:16</p>
+</footer>
+<script src="{{ url_for('static', filename='js/main.js') }}" defer></script>
+<script src="{{ url_for('static', filename='js/games.js') }}" defer></script>
+{% block scripts %}{% endblock %}
+<script>
+if('serviceWorker' in navigator){
+  window.addEventListener('load', function(){
+    navigator.serviceWorker.register('/sw.js')
+      .then(r => console.log('SW registered'))
+      .catch(e => console.log('SW error', e));
+  });
+}
+</script>
+</body>
+</html>

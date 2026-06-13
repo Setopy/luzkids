@@ -1,0 +1,207 @@
+{
+  "title": {
+    "en": "Welcome to Ephesus!",
+    "es": "¡Bienvenidos a Éfeso!",
+    "fr": "Bienvenue à Éphèse !",
+    "pt": "Bem-vindos a Éfeso!"
+  },
+  "ref": "Ephesians 1:1-2 / Efesios 1:1-2",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A letter arrives in an amazing city",
+        "es": "Una carta llega a una ciudad asombrosa",
+        "fr": "Une lettre arrive dans une ville extraordinaire",
+        "pt": "Uma carta chega a uma cidade incrível"
+      },
+      "body": {
+        "en": "Before we read the letter, let's visit the city it was sent to! Ephesus was one of the most exciting cities in the world — a giant harbour, a theatre with 25,000 seats, and the Temple of Artemis, one of the Seven Wonders of the world! But it was also a city drowning in sin and magic: people wore lucky charms and paid for spells, thinking those things could help them. When Paul came preaching that Jesus alone saves, heals and sets free, the silversmiths who sold Artemis statues started a riot! But God's Word is more powerful than any magic or idol. Many people repented — turned completely away from their sins — and burned their expensive magic scrolls in a great bonfire. Paul stayed three whole years, teaching the Bible day and night. He knew that the Word of God is our final authority — not traditions, not feelings, not any human idea. Years later, from prison in Rome, chained to a soldier, Paul wrote them this letter — and it overflows with JOY, because Paul knew his God was greater than any prison, any power, any enemy.",
+        "es": "Antes de leer la carta, ¡visitemos la ciudad a donde fue enviada! Éfeso era una de las ciudades más emocionantes del mundo. Tenía un puerto gigante lleno de barcos, un teatro con 25,000 asientos, y el Templo de Artemisa — ¡una de las Siete Maravillas del Mundo Antiguo! También era la capital mundial de la magia: la gente usaba amuletos con misteriosas 'letras efesias' escritas en ellos. Cuando Pablo llegó predicando que hay UN solo Dios verdadero, los plateros que vendían estatuillas de Artemisa armaron un alboroto — ¡miles de personas gritaron en el teatro durante dos horas enteras! Pero muchos creyeron, y los nuevos cristianos quemaron sus costosos rollos de magia en una gran hoguera. Pablo se quedó tres años completos — más que en cualquier otro lugar — y cuando se fue, sus amigos lloraron. Años después, desde una cárcel en Roma, encadenado a un soldado, Pablo les escribió esta carta. Y en vez de tristeza, ¡rebosa de ALEGRÍA!",
+        "fr": "Avant de lire la lettre, visitons la ville à laquelle elle a été envoyée ! Éphèse était l'une des villes les plus passionnantes du monde. Elle avait un port géant rempli de navires, un théâtre de 25 000 places, et le temple d'Artémis — l'une des Sept Merveilles du monde antique ! C'était aussi la capitale mondiale de la magie : les gens portaient des amulettes avec de mystérieuses « lettres éphésiennes ». Quand Paul est venu annoncer qu'il n'y a qu'UN seul vrai Dieu, les orfèvres qui vendaient des statuettes d'Artémis ont déclenché une émeute — des milliers de personnes ont crié dans le théâtre pendant deux heures entières ! Mais beaucoup ont cru, et les nouveaux chrétiens ont brûlé leurs précieux rouleaux de magie dans un grand feu. Paul est resté trois années entières — plus longtemps que partout ailleurs — et quand il est parti, ses amis ont pleuré. Des années plus tard, depuis une prison à Rome, enchaîné à un soldat, Paul leur a écrit cette lettre. Et au lieu de tristesse, elle déborde de JOIE !"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+        "es": "Que Dios nuestro Padre y el Señor Jesucristo les concedan gracia y paz.",
+        "fr": "Que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ !",
+        "pt": "Graça e paz a vós da parte de Deus nosso Pai e do Senhor Jesus Cristo."
+      },
+      "ref": {
+        "en": "Ephesians 1:2 (NIV)",
+        "es": "Efesios 1:2 (NVI)",
+        "fr": "Éphésiens 1:2 (LSG)",
+        "pt": "Efésios 1:2 (ARC)"
+      },
+      "scramble_words": {
+        "en": [
+          "Grace",
+          "and",
+          "peace",
+          "to",
+          "you",
+          "from",
+          "God"
+        ],
+        "es": [
+          "gracia",
+          "y",
+          "paz",
+          "de",
+          "Dios",
+          "nuestro",
+          "Padre"
+        ],
+        "fr": [
+          "la",
+          "grâce",
+          "et",
+          "la",
+          "paix",
+          "vous",
+          "soient",
+          "données"
+        ],
+        "pt": [
+          "Graça",
+          "e",
+          "paz",
+          "a",
+          "vós",
+          "da",
+          "parte"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Letter Full of Joy",
+        "es": "Una Carta Llena de Alegría",
+        "fr": "Une lettre pleine de joie"
+      },
+      "audio_en": "/static/audio/ephesians/lesson01_en.mp3",
+      "audio_es": "/static/audio/ephesians/lesson01_es.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Which Wonder of the Ancient World was in Ephesus?",
+            "es": "¿Qué Maravilla del Mundo Antiguo estaba en Éfeso?",
+            "fr": "Quelle Merveille du monde antique se trouvait à Éphèse ?"
+          },
+          "options": {
+            "en": [
+              "The Great Pyramid",
+              "The Temple of Artemis",
+              "The Hanging Gardens",
+              "The Colossus"
+            ],
+            "es": [
+              "La Gran Pirámide",
+              "El Templo de Artemisa",
+              "Los Jardines Colgantes",
+              "El Coloso"
+            ],
+            "fr": [
+              "La Grande Pyramide",
+              "Le temple d'Artémis",
+              "Les jardins suspendus",
+              "Le Colosse"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the new believers burn in a big bonfire?",
+            "es": "¿Qué quemaron los nuevos creyentes en una gran hoguera?",
+            "fr": "Qu'ont brûlé les nouveaux croyants dans un grand feu ?"
+          },
+          "options": {
+            "en": [
+              "Their old shoes",
+              "Roman flags",
+              "Their expensive magic scrolls",
+              "Letters from Paul"
+            ],
+            "es": [
+              "Sus zapatos viejos",
+              "Banderas romanas",
+              "Sus costosos rollos de magia",
+              "Cartas de Pablo"
+            ],
+            "fr": [
+              "Leurs vieilles chaussures",
+              "Des drapeaux romains",
+              "Leurs précieux rouleaux de magie",
+              "Des lettres de Paul"
+            ]
+          },
+          "answer": 2
+        },
+        {
+          "q": {
+            "en": "Where was Paul when he wrote this joyful letter?",
+            "es": "¿Dónde estaba Pablo cuando escribió esta carta llena de alegría?",
+            "fr": "Où était Paul quand il a écrit cette lettre pleine de joie ?",
+            "pt": "Onde estava Paulo quando escreveu esta carta alegre?"
+          },
+          "options": {
+            "en": [
+              "On the beach at Ephesus",
+              "In prison in Rome, chained to a soldier",
+              "In the Temple of Artemis",
+              "Sailing on a ship"
+            ],
+            "es": [
+              "En la playa de Éfeso",
+              "En una cárcel en Roma, encadenado a un soldado",
+              "En el Templo de Artemisa",
+              "Navegando en un barco"
+            ],
+            "fr": [
+              "Sur la plage d'Éphèse",
+              "En prison à Rome, enchaîné à un soldat",
+              "Dans le temple d'Artémis",
+              "Sur un bateau"
+            ],
+            "pt": [
+              "Na praia de Éfeso",
+              "Na prisão em Roma, acorrentado a um soldado",
+              "No Templo de Ártemis",
+              "Navegando num barco"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: 'Map of ancient Ephesus'",
+            "es": "Hoja de actividades: 'Mapa de la antigua Éfeso'",
+            "fr": "Fiche d'activité : « Carte de l'ancienne Éphèse »"
+          },
+          "file": "/static/printables/ephesians/lesson01_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: The Bible is our final authority in all matters of faith and conduct (2 Tim 3:16-17). \n\nScripture was founded on this conviction. The Ephesian believers' bonfire of magic scrolls is a picture of complete break with the past — which is exactly what this biblical doctrine of repentance requires: not gradual reduction of sin, but a complete turning. The city's darkness makes the gospel's power shine brighter. \n\nConversation starters: (1) What does it mean that the Bible is our 'final authority' — above feelings, traditions, and what other people say? (2) The Ephesians burned things that cost a fortune. What might God ask us to give up completely when we come to Him? (3) Paul had JOY in prison — where does that kind of joy come from? \n\nPray together asking God to give each family member a love for His Word like Paul had.",
+        "es": "Idea central: el contexto hace visible la valentía de Pablo. En una ciudad de riqueza predica las riquezas de la gracia; en una ciudad de magia y poder proclama a Cristo por encima de toda autoridad; en una ciudad dividida anuncia una sola familia. Trasfondo de Hechos 19–20: el alboroto (Hch 19:23-41), la quema de rollos por valor de 50,000 días de salario (Hch 19:19), la despedida entre lágrimas (Hch 20:37). Preguntas para conversar: (1) ¿Por qué crees que los plateros se enojaron tanto con el mensaje de Pablo? (2) Los creyentes quemaron rollos que valían una fortuna — ¿qué te costaría entregar por Jesús? (3) ¿Cómo pudo alguien encadenado escribir la carta más alegre de todas? Oren juntos por los cristianos que hoy son burlados o castigados por su fe, para que como Pablo rebosen de alegría.",
+        "fr": "Idée centrale : le contexte rend visible l'audace de Paul. Dans une ville de richesse, il prêche les richesses de la grâce ; dans une ville de magie et de pouvoir, il proclame Christ au-dessus de toute autorité ; dans une ville divisée, il annonce une seule famille. Arrière-plan d'Actes 19–20 : l'émeute (Actes 19:23-41), les rouleaux brûlés valant 50 000 jours de salaire (Actes 19:19), les adieux en larmes (Actes 20:37). Pour lancer la conversation : (1) Pourquoi les orfèvres étaient-ils si fâchés contre le message de Paul ? (2) Les croyants ont brûlé des rouleaux qui valaient une fortune — qu'est-ce qui serait difficile à abandonner pour Jésus ? (3) Comment quelqu'un d'enchaîné a-t-il pu écrire la lettre la plus joyeuse de toutes ? Priez ensemble pour les chrétiens qui aujourd'hui sont moqués ou punis pour leur foi, afin que comme Paul ils débordent de joie."
+      }
+    }
+  ]
+}
