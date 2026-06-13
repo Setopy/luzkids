@@ -22,6 +22,9 @@ from content_loader import load_all_series, load_series, load_lesson
 # ---------------------------------------------------------------- app setup
 app = Flask(__name__)
 app.config["SECRET_KEY"] = os.environ.get("SECRET_KEY", "dev-only-change-me")
+app.config["SESSION_COOKIE_SECURE"] = True
+app.config["SESSION_COOKIE_SAMESITE"] = "Lax"
+app.config["SESSION_COOKIE_HTTPONLY"] = True
 app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
     "DATABASE_URL", "sqlite:///luzkids.db").replace("postgres://", "postgresql://")
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
