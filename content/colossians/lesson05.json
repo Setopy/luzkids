@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Don't Let Anyone Trap You with Rules!"
+  },
+  "ref": "Colossians 2:16-23",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Shadows and the real thing"
+      },
+      "body": {
+        "en": "Paul gives a warning that protects believers from a sneaky trap: don't let anyone judge you by what you eat or drink, or by religious festivals and special days. Why? Because these things were only SHADOWS of what was coming — and the substance, the real thing those shadows pointed to, is CHRIST. Imagine seeing a shadow of a tree on the ground, then walking around to see the actual tree, tall and real — why would you keep staring at the shadow once you've found the tree? Paul also warns about people who seem extra spiritual — claiming special visions, worshipping angels, taking pride in false humility — but who have actually lost connection to the Head, which is Christ! It's like a hand disconnected from the body: it might look impressive on its own for a moment, but without connection to the Head, there is no real life or growth. Paul even warns against rules that sound very holy — 'don't touch this, don't taste that' — rules made up by humans that have no power at all to stop sinful desires. True holiness was never about a list of human-made rules. It is about staying connected to Christ, the Head, who alone gives life, growth, and real victory over sin."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "These are a shadow of the things that were to come; the reality, however, is found in Christ."
+      },
+      "ref": {
+        "en": "Colossians 2:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "reality",
+          "however",
+          "is",
+          "found",
+          "in",
+          "Christ"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Don't Let Anyone Trap You with Rules!"
+      },
+      "audio_en": "/static/audio/colossians/lesson05_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What were the old festivals, special days, and food rules, according to Paul?"
+          },
+          "options": {
+            "en": [
+              "The most important part of faith",
+              "Shadows pointing forward to Christ, who is the reality",
+              "Things every believer must still keep today",
+              "Magic spells"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happens to someone who loses connection to 'the Head,' which is Christ?"
+          },
+          "options": {
+            "en": [
+              "They become even more spiritual",
+              "They lose the real source of life and growth",
+              "Nothing changes for them",
+              "They become a better teacher"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say about human-made rules like 'don't touch, don't taste'?"
+          },
+          "options": {
+            "en": [
+              "They have real power to stop sinful desires",
+              "They have no power at all to stop sinful desires",
+              "Everyone must follow them strictly",
+              "They were given directly by Jesus"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Don't Let Anyone Trap You with Rules!"
+          },
+          "file": "/static/printables/colossians/lesson05_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: holiness is relational connection to Christ, not human-manufactured rule-keeping — a vital, often-missed nuance. Paul's warning here is not against holy living (which the rest of Colossians strongly affirms) but against confusing genuine holiness with legalistic substitutes: dietary rules, religious calendars, mystical experiences, and self-imposed asceticism that \"have the appearance of wisdom\" but no power over the sinful nature (2:23).\n\nThe image of being connected to \"the Head\" (2:19) is crucial: spiritual life, growth, and victory over sin flow from real, living connection to Christ — not from a checklist. This protects children early from two opposite errors: thinking holiness is achieved by following enough rules, or thinking rules don't matter at all. The truth is neither — genuine holiness is the fruit of staying close to Christ, the Head, from whom all real growth comes.\n\nConversation starters: (1) Can you think of a \"shadow\" — something that pointed forward to Jesus before He came? (2) What is the difference between a rule that helps you stay close to Jesus and a rule that just makes you feel impressively religious? (3) Why do man-made rules have \"no power\" against sinful desires, according to Paul?\n\nPray together, asking God for hearts that stay genuinely connected to Christ rather than satisfied with outward religious performance."
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Pray, Witness, and Finish Well!"
+  },
+  "ref": "Colossians 4:2-18",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A friend who wrestled in prayer"
+      },
+      "body": {
+        "en": "Paul closes his letter with final instructions that every believer needs. First: devote yourselves to prayer, being watchful and thankful — and pray specifically that God would open doors for the message of Christ to spread, and that believers would proclaim it clearly. Then Paul gives wisdom for how to live among people who don't yet know Jesus: be wise in how you act toward outsiders, making the most of every opportunity. Let your conversation always be full of grace, seasoned with salt — meaning thoughtful, kind, and interesting, never dull or harsh — so that you'll know how to answer everyone properly. Paul then names real people, real friends: Tychicus and Onesimus, faithful messengers; and Epaphras, who Paul says is 'always wrestling in prayer' for the Colossians, that they would stand firm, mature and fully assured in everything God wills. Imagine someone praying for you so hard it's described as WRESTLING! Finally, Paul asks them to remember his chains — he was still in prison as he wrote — and ends simply: 'Grace be with you.' A letter that began with thanksgiving for the Colossians' faith ends with a call to prayer, wise witness, and grace. The Christian life isn't a sprint finished alone — it's a race run together, carried by people who wrestle in prayer for one another."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Devote yourselves to prayer, being watchful and thankful."
+      },
+      "ref": {
+        "en": "Colossians 4:2 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "devote",
+          "yourselves",
+          "to",
+          "prayer",
+          "being",
+          "watchful",
+          "and",
+          "thankful"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Pray, Witness, and Finish Well!"
+      },
+      "audio_en": "/static/audio/colossians/lesson08_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What specific thing did Paul ask the Colossians to pray for?"
+          },
+          "options": {
+            "en": [
+              "More money for the church",
+              "That God would open a door for the message of Christ",
+              "An easier life for Paul",
+              "A bigger congregation"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How is Epaphras described in his prayers for the Colossians?"
+          },
+          "options": {
+            "en": [
+              "Distracted and forgetful",
+              "Always wrestling in prayer for them",
+              "Too busy to pray",
+              "Uninterested in their wellbeing"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Paul say believers should speak to people outside the faith?"
+          },
+          "options": {
+            "en": [
+              "With conversation full of grace, seasoned with salt",
+              "As little as possible",
+              "Only about church matters",
+              "With harsh, blunt words"
+            ]
+          },
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Pray, Witness, and Finish Well!"
+          },
+          "file": "/static/printables/colossians/lesson08_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: prayer, wise witness, and faithful relationships are how the church finishes the race together — a fitting close to a letter that began with Paul's own intercession for a church he'd never met. Epaphras's prayer life, described as \"always wrestling\" (4:12) — agonizomai in the Greek, the same word used for athletic struggle — models intercessory prayer as real spiritual labor, not a passing thought.\n\nPaul's instruction on speech toward outsiders (4:5-6) — wise, gracious, \"seasoned with salt\" — gives a practical, age-appropriate framework for personal evangelism: not awkward or pushy, but winsome, thoughtful, ready with an answer when the moment opens. This connects directly to the doctrine that every believer is called to share the gospel, modeled here not as confrontation but as grace-filled relationship.\n\nThe personal greetings (4:7-17) are a beautiful reminder that the gospel spreads through ordinary, named people — Tychicus, Onesimus, Luke, Epaphras — not anonymous structures. Faith is always personal, carried by real relationships.\n\nConversation starters: (1) Who in your life \"wrestles in prayer\" for you, or who could you wrestle in prayer for? (2) What would it look like for your conversation to be \"full of grace, seasoned with salt\" with someone who doesn't know Jesus? (3) Paul names real friends by name at the end — who are the faithful people God has placed around you?\n\nPray together as a family, taking time to wrestle in prayer for specific people who don't yet know Jesus — perhaps using names already on the Mission page."
+      }
+    }
+  ]
+}

@@ -18,7 +18,8 @@
       "body": {
         "en": "Before we read the letter, let's visit the city it was sent to! Ephesus was one of the most exciting cities in the world — a giant harbour, a theatre with 25,000 seats, and the Temple of Artemis, one of the Seven Wonders of the world! But it was also a city drowning in sin and magic: people wore lucky charms and paid for spells, thinking those things could help them. When Paul came preaching that Jesus alone saves, heals and sets free, the silversmiths who sold Artemis statues started a riot! But God's Word is more powerful than any magic or idol. Many people repented — turned completely away from their sins — and burned their expensive magic scrolls in a great bonfire. Paul stayed three whole years, teaching the Bible day and night. He knew that the Word of God is our final authority — not traditions, not feelings, not any human idea. Years later, from prison in Rome, chained to a soldier, Paul wrote them this letter — and it overflows with JOY, because Paul knew his God was greater than any prison, any power, any enemy.",
         "es": "Antes de leer la carta, ¡visitemos la ciudad a donde fue enviada! Éfeso era una de las ciudades más emocionantes del mundo. Tenía un puerto gigante lleno de barcos, un teatro con 25,000 asientos, y el Templo de Artemisa — ¡una de las Siete Maravillas del Mundo Antiguo! También era la capital mundial de la magia: la gente usaba amuletos con misteriosas 'letras efesias' escritas en ellos. Cuando Pablo llegó predicando que hay UN solo Dios verdadero, los plateros que vendían estatuillas de Artemisa armaron un alboroto — ¡miles de personas gritaron en el teatro durante dos horas enteras! Pero muchos creyeron, y los nuevos cristianos quemaron sus costosos rollos de magia en una gran hoguera. Pablo se quedó tres años completos — más que en cualquier otro lugar — y cuando se fue, sus amigos lloraron. Años después, desde una cárcel en Roma, encadenado a un soldado, Pablo les escribió esta carta. Y en vez de tristeza, ¡rebosa de ALEGRÍA!",
-        "fr": "Avant de lire la lettre, visitons la ville à laquelle elle a été envoyée ! Éphèse était l'une des villes les plus passionnantes du monde. Elle avait un port géant rempli de navires, un théâtre de 25 000 places, et le temple d'Artémis — l'une des Sept Merveilles du monde antique ! C'était aussi la capitale mondiale de la magie : les gens portaient des amulettes avec de mystérieuses « lettres éphésiennes ». Quand Paul est venu annoncer qu'il n'y a qu'UN seul vrai Dieu, les orfèvres qui vendaient des statuettes d'Artémis ont déclenché une émeute — des milliers de personnes ont crié dans le théâtre pendant deux heures entières ! Mais beaucoup ont cru, et les nouveaux chrétiens ont brûlé leurs précieux rouleaux de magie dans un grand feu. Paul est resté trois années entières — plus longtemps que partout ailleurs — et quand il est parti, ses amis ont pleuré. Des années plus tard, depuis une prison à Rome, enchaîné à un soldat, Paul leur a écrit cette lettre. Et au lieu de tristesse, elle déborde de JOIE !"
+        "fr": "Avant de lire la lettre, visitons la ville à laquelle elle a été envoyée ! Éphèse était l'une des villes les plus passionnantes du monde. Elle avait un port géant rempli de navires, un théâtre de 25 000 places, et le temple d'Artémis — l'une des Sept Merveilles du monde antique ! C'était aussi la capitale mondiale de la magie : les gens portaient des amulettes avec de mystérieuses « lettres éphésiennes ». Quand Paul est venu annoncer qu'il n'y a qu'UN seul vrai Dieu, les orfèvres qui vendaient des statuettes d'Artémis ont déclenché une émeute — des milliers de personnes ont crié dans le théâtre pendant deux heures entières ! Mais beaucoup ont cru, et les nouveaux chrétiens ont brûlé leurs précieux rouleaux de magie dans un grand feu. Paul est resté trois années entières — plus longtemps que partout ailleurs — et quand il est parti, ses amis ont pleuré. Des années plus tard, depuis une prison à Rome, enchaîné à un soldat, Paul leur a écrit cette lettre. Et au lieu de tristesse, elle déborde de JOIE !",
+        "pt": "Antes de ler a carta, vamos visitar a cidade para onde ela foi enviada! Éfeso era uma das cidades mais emocionantes do mundo — um grande porto, um teatro com 25.000 lugares e o Templo de Artemisa, um dos Sete Maravilhas do mundo! Mas era também uma cidade afogada no pecado e na magia: as pessoas usavam amuletos sortudos e pagavam por feitiços, pensando que essas coisas poderiam ajudá-las. Quando Paulo veio pregando que Jesus sozinho salva, cura e liberta, os ourives que vendiam estátuas de Artemisa começaram um motim! Mas a Palavra de Deus é mais poderosa do que qualquer magia ou ídolo. Muitas pessoas se arrependeram — viraram completamente de costas para seus pecados — e queimaram seus caros rolos de magia em um grande incêndio. Paulo ficou três anos inteiros, ensinando a Bíblia dia e noite. Ele sabia que a Palavra de Deus é nossa autoridade final — não tradições, não sentimentos, não nenhuma ideia humana. Anos depois, de prisão em Roma, acorrentado a um soldado, Paulo escreveu-lhes essa carta — e ela transborda de ALEGRIA, porque Paulo sabia que seu Deus era maior do que qualquer prisão, qualquer poder, qualquer inimigo."
       }
     },
     {
@@ -81,7 +82,8 @@
       "title": {
         "en": "A Letter Full of Joy",
         "es": "Una Carta Llena de Alegría",
-        "fr": "Une lettre pleine de joie"
+        "fr": "Une lettre pleine de joie",
+        "pt": "Uma Carta Cheia de Alegria"
       },
       "audio_en": "/static/audio/ephesians/lesson01_en.mp3",
       "audio_es": "/static/audio/ephesians/lesson01_es.mp3"
@@ -93,7 +95,8 @@
           "q": {
             "en": "Which Wonder of the Ancient World was in Ephesus?",
             "es": "¿Qué Maravilla del Mundo Antiguo estaba en Éfeso?",
-            "fr": "Quelle Merveille du monde antique se trouvait à Éphèse ?"
+            "fr": "Quelle Merveille du monde antique se trouvait à Éphèse ?",
+            "pt": "Qual das Maravilhas do Mundo Antigo estava em Éfeso?"
           },
           "options": {
             "en": [
@@ -113,6 +116,12 @@
               "Le temple d'Artémis",
               "Les jardins suspendus",
               "Le Colosse"
+            ],
+            "pt": [
+              "A Grande Pirâmide",
+              "O Templo de Artemisa",
+              "Os Jardins Suspensos",
+              "O Colosso"
             ]
           },
           "answer": 1
@@ -121,7 +130,8 @@
           "q": {
             "en": "What did the new believers burn in a big bonfire?",
             "es": "¿Qué quemaron los nuevos creyentes en una gran hoguera?",
-            "fr": "Qu'ont brûlé les nouveaux croyants dans un grand feu ?"
+            "fr": "Qu'ont brûlé les nouveaux croyants dans un grand feu ?",
+            "pt": "Eles queimaram suas coisas velhas em uma grande fogueira."
           },
           "options": {
             "en": [
@@ -141,6 +151,12 @@
               "Des drapeaux romains",
               "Leurs précieux rouleaux de magie",
               "Des lettres de Paul"
+            ],
+            "pt": [
+              "Seus velhos sapatos",
+              "Símbolos romanos",
+              "Suas caras folhas mágicas",
+              "Cartas de Paulo"
             ]
           },
           "answer": 2
@@ -189,7 +205,8 @@
           "label": {
             "en": "Activity sheet: 'Map of ancient Ephesus'",
             "es": "Hoja de actividades: 'Mapa de la antigua Éfeso'",
-            "fr": "Fiche d'activité : « Carte de l'ancienne Éphèse »"
+            "fr": "Fiche d'activité : « Carte de l'ancienne Éphèse »",
+            "pt": "Folha de atividade: 'Mapa da antiga Éfeso'"
           },
           "file": "/static/printables/ephesians/lesson01_sheet.pdf"
         }
@@ -200,7 +217,8 @@
       "body": {
         "en": "Big idea: The Bible is our final authority in all matters of faith and conduct (2 Tim 3:16-17). \n\nScripture was founded on this conviction. The Ephesian believers' bonfire of magic scrolls is a picture of complete break with the past — which is exactly what this biblical doctrine of repentance requires: not gradual reduction of sin, but a complete turning. The city's darkness makes the gospel's power shine brighter. \n\nConversation starters: (1) What does it mean that the Bible is our 'final authority' — above feelings, traditions, and what other people say? (2) The Ephesians burned things that cost a fortune. What might God ask us to give up completely when we come to Him? (3) Paul had JOY in prison — where does that kind of joy come from? \n\nPray together asking God to give each family member a love for His Word like Paul had.",
         "es": "Idea central: el contexto hace visible la valentía de Pablo. En una ciudad de riqueza predica las riquezas de la gracia; en una ciudad de magia y poder proclama a Cristo por encima de toda autoridad; en una ciudad dividida anuncia una sola familia. Trasfondo de Hechos 19–20: el alboroto (Hch 19:23-41), la quema de rollos por valor de 50,000 días de salario (Hch 19:19), la despedida entre lágrimas (Hch 20:37). Preguntas para conversar: (1) ¿Por qué crees que los plateros se enojaron tanto con el mensaje de Pablo? (2) Los creyentes quemaron rollos que valían una fortuna — ¿qué te costaría entregar por Jesús? (3) ¿Cómo pudo alguien encadenado escribir la carta más alegre de todas? Oren juntos por los cristianos que hoy son burlados o castigados por su fe, para que como Pablo rebosen de alegría.",
-        "fr": "Idée centrale : le contexte rend visible l'audace de Paul. Dans une ville de richesse, il prêche les richesses de la grâce ; dans une ville de magie et de pouvoir, il proclame Christ au-dessus de toute autorité ; dans une ville divisée, il annonce une seule famille. Arrière-plan d'Actes 19–20 : l'émeute (Actes 19:23-41), les rouleaux brûlés valant 50 000 jours de salaire (Actes 19:19), les adieux en larmes (Actes 20:37). Pour lancer la conversation : (1) Pourquoi les orfèvres étaient-ils si fâchés contre le message de Paul ? (2) Les croyants ont brûlé des rouleaux qui valaient une fortune — qu'est-ce qui serait difficile à abandonner pour Jésus ? (3) Comment quelqu'un d'enchaîné a-t-il pu écrire la lettre la plus joyeuse de toutes ? Priez ensemble pour les chrétiens qui aujourd'hui sont moqués ou punis pour leur foi, afin que comme Paul ils débordent de joie."
+        "fr": "Idée centrale : le contexte rend visible l'audace de Paul. Dans une ville de richesse, il prêche les richesses de la grâce ; dans une ville de magie et de pouvoir, il proclame Christ au-dessus de toute autorité ; dans une ville divisée, il annonce une seule famille. Arrière-plan d'Actes 19–20 : l'émeute (Actes 19:23-41), les rouleaux brûlés valant 50 000 jours de salaire (Actes 19:19), les adieux en larmes (Actes 20:37). Pour lancer la conversation : (1) Pourquoi les orfèvres étaient-ils si fâchés contre le message de Paul ? (2) Les croyants ont brûlé des rouleaux qui valaient une fortune — qu'est-ce qui serait difficile à abandonner pour Jésus ? (3) Comment quelqu'un d'enchaîné a-t-il pu écrire la lettre la plus joyeuse de toutes ? Priez ensemble pour les chrétiens qui aujourd'hui sont moqués ou punis pour leur foi, afin que comme Paul ils débordent de joie.",
+        "pt": "Idéia principal: A Bíblia é nossa autoridade final em todas as questões de fé e conduta (2 Tm 3:16-17).\n\nA Escritura foi fundada nessa convicção. Os crentes de Éfeso queimaram os rolos mágicos é uma imagem de rompimento completo com o passado — exatamente o que esse ensinamento bíblico de arrependimento exige: não uma redução gradual do pecado, mas um virar completo. A escuridão da cidade faz com que a potência do evangelho brilhe mais.\n\nPerguntas para iniciar a conversa: (1) O que significa que a Bíblia é nossa 'autoridade final' — acima das emoções, das tradições e do que as outras pessoas dizem? (2) Os efésios queimaram coisas que custavam uma fortuna. O que Deus pode nos pedir para dar completamente quando nos aproximamos Dele? (3) Paulo teve ALEGRIA na prisão — de onde vem um tipo de alegria assim?\n\nRezem juntos pedindo a Deus que dê a cada membro da família um amor pelo Seu Palavra como Paulo teve."
       }
     }
   ]

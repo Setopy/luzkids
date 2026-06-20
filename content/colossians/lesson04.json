@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Rooted, Built Up, and Set Free!"
+  },
+  "ref": "Colossians 2:6-15",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A debt completely cancelled"
+      },
+      "body": {
+        "en": "Paul gives a clear instruction: just as you received Christ Jesus as Lord, keep on walking in Him — rooted and built up in the faith, just as you were taught, overflowing with thankfulness. Then a warning: watch out for hollow and deceptive philosophy that depends on human tradition rather than on Christ. Why follow shadows when you have the substance? In Christ, ALL the fullness of God lives in a real human body — and because you are united with Christ, you too have been brought to fullness! Paul uses a beautiful, deep picture: just as a person is physically circumcised by cutting away flesh, you were spiritually circumcised — not by any human hand, but by Christ Himself, cutting away the old sinful nature, the moment you were buried with Him through faith (like baptism) and raised to new life because you believed in God's power, the same power that raised Jesus from the dead! And here is the most freeing truth of all: God CANCELLED the debt we owed because of our sins, the whole record of wrongs that stood against us — He took it, and nailed it to the cross! Jesus disarmed every evil power and authority and triumphed over them publicly, like a king parading defeated enemies after a great victory. The debt is gone. The victory is won. You are completely free."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "So then, just as you received Christ Jesus as Lord, continue to live your lives rooted and built up in him."
+      },
+      "ref": {
+        "en": "Colossians 2:6-7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "just",
+          "as",
+          "you",
+          "received",
+          "Christ",
+          "Jesus",
+          "as",
+          "Lord"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Rooted, Built Up, and Set Free!"
+      },
+      "audio_en": "/static/audio/colossians/lesson04_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did God do with the record of our sins, according to this passage?"
+          },
+          "options": {
+            "en": [
+              "He hid it where no one could find it",
+              "He cancelled it completely, nailing it to the cross",
+              "He kept adding to it",
+              "He gave it to someone else to pay"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What lives in Christ 'in bodily form,' according to Paul?"
+          },
+          "options": {
+            "en": [
+              "A powerful angel",
+              "All the fullness of God",
+              "Only a small part of God's power",
+              "Nothing special"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What should believers watch out for, according to verse 8?"
+          },
+          "options": {
+            "en": [
+              "Hollow and deceptive philosophy based on human tradition, not Christ",
+              "Eating too much food",
+              "Singing too many songs",
+              "Praying too often"
+            ]
+          },
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Rooted, Built Up, and Set Free!"
+          },
+          "file": "/static/printables/colossians/lesson04_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the spiritual circumcision of the heart and the complete cancellation of sin's debt — this is justification and the foundation for sanctified living, taught with extraordinary clarity. The \"circumcision...done by Christ\" (2:11) describes an inward, decisive cutting-away of the sinful nature, accomplished by God's own act, not human effort or ritual — a striking parallel to the doctrine that a clean heart is received by faith, not produced by struggle or self-effort.\n\nThe cancelled \"charge of our legal indebtedness\" (2:14) is among the clearest justification texts in the New Testament: the full record of sin, completely paid and removed, nailed publicly to the cross. Verse 15's image of Christ \"disarming the powers and authorities\" and leading them in a triumphal procession pictures total victory over the powers of darkness — not a future hope only, but an accomplished fact believers stand in now.\n\nConversation starters: (1) What does it mean that your \"debt\" of sin has been completely cancelled — not partially, but entirely? (2) Why does Paul warn against ideas that sound deep and spiritual but aren't actually rooted in Christ? (3) How does knowing Jesus has already triumphed over evil powers change how you face fear?\n\nPray together, thanking God for the cancelled debt, and asking for roots that go deep into Christ alone."
+      }
+    }
+  ]
+}

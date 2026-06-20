@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Faith, Love, and a Prayer for Wisdom"
+  },
+  "ref": "Colossians 1:1-14",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A church Paul never visited"
+      },
+      "body": {
+        "en": "Here's something surprising: Paul wrote this letter to a church he had never even visited! The believers in Colossae were taught the gospel by a man named Epaphras, who learned it from Paul and carried it home — like a torch passed from hand to hand. Paul heard wonderful news: the Colossians had real faith in Jesus and real love for every believer. Their faith was producing fruit and growing, just like good seed planted in good soil. So Paul prayed for them — not for money, not for easy lives, but for something far more valuable: that God would fill them with wisdom and understanding of His will, so they would live lives that please Him in every way, bearing fruit in every good work. Then Paul reminds them what they already have in Christ: rescued from darkness, brought into God's kingdom of light, and given REDEMPTION — the forgiveness of every sin, completely paid for. The gospel doesn't need Paul standing in the room. It travels by faithful hands, from person to person, exactly the way it reached Colossae — and exactly the way it can reach your street, your school, your family."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "We have not stopped praying for you and asking God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives, in whom we have redemption, the forgiveness of sins."
+      },
+      "ref": {
+        "en": "Colossians 1:9,14 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "We",
+          "have",
+          "not",
+          "stopped",
+          "praying",
+          "for",
+          "you"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Faith, Love, and a Prayer for Wisdom"
+      },
+      "audio_en": "/static/audio/colossians/lesson01_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Who first taught the Colossians the gospel?"
+          },
+          "options": {
+            "en": [
+              "Paul himself",
+              "Epaphras, who learned it from Paul",
+              "Timothy",
+              "Peter"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Paul pray for the Colossians, more than anything else?"
+          },
+          "options": {
+            "en": [
+              "Wealth and comfort",
+              "Fame in their city",
+              "Wisdom and understanding of God's will",
+              "A bigger church building"
+            ]
+          },
+          "answer": 2
+        },
+        {
+          "q": {
+            "en": "What does 'redemption' mean in this passage?"
+          },
+          "options": {
+            "en": [
+              "Winning a prize",
+              "The forgiveness of sins, completely paid for",
+              "Becoming famous",
+              "Moving to a new city"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Faith, Love, and a Prayer for Wisdom"
+          },
+          "file": "/static/printables/colossians/lesson01_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the gospel travels by faithful hands, and the highest prayer for any believer is not comfort but spiritual wisdom. Paul never set foot in Colossae — Epaphras carried the gospel there, and it took root and bore fruit (1:6-8). This models exactly what personal evangelism looks like: ordinary believers carrying truth to people an apostle never reached.\n\nPaul's prayer (1:9-12) is a masterclass in what to actually pray for our children: not success, not ease, but \"the knowledge of his will,\" wisdom, and a life that bears fruit. Redemption (1:14) is justification language — sins forgiven through Christ's blood, the first and necessary work of grace before any growth in holiness can follow.\n\nConversation starters: (1) Who has been an \"Epaphras\" in your life — someone who carried the gospel to you? (2) When you pray for someone you love, do you pray for their comfort or for their wisdom and fruitfulness? (3) What does it mean that redemption is already \"complete\" — not something you're still earning?\n\nPray together, using Paul's actual words, asking God to fill each family member with wisdom and understanding of His will."
+      }
+    }
+  ]
+}

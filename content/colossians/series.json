@@ -1,0 +1,74 @@
+{
+  "title": {
+    "en": "Colossians for Kids"
+  },
+  "subtitle": {
+    "en": "All 4 chapters — discovering that Jesus is supreme over everything!"
+  },
+  "description": {
+    "en": "Paul wrote to a church he'd never visited, but his message rings just as true today: Jesus holds everything together, lives inside every believer, and is worth putting off our old selves to follow with our whole hearts. Eight adventures through all four chapters of Colossians — from the supremacy of Christ to a family that prays and finishes well together."
+  },
+  "age_range": "6-12",
+  "free": true,
+  "order": 2,
+  "emoji": "👑",
+  "color": "#5B7BD5",
+  "lessons": [
+    {
+      "id": "lesson01",
+      "title": {
+        "en": "Faith, Love, and a Prayer for Wisdom"
+      },
+      "ref": "Colossians 1:1-14"
+    },
+    {
+      "id": "lesson02",
+      "title": {
+        "en": "Jesus Is Supreme Over Everything!"
+      },
+      "ref": "Colossians 1:15-23"
+    },
+    {
+      "id": "lesson03",
+      "title": {
+        "en": "The Mystery: Christ Lives in You!"
+      },
+      "ref": "Colossians 1:24-2:5"
+    },
+    {
+      "id": "lesson04",
+      "title": {
+        "en": "Rooted, Built Up, and Set Free!"
+      },
+      "ref": "Colossians 2:6-15"
+    },
+    {
+      "id": "lesson05",
+      "title": {
+        "en": "Don't Let Anyone Trap You with Rules!"
+      },
+      "ref": "Colossians 2:16-23"
+    },
+    {
+      "id": "lesson06",
+      "title": {
+        "en": "Put Off the Old, Put On the New!"
+      },
+      "ref": "Colossians 3:1-17"
+    },
+    {
+      "id": "lesson07",
+      "title": {
+        "en": "Love at Home!"
+      },
+      "ref": "Colossians 3:18-4:1"
+    },
+    {
+      "id": "lesson08",
+      "title": {
+        "en": "Pray, Witness, and Finish Well!"
+      },
+      "ref": "Colossians 4:2-18"
+    }
+  ]
+}

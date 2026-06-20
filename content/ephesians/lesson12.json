@@ -2,7 +2,8 @@
   "title": {
     "en": "Children of Light",
     "es": "Hijos de Luz",
-    "fr": "Enfants de lumière"
+    "fr": "Enfants de lumière",
+    "pt": "Filhos da Luz"
   },
   "ref": "Ephesians 5:1-10 / Efesios 5:1-10",
   "blocks": [
@@ -11,12 +12,14 @@
       "heading": {
         "en": "Children of light — a holy, separated life",
         "es": "No solo llevas una luz — ¡ERES una!",
-        "fr": "Tu ne portes pas seulement une lumière — tu en ES une !"
+        "fr": "Tu ne portes pas seulement une lumière — tu en ES une !",
+        "pt": "Filhos da luz — uma vida santa e separada"
       },
       "body": {
         "en": "Paul says something extraordinary: you were once DARKNESS — not just in the dark, but darkness itself. But now you ARE light in the Lord. This is not just a poetic image — it is a complete change of nature. And children of light are DIFFERENT from the world around them. Paul says imitate GOD — walk in love as Christ loved us — and that means a HOLY life, separated from everything that belongs to the darkness. Some things that the world does casually — impure words, ungodly entertainment, things done in secret that cannot be spoken in the light — Paul says have nothing to do with them. Not because God is trying to make life miserable, but because children of light are called to a different and higher standard. Light exposes darkness — don't join the darkness, SHINE. And how do you shine? Paul gives the recipe: walk carefully, make the most of every opportunity, be filled with the Holy Spirit, sing and make music from your heart, and give thanks ALWAYS — for everything. Children of light live at a different altitude than the world around them. And the world will notice.",
         "es": "¿Alguna vez has imitado a alguien que amas — su risa, su forma de hablar? Pablo dice: ¡imiten a DIOS, como hijos muy amados que copian a su Padre! Y caminen en amor, así como Cristo nos amó y se entregó por nosotros. Luego viene una de las frases más sorprendentes de toda la Biblia. Pablo no dice 'ustedes estaban EN la oscuridad' — dice 'ustedes ERAN oscuridad... pero ahora SON luz en el Señor.' ¡Jesús no solo te da una linterna; te convierte en una! ¿Y qué hace la luz? Brilla. Saca las sombras de las habitaciones. Ayuda a la gente a encontrar su camino. ¿Entonces cómo viven los hijos de luz? Pablo da la receta: despierta, aprovecha cada día al máximo, sé lleno del Espíritu — ¡y luego CANTA! Canta salmos, himnos y canciones desde tu corazón, y dale gracias a Dios siempre, por todo.",
-        "fr": "As-tu déjà imité quelqu'un que tu aimes — sa façon de rire, sa façon de parler ? Paul dit : imitez DIEU, comme des enfants bien-aimés qui copient leur Père ! Et marchez dans l'amour, comme Christ nous a aimés et s'est donné pour nous. Puis vient l'une des phrases les plus surprenantes de toute la Bible. Paul ne dit pas « vous étiez DANS les ténèbres » — il dit « vous étiez autrefois ténèbres… mais maintenant vous êtes lumière dans le Seigneur. » Jésus ne te donne pas seulement une lampe de poche ; Il te transforme en lumière ! Et que fait la lumière ? Elle brille. Elle chasse les ombres des pièces. Elle aide les gens à trouver leur chemin. Alors comment vivent les enfants de lumière ? Paul donne la recette : réveille-toi, profite au maximum de chaque jour, sois rempli de l'Esprit — et puis CHANTE ! Chante des psaumes, des hymnes et des cantiques de tout ton cœur, et dis merci à Dieu toujours, pour tout."
+        "fr": "As-tu déjà imité quelqu'un que tu aimes — sa façon de rire, sa façon de parler ? Paul dit : imitez DIEU, comme des enfants bien-aimés qui copient leur Père ! Et marchez dans l'amour, comme Christ nous a aimés et s'est donné pour nous. Puis vient l'une des phrases les plus surprenantes de toute la Bible. Paul ne dit pas « vous étiez DANS les ténèbres » — il dit « vous étiez autrefois ténèbres… mais maintenant vous êtes lumière dans le Seigneur. » Jésus ne te donne pas seulement une lampe de poche ; Il te transforme en lumière ! Et que fait la lumière ? Elle brille. Elle chasse les ombres des pièces. Elle aide les gens à trouver leur chemin. Alors comment vivent les enfants de lumière ? Paul donne la recette : réveille-toi, profite au maximum de chaque jour, sois rempli de l'Esprit — et puis CHANTE ! Chante des psaumes, des hymnes et des cantiques de tout ton cœur, et dis merci à Dieu toujours, pour tout.",
+        "pt": "Paul diz algo incrível: vocês eram uma vez ESCURIDÃO — não apenas no escuro, mas a própria escuridão. Mas agora VOCÊS SÃO luz no Senhor. Isso não é apenas uma imagem poética — é uma mudança completa de natureza. E os filhos da luz são DIFERENTES do mundo ao seu redor. Paul diz imitar DEUS — andar em amor como Cristo nos amou — e isso significa uma vida SANTA, separada de tudo que pertence à escuridão. Algumas coisas que o mundo faz de forma casual — palavras impuras, entretenimento sem Deus, coisas feitas em segredo que não podem ser faladas à luz — Paul diz que não tenham nada a ver com elas. Não porque Deus está tentando fazer da vida uma coisa miserável, mas porque os filhos da luz são chamados a um padrão diferente e mais alto. A luz expõe a escuridão — não junte-se à escuridão, BRINQUE. E como você brilha? Paul dá a receita: ande com cuidado, aproveite cada oportunidade, esteja cheio do Espírito Santo, cante e faça música do seu coração, e agradeça SEMPRE — por tudo. Os filhos da luz vivem em uma altitude diferente do mundo ao seu redor. E o mundo vai notar."
       }
     },
     {
@@ -139,7 +142,8 @@
       "title": {
         "en": "Children of Light",
         "es": "Hijos de Luz",
-        "fr": "Enfants de lumière"
+        "fr": "Enfants de lumière",
+        "pt": "Filhos da Luz"
       },
       "audio_en": "/static/audio/ephesians/lesson12_en.mp3",
       "audio_es": "/static/audio/ephesians/lesson12_es.mp3"
@@ -151,7 +155,8 @@
           "q": {
             "en": "Who does Paul say we should imitate?",
             "es": "¿A quién dice Pablo que debemos imitar?",
-            "fr": "Qui, selon Paul, devons-nous imiter ?"
+            "fr": "Qui, selon Paul, devons-nous imiter ?",
+            "pt": "Quem, segundo Paulo, devemos imitar?"
           },
           "options": {
             "en": [
@@ -171,6 +176,12 @@
               "Dieu, comme des enfants bien-aimés",
               "Le soldat le plus courageux",
               "Le plus populaire"
+            ],
+            "pt": [
+              "Pessoas famosas",
+              "Deus, como filhos amados",
+              "O soldado mais corajoso",
+              "Quem é mais popular"
             ]
           },
           "answer": 1
@@ -179,7 +190,8 @@
           "q": {
             "en": "What surprising thing does Paul say believers ARE?",
             "es": "¿Qué cosa sorprendente dice Pablo que SON los creyentes?",
-            "fr": "Quelle chose surprenante Paul dit-il que les croyants SONT ?"
+            "fr": "Quelle chose surprenante Paul dit-il que les croyants SONT ?",
+            "pt": "O que Paulino diz que os crentes SÃO?"
           },
           "options": {
             "en": [
@@ -199,6 +211,12 @@
               "Des étoiles dans le ciel",
               "Des bougies dans un tiroir",
               "Des lampes sans huile"
+            ],
+            "pt": [
+              "Luz no Senhor",
+              "Estrelas no céu",
+              "Velas em um armário",
+              "Lâmpadas sem óleo"
             ]
           },
           "answer": 0
@@ -207,7 +225,8 @@
           "q": {
             "en": "How do Spirit-filled people express their joy?",
             "es": "¿Cómo expresan su alegría las personas llenas del Espíritu?",
-            "fr": "Comment les personnes remplies de l'Esprit expriment-elles leur joie ?"
+            "fr": "Comment les personnes remplies de l'Esprit expriment-elles leur joie ?",
+            "pt": "Como as pessoas cheias do Espírito Santo expressam sua alegria?"
           },
           "options": {
             "en": [
@@ -227,6 +246,12 @@
               "En chantant et en rendant grâces toujours",
               "En gagnant chaque dispute",
               "En collectionnant des choses"
+            ],
+            "pt": [
+              "Pela manutenção de um silêncio muito profundo",
+              "Pela canção e ações de agradecimento contínuas",
+              "Pela vitória em todas as discussões",
+              "Pela coleta de coisas"
             ]
           },
           "answer": 1
@@ -240,7 +265,8 @@
           "label": {
             "en": "Colouring sheet: 'Shine like a lamp'",
             "es": "Hoja para colorear: 'Brilla como una lámpara'",
-            "fr": "Coloriage : « Brille comme une lampe »"
+            "fr": "Coloriage : « Brille comme une lampe »",
+            "pt": "Folha de colorir: 'Brilhe como uma vela'"
           },
           "file": "/static/printables/ephesians/lesson12_sheet.pdf"
         }
@@ -251,7 +277,8 @@
       "body": {
         "en": "Big idea: Holiness as separation and consecration — one of Scripture's most visible distinctives. \n\nScripture calls believers to an emphasis on holy, separated living: modest dress, avoidance of worldly entertainment, no compromise with the culture of the age. This is rooted in scripture: Eph 5:1-10 calls believers to 'have nothing to do with the fruitless deeds of darkness' (5:11) and to 'find out what pleases the Lord' (5:10). \n\nNote that Paul doesn't say avoid darkness because it might harm you — he says you ARE light, and light and darkness are incompatible. Sanctification (holiness) is not about following a list of rules; it is about living according to your new nature. But \n\nScripture insists that this new nature has VISIBLE CONSEQUENCES in lifestyle. \n\nConversation starters: (1) What are some things the world treats as normal that a child of light should have nothing to do with? Discuss honestly as a family. (2) 'Light exposes darkness' — has your life ever made someone around you uncomfortable because it showed up their wrong? What happened? (3) What would it mean for OUR FAMILY to be known in our neighbourhood as children of light — visibly different, visibly holy? What would need to change? \n\nPray together for a fresh filling of the Holy Spirit, and a clean, holy life that shines without apology.",
         "es": "Idea central: la identidad otra vez impulsa el comportamiento — los creyentes no solo evitan la oscuridad; SON luz (5:8), así que brillar es simplemente vivir conforme a su naturaleza. Nota las marcas de la llenura del Espíritu que Pablo enumera: cantar y dar gracias constantemente (5:19-20) — el gozo, no el cumplimiento de reglas, es el parecido de familia. ¡Esta es también la lección detrás del nombre de nuestra plataforma y sus lámparas! Preguntas para conversar: (1) ¿A quién imitas sin darte cuenta? ¿Qué 'contagia' la gente al observarte? (2) ¿En qué situación oscura o cruel de la escuela podrías ser la luz? (3) Nombremos cada uno tres cosas para agradecer a Dios ahora mismo — incluyendo una difícil. Cierren cantando juntos la canción de esta lección como su oración.",
-        "fr": "Idée centrale : l'identité conduit encore le comportement — les croyants n'évitent pas seulement les ténèbres ; ils SONT lumière (5:8), donc briller, c'est simplement vivre selon sa nature. Note les marques de la plénitude de l'Esprit que Paul énumère : le chant et l'action de grâces constante (5:19-20) — la joie, non l'observance de règles, est l'air de famille. C'est aussi la leçon derrière le nom de notre plateforme et ses lampes ! Pour lancer la conversation : (1) Qui imites-tu sans même t'en rendre compte ? Qu'est-ce que les gens « attrapent » en te regardant ? (2) Dans quelle situation sombre ou méchante à l'école pourrais-tu être la lumière ? (3) Nommons chacun trois choses pour lesquelles remercier Dieu maintenant — y compris une chose difficile. Terminez en chantant ensemble la chanson de cette leçon comme votre prière."
+        "fr": "Idée centrale : l'identité conduit encore le comportement — les croyants n'évitent pas seulement les ténèbres ; ils SONT lumière (5:8), donc briller, c'est simplement vivre selon sa nature. Note les marques de la plénitude de l'Esprit que Paul énumère : le chant et l'action de grâces constante (5:19-20) — la joie, non l'observance de règles, est l'air de famille. C'est aussi la leçon derrière le nom de notre plateforme et ses lampes ! Pour lancer la conversation : (1) Qui imites-tu sans même t'en rendre compte ? Qu'est-ce que les gens « attrapent » en te regardant ? (2) Dans quelle situation sombre ou méchante à l'école pourrais-tu être la lumière ? (3) Nommons chacun trois choses pour lesquelles remercier Dieu maintenant — y compris une chose difficile. Terminez en chantant ensemble la chanson de cette leçon comme votre prière.",
+        "pt": "Idéia principal: A santidade como separação e consagração — uma das características mais visíveis da Escritura.\n\nA Escritura chama os crentes a um foco em viver de forma santa e separada: vestuário modesto, evitação de entretenimentos mundanos, sem compromisso com a cultura da época. Isso está enraizado na Escritura: Ef 5:1-10 chama os crentes a 'não ter nada a ver com os frutos inúteis das trevas' (5:11) e a 'descobrir o que agrada ao Senhor' (5:10).\n\nObserve que Paulo não diz evitar a escuridão porque ela poderia prejudicar você — ele diz que VOCÊ É LUZ, e a luz e a escuridão são incompatíveis. A santificação (santidade) não é sobre seguir uma lista de regras; é sobre viver de acordo com sua nova natureza. Mas\n\nA Escritura insiste que essa nova natureza tem CONSEQUÊNCIAS VISIBLES no estilo de vida.\n\nIniciadores de conversa: (1) O que o mundo considera normal que um filho da luz não deve ter nada a ver? Discutam honestamente como família. (2) 'A luz expõe a escuridão' — teve sua vida já feito alguém ao seu redor desconfortável porque mostrou seu erro? O que aconteceu? (3) O que significaria para Nossa Família ser conhecida em nossa vizinhança como filhos da luz — visivelmente diferentes, visivelmente santos? O que precisaria mudar?\n\nRezem juntos por uma infusão fresca do Espírito Santo e por uma vida santa e limpa que brilha sem desculpas."
       }
     }
   ]

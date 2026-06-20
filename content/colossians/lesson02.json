@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Jesus Is Supreme Over Everything!"
+  },
+  "ref": "Colossians 1:15-23",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The King above every king"
+      },
+      "body": {
+        "en": "Now Paul writes one of the most powerful descriptions of Jesus in the whole Bible. Jesus is the IMAGE of the invisible God — if you want to know what God is like, look at Jesus! He existed before anything was made, and everything — stars, oceans, angels, kings, governments, EVERYTHING — was created through Him and for Him. Not only that: Jesus holds it all together right now! Take away Jesus for one second and the universe would simply fall apart. He is the head of the church, His body, and He was the first to rise from death forever, so that in everything He might have first place. And here is the most amazing part: God was pleased to reconcile EVERYTHING to Himself through Jesus, making peace through His blood on the cross. You — who were once far from God, an enemy in your thinking because of evil behavior — have now been brought near, reconciled, holy and blameless in God's sight! But Paul adds something important: this is true for those who continue in the faith, established and firm, not shifting from the hope of the gospel. Knowing Jesus is the beginning — staying close to Him is the journey."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "He is before all things, and in him all things hold together."
+      },
+      "ref": {
+        "en": "Colossians 1:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "He",
+          "is",
+          "before",
+          "all",
+          "things",
+          "and",
+          "in",
+          "him"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Jesus Is Supreme Over Everything!"
+      },
+      "audio_en": "/static/audio/colossians/lesson02_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does it mean that Jesus is the 'image of the invisible God'?"
+          },
+          "options": {
+            "en": [
+              "He looks like a famous painting",
+              "If you want to know what God is like, look at Jesus",
+              "He is invisible too",
+              "He is only a picture, not real"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who holds the entire universe together?"
+          },
+          "options": {
+            "en": [
+              "Gravity alone",
+              "Scientists",
+              "Jesus Christ",
+              "No one — it holds itself together"
+            ]
+          },
+          "answer": 2
+        },
+        {
+          "q": {
+            "en": "According to Paul, who remains reconciled and holy in God's sight?"
+          },
+          "options": {
+            "en": [
+              "Everyone automatically, no matter what",
+              "Those who continue in the faith, firm and not shifting",
+              "Only people born in certain countries",
+              "Only church leaders"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Jesus Is Supreme Over Everything!"
+          },
+          "file": "/static/printables/colossians/lesson02_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the absolute supremacy and deity of Christ, paired with the necessity of continuing in the faith. Colossians 1:15-20 is among the highest Christological statements in Scripture — Jesus as Creator, Sustainer, and Reconciler of all things. This passage was written partly to combat early teachings that diminished Christ's full deity, a danger that recurs in every generation.\n\nThe crucial phrase often missed: \"if you continue in your faith, established and firm, and do not move from the hope held out in the gospel\" (1:23). Reconciliation and holiness before God are real and present (1:22), but Paul explicitly conditions ongoing standing on continuing — language that affirms present assurance while excluding unconditional eternal security regardless of later unfaithfulness.\n\nConversation starters: (1) If someone asked you \"what is God like,\" how could you point them to Jesus specifically? (2) What does it mean practically that Jesus \"holds all things together\" — even on a hard day? (3) Paul says to \"continue\" in the faith — what helps you keep going, not just start well?\n\nPray together, thanking Jesus for His supremacy over every fear, and asking for grace to continue firm in faith."
+      }
+    }
+  ]
+}

@@ -517,7 +517,7 @@ def api_ask():
                 break
     lang_name = {"en":"English","es":"Spanish","fr":"French","pt":"Portuguese"}.get(lang,"English")
     system = (f"You are a warm, wise Bible teacher answering questions from a child aged 6-12. "
-              f"Lesson: {lesson_id} from Ephesians. Content: {lesson_text[:300]} "
+              f"Lesson: {lesson_id} from {series.get('title',{}).get('en','this series') if series else 'this series'}. Content: {lesson_text[:300]} "
               f"Doctrinal framework: Wesleyan-Holiness biblical Christianity consistent with "
               f"Deeper Life Bible Church — repentance required before saving faith, entire sanctification "
               f"as a definite second work of grace, Holy Ghost baptism upon the sanctified believer, "

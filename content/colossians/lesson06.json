@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Put Off the Old, Put On the New!"
+  },
+  "ref": "Colossians 3:1-17",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A brand new wardrobe for your heart"
+      },
+      "body": {
+        "en": "Now Paul gets very practical: since you have been raised with Christ, set your hearts and minds on things above, not on earthly things — because your old life has died, and your new life is now hidden with Christ in God! Then comes a clear, strong instruction: PUT TO DEATH whatever belongs to your old earthly nature — anger, rage, malice, lying, sexual sin, greed. These were once part of your old way of living, but not anymore! Now — and this is the wonderful part — Paul says PUT ON your new self, like getting dressed in brand new clothes that actually fit who you really are now: compassion, kindness, humility, gentleness, patience, forgiveness toward one another, and above ALL these, put on LOVE, which binds everything together perfectly. Let the peace of Christ rule in your hearts. Let the Word of Christ dwell richly among you, teaching and encouraging one another, singing psalms, hymns and spiritual songs with gratitude in your hearts to God. And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through Him. This is not about trying harder to be a little nicer — it's about a completely new wardrobe for a completely new heart."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God."
+      },
+      "ref": {
+        "en": "Colossians 3:1 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "since",
+          "then",
+          "you",
+          "have",
+          "been",
+          "raised",
+          "with",
+          "Christ"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Put Off the Old, Put On the New!"
+      },
+      "audio_en": "/static/audio/colossians/lesson06_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say to 'put to death' in this passage?"
+          },
+          "options": {
+            "en": [
+              "Going to school",
+              "Whatever belongs to the old earthly nature — anger, lying, greed and the like",
+              "Singing songs",
+              "Praying too often"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What virtue does Paul say binds everything else together perfectly?"
+          },
+          "options": {
+            "en": [
+              "Patience",
+              "Love",
+              "Knowledge",
+              "Money"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to verse 17, how should believers do everything they say or do?"
+          },
+          "options": {
+            "en": [
+              "However feels easiest at the moment",
+              "In the name of the Lord Jesus, with thanks to God",
+              "Only when others are watching",
+              "Quickly, without much thought"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Put Off the Old, Put On the New!"
+          },
+          "file": "/static/printables/colossians/lesson06_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the decisive 'put off / put on' pattern of holy living — the heart of practical sanctification in this letter, and a direct parallel to the doctrine of entire sanctification as a definite work followed by ongoing growth. Paul's command is not gradual self-improvement but a decisive death to the old nature (3:5, \"put to death\") and a decisive clothing in the new (3:12, \"put on\"). This pattern — die to the old, be clothed in the new, by the same power that raised Christ from the dead (3:1) — describes exactly what happens in genuine sanctifying grace: not willpower stretched thin, but a real, Spirit-wrought change of nature, evidenced by real, observable virtues.\n\nNote the comprehensiveness: compassion, kindness, humility, gentleness, patience, forbearance, forgiveness, love (3:12-14) — and then worship: the peace of Christ ruling, the Word dwelling richly, gratitude expressed in song (3:15-16). Holiness in Colossians is never grim or rule-bound; it is relational, musical, and thankful.\n\nConversation starters: (1) What is one thing from the \"old wardrobe\" (anger, lying, etc.) you want God to help you put to death? (2) What is one \"new clothing\" virtue (kindness, patience, forgiveness) you want to put on this week? (3) What does it mean to do \"everything\" — even ordinary things like chores or homework — in the name of the Lord Jesus?\n\nPray together for grace to put off the old nature decisively and to put on Christ's character daily."
+      }
+    }
+  ]
+}
