@@ -1,77 +1,39 @@
 {
   "title": {
-    "en": "Walk Worthy",
-    "es": "Camina Dignamente",
-    "fr": "Marche dignement",
-    "pt": "Anda Dignamente"
+    "en": "Walk Worthy, Stay United"
   },
-  "ref": "Ephesians 4:1-10 / Efesios 4:1-10",
+  "ref": "Ephesians 4:1-6",
+  "section": "Unity in the Body of Christ",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "Walk worthy — all the way, every day",
-        "es": "Los siete 'uno' que nos mantienen unidos",
-        "fr": "Les sept « un » qui nous tiennent ensemble",
-        "pt": "Ande dignamente — todos os dias, de cabeça erguida"
+        "en": "Seven 'ones' that hold everything together"
       },
       "body": {
-        "en": "For three chapters Paul told us WHO we are in Christ. Now he says: LIVE LIKE IT. The word 'walk' in Paul's language meant your whole way of living — every single step, every single day. And he says: walk WORTHY of the calling. That is a high standard! Not casually, not carelessly, not holding on to Jesus on Sunday and living like the world on Monday. Worthy walking means humility — putting others first, not yourself; gentleness — strength under complete control; patience — staying kind even when it is very hard; and bearing with each other in LOVE even when people disappoint you. \n\nThen Paul lists seven great 'ones' that hold God's family together: one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father. Seven ones! Whatever differences we have, what unites us is immeasurably bigger. \n\nThis is the lifestyle that flows from genuine salvation — not a life of sin with a religious cover, but a life genuinely transformed from the inside out, walking every day in a way that honours the God who saved us.",
-        "es": "Durante tres capítulos Pablo nos ha dicho QUIÉNES somos. Ahora viene el gran giro: 'les ruego que vivan de una manera DIGNA del llamamiento que han recibido.' En el idioma de Pablo, 'caminar' significaba toda tu forma de vivir — cada paso diario. ¿Y cómo caminan los que caminan dignamente? Con humildad (poniendo a otros primero), mansedumbre (que no significa ser débil — significa fuerza bajo control, como un caballo poderoso que obedece un tirón suave), paciencia, y soportándose unos a otros en amor, aun cuando cuesta. Pablo dice que la unidad no sucede por accidente: 'esfuércense por mantenerla.' Luego cuenta los siete 'uno' que pegan a la familia de Dios: UN cuerpo, UN Espíritu, UNA esperanza, UN Señor, UNA fe, UN bautismo, UN Dios y Padre de todos. ¡Siete unos! Cuéntalos con tus dedos. Sea lo que sea que nos haga diferentes, lo que nos une es más grande.",
-        "fr": "Pendant trois chapitres, Paul nous a dit QUI nous sommes. Maintenant vient le grand tournant : « Je vous exhorte à marcher d'une manière DIGNE de la vocation qui vous a été adressée. » Dans la langue de Paul, « marcher » signifiait toute ta façon de vivre — chaque pas quotidien. Et comment marchent ceux qui marchent dignement ? Avec humilité (mettre les autres en premier), douceur (ce qui ne veut pas dire être faible — c'est la force maîtrisée, comme un cheval puissant qui obéit à une douce traction), patience, et en se supportant les uns les autres avec amour, même quand c'est dur. Paul dit que l'unité n'arrive pas par accident : « efforcez-vous » de la conserver. Puis il compte les sept « un » qui collent ensemble la famille de Dieu : UN seul corps, UN seul Esprit, UNE seule espérance, UN seul Seigneur, UNE seule foi, UN seul baptême, UN seul Dieu et Père de tous. Sept « un » ! Compte-les sur tes doigts. Quoi qui nous rende différents, ce qui nous unit est plus grand.",
-        "pt": "Por três capítulos, Paulo nos contou QUE somos em Cristo. Agora ele diz: VIVAM COMO É. A palavra \"andar\" em língua de Paulo significava o seu jeito de viver inteiro — cada passo, cada dia. E ele diz: ande DIGNO do chamado. É um padrão alto! Não de forma casual, não de forma descuidada, não agarrando-se a Jesus no domingo e vivendo como o mundo no dia seguinte. Andar digno significa humildade — colocar os outros em primeiro lugar, não você; gentileza — força sob controle completo; paciência — ficar gentil mesmo quando é muito difícil; e suportar uns aos outros com AMOR mesmo quando as pessoas desapontam você.\n\nEm seguida, Paulo lista sete grandes \"uns\" que mantêm a família de Deus unida: um corpo, um Espírito, uma esperança, um Senhor, uma fé, um batismo, um Deus e Pai. Sete uns! O que nos une é imensamente maior do que as nossas diferenças.\n\nEssa é a vida estilo que flui da salvação genuína — não uma vida de pecado com um véu religioso, mas uma vida genuinamente transformada de dentro para fora, andando todos os dias de uma forma que honra o Deus que nos salvou."
+        "en": "For three chapters Paul told us WHO we are in Christ. Now he says: LIVE LIKE IT. The word 'walk' in Paul's language meant your whole way of living — every single step, every single day. As a prisoner for the Lord, Paul urges us to live a life WORTHY of the calling we've received. That is a high standard! Worthy walking means humility — putting others first, not yourself; gentleness — strength under complete control; patience — staying kind even when it is very hard; and bearing with each other in LOVE, making every effort to keep the unity of the Spirit through the bond of peace. Then Paul lists seven great 'ones' that hold God's family together: one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all. Seven ones! Whatever differences we have, what unites us is immeasurably bigger. Unity isn't something we create — it's something we already have in Christ, and are called to KEEP."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Make every effort to keep the unity of the Spirit through the bond of peace.",
-        "es": "Esfuércense por mantener la unidad del Espíritu mediante el vínculo de la paz.",
-        "fr": "Vous efforçant de conserver l'unité de l'esprit par le lien de la paix.",
-        "pt": "procurando guardar a unidade do Espírito pelo vínculo da paz."
+        "en": "Make every effort to keep the unity of the Spirit through the bond of peace."
       },
       "ref": {
-        "en": "Ephesians 4:3 (NIV)",
-        "es": "Efesios 4:3 (NVI)",
-        "fr": "Éphésiens 4:3 (LSG)",
-        "pt": "Efésios 4:3 (ARC)"
+        "en": "Ephesians 4:3 (NIV)"
       },
       "scramble_words": {
         "en": [
-          "Make",
+          "make",
           "every",
           "effort",
           "to",
           "keep",
           "the",
-          "unity"
-        ],
-        "es": [
-          "Esfuércense",
-          "por",
-          "mantener",
-          "la",
-          "unidad",
-          "del",
-          "Espíritu"
-        ],
-        "fr": [
-          "conserver",
-          "l'unité",
-          "de",
-          "l'esprit",
-          "par",
-          "la",
-          "paix"
-        ],
-        "pt": [
-          "procurando",
-          "guardar",
-          "a",
-          "unidade",
-          "do",
-          "Espírito",
-          "pelo"
+          "unity",
+          "of",
+          "the",
+          "Spirit"
         ]
       },
       "typing_challenge": true
@@ -79,121 +41,54 @@
     {
       "type": "song",
       "title": {
-        "en": "Seven Ones",
-        "es": "Siete Unos",
-        "fr": "Sept fois un",
-        "pt": "Sete Únicos"
+        "en": "A Song for Walk Worthy, Stay United"
       },
-      "audio_en": "/static/audio/ephesians/lesson09_en.mp3",
-      "audio_es": "/static/audio/ephesians/lesson09_es.mp3"
+      "audio_en": "/static/audio/ephesians/lesson09_en.mp3"
     },
     {
       "type": "quiz",
       "questions": [
         {
           "q": {
-            "en": "What did 'walk' mean in Paul's letter?",
-            "es": "¿Qué significaba 'caminar' en la carta de Pablo?",
-            "fr": "Que signifiait « marcher » dans la lettre de Paul ?",
-            "pt": "O que significava \"andar\" na carta de Paulo?"
+            "en": "What does 'walking worthy' of the calling actually mean, according to this lesson?"
           },
           "options": {
             "en": [
-              "Going for exercise",
-              "Your whole way of living, every day",
-              "A long journey to Rome",
-              "Marching like a soldier"
-            ],
-            "es": [
-              "Salir a hacer ejercicio",
-              "Toda tu forma de vivir, cada día",
-              "Un largo viaje a Roma",
-              "Marchar como soldado"
-            ],
-            "fr": [
-              "Faire de l'exercice",
-              "Toute ta façon de vivre, chaque jour",
-              "Un long voyage vers Rome",
-              "Défiler comme un soldat"
-            ],
-            "pt": [
-              "Correndo para se exercitar",
-              "Sua maneira de viver, todos os dias",
-              "Um longo caminho até Roma",
-              "Marchando como um soldado"
+              "Casual, careless living",
+              "Your whole way of living, every single step, every day",
+              "Only how you act at church",
+              "Nothing in particular"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does 'gentleness' really mean?",
-            "es": "¿Qué significa realmente 'mansedumbre'?",
-            "fr": "Que signifie vraiment la « douceur » ?",
-            "pt": "O que significa realmente \"suavidade\"?"
-          },
-          "options": {
-            "en": [
-              "Being weak and quiet",
-              "Strength under control",
-              "Never playing rough games",
-              "Whispering all the time"
-            ],
-            "es": [
-              "Ser débil y callado",
-              "Fuerza bajo control",
-              "Nunca jugar juegos bruscos",
-              "Susurrar todo el tiempo"
-            ],
-            "fr": [
-              "Être faible et silencieux",
-              "La force maîtrisée",
-              "Ne jamais jouer à des jeux brusques",
-              "Chuchoter tout le temps"
-            ],
-            "pt": [
-              "Sendo fraco e calmo",
-              "Tendo força sob controle",
-              "Nunca jogando jogos bruscos",
-              "Sussurrando o tempo todo"
-            ]
-          },
-          "answer": 1
-        },
-        {
-          "q": {
-            "en": "How many 'ones' does Paul count to show our unity?",
-            "es": "¿Cuántos 'uno' cuenta Pablo para mostrar nuestra unidad?",
-            "fr": "Combien de « un » Paul compte-t-il pour montrer notre unité ?",
-            "pt": "Em quantos \"um\" o apóstolo Paulo conta para mostrar nossa unidade?"
+            "en": "How many 'ones' does Paul list that hold God's family together?"
           },
           "options": {
             "en": [
               "Three",
-              "Five",
               "Seven",
-              "Ten"
-            ],
-            "es": [
-              "Tres",
-              "Cinco",
-              "Siete",
-              "Diez"
-            ],
-            "fr": [
-              "Trois",
-              "Cinq",
-              "Sept",
-              "Dix"
-            ],
-            "pt": [
-              "Três",
-              "Cinco",
-              "Sete",
-              "Dez"
+              "Ten",
+              "One"
             ]
           },
-          "answer": 2
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Is unity something believers create themselves, or something they already have and must keep?"
+          },
+          "options": {
+            "en": [
+              "Something they create from nothing",
+              "Something they already have in Christ, and are called to keep",
+              "It doesn't matter either way",
+              "Something only leaders need"
+            ]
+          },
+          "answer": 1
         }
       ]
     },
@@ -202,10 +97,7 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: 'Count the seven ones'",
-            "es": "Hoja de actividades: 'Cuenta los siete unos'",
-            "fr": "Fiche d'activité : « Compte les sept un »",
-            "pt": "Folha de atividade: 'Conte os sete uns'"
+            "en": "Activity sheet: Walk Worthy, Stay United"
           },
           "file": "/static/printables/ephesians/lesson09_sheet.pdf"
         }
@@ -214,10 +106,7 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: holy living as the natural consequence of genuine conversion. \n\nScripture calls us to take the walk of holiness with absolute seriousness — 'We take Christian living and holiness seriously' is in the founding statement. The four virtues of 4:2 (humility, gentleness, patience, forbearance in love) are not optional add-ons to salvation; they are the marks of a genuinely transformed life. For Scripture, a person who claims salvation but continues to live like the world raises serious questions about whether the conversion was genuine. Verses 7-10 add that the ascended Christ gives gifts — including the gift of an evangelistic call — confirming that every believer is equipped for ministry, not just clergy. \n\nConversation starters: (1) 'Walking worthy' — what would that look like in your school tomorrow, specifically? (2) Is there a difference between a person who is saved and a person who is genuinely holy? What is it? (3) Which of the seven 'ones' surprises you most — and how does knowing you share it with Christians everywhere in the world make you feel? \n\nPray for one specific step of obedience each family member will take this week to walk more worthily.",
-        "es": "Idea central: la doctrina se convierte en caminar. La palabra bisagra 'por lo tanto' (4:1) une la identidad (cap. 1–3) con la conducta, y las cuatro virtudes de 4:2 miran todas hacia los demás. El séptuple 'uno' (4:4-6) hace de la unidad un hecho que mantener, no un logro que crear — por eso 'esfuércense por MANTENERLA.' Los versículos 7-10 añaden que el Cristo resucitado da dones a Su pueblo. Preguntas para conversar: (1) ¿Qué te cuesta más: la humildad, la mansedumbre o la paciencia? ¿Por qué? (2) 'Fuerza bajo control' — ¿cuándo es fuerte NO devolver el golpe o el grito? (3) Reciten los siete unos con siete dedos — ¿cuál te sorprende más? Oren por una persona que a cada niño le cuesta soportar, pidiendo a Dios amor paciente hacia ella esta semana.",
-        "fr": "Idée centrale : la doctrine devient marche. Le mot charnière « donc » (4:1) relie l'identité (ch. 1–3) à la conduite, et les quatre vertus de 4:2 sont toutes tournées vers les autres. Le septuple « un » (4:4-6) fait de l'unité un fait à conserver, non un exploit à créer — d'où « efforcez-vous de la CONSERVER ». Les versets 7-10 ajoutent que le Christ ressuscité fait des dons à son peuple. Pour lancer la conversation : (1) Qu'est-ce qui est le plus dur pour toi : l'humilité, la douceur ou la patience ? Pourquoi ? (2) « La force maîtrisée » — quand est-il fort de NE PAS rendre le coup ou le cri ? (3) Récitez les sept « un » sur sept doigts — lequel te surprend le plus ? Priez pour une personne que chaque enfant trouve difficile à supporter, en demandant à Dieu un amour patient envers elle cette semaine.",
-        "pt": "Idéia principal: vida santa como consequência natural da conversão genuína.\n\nA Escritura nos chama a caminhar com absoluta seriedade na vida santa — 'Tomamos a vida cristã e a santidade a sério' está na declaração fundadora. As quatro virtudes de 4:2 (humildade, gentileza, paciência, tolerância em amor) não são adições opcionais à salvação; elas são os marcos de uma vida transformada genuinamente. Para a Escritura, uma pessoa que reivindica a salvação mas continua a viver como o mundo levanta sérias questões sobre se a conversão foi genuína. Os versículos 7-10 acrescentam que o Cristo ascensional dá presentes — incluindo o dom de um chamado evangelístico — confirmando que todo crente está equipado para o ministério, não apenas o clero.\n\nIniciadores de conversa: (1) 'Caminhar dignamente' — o que isso significaria em sua escola amanhã, especificamente? (2) Há uma diferença entre uma pessoa salva e uma pessoa genuinamente santa? Qual é? (3) Qual dos sete 'ones' surpreende você mais — e como saber que você compartilha isso com cristãos em todo o mundo faz você se sentir?\n\nOrem por um passo específico de obediência que cada membro da família tomará essa semana para caminhar de forma mais digna.\n\nVersículo para memorizar:"
+        "en": "Big idea: holy living as the natural consequence of genuine conversion, anchored in unity that already exists and must be actively kept. The four virtues of 4:2 (humility, gentleness, patience, forbearance in love) are not optional add-ons to salvation; they are the marks of a genuinely transformed life. The seven \"ones\" of 4:4-6 confirm unity is grounded in shared reality, not manufactured agreement.\n\nConversation starters: (1) 'Walking worthy' — what would that look like in your school tomorrow, specifically? (2) Which of the seven 'ones' surprises you most? (3) What does it mean to \"make every effort\" to keep unity, rather than just hoping for it?\n\nPray for one specific step of obedience each family member will take this week to walk more worthily."
       }
     }
   ]

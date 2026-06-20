@@ -1,76 +1,40 @@
 {
   "title": {
-    "en": "God's Secret Plan",
-    "es": "El Plan Secreto de Dios",
-    "fr": "Le plan secret de Dieu",
-    "pt": "O Plano Secreto de Deus"
+    "en": "God's Secret Plan"
   },
-  "ref": "Ephesians 3:1-10 / Efesios 3:1-10",
+  "ref": "Ephesians 3:1-13",
+  "section": "God's Marvelous Plan for the Gentiles",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "The secret God kept — and why He needs YOU to tell it",
-        "es": "El secreto que ahora se grita desde los tejados",
-        "fr": "Le secret qu'on crie maintenant sur les toits",
-        "pt": "O segredo que Deus guardou — e por que Ele precisa de VOCÊ para contar"
+        "en": "The secret God kept — and why He needs YOU to tell it"
       },
       "body": {
-        "en": "Paul says God kept a wonderful secret for ages — a 'mystery' that is now finally revealed! The mystery is this: God's family was never meant for just one nation. People from EVERY country, every language, every skin colour — all equal heirs together in God's family through Jesus Christ. And look at who God chose to tell this secret: Paul, who used to be the greatest enemy of the church! The man who hunted and imprisoned Christians is now the chief messenger of grace. Paul calls himself 'the least of all God's people' — yet God gave him the biggest mission. \n\nAnd here is the truth that changes everything: God has not changed His method. HE STILL USES PEOPLE to tell the secret. Every person who knows Jesus has the same calling Paul had — to tell others the good news. \n\nScripture calls this PERSONAL EVANGELISM, and it is not optional. It is a doctrinal conviction: every believer is sent as a messenger. \n\nYou are young? So was Jeremiah. You don't feel qualified? Neither did Moses. God's secret is too good to keep!",
-        "es": "¿Te encantan los secretos? Pablo dice que Dios guardó un secreto maravilloso durante siglos y siglos — ¡y ahora por fin se conoce! En la Biblia, un 'misterio' no es un acertijo que nadie puede resolver; es un secreto que Dios ahora ha REVELADO. Y aquí está: la familia de Dios nunca fue solo para una nación. Personas de todos los países, todos los idiomas, todos los colores — gentiles y judíos juntos — ¡son herederos por igual en la familia de Dios por medio de Jesús! Fíjate también en algo asombroso sobre el mensajero: Pablo escribe esto desde la cárcel, encadenado a un guardia. Pero nunca se llama 'el prisionero de Roma' — se llama 'el prisionero de Cristo Jesús.' Pablo sabía que sus cadenas tenían un propósito. Y este hombre, que antes perseguía a los cristianos, se llama 'el más pequeño de todo el pueblo de Dios' — y aun así Dios le dio la misión más grande de todas. ¡Eso es lo que hace la gracia!",
-        "fr": "Tu aimes les secrets ? Paul dit que Dieu a gardé un secret merveilleux pendant des siècles et des siècles — et maintenant il est enfin révélé ! Dans la Bible, un « mystère » n'est pas une énigme que personne ne peut résoudre ; c'est un secret que Dieu a maintenant RÉVÉLÉ. Et le voici : la famille de Dieu n'a jamais été prévue pour une seule nation. Des gens de tous les pays, de toutes les langues, de toutes les couleurs — païens et Juifs ensemble — sont héritiers à part égale dans la famille de Dieu par Jésus ! Remarque aussi quelque chose d'étonnant chez le messager : Paul écrit cela depuis la prison, enchaîné à un garde. Mais il ne se nomme jamais « le prisonnier de Rome » — il se nomme « le prisonnier de Jésus-Christ ». Paul savait que ses chaînes avaient un but. Et cet homme, qui autrefois pourchassait les chrétiens, se dit « le moindre de tous les saints » — et pourtant Dieu lui a confié la plus grande mission de toutes. Voilà ce que fait la grâce !",
-        "pt": "Paul diz que Deus guardou um segredo maravilhoso por séculos — um 'mistério' que agora finalmente é revelado! O mistério é este: a família de Deus nunca foi destinada apenas a uma nação. Pessoas de todos os países, de todas as línguas, de todas as cores de pele — todos herdeiros iguais juntos na família de Deus por meio de Jesus Cristo. E olhe quem Deus escolheu para contar esse segredo: Paulo, que era o maior inimigo da igreja! O homem que caçava e prendia cristãos agora é o principal mensageiro da graça. Paulo se chama a si mesmo 'o menor de todos os povos de Deus' — e, no entanto, Deus deu a ele a maior missão.\n\nE aqui está a verdade que muda tudo: Deus não mudou seu método. ELE AINDA USUA PESSOAS para contar o segredo. Cada pessoa que conhece Jesus tem a mesma missão que Paulo tinha — para contar a boa notícia para os outros.\n\nA Escritura chama isso DE EVANGELISMO PESSOAL, e não é opcional. É uma convicção doutrinária: cada crente é enviado como mensageiro.\n\nVocê é jovem? Assim também era Jeremias. Você não se sente qualificado? Nem Moisés. O segredo de Deus é demais para ser guardado!"
+        "en": "Paul says God kept a wonderful secret for ages — a 'mystery' that is now finally revealed! The mystery is this: God's family was never meant for just one nation. People from EVERY country, every language, every skin colour — all equal heirs together in God's family through Jesus Christ. And look at who God chose to tell this secret: Paul, who used to be the greatest enemy of the church! Paul calls himself 'the least of all God's people' — yet God gave him the biggest mission: to preach to the Gentiles the boundless riches of Christ, and to make plain to everyone the administration of this mystery, kept hidden in God for ages. God's purpose in this is breathtaking: through the church, the MANIFOLD WISDOM of God would be made known — even to rulers and authorities in the heavenly realms! Paul says he doesn't want the Ephesians to be discouraged because of his sufferings in prison — his sufferings are actually their glory, proof the secret really is spreading. God still uses ordinary, once-unlikely people to tell the secret. The question is not whether to tell it — the question is how."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "This mystery is that through the gospel the Gentiles are heirs together with Israel, members together of one body.",
-        "es": "El misterio es que los gentiles son, junto con Israel, beneficiarios de la misma herencia, miembros de un mismo cuerpo.",
-        "fr": "Ce mystère, c'est que les païens sont cohéritiers, forment un même corps, et participent à la même promesse en Jésus-Christ par l'Évangile.",
-        "pt": "a saber, que os gentios são co-herdeiros, e co-corporais, e co-participantes da promessa em Cristo Jesus pelo evangelho."
+        "en": "His intent was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms."
       },
       "ref": {
-        "en": "Ephesians 3:6 (NIV)",
-        "es": "Efesios 3:6 (NVI)",
-        "fr": "Éphésiens 3:6 (LSG)",
-        "pt": "Efésios 3:6 (ARC)"
+        "en": "Ephesians 3:10 (NIV)"
       },
       "scramble_words": {
         "en": [
+          "his",
+          "intent",
+          "was",
+          "that",
+          "through",
           "the",
-          "Gentiles",
-          "are",
-          "heirs",
-          "together",
-          "with",
-          "Israel"
-        ],
-        "es": [
-          "los",
-          "gentiles",
-          "son",
-          "junto",
-          "con",
-          "Israel",
-          "herederos"
-        ],
-        "fr": [
-          "les",
-          "païens",
-          "sont",
-          "cohéritiers",
-          "en",
-          "Jésus-Christ"
-        ],
-        "pt": [
-          "a",
-          "saber,",
-          "que",
-          "os",
-          "gentios",
-          "são",
-          "co-herdeiros,"
+          "church",
+          "the",
+          "wisdom",
+          "of",
+          "God"
         ]
       },
       "typing_challenge": true
@@ -78,121 +42,54 @@
     {
       "type": "song",
       "title": {
-        "en": "The Secret Is Out!",
-        "es": "¡El Secreto Se Conoce!",
-        "fr": "Le secret est révélé !",
-        "pt": "O Segredo Saiu!"
+        "en": "A Song for God's Secret Plan"
       },
-      "audio_en": "/static/audio/ephesians/lesson07_en.mp3",
-      "audio_es": "/static/audio/ephesians/lesson07_es.mp3"
+      "audio_en": "/static/audio/ephesians/lesson07_en.mp3"
     },
     {
       "type": "quiz",
       "questions": [
         {
           "q": {
-            "en": "In the Bible, what does a 'mystery' mean?",
-            "es": "En la Biblia, ¿qué significa un 'misterio'?",
-            "fr": "Dans la Bible, que signifie un « mystère » ?",
-            "pt": "No Bíblia, o que significa 'misterio'?"
+            "en": "What is the 'mystery' Paul says was kept secret for ages?"
           },
           "options": {
             "en": [
-              "A puzzle nobody can ever solve",
-              "A scary ghost story",
-              "A secret God has now revealed",
-              "A magic trick"
-            ],
-            "es": [
-              "Un acertijo que nadie puede resolver",
-              "Una historia de fantasmas",
-              "Un secreto que Dios ahora ha revelado",
-              "Un truco de magia"
-            ],
-            "fr": [
-              "Une énigme que personne ne peut résoudre",
-              "Une histoire de fantômes",
-              "Un secret que Dieu a maintenant révélé",
-              "Un tour de magie"
-            ],
-            "pt": [
-              "Um quebra-cabeça que ninguém pode resolver nunca",
-              "Uma história de fantasma assustadora",
-              "Um segredo que Deus revelou agora",
-              "Um truque de magia"
-            ]
-          },
-          "answer": 2
-        },
-        {
-          "q": {
-            "en": "What was God's great secret?",
-            "es": "¿Cuál era el gran secreto de Dios?",
-            "fr": "Quel était le grand secret de Dieu ?",
-            "pt": "O que era o grande segredo de Deus?"
-          },
-          "options": {
-            "en": [
-              "Where the treasure is buried",
-              "That all peoples are equal heirs in God's family through Jesus",
-              "The date the world will end",
-              "How to build a perfect temple"
-            ],
-            "es": [
-              "Dónde está enterrado el tesoro",
-              "Que todos los pueblos son herederos por igual en la familia de Dios por medio de Jesús",
-              "La fecha del fin del mundo",
-              "Cómo construir un templo perfecto"
-            ],
-            "fr": [
-              "Où le trésor est enterré",
-              "Que tous les peuples sont héritiers à part égale dans la famille de Dieu par Jésus",
-              "La date de la fin du monde",
-              "Comment bâtir un temple parfait"
-            ],
-            "pt": [
-              "Onde está enterrado o tesouro",
-              "Todos os povos são herdeiros iguais na família de Deus por meio de Jesus",
-              "A data em que o mundo vai acabar",
-              "Como construir um templo perfeito"
+              "A hidden treasure map",
+              "That people from every nation are equal heirs together in God's family",
+              "A magic spell",
+              "A secret location"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Paul call himself while in prison?",
-            "es": "¿Cómo se llamaba Pablo a sí mismo en la cárcel?",
-            "fr": "Comment Paul se nommait-il en prison ?",
-            "pt": "Eu sou um prisioneiro de Cristo Jesus, mas não estou preso."
+            "en": "How does Paul describe himself, even though God gave him such a big mission?"
           },
           "options": {
             "en": [
-              "The prisoner of Rome",
-              "The unluckiest man alive",
-              "The prisoner of Christ Jesus",
-              "The king of the Gentiles"
-            ],
-            "es": [
-              "El prisionero de Roma",
-              "El hombre con peor suerte",
-              "El prisionero de Cristo Jesús",
-              "El rey de los gentiles"
-            ],
-            "fr": [
-              "Le prisonnier de Rome",
-              "L'homme le plus malchanceux",
-              "Le prisonnier de Jésus-Christ",
-              "Le roi des païens"
-            ],
-            "pt": [
-              "O prisioneiro de Roma",
-              "O homem mais infeliz do mundo",
-              "O prisioneiro de Cristo Jesus",
-              "O rei dos gentios"
+              "The greatest of all God's people",
+              "The least of all God's people",
+              "A king",
+              "Someone who deserved it"
             ]
           },
-          "answer": 2
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say his sufferings in prison actually are, for the Ephesians?"
+          },
+          "options": {
+            "en": [
+              "A reason to be discouraged",
+              "Their glory — proof the secret is spreading",
+              "A sign God has failed",
+              "Something to hide"
+            ]
+          },
+          "answer": 1
         }
       ]
     },
@@ -201,10 +98,7 @@
       "items": [
         {
           "label": {
-            "en": "Colouring sheet: 'Every nation, one family'",
-            "es": "Hoja para colorear: 'Todas las naciones, una familia'",
-            "fr": "Coloriage : « Toutes les nations, une seule famille »",
-            "pt": "Folha de colorir: 'Toda nação, uma família'"
+            "en": "Activity sheet: God's Secret Plan"
           },
           "file": "/static/printables/ephesians/lesson07_sheet.pdf"
         }
@@ -213,10 +107,7 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: The mystery of Ephesians 3 and the doctrine of Personal Evangelism. Scripture calls every believer to personal evangelism: that personal evangelism — sharing the gospel one to one — is the calling of every believer, not just ordained ministers. Paul's pattern in Ephesus (Acts 19) was three years of daily teaching AND personal conversations. The 'mystery' of 3:6 (all peoples as co-heirs) has direct evangelism implications: nobody is beyond the reach of grace; nobody's background disqualifies them; no language or culture is excluded. For a family living between Nigeria, Mexico and beyond, this is personal: your children live in a multi-language, multi-culture world that desperately needs this message. \n\nConversation starters: (1) Who do you know personally who does not yet know Jesus? Write their name and pray for them together. (2) Paul was the least likely messenger — yet God used him most. How does that encourage you when you feel unqualified to share your faith? (3) What is ONE simple way each person in this family could tell the secret of Jesus this week? Commit to one specific action and report back next week.",
-        "es": "Idea central: el plan de Dios de unir a todos los pueblos en Cristo fue Su intención desde siempre — y se deleita en usar mensajeros inesperados. La descripción de Pablo ('el más pequeño de todo el pueblo de Dios', Ef 3:8) muestra cómo la gracia humilla y levanta al mismo tiempo. Para nuestra propia familia multicultural, esta lección toca de cerca: la familia de Dios se parece a todas las naciones. Preguntas para conversar: (1) ¿Por qué crees que Pablo vio sus cadenas como una misión y no como una tragedia? (2) Nuestra familia vive entre países e idiomas — ¿cómo se siente saber que este siempre fue el plan de Dios para Su familia? (3) ¿Alguna vez Dios ha usado algo difícil en tu vida para algo bueno? Oren juntos por niños de otro país, por nombre si conocen alguno.",
-        "fr": "Idée centrale : le plan de Dieu d'unir tous les peuples en Christ a toujours été Son intention — et Il se plaît à utiliser des messagers inattendus. La description que Paul fait de lui-même (« le moindre de tous les saints », Éph 3:8) montre comment la grâce humilie et élève en même temps. Pour notre propre famille multiculturelle, cette leçon touche de près : la famille de Dieu ressemble à toutes les nations. Pour lancer la conversation : (1) Pourquoi penses-tu que Paul voyait ses chaînes comme une mission et non une tragédie ? (2) Notre famille vit entre des pays et des langues — que ressens-tu en sachant que c'était le plan de Dieu depuis toujours ? (3) Dieu a-t-il déjà utilisé quelque chose de difficile dans ta vie pour quelque chose de bon ? Priez ensemble pour des enfants d'un autre pays, par leur nom si vous en connaissez.",
-        "pt": "Idéia principal: O mistério de Efésios 3 e a doutrina do Evangelismo Pessoal. A Escritura chama todos os crentes para o evangelismo pessoal: que o evangelismo pessoal — compartilhar o evangelho um a um — é o chamado de todos os crentes, não apenas de ministros ordenados. O padrão de Paulo em Éfeso (Atos 19) foi três anos de ensino diário E conversas pessoais. O 'mistério' de 3:6 (todos os povos como co-herdeiros) tem implicações diretas para o evangelismo: ninguém está além do alcance da graça; ninguém é desqualificado por seu passado; nenhuma língua ou cultura é excluída. Para uma família que vive entre a Nigéria, México e além, isso é pessoal: seus filhos vivem em um mundo multilíngue, multicultura que desesperadamente precisa desta mensagem.\n\nIniciadores de conversa: (1) Quem você conhece pessoalmente que ainda não conhece Jesus? Escreva seu nome e orar por eles juntos. (2) Paulo foi o mensageiro menos provável — e, no entanto, Deus o usou mais. Como isso o encoraja quando se sente desqualificado para compartilhar sua fé? (3) Qual é UMA maneira simples de cada pessoa nessa família poder contar o segredo de Jesus essa semana? Comitam-se a uma ação específica e relatem o progresso na semana seguinte."
+        "en": "Big idea: the mystery of Ephesians 3 and the doctrine of personal evangelism — every nation, every background, equally welcomed into God's family, with God still choosing once-unlikely people (like Paul, like us) to carry that secret further. The phrase \"manifold wisdom of God... made known\" through the church (3:10) gives the church a cosmic significance: even spiritual authorities watch and learn from what God does among ordinary believers.\n\nConversation starters: (1) Why do you think God chose Paul — once the church's biggest enemy — to carry this secret? (2) What does it mean that no nation or background is excluded from God's family? (3) How can YOU be part of telling this secret today?\n\nPray together for boldness to share the gospel, the way Paul did even from prison."
       }
     }
   ]

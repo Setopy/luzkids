@@ -2,20 +2,15 @@
   "title": {
     "en": "Ephesians for Kids",
     "es": "Efesios para Niños",
-    "fr": "Éphésiens pour les enfants",
-    "pt": "Efésios para Crianças"
+    "fr": "Éphésiens pour les enfants"
   },
   "subtitle": {
-    "en": "Every chapter, every verse — 16 adventures through Paul's letter",
-    "es": "Cada capítulo, cada versículo — 16 aventuras por la carta de Pablo",
-    "fr": "Chaque chapitre, chaque verset — 16 aventures à travers la lettre de Paul",
-    "pt": "Cada capítulo, cada versículo - 16 aventuras através da carta de Paulo"
+    "en": "Every chapter, every verse, mapped to the standard sections of the book — 17 adventures through Paul's letter"
   },
   "description": {
     "en": "Paul wrote a letter from prison that overflows with joy! From the streets of ancient Ephesus to the full armour of God, we'll journey through all six chapters — discovering who we are in Christ, God's amazing plan, and how to walk in love every day.",
     "es": "¡Pablo escribió una carta desde la cárcel que rebosa de alegría! Desde las calles de la antigua Éfeso hasta toda la armadura de Dios, recorreremos los seis capítulos completos — descubriendo quiénes somos en Cristo, el plan maravilloso de Dios, y cómo caminar en amor cada día.",
-    "fr": "Paul a écrit depuis la prison une lettre qui déborde de joie ! Des rues de l'ancienne Éphèse jusqu'à toute l'armure de Dieu, nous parcourrons les six chapitres complets — en découvrant qui nous sommes en Christ, le plan merveilleux de Dieu, et comment marcher dans l'amour chaque jour.",
-    "pt": "Pau escreveu uma carta de prisão que transborda de alegria! De ruas antigas de Éfeso até a armadura de Deus, vamos percorrer os seis capítulos – descobrindo quem somos em Cristo, o incrível plano de Deus e como caminhar no amor todos os dias."
+    "fr": "Paul a écrit depuis la prison une lettre qui déborde de joie ! Des rues de l'ancienne Éphèse jusqu'à toute l'armure de Dieu, nous parcourrons les six chapitres complets — en découvrant qui nous sommes en Christ, le plan merveilleux de Dieu, et comment marcher dans l'amour chaque jour."
   },
   "age_range": "6-12",
   "free": true,
@@ -26,162 +21,138 @@
     {
       "id": "lesson01",
       "title": {
-        "en": "Welcome to Ephesus!",
-        "es": "¡Bienvenidos a Éfeso!",
-        "fr": "Bienvenue à Éphèse !",
-        "pt": "Bem-vindo a Éfeso!"
+        "en": "Welcome to Ephesus!"
       },
-      "ref": "Ephesians 1:1-2"
+      "ref": "Ephesians 1:1-2 / Efesios 1:1-2",
+      "section": "Praise for Spiritual Blessings in Christ"
     },
     {
       "id": "lesson02",
       "title": {
-        "en": "Chosen and Loved",
-        "es": "Escogidos y Amados",
-        "fr": "Choisis et aimés",
-        "pt": "Elegido e Amado"
+        "en": "Chosen and Loved"
       },
-      "ref": "Ephesians 1:3-6"
+      "ref": "Ephesians 1:3-6 / Efesios 1:3-6",
+      "section": "Praise for Spiritual Blessings in Christ"
     },
     {
       "id": "lesson03",
       "title": {
-        "en": "Bought Back and Sealed",
-        "es": "Rescatados y Sellados",
-        "fr": "Rachetés et scellés",
-        "pt": "Comprado de volta e selado"
+        "en": "Bought Back and Sealed"
       },
-      "ref": "Ephesians 1:7-14"
+      "ref": "Ephesians 1:7-14 / Efesios 1:7-14",
+      "section": "Praise for Spiritual Blessings in Christ"
     },
     {
       "id": "lesson04",
       "title": {
-        "en": "Paul's Power Prayer",
-        "es": "La Oración Poderosa de Pablo",
-        "fr": "La puissante prière de Paul",
-        "pt": "A Oração Poderosa de Paulo"
+        "en": "Paul's Power Prayer"
       },
-      "ref": "Ephesians 1:15-23"
+      "ref": "Ephesians 1:15-23 / Efesios 1:15-23",
+      "section": "Thanksgiving and Prayer"
     },
     {
       "id": "lesson05",
       "title": {
-        "en": "Alive in Christ",
-        "es": "Vivos en Cristo",
-        "fr": "Vivants en Christ",
-        "pt": "Vivo em Cristo"
+        "en": "Alive in Christ"
       },
-      "ref": "Ephesians 2:1-10"
+      "ref": "Ephesians 2:1-10 / Efesios 2:1-10",
+      "section": "Made Alive in Christ"
     },
     {
       "id": "lesson06",
       "title": {
-        "en": "One Big Family",
-        "es": "Una Gran Familia",
-        "fr": "Une grande famille",
-        "pt": "Uma Família Grande"
+        "en": "One Big Family"
       },
-      "ref": "Ephesians 2:11-22"
+      "ref": "Ephesians 2:11-22 / Efesios 2:11-22",
+      "section": "One in Christ"
     },
     {
       "id": "lesson07",
       "title": {
-        "en": "God's Secret Plan",
-        "es": "El Plan Secreto de Dios",
-        "fr": "Le plan secret de Dieu",
-        "pt": "O Plano Secreto de Deus"
+        "en": "God's Secret Plan"
       },
-      "ref": "Ephesians 3:1-10"
+      "ref": "Ephesians 3:1-13",
+      "section": "God's Marvelous Plan for the Gentiles"
     },
     {
       "id": "lesson08",
       "title": {
-        "en": "Rooted in Love",
-        "es": "Arraigados en Amor",
-        "fr": "Enracinés dans l'amour",
-        "pt": "Enraizados no Amor"
+        "en": "Rooted in Love"
       },
-      "ref": "Ephesians 3:11-21"
+      "ref": "Ephesians 3:14-21",
+      "section": "A Prayer for the Ephesians"
     },
     {
       "id": "lesson09",
       "title": {
-        "en": "Walk Worthy",
-        "es": "Camina Dignamente",
-        "fr": "Marche dignement",
-        "pt": "Ande com Dignidade"
+        "en": "Walk Worthy, Stay United"
       },
-      "ref": "Ephesians 4:1-10"
+      "ref": "Ephesians 4:1-6",
+      "section": "Unity in the Body of Christ"
     },
     {
       "id": "lesson10",
       "title": {
-        "en": "Gifts for the Team",
-        "es": "Dones para el Equipo",
-        "fr": "Des dons pour l'équipe",
-        "pt": "Presentes para a equipe"
+        "en": "Gifts for the Team"
       },
-      "ref": "Ephesians 4:11-20"
+      "ref": "Ephesians 4:7-16",
+      "section": "Unity in the Body of Christ"
     },
     {
       "id": "lesson11",
       "title": {
-        "en": "Old Clothes, New Clothes",
-        "es": "Ropa Vieja, Ropa Nueva",
-        "fr": "Vieux habits, habits neufs",
-        "pt": "Roupas Velhas, Roupas Novas"
+        "en": "Old Clothes, New Clothes"
       },
-      "ref": "Ephesians 4:21-32"
+      "ref": "Ephesians 4:17-32",
+      "section": "Instructions for Christian Living"
     },
     {
       "id": "lesson12",
       "title": {
-        "en": "Children of Light",
-        "es": "Hijos de Luz",
-        "fr": "Enfants de lumière",
-        "pt": "Filhos da Luz"
+        "en": "Imitate God, Walk in Love"
       },
-      "ref": "Ephesians 5:1-10"
+      "ref": "Ephesians 5:1-7",
+      "section": "Instructions for Christian Living"
     },
     {
       "id": "lesson13",
       "title": {
-        "en": "Wake Up and Sing",
-        "es": "Despierta y Canta",
-        "fr": "Réveille-toi et chante",
-        "pt": "Acordem e Cantem"
+        "en": "Children of Light"
       },
-      "ref": "Ephesians 5:11-20"
+      "ref": "Ephesians 5:8-14",
+      "section": "Children of Light"
     },
     {
       "id": "lesson14",
       "title": {
-        "en": "The Great Mystery of Love",
-        "es": "El Gran Misterio del Amor",
-        "fr": "Le grand mystère de l'amour",
-        "pt": "O Grande Mistério do Amor"
+        "en": "Wake Up and Sing"
       },
-      "ref": "Ephesians 5:21-33"
+      "ref": "Ephesians 5:15-21",
+      "section": "Be Filled with the Spirit"
     },
     {
       "id": "lesson15",
       "title": {
-        "en": "The First Promise",
-        "es": "La Primera Promesa",
-        "fr": "La première promesse",
-        "pt": "A Primeira Promessa"
+        "en": "The Great Mystery of Love"
       },
-      "ref": "Ephesians 6:1-10"
+      "ref": "Ephesians 5:22-33",
+      "section": "Instructions for Christian Households"
     },
     {
       "id": "lesson16",
       "title": {
-        "en": "The Armour of God",
-        "es": "La Armadura de Dios",
-        "fr": "L'armure de Dieu",
-        "pt": "A Armadura de Deus"
+        "en": "The First Promise"
       },
-      "ref": "Ephesians 6:10-24"
+      "ref": "Ephesians 6:1-9",
+      "section": "Instructions for Christian Households"
+    },
+    {
+      "id": "lesson17",
+      "title": {
+        "en": "The Armour of God"
+      },
+      "ref": "Ephesians 6:10-24",
+      "section": "The Armor of God"
     }
   ]
 }

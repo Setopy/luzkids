@@ -2,8 +2,7 @@
   "title": {
     "en": "Chosen and Loved",
     "es": "Escogidos y Amados",
-    "fr": "Choisis et aimés",
-    "pt": "Elegidos e Amados"
+    "fr": "Choisis et aimés"
   },
   "ref": "Ephesians 1:3-6 / Efesios 1:3-6",
   "blocks": [
@@ -12,14 +11,12 @@
       "heading": {
         "en": "A letter from prison — and a love that chose us first!",
         "es": "¿¡Una carta desde la cárcel!?",
-        "fr": "Une lettre depuis la prison ?!",
-        "pt": "Uma carta de prisão — e um amor que nos escolheu primeiro!"
+        "fr": "Une lettre depuis la prison ?!"
       },
       "body": {
         "en": "Paul was in prison in Rome, chained to a guard. But instead of a sad letter, he wrote one of the most JOYFUL letters ever! Why? Because Paul knew a truth that no prison could take away: God loved us and chose us FIRST. Before God made the world, He already knew every person who would turn from their sins and say YES to Jesus — and He called them His own, His beloved children. That means God's love came BEFORE we did anything right! \n\nBut notice — God's choosing is not like a king who forces people to come to his palace whether they want to or not. God's love is an invitation: He knocks, He calls, He draws — and every person must choose to open the door. Have you opened that door? Have you turned from your sins and said YES to Jesus? Because it is those who respond to His love who walk in His blessing. You were on God's mind before the stars were lit — and He is calling your name TODAY!",
         "es": "¡Imagina que tu mejor amigo está lejos — y en problemas! Pablo estaba en una cárcel en Roma, encadenado a un guardia. Pero en vez de escribir una carta triste, ¡Pablo escribió una de las cartas más ALEGRES de la historia! ¿Por qué? Porque Pablo conocía un secreto: ninguna cárcel podía cambiar quién era él en Cristo. Abrió su carta con un canto de alabanza: antes de que Dios creara el mundo, Él nos escogió para ser Sus hijos. No porque lo merecimos. Porque Él nos ama. ¡Tú estabas en la mente de Dios antes de que se encendieran las estrellas!",
-        "fr": "Imagine que ton meilleur ami est loin — et en difficulté ! Paul était dans une prison à Rome, enchaîné à un garde. Mais au lieu d'écrire une lettre triste, Paul a écrit l'une des lettres les plus JOYEUSES de l'histoire ! Pourquoi ? Parce que Paul connaissait un secret : aucune prison ne pouvait changer qui il était en Christ. Il a ouvert sa lettre par un chant de louange : avant même que Dieu crée le monde, Il nous a choisis pour être Ses enfants. Pas parce que nous l'avons mérité. Parce qu'Il nous aime. Tu étais dans la pensée de Dieu avant que les étoiles soient allumées !",
-        "pt": "Paul estava na prisão em Roma, acorrentado a um guardião. Mas em vez de uma carta triste, ele escreveu uma das cartas mais ALEGRES já escritas! Por quê? Porque Paulo sabia uma verdade que nenhuma prisão poderia tirar: Deus nos amou e nos escolheu EM PRIMEIRO LUGAR. Antes de Deus fazer o mundo, Ele já sabia de cada pessoa que se voltaria de seus pecados e diria SIM a Jesus — e Ele os chamou Seus próprios, Seus filhos amados. Isso significa que o amor de Deus veio ANTES de fazermos algo certo!\n\nMas observe — a escolha de Deus não é como um rei que obriga as pessoas a irem para seu palácio, quer elas queiram ou não. O amor de Deus é uma convite: Ele bate, Ele chama, Ele atrai — e cada pessoa deve escolher abrir a porta. Você abriu essa porta? Você se voltou de seus pecados e disse SIM a Jesus? Porque são aqueles que respondem ao Seu amor que caminham na Sua bênção. Você estava na mente de Deus antes que as estrelas fossem acendidas — e Ele está chamando o seu nome HOJE!"
+        "fr": "Imagine que ton meilleur ami est loin — et en difficulté ! Paul était dans une prison à Rome, enchaîné à un garde. Mais au lieu d'écrire une lettre triste, Paul a écrit l'une des lettres les plus JOYEUSES de l'histoire ! Pourquoi ? Parce que Paul connaissait un secret : aucune prison ne pouvait changer qui il était en Christ. Il a ouvert sa lettre par un chant de louange : avant même que Dieu crée le monde, Il nous a choisis pour être Ses enfants. Pas parce que nous l'avons mérité. Parce qu'Il nous aime. Tu étais dans la pensée de Dieu avant que les étoiles soient allumées !"
       }
     },
     {
@@ -80,8 +77,7 @@
       "title": {
         "en": "Chosen Before the Stars",
         "es": "Escogido Antes de las Estrellas",
-        "fr": "Choisi avant les étoiles",
-        "pt": "Escolhido Antes das Estrelas"
+        "fr": "Choisi avant les étoiles"
       },
       "audio_en": "/static/audio/ephesians/lesson02_en.mp3",
       "audio_es": "/static/audio/ephesians/lesson02_es.mp3",
@@ -97,8 +93,7 @@
           "q": {
             "en": "What kind of letter did Paul write from prison?",
             "es": "¿Dónde estaba Pablo cuando escribió esta carta?",
-            "fr": "Où était Paul quand il a écrit cette lettre ?",
-            "pt": "Qual tipo de carta o apóstolo Paulo escreveu da prisão?"
+            "fr": "Où était Paul quand il a écrit cette lettre ?"
           },
           "options": {
             "en": [
@@ -118,12 +113,6 @@
               "En prison",
               "À la plage",
               "Dans le temple"
-            ],
-            "pt": [
-              "Uma carta triste e queixa",
-              "Uma carta alegre cheia de louvor",
-              "Uma carta pedindo ser libertado",
-              "Uma carta sobre soldados romanos"
             ]
           },
           "answer": 1
@@ -132,8 +121,7 @@
           "q": {
             "en": "When did God's love for us begin?",
             "es": "¿Cuándo nos escogió Dios para ser Sus hijos?",
-            "fr": "Quand Dieu nous a-t-il choisis pour être Ses enfants ?",
-            "pt": "Quando começou o amor de Deus por nós?"
+            "fr": "Quand Dieu nous a-t-il choisis pour être Ses enfants ?"
           },
           "options": {
             "en": [
@@ -153,12 +141,6 @@
               "À notre naissance",
               "Avant de créer le monde",
               "Quand nous allons à l'église"
-            ],
-            "pt": [
-              "Quando fomos à igreja",
-              "Quando nascemos",
-              "Antes de criar o mundo",
-              "Quando parámos de pecar"
             ]
           },
           "answer": 2
@@ -167,8 +149,7 @@
           "q": {
             "en": "What must every person do to walk in God's blessing?",
             "es": "¿Por qué nos escogió Dios?",
-            "fr": "Pourquoi Dieu nous a-t-il choisis ?",
-            "pt": "Para andar sob a bênção de Deus, cada pessoa deve fazer o seguinte:"
+            "fr": "Pourquoi Dieu nous a-t-il choisis ?"
           },
           "options": {
             "en": [
@@ -188,12 +169,6 @@
               "Parce que nous l'avons mérité",
               "Parce qu'Il nous aime",
               "Parce que nous sommes intelligents"
-            ],
-            "pt": [
-              "Ser nascido em uma família cristã",
-              "Mudar do pecado e dizer SIM a Jesus",
-              "Ler a Bíblia todos os dias desde a infância",
-              "Ir a uma igreja de Escrituras"
             ]
           },
           "answer": 1
@@ -207,8 +182,7 @@
           "label": {
             "en": "Colouring sheet: 'Chosen before the stars'",
             "es": "Hoja para colorear: 'Escogido antes de las estrellas'",
-            "fr": "Coloriage : « Choisi avant les étoiles »",
-            "pt": "Folha de colorir: 'Escolhido antes das estrelas'"
+            "fr": "Coloriage : « Choisi avant les étoiles »"
           },
           "file": "/static/printables/ephesians/lesson02_sheet.pdf"
         }
@@ -219,9 +193,9 @@
       "body": {
         "en": "Big idea: God's gracious initiative requires our response. \n\nScripture holds that God, in His foreknowledge, chose those who would respond to His love in repentance and faith — not an unconditional election that bypasses human choice, but a divine love that precedes and enables our response. \"He chose us\" (Eph 1:4) points to God's initiative; \"adoption through Jesus Christ\" (1:5) is received by faith. This matters enormously for how we raise children: we don't tell them they are automatically saved because of a prayer someone prayed over them; we call them to genuine repentance and saving faith. \n\nConversation starters: (1) If God loved us before we did anything right, how should that make us feel — AND how should it make us want to live? (2) What is the difference between being chosen and being forced? Why does God give us the choice? (3) Have YOU personally turned from your sins and opened the door to Jesus? Take time tonight for each family member to answer this question honestly. \n\nPray together — and if any child has never truly repented and surrendered, lead them to do so now.",
         "es": "Idea central: la adopción en la familia de Dios es iniciativa de Dios, motivada por amor — no una recompensa por el comportamiento. Preguntas para conversar: (1) ¿Cómo te sientes al saber que Dios te escogió antes de crear cualquier cosa? (2) Pablo estaba encadenado pero lleno de gozo — ¿qué nos ayuda a encontrar gozo en momentos difíciles? (3) ¿Quién en nuestra vida necesita saber que Dios lo ama? Oren juntos agradeciendo a Dios por escoger a cada niño por su nombre.",
-        "fr": "Idée centrale : l'adoption dans la famille de Dieu est l'initiative de Dieu, motivée par l'amour — pas une récompense pour la conduite. Pour lancer la conversation : (1) Que ressens-tu en sachant que Dieu t'a choisi avant de créer quoi que ce soit ? (2) Paul était enchaîné mais plein de joie — qu'est-ce qui nous aide à trouver la joie dans les moments difficiles ? (3) Qui dans notre vie a besoin d'entendre que Dieu l'aime ? Priez ensemble en remerciant Dieu d'avoir choisi chaque enfant par son nom.",
-        "pt": "Idéia principal: A iniciativa graciosa de Deus exige nossa resposta.\n\nA Escritura ensina que Deus, em sua antecipação, escolheu aqueles que responderiam ao seu amor com arrependimento e fé — não uma eleição incondicional que bypassa a escolha humana, mas um amor divino que precede e possibilita nossa resposta. \"Ele nos escolheu\" (Ef 1:4) aponta para a iniciativa de Deus; \"a adoção por Jesus Cristo\" (1:5) é recebida pela fé. Isso importa enormemente para como criamos nossos filhos: não lhes dizemos que estão automaticamente salvos porque alguém orou por eles; os chamamos a um arrependimento genuíno e fé salva.\n\nIniciativas de conversa: (1) Se Deus nos amou antes de fazermos algo certo, como isso deve nos fazer sentir — E como isso deve nos fazer querer viver? (2) Qual é a diferença entre ser escolhido e ser forçado? Por que Deus nos dá a escolha? (3) Você pessoalmente se virou de seus pecados e abriu a porta para Jesus? Reserve tempo esta noite para cada membro da família responder honestamente a essa pergunta.\n\nOrem juntos — e se algum filho nunca se arrependeu verdadeiramente e se rendeu, leve-os a fazê-lo agora.\n\nVersículo para memorizar: \"Ele nos escolheu antes da fundação do mundo, para que fôssemos santos e irrepreensíveis perante ele.\" (Ef 1:4)"
+        "fr": "Idée centrale : l'adoption dans la famille de Dieu est l'initiative de Dieu, motivée par l'amour — pas une récompense pour la conduite. Pour lancer la conversation : (1) Que ressens-tu en sachant que Dieu t'a choisi avant de créer quoi que ce soit ? (2) Paul était enchaîné mais plein de joie — qu'est-ce qui nous aide à trouver la joie dans les moments difficiles ? (3) Qui dans notre vie a besoin d'entendre que Dieu l'aime ? Priez ensemble en remerciant Dieu d'avoir choisi chaque enfant par son nom."
       }
     }
-  ]
+  ],
+  "section": "Praise for Spiritual Blessings in Christ"
 }

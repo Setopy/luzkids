@@ -1,76 +1,38 @@
 {
   "title": {
-    "en": "The Great Mystery of Love",
-    "es": "El Gran Misterio del Amor",
-    "fr": "Le grand mystère de l'amour",
-    "pt": "O Grande Mistério do Amor"
+    "en": "Wake Up and Sing"
   },
-  "ref": "Ephesians 5:21-33 / Efesios 5:21-33",
+  "ref": "Ephesians 5:15-21",
+  "section": "Be Filled with the Spirit",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "The great mystery of love — God's design for marriage",
-        "es": "De qué se tratan realmente las bodas",
-        "fr": "Ce que les mariages racontent vraiment",
-        "pt": "O grande mistério do amor — o plano de Deus para o casamento"
+        "en": "Filled to overflowing"
       },
       "body": {
-        "en": "Paul gives the whole family of God a golden rule: submit to ONE ANOTHER out of reverence for Christ — putting each other first, lovingly, the way Jesus did. \n\nThen he speaks directly to husbands and wives. Husbands are commanded to love their wives the same way Christ loved the church — which means SACRIFICIAL love, giving everything, holding nothing back for yourself. This is not soft or easy; this is the strongest love command in the whole Bible. \n\nThen Paul reveals the secret: a marriage is a PICTURE — a living sermon — of the relationship between Christ and His church. Every faithful, holy, loving marriage preaches the gospel! \n\nScripture holds firmly that marriage is between ONE MAN and ONE WOMAN for LIFE — monogamy is the clear and uniform teaching of Scripture. God designed it this way from creation, and Christ's covenant with His church is undivided and unbreakable. Your marriage — your future marriage, or your parents' marriage — is meant to show the world what Jesus' love for His people looks like. That is an enormous calling and a glorious privilege.",
-        "es": "¿Has ido alguna vez a una boda? Todos se visten elegantes, hay música y pastel, y dos personas prometen amarse para siempre. Pablo dice algo asombroso: ¡una boda es una IMAGEN de algo aún más grande! Primero le da a la familia de Dios una regla de oro: 'sométanse unos a otros por reverencia a Cristo' — eso significa ponerse primero el uno al otro con amor, como lo hizo Jesús. Luego habla a los esposos y esposas. A los esposos se les manda amar a sus esposas 'así como Cristo amó a la iglesia y se entregó por ella' — ¡ese es el amor que lo sacrifica todo, el mandato de amor más fuerte de toda la Biblia! Y entonces Pablo revela el secreto: 'Esto es un MISTERIO profundo; yo me refiero a Cristo y a la iglesia.' Cada matrimonio amoroso — como el de mamá y papá — es una pequeña imagen que apunta a la historia de amor más grande de todas: Jesús, el novio, que dio todo por Su pueblo. Cuando ves una boda, ¡estás viendo un anticipo de la celebración del cielo!",
-        "fr": "Es-tu déjà allé à un mariage ? Tout le monde s'habille élégamment, il y a de la musique et du gâteau, et deux personnes promettent de s'aimer pour toujours. Paul dit quelque chose d'étonnant : un mariage est une IMAGE de quelque chose d'encore plus grand ! D'abord il donne à la famille de Dieu une règle d'or : « soumettez-vous les uns aux autres dans la crainte de Christ » — c'est-à-dire se mettre l'un l'autre en premier avec amour, comme Jésus l'a fait. Puis il parle aux maris et aux femmes. Aux maris il est commandé d'aimer leur femme « comme Christ a aimé l'Église et s'est livré lui-même pour elle » — c'est l'amour qui sacrifie tout, le commandement d'amour le plus fort de toute la Bible ! Et alors Paul révèle le secret : « Ce mystère est grand ; je dis cela par rapport à Christ et à l'Église. » Chaque mariage aimant — comme celui de papa et maman — est une petite image qui pointe vers la plus grande histoire d'amour de toutes : Jésus, l'époux, qui a tout donné pour Son peuple. Quand tu vois un mariage, tu vois un avant-goût de la fête du ciel !",
-        "pt": "Paul dá a toda família de Deus uma regra de ouro: submetam-se uns aos outros com respeito ao Cristo — colocando uns aos outros em primeiro lugar, com amor, do mesmo jeito que Jesus fez. \n\nEntão ele fala diretamente aos maridos e mulheres. Os maridos são comandados a amar suas esposas da mesma forma que o Cristo amou a igreja — o que significa amor sacrificial, dando tudo, sem reservas para si mesmo. Isso não é suave ou fácil; é o mandamento de amor mais forte de toda a Bíblia. \n\nEntão Paulo revela o segredo: um casamento é uma imagem — um sermão vivo — da relação entre Cristo e sua igreja. Todo casamento fiel, santo e amável prega o evangelho! \n\nA Escritura afirma firmemente que o casamento é entre UM HOMEM e UMA MULHER para a VIDA — a monogamia é a ensinamento claro e uniforme da Escritura. Deus o desenhou assim desde a criação, e o pacto do Cristo com sua igreja é indissolúvel e inquebrantável. Seu casamento — seu casamento futuro, ou o casamento dos pais — é para mostrar ao mundo como é o amor de Jesus por seu povo. Isso é um chamado enorme e uma gloriosa honra."
+        "en": "Paul sounds like a parent on a school morning: be very careful how you live — not as unwise, but as WISE, making the most of every opportunity, because the days are evil! Don't be foolish, but understand what the Lord's will is. Then comes the most important question: what fills you? Some people fill themselves with wine, which leads to losing control. Paul says instead: be filled with the SPIRIT — filled to the brim and overflowing with GOD! The signs of being Spirit-filled? You overflow in speaking to one another with psalms, hymns, and songs from the Spirit — singing and making music from your HEART to the Lord — always giving thanks to God the Father for EVERYTHING, in the name of our Lord Jesus Christ. And then, submitting to one another out of reverence for Christ. A truly Spirit-filled life doesn't drain you — it overflows, in worship, in gratitude, and in genuine care for others."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Husbands, love your wives, just as Christ loved the church and gave himself up for her.",
-        "es": "Esposos, amen a sus esposas, así como Cristo amó a la iglesia y se entregó por ella.",
-        "fr": "Maris, aimez vos femmes, comme Christ a aimé l'Église, et s'est livré lui-même pour elle.",
-        "pt": "Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela."
+        "en": "Instead, be filled with the Spirit, speaking to one another with psalms, hymns, and songs from the Spirit."
       },
       "ref": {
-        "en": "Ephesians 5:25 (NIV)",
-        "es": "Efesios 5:25 (NVI)",
-        "fr": "Éphésiens 5:25 (LSG)",
-        "pt": "Efésios 5:25 (ARC)"
+        "en": "Ephesians 5:18-19 (NIV)"
       },
       "scramble_words": {
         "en": [
-          "Christ",
-          "loved",
+          "be",
+          "filled",
+          "with",
           "the",
-          "church",
-          "and",
-          "gave",
-          "himself"
-        ],
-        "es": [
-          "Cristo",
-          "amó",
-          "a",
-          "la",
-          "iglesia",
-          "y",
-          "se",
-          "entregó"
-        ],
-        "fr": [
-          "comme",
-          "Christ",
-          "a",
-          "aimé",
-          "l'Église"
-        ],
-        "pt": [
-          "Vós,",
-          "maridos,",
-          "amai",
-          "vossas",
-          "mulheres,",
-          "como",
-          "também"
+          "Spirit",
+          "speaking",
+          "to",
+          "one",
+          "another"
         ]
       },
       "typing_challenge": true
@@ -78,118 +40,51 @@
     {
       "type": "song",
       "title": {
-        "en": "The Greatest Love Story",
-        "es": "La Historia de Amor Más Grande",
-        "fr": "La plus grande histoire d'amour",
-        "pt": "A Mais Grande História de Amor"
+        "en": "A Song for Wake Up and Sing"
       },
-      "audio_en": "/static/audio/ephesians/lesson14_en.mp3",
-      "audio_es": "/static/audio/ephesians/lesson14_es.mp3"
+      "audio_en": "/static/audio/ephesians/lesson14_en.mp3"
     },
     {
       "type": "quiz",
       "questions": [
         {
           "q": {
-            "en": "What golden rule does Paul give God's whole family first?",
-            "es": "¿Qué regla de oro le da Pablo primero a toda la familia de Dios?",
-            "fr": "Quelle règle d'or Paul donne-t-il d'abord à toute la famille de Dieu ?",
-            "pt": "Qual regra de ouro o apóstolo Paulo dá para a família inteira de Deus primeiro?"
+            "en": "What does Paul say to be filled with, instead of wine?"
           },
           "options": {
             "en": [
-              "Always be first in line",
-              "Submit to one another out of reverence for Christ",
-              "Keep your room tidy",
-              "Never go to weddings"
-            ],
-            "es": [
-              "Siempre ser primero en la fila",
-              "Sométanse unos a otros por reverencia a Cristo",
-              "Mantén tu cuarto ordenado",
-              "Nunca vayas a bodas"
-            ],
-            "fr": [
-              "Toujours être le premier de la file",
-              "Soumettez-vous les uns aux autres dans la crainte de Christ",
-              "Range ta chambre",
-              "Ne va jamais aux mariages"
-            ],
-            "pt": [
-              "Sempre esteja na frente da fila",
-              "Seja humilde e submeta-se uns aos outros por respeito ao Cristo",
-              "Mantenha sua sala organizada",
-              "Nunca vá a casamentos"
+              "Worry",
+              "The Spirit",
+              "Pride",
+              "Nothing in particular"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How are husbands told to love their wives?",
-            "es": "¿Cómo se les manda a los esposos amar a sus esposas?",
-            "fr": "Comment les maris doivent-ils aimer leur femme ?",
-            "pt": "Como os maridos são instruídos a amar suas esposas?"
+            "en": "What overflows when a person is truly filled with the Spirit?"
           },
           "options": {
             "en": [
-              "Only on special days",
-              "As Christ loved the church, giving himself up for her",
-              "When it's convenient",
-              "Like a business deal"
-            ],
-            "es": [
-              "Solo en días especiales",
-              "Como Cristo amó a la iglesia, entregándose por ella",
-              "Cuando sea conveniente",
-              "Como un trato de negocios"
-            ],
-            "fr": [
-              "Seulement les jours spéciaux",
-              "Comme Christ a aimé l'Église, en se livrant pour elle",
-              "Quand c'est pratique",
-              "Comme une affaire commerciale"
-            ],
-            "pt": [
-              "Só em dias especiais",
-              "Como o Senhor Jesus amou a igreja, dando-se por ela",
-              "Quando é conveniente",
-              "Como um negócio"
+              "Arguments and complaints",
+              "Psalms, hymns, songs, and thankfulness",
+              "Wealth and status",
+              "Silence"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is the 'profound mystery' marriage points to?",
-            "es": "¿Cuál es el 'misterio profundo' al que apunta el matrimonio?",
-            "fr": "Quel est le « grand mystère » vers lequel le mariage pointe ?",
-            "pt": "O que é o 'mistério profundo' que o casamento aponta?"
+            "en": "What does Paul say believers should do out of reverence for Christ?"
           },
           "options": {
             "en": [
-              "How wedding cakes are made",
-              "Christ and the church",
-              "The Temple of Artemis",
-              "Roman wedding laws"
-            ],
-            "es": [
-              "Cómo se hacen los pasteles de boda",
-              "Cristo y la iglesia",
-              "El Templo de Artemisa",
-              "Las leyes romanas de matrimonio"
-            ],
-            "fr": [
-              "Comment on fait les gâteaux de mariage",
-              "Christ et l'Église",
-              "Le temple d'Artémis",
-              "Les lois romaines du mariage"
-            ],
-            "pt": [
-              "Como são feitas as tortas de casamento",
-              "Cristo e a igreja",
-              "O Templo de Artemis",
-              "Leis de casamento romanas"
+              "Compete with one another",
+              "Submit to one another",
+              "Ignore each other",
+              "Argue constantly"
             ]
           },
           "answer": 1
@@ -201,10 +96,7 @@
       "items": [
         {
           "label": {
-            "en": "Colouring sheet: 'The wedding feast of the King'",
-            "es": "Hoja para colorear: 'La fiesta de bodas del Rey'",
-            "fr": "Coloriage : « Le festin des noces du Roi »",
-            "pt": "Folha de colorir: 'O banquete de casamento do Rei'"
+            "en": "Activity sheet: Wake Up and Sing"
           },
           "file": "/static/printables/ephesians/lesson14_sheet.pdf"
         }
@@ -213,10 +105,7 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Marriage as a living gospel illustration — and Scripture's firm doctrine of monogamy. Scripture is clear:: 'Monogamy is the uniform teaching of the Bible. Polygamy is contrary to God's perfect will.' This is an important doctrine to teach clearly in our context, where plural marriage is culturally accepted in parts of Nigeria and West Africa. The Ephesians 5 passage grounds Christian marriage not in culture but in the Christ-church relationship (5:32) — and that relationship is exclusive, covenant, and sacrificial. \n\nNote also 5:21 — MUTUAL submission (each putting the other first) is the frame for the whole passage, applied to both husband and wife. The husband's specific command is not headship as authority but headship as sacrificial servanthood (5:25 — 'gave himself UP for her'). \n\nConversation starters: (1) What does it mean that a marriage is a 'living sermon' — a picture of Christ and the church? (2) Why does \n\nScripture believe so strongly in monogamy — one husband and one wife? What scriptures support this? (3) What is ONE way our family can show the world what Jesus' love looks like — not just in marriage but in how we treat each other daily? \n\nPray together for marriages in your family and in your church — that they would be holy, faithful pictures of Christ's covenant love.",
-        "es": "Idea central: el matrimonio es un letrero sacramental — una imagen viva del amor de pacto de Cristo por Su iglesia (5:32). El pasaje abre con la sumisión mutua (5:21) como marco; el mandato al esposo es el sacrificio cruciforme (5:25), la exigencia más fuerte del código familiar. Para los niños, la enseñanza es que el amor que ven modelado en casa predica un sermón sobre Jesús. Nota pastoral: sean delicados e intencionales aquí con niños de hogares monoparentales o difíciles — el énfasis es el amor fiel de Cristo, que nunca falla aun cuando las imágenes humanas fallan. Preguntas para conversar: (1) ¿Qué es lo que más te gusta de una boda? ¿Sabías que es un anticipo de la fiesta del cielo? (2) ¿Cómo 'se entregó' Jesús por Su novia, la iglesia? (3) ¿Cómo puede nuestra familia practicar 'ponerse primero el uno al otro' esta semana — concretamente, en la mesa y con los videojuegos? Oren juntos agradeciendo a Jesús por amar a Su pueblo con una promesa inquebrantable.",
-        "fr": "Idée centrale : le mariage est un panneau sacramentel — une image vivante de l'amour d'alliance de Christ pour Son Église (5:32). Le passage s'ouvre sur la soumission mutuelle (5:21) comme cadre ; le commandement au mari est le sacrifice cruciforme (5:25), l'exigence la plus forte du code familial. Pour les enfants, la leçon est que l'amour qu'ils voient modelé à la maison prêche un sermon sur Jésus. Note pastorale : soyez doux et intentionnels ici avec les enfants de foyers monoparentaux ou difficiles — l'accent est l'amour fidèle de Christ, qui ne faillit jamais même quand les images humaines faillissent. Pour lancer la conversation : (1) Qu'est-ce que tu préfères dans un mariage ? Savais-tu que c'est un avant-goût du festin du ciel ? (2) Comment Jésus « s'est-il livré » pour son épouse, l'Église ? (3) Comment notre famille peut-elle pratiquer « se mettre l'un l'autre en premier » cette semaine — concrètement, à table et devant les jeux vidéo ? Priez ensemble en remerciant Jésus d'aimer Son peuple d'une promesse incassable.",
-        "pt": "Idea principal: O casamento como uma ilustração viva do evangelho — e a doutrina bíblica firme da monogamia. A Escritura é clara: \"A monogamia é a ensinamento uniforme da Bíblia. A poligamia é contrária à vontade perfeita de Deus.\" É uma doutrina importante ensinar claramente em nosso contexto, onde o casamento plural é culturalmente aceito em partes da Nigéria e da África Ocidental. O passo do Efésios 5 fundamenta o casamento cristão não na cultura, mas na relação Cristo-igreja (5:32) — e essa relação é exclusiva, de aliança e sacrificial. \n\nObserve também 5:21 — a submissão mútua (cada um colocando o outro em primeiro lugar) é o quadro para toda a passagem, aplicado a ambos o marido e a esposa. A ordem específica do marido não é autoridade, mas servidão sacrificial (5:25 — \"deu-se a si mesmo em seu lugar\"). \n\nPerguntas de conversa: (1) O que significa que um casamento é um 'sermão vivo' — uma imagem de Cristo e da igreja? (2) Por que a Escritura acredita tão fortemente na monogamia — um marido e uma esposa? Quais escrituras apoiam isso? (3) Qual é UMA maneira nossa de mostrar ao mundo o que é o amor de Jesus — não apenas no casamento, mas em como tratamos uns aos outros diariamente? \n\nOrem juntos pelos casamentos em sua família e em sua igreja — que eles sejam santos, fiéis, imagens da amorosa aliança de Cristo. \n\nVersículo para memorizar: \"Porque o marido é o cabeça da esposa, assim como Cristo é o cabeça da igreja, Ele mesmo sendo a salvação daquele corpo.\" (Efésios 5:23)"
+        "en": "Big idea: the Spirit-filled life is marked by overflow, not depletion — worship, gratitude, music, and mutual submission flowing naturally from a heart filled with God rather than substitutes. \"Making the most of every opportunity, because the days are evil\" (5:16) gives urgency without anxiety: wise, alert living, not fearful living.\n\nConversation starters: (1) What things do people try to \"fill\" themselves with, instead of the Spirit? (2) Why might singing and gratitude be such natural signs of being Spirit-filled? (3) What does mutual submission \"out of reverence for Christ\" look like in your family?\n\nPray together for a fresh filling of the Holy Spirit, overflowing in worship and gratitude."
       }
     }
   ]

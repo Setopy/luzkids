@@ -1,76 +1,37 @@
 {
   "title": {
-    "en": "Gifts for the Team",
-    "es": "Dones para el Equipo",
-    "fr": "Des dons pour l'équipe",
-    "pt": "Presentes para a equipe"
+    "en": "Gifts for the Team"
   },
-  "ref": "Ephesians 4:11-20 / Efesios 4:11-20",
+  "ref": "Ephesians 4:7-16",
+  "section": "Unity in the Body of Christ",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "Gifts for the team — and your place in the mission",
-        "es": "Todos tienen una posición que jugar",
-        "fr": "Chacun a un poste à jouer",
-        "pt": "Presentes para a equipe — e seu lugar na missão"
+        "en": "Equipped to grow up together"
       },
       "body": {
-        "en": "Think of your favourite sports team. Does everyone play the same position? Of course not! Jesus, after He rose and ascended, gave GIFTS to His church: apostles, prophets, evangelists, pastors and teachers. These are not for personal status — they are ministry tools for equipping every single believer to do the work of the Lord. \n\nAnd what is the work? Paul tells us: building up the body of Christ until it reaches the fullness of Christ. Every believer — including you — has a position on the team! Growing up means becoming stable and rooted — no longer like babies tossed by every wave of new ideas or popular opinion — but speaking the truth in love and growing into Christ in everything. Notice that EVANGELISTS are listed in Christ's gifts to the church — people specially gifted to share the gospel. But personal evangelism is not just for evangelists. It is the calling of every member of the team. In Scripture, every believer is expected to bring souls to Jesus. The question is not whether to evangelise — the question is how.",
-        "es": "Piensa en tu equipo favorito. ¿Todos juegan en la misma posición? ¡Claro que no! Pablo dice que el Jesús resucitado dio DONES a Su iglesia: algunos son apóstoles, otros profetas, otros evangelistas (anunciadores de buenas noticias), otros pastores y maestros. Pero aquí está la sorpresa — estas personas con dones no deben hacer todo el trabajo solas. Su tarea es CAPACITAR a todos los demás, 'para edificar el cuerpo de Cristo.' ¡Eso significa que TÚ también tienes una posición en el equipo! ¿Y cuál es la meta? Crecer — madurar, ya no ser como bebés 'zarandeados por las olas,' creyendo lo que diga la última persona. ¿Cómo se fortalece el cuerpo? Pablo da la receta secreta en pocas palabras: 'vivir la verdad con amor.' La verdad sin amor es dura. El amor sin verdad es tambaleante. Juntos, hacen crecer a todo el equipo.",
-        "fr": "Pense à ton équipe préférée. Est-ce que tout le monde joue au même poste ? Bien sûr que non ! Paul dit que Jésus ressuscité a fait des DONS à Son Église : certains sont apôtres, d'autres prophètes, d'autres évangélistes (annonceurs de bonnes nouvelles), d'autres pasteurs et enseignants. Mais voici la surprise — ces personnes douées ne sont pas censées faire tout le travail elles-mêmes. Leur tâche est d'ÉQUIPER tous les autres, « pour l'édification du corps de Christ ». Cela signifie que TOI aussi tu as un poste dans l'équipe ! Et quel est le but ? Grandir — devenir adultes, ne plus être comme des bébés « flottants et emportés à tout vent », croyant ce que dit la dernière personne. Comment le corps devient-il fort ? Paul donne la recette secrète : « professer la vérité dans l'amour ». La vérité sans amour est dure. L'amour sans vérité est bancal. Ensemble, ils font grandir toute l'équipe.",
-        "pt": "Pense em sua equipe de esportes favorita. Quem joga a mesma posição? Claro que não! Jesus, após ressuscitar e ascender, deu DOTES para a igreja: apóstolos, profetas, evangelistas, pastores e mestres. Essas não são para status pessoal — são ferramentas de ministério para equipar cada crente para fazer o trabalho do Senhor.\n\nE qual é o trabalho? Paulo nos diz: construir o corpo de Cristo até que ele atinja a plenitude de Cristo. Cada crente — incluindo você — tem uma posição na equipe! Crescer significa se tornar estável e enraizado — não mais como bebês sacudidos por cada onda de novas ideias ou opinião popular — mas falando a verdade em amor e crescendo em Cristo em tudo. Observe que os EVANGELISTAS estão listados entre os presentes de Cristo à igreja — pessoas especialmente dotadas para compartilhar o evangelho. Mas o evangelismo pessoal não é apenas para os evangelistas. É o chamado de cada membro da equipe. Na Escritura, cada crente é esperado para levar almas a Jesus. A pergunta não é se evangelizar — a pergunta é como."
+        "en": "Think of your favourite sports team. Does everyone play the same position? Of course not! Paul explains that to EACH of us, grace has been given as Christ apportioned it. After He rose and DESCENDED, then ASCENDED far above the heavens, Jesus gave GIFTS to His church: apostles, prophets, evangelists, pastors and teachers. These are not for personal status — they are ministry tools for equipping every single believer to do the work of the Lord, building up the body of Christ, UNTIL we all reach unity in the faith and become MATURE, attaining to the whole measure of the fullness of Christ! Paul warns: we must no longer be like infants, tossed back and forth by every wave of new ideas, blown about by clever and deceitful teaching. Instead, speaking the TRUTH in LOVE, we grow up, becoming in every way the mature body of Christ — the whole body joined and held together, each part doing its work, growing and building itself up in love. Every believer — including you — has a position on this team!"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ.",
-        "es": "Al vivir la verdad con amor, creceremos hasta ser en todo como aquel que es la cabeza, es decir, Cristo.",
-        "fr": "Mais que, professant la vérité dans la charité, nous croissions à tous égards en celui qui est le chef, Christ.",
-        "pt": "mas, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo."
+        "en": "So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers, to equip his people for works of service."
       },
       "ref": {
-        "en": "Ephesians 4:15 (NIV)",
-        "es": "Efesios 4:15 (NVI)",
-        "fr": "Éphésiens 4:15 (LSG)",
-        "pt": "Efésios 4:15 (ARC)"
+        "en": "Ephesians 4:11-12 (NIV)"
       },
       "scramble_words": {
         "en": [
-          "Speaking",
+          "so",
+          "Christ",
+          "himself",
+          "gave",
           "the",
-          "truth",
-          "in",
-          "love",
-          "we",
-          "grow"
-        ],
-        "es": [
-          "Al",
-          "vivir",
-          "la",
-          "verdad",
-          "con",
-          "amor",
-          "creceremos"
-        ],
-        "fr": [
-          "professant",
-          "la",
-          "vérité",
-          "dans",
-          "la",
-          "charité"
-        ],
-        "pt": [
-          "mas,",
-          "seguindo",
-          "a",
-          "verdade",
-          "em",
-          "amor,",
-          "cresçamos"
+          "apostles",
+          "the",
+          "prophets"
         ]
       },
       "typing_challenge": true
@@ -78,118 +39,51 @@
     {
       "type": "song",
       "title": {
-        "en": "Truth in Love (The Team Song)",
-        "es": "La Verdad con Amor (La Canción del Equipo)",
-        "fr": "La vérité dans l'amour (La chanson de l'équipe)",
-        "pt": "A Verdade no Amor (O Hino do Time)"
+        "en": "A Song for Gifts for the Team"
       },
-      "audio_en": "/static/audio/ephesians/lesson10_en.mp3",
-      "audio_es": "/static/audio/ephesians/lesson10_es.mp3"
+      "audio_en": "/static/audio/ephesians/lesson10_en.mp3"
     },
     {
       "type": "quiz",
       "questions": [
         {
           "q": {
-            "en": "Why did Jesus give gifted leaders to the church?",
-            "es": "¿Para qué dio Jesús líderes con dones a la iglesia?",
-            "fr": "Pourquoi Jésus a-t-il donné des responsables doués à l'Église ?",
-            "pt": "Por que o Senhor Jesus deu líderes talentosos à igreja?"
+            "en": "Why did Jesus give gifts like apostles, prophets, evangelists, pastors and teachers to the church?"
           },
           "options": {
             "en": [
-              "To do all the work themselves",
-              "To equip everyone else to serve",
-              "To be famous",
-              "To collect money"
-            ],
-            "es": [
-              "Para que hagan todo el trabajo solos",
-              "Para capacitar a todos los demás a servir",
-              "Para ser famosos",
-              "Para juntar dinero"
-            ],
-            "fr": [
-              "Pour qu'ils fassent tout le travail seuls",
-              "Pour équiper tous les autres à servir",
-              "Pour être célèbres",
-              "Pour ramasser de l'argent"
-            ],
-            "pt": [
-              "Fazer tudo o trabalho sozinho",
-              "Equipar todos os outros para servir",
-              "Ser famoso",
-              "Coletar dinheiro"
+              "For personal status and fame",
+              "To equip His people for works of service, building up the body",
+              "To create competition",
+              "No real reason"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What are immature believers like, according to Paul?",
-            "es": "¿Cómo son los creyentes inmaduros, según Pablo?",
-            "fr": "À quoi ressemblent les croyants immatures, selon Paul ?",
-            "pt": "Eles são como bebês que precisam de leite, não de alimento pesado, porque ainda não podem engolir."
+            "en": "What does Paul compare believers to, if they are tossed by every wave of new teaching?"
           },
           "options": {
             "en": [
-              "Strong trees",
-              "Babies tossed back and forth by the waves",
-              "Sleeping lions",
-              "Busy bees"
-            ],
-            "es": [
-              "Árboles fuertes",
-              "Bebés zarandeados por las olas",
-              "Leones dormidos",
-              "Abejas ocupadas"
-            ],
-            "fr": [
-              "À des arbres solides",
-              "À des bébés emportés par les vagues",
-              "À des lions endormis",
-              "À des abeilles occupées"
-            ],
-            "pt": [
-              "Árvores fortes",
-              "Bebês jogados de um lado para o outro pelas ondas",
-              "Leões dormindo",
-              "Abelhas ocupadas"
+              "Strong soldiers",
+              "Infants, tossed back and forth",
+              "Wise teachers",
+              "Mature leaders"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is Paul's recipe for growing strong together?",
-            "es": "¿Cuál es la receta de Pablo para crecer fuertes juntos?",
-            "fr": "Quelle est la recette de Paul pour grandir forts ensemble ?",
-            "pt": "A receita do Apóstolo Paulo para crescerem fortes juntos?"
+            "en": "What combination does Paul say leads to real growth and maturity?"
           },
           "options": {
             "en": [
-              "Winning every argument",
+              "Truth without love",
               "Speaking the truth in love",
-              "Staying very quiet",
-              "Only saying nice things, even if untrue"
-            ],
-            "es": [
-              "Ganar cada discusión",
-              "Vivir la verdad con amor",
-              "Quedarse muy callados",
-              "Decir solo cosas bonitas, aunque no sean verdad"
-            ],
-            "fr": [
-              "Gagner chaque dispute",
-              "Professer la vérité dans l'amour",
-              "Rester très silencieux",
-              "Ne dire que des choses gentilles, même fausses"
-            ],
-            "pt": [
-              "Vencer todas as discussões",
-              "Falar a verdade com amor",
-              "Ficar muito quieto",
-              "Dizer apenas coisas bonitas, mesmo que não sejam verdadeiras"
+              "Love without truth",
+              "Silence"
             ]
           },
           "answer": 1
@@ -201,10 +95,7 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: 'Every part of the body matters'",
-            "es": "Hoja de actividades: 'Cada parte del cuerpo importa'",
-            "fr": "Fiche d'activité : « Chaque partie du corps compte »",
-            "pt": "Folha de atividades: 'Cada parte do corpo importa'"
+            "en": "Activity sheet: Gifts for the Team"
           },
           "file": "/static/printables/ephesians/lesson10_sheet.pdf"
         }
@@ -213,10 +104,7 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: The fivefold ministry gifts and the doctrine of personal evangelism. \n\nScripture understands Ephesians 4:11 to describe gifts Christ gives for equipping the whole church — the goal being every-member ministry (4:12,16). The evangelist gift (4:11) is listed before pastor and teacher, reflecting Scripture's strong evangelistic priority. The church exists not primarily to gather and be comfortable, but to equip believers to go and win souls. The 'speaking truth in love' formula (4:15) is the antidote to two errors: truth without love (harsh, driving people away) and love without truth (warm but never calling sin sin). \n\nScripture practices both — the preaching is direct and uncompromising, but motivated by genuine love. \n\nConversation starters: (1) Every believer has a 'position on the team' — what gifts or abilities has God given YOU for serving others? (2) What does it look like when truth is spoken without love? And when love is shown without truth? (3) Name one person you will intentionally share the gospel with this month. Write the name down and pray for them every day. \n\nPray together for your church's evangelism outreach — and commit as a family to be part of it.",
-        "es": "Idea central: el ministerio pertenece a todo el cuerpo. Los líderes capacitan; cada miembro — incluidos los niños — edifica el cuerpo (4:12,16). La madurez se mide por la estabilidad (no ser 'zarandeados por las olas' de cada idea nueva, 4:14) y por la unión de verdad y amor (4:15); los versículos 17-20 contrastan esto con la antigua manera fútil de pensar que los efesios dejaron atrás. Preguntas para conversar: (1) ¿Cuál podría ser TU posición en el equipo de Dios ahora mismo — animar, ayudar, orar, dar la bienvenida? (2) ¿Recuerdas una vez que alguien te dijo la verdad con amor? ¿En qué fue diferente de la verdad dura o del halago vacío? (3) ¿Qué 'olas' (modas, opiniones, presión de grupo) intentan zarandear a los niños en la escuela? Oren para que cada miembro de la familia crezca un poco más parecido a Cristo este mes, nombrando el área específica.",
-        "fr": "Idée centrale : le ministère appartient à tout le corps. Les responsables équipent ; chaque membre — enfants compris — édifie le corps (4:12,16). La maturité se mesure à la stabilité (ne pas être « emporté à tout vent » de chaque idée nouvelle, 4:14) et à l'union de la vérité et de l'amour (4:15) ; les versets 17-20 contrastent cela avec l'ancienne manière futile de penser que les Éphésiens avaient quittée. Pour lancer la conversation : (1) Quel pourrait être TON poste dans l'équipe de Dieu en ce moment — encourager, aider, prier, accueillir ? (2) Te souviens-tu d'une fois où quelqu'un t'a dit la vérité avec amour ? En quoi était-ce différent d'une vérité dure ou d'une flatterie vide ? (3) Quelles « vagues » (modes, opinions, pression des camarades) essaient d'emporter les enfants à l'école ? Priez pour que chaque membre de la famille grandisse un peu plus à la ressemblance de Christ ce mois-ci, en nommant le domaine précis.",
-        "pt": "Idéia principal: Os cinco dons de ministério e a doutrina do evangelismo pessoal.\n\nA Escritura entende Efésios 4:11 como descrever os dons que Cristo dá para equipar toda a igreja — o objetivo sendo o ministério de todos os membros (4:12,16). O dom de evangelista (4:11) é listado antes de pastor e professor, refletindo a prioridade evangelística forte da Escritura. A igreja existe não primariamente para se reunir e ser confortável, mas para equipar os crentes para ir e ganhar almas. A fórmula \"falar a verdade em amor\" (4:15) é o antídoto para dois erros: verdade sem amor (duro, afastando as pessoas) e amor sem verdade (quente, mas nunca chamando pecado pecado).\n\nA Escritura pratica ambos — o pregador é direto e intransigente, mas motivado por amor genuíno.\n\nPontos de partida para conversa: (1) Cada crente tem uma \"posição no time\" — quais dons ou habilidades o Senhor lhe deu para servir os outros? (2) O que parece quando a verdade é falada sem amor? E quando o amor é mostrado sem verdade? (3) Nomeie uma pessoa com quem você irá compartilhar o evangelho este mês. Escreva o nome e ore por eles todos os dias.\n\nOrem juntos pela saída missionária da sua igreja — e se comprometam como família a fazer parte dela."
+        "en": "Big idea: the fivefold ministry gifts exist for equipping the whole church toward every-member maturity, not for elevating a few leaders. The \"speaking truth in love\" formula (4:15) is the antidote to two errors: truth without love (harsh, driving people away) and love without truth (warm but never calling sin sin).\n\nConversation starters: (1) Every believer has a \"position on the team\" — what gifts has God given YOU for serving others? (2) What does it look like when truth is spoken without love? And love without truth? (3) Why does maturity require growing together, not just alone?\n\nPray together for your church's ministry, and for growth toward maturity as a family."
       }
     }
   ]
