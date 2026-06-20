@@ -1,0 +1,106 @@
+{
+  "title": {
+    "en": "Philippians for Kids"
+  },
+  "subtitle": {
+    "en": "All 4 chapters, mapped to the standard sections of the book — joy in every circumstance!"
+  },
+  "description": {
+    "en": "A joyful letter written from prison, proving that real joy doesn't depend on circumstances. Eleven adventures through all four chapters of Philippians, following the same section divisions found in standard study Bibles — discovering Christ's humility, pressing on toward the goal, and the secret of contentment in any and every situation."
+  },
+  "age_range": "6-12",
+  "free": true,
+  "order": 5,
+  "emoji": "😊",
+  "color": "#f6ab3a",
+  "lessons": [
+    {
+      "id": "lesson01",
+      "title": {
+        "en": "A Letter Bursting with Joy"
+      },
+      "ref": "Philippians 1:1-11",
+      "section": "Thanksgiving and Prayer"
+    },
+    {
+      "id": "lesson02",
+      "title": {
+        "en": "Chains That Set the Gospel Free"
+      },
+      "ref": "Philippians 1:12-26",
+      "section": "Paul's Chains Advance the Gospel"
+    },
+    {
+      "id": "lesson03",
+      "title": {
+        "en": "Standing Firm, Side by Side"
+      },
+      "ref": "Philippians 1:27-30",
+      "section": "Life Worthy of the Gospel"
+    },
+    {
+      "id": "lesson04",
+      "title": {
+        "en": "He Made Himself Nothing"
+      },
+      "ref": "Philippians 2:1-11",
+      "section": "Imitating Christ's Humility"
+    },
+    {
+      "id": "lesson05",
+      "title": {
+        "en": "Work It Out, Shine It Out"
+      },
+      "ref": "Philippians 2:12-18",
+      "section": "Shining Like Stars"
+    },
+    {
+      "id": "lesson06",
+      "title": {
+        "en": "Two Faithful Friends"
+      },
+      "ref": "Philippians 2:19-30",
+      "section": "Timothy and Epaphroditus"
+    },
+    {
+      "id": "lesson07",
+      "title": {
+        "en": "Garbage, Compared to Knowing Christ"
+      },
+      "ref": "Philippians 3:1-11",
+      "section": "No Confidence in the Flesh"
+    },
+    {
+      "id": "lesson08",
+      "title": {
+        "en": "Pressing On, Not Arrived Yet"
+      },
+      "ref": "Philippians 3:12-4:1",
+      "section": "Pressing On Toward the Goal"
+    },
+    {
+      "id": "lesson09",
+      "title": {
+        "en": "Don't Be Anxious — Pray!"
+      },
+      "ref": "Philippians 4:2-9",
+      "section": "Final Exhortations"
+    },
+    {
+      "id": "lesson10",
+      "title": {
+        "en": "Content in Any Circumstance"
+      },
+      "ref": "Philippians 4:10-20",
+      "section": "Thanks for Their Gifts"
+    },
+    {
+      "id": "lesson11",
+      "title": {
+        "en": "Grace Be With Your Spirit"
+      },
+      "ref": "Philippians 4:21-23",
+      "section": "Final Greetings"
+    }
+  ]
+}

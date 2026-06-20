@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Grace Be With Your Spirit"
+  },
+  "ref": "Philippians 4:21-23",
+  "section": "Final Greetings",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A short, warm goodbye"
+      },
+      "body": {
+        "en": "Paul closes this joyful, personal letter with brief, warm greetings. He asks the Philippians to greet every one of God's holy people in Christ Jesus — and the brothers with him send their greetings too. Then comes a small but touching detail: 'All God's people here send you greetings, especially those who belong to Caesar's household.' Imagine that — even within the emperor's own household, in the very heart of the Roman government, there were believers who knew and loved this little church far away in Philippi! The gospel had reached into the most unexpected, powerful places, carried by ordinary believers serving even in Caesar's own house. And then Paul's final words, simple and complete: 'The grace of the Lord Jesus Christ be with your spirit. Amen.' A letter that began overflowing with joy and partnership, that walked through chains, humility, pressing on, and contentment, ends exactly where every letter should end: with grace, freely given, resting on every reader."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The grace of the Lord Jesus Christ be with your spirit."
+      },
+      "ref": {
+        "en": "Philippians 4:23 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "grace",
+          "of",
+          "the",
+          "Lord",
+          "Jesus",
+          "Christ",
+          "be",
+          "with",
+          "your",
+          "spirit"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Grace Be With Your Spirit"
+      },
+      "audio_en": "/static/audio/philippians/lesson11_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Who does Paul mention sends greetings, in a surprising detail?"
+          },
+          "options": {
+            "en": [
+              "Only people in Philippi",
+              "Believers in Caesar's own household, in Rome",
+              "No one in particular",
+              "Only Timothy"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the detail about Caesar's household show about the gospel?"
+          },
+          "options": {
+            "en": [
+              "It hadn't spread very far",
+              "It had reached into even the most powerful, unexpected places",
+              "It was only for the poor",
+              "It had failed completely"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What are the very last words of the letter to the Philippians?"
+          },
+          "options": {
+            "en": [
+              "Goodbye forever",
+              "The grace of the Lord Jesus Christ be with your spirit",
+              "Remember me always",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Grace Be With Your Spirit"
+          },
+          "file": "/static/printables/philippians/lesson11_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the gospel's reach into even Caesar's household — a small, easily-missed detail — testifies to grace spreading into the most unexpected corners through ordinary, faithful believers, not strategic campaigns. The letter's closing benediction, \"grace... be with your spirit,\" fittingly returns to the theme of grace and joy that has run through the entire letter, from its first verse to its last.\n\nConversation starters: (1) What does it mean that believers even served faithfully inside Caesar's own household? (2) Looking back over the whole letter, what stands out to you most about Paul's joy in hard circumstances? (3) How would you summarize the book of Philippians in one sentence to a friend?\n\nPray the closing blessing of Philippians together as a family: that the grace of the Lord Jesus Christ would be with each person's spirit."
+      }
+    }
+  ]
+}

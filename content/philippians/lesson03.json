@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Standing Firm, Side by Side"
+  },
+  "ref": "Philippians 1:27-30",
+  "section": "Life Worthy of the Gospel",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "One spirit, one mind, no fear"
+      },
+      "body": {
+        "en": "Paul gives a clear charge: whatever happens, conduct yourselves in a way worthy of the gospel of Christ — so that whether Paul comes to visit or stays away, he'll hear that they are standing firm in ONE SPIRIT, with ONE MIND, striving together SIDE BY SIDE for the faith of the gospel. This wasn't a suggestion for a few extra-committed believers — it was for the whole church, together, unified, facing whatever opposition came their way without being frightened. Paul reminds them that opposition is actually a sign pointing two directions at once: it shows those who oppose them are headed for destruction, while showing the believers themselves are headed for salvation — and this is God's doing! Paul even says it's been GRANTED to them, as a gift, not just to believe in Christ, but also to SUFFER for Him — going through the very same kind of struggle Paul himself was experiencing in prison. Standing firm together, without fear, was itself part of their witness to a watching world."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Conduct yourselves in a manner worthy of the gospel of Christ."
+      },
+      "ref": {
+        "en": "Philippians 1:27 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "conduct",
+          "yourselves",
+          "in",
+          "a",
+          "manner",
+          "worthy",
+          "of",
+          "the",
+          "gospel"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Standing Firm, Side by Side"
+      },
+      "audio_en": "/static/audio/philippians/lesson03_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Paul want the Philippians to stand, facing opposition?"
+          },
+          "options": {
+            "en": [
+              "Each person alone, scattered",
+              "In one spirit, one mind, striving together side by side",
+              "Hidden and silent",
+              "Arguing among themselves"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say opposition actually shows about believers?"
+          },
+          "options": {
+            "en": [
+              "That God has abandoned them",
+              "That they are headed for salvation, which is God's doing",
+              "That they did something wrong",
+              "Nothing significant"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say has been 'granted' to believers, alongside believing in Christ?"
+          },
+          "options": {
+            "en": [
+              "Wealth and comfort",
+              "The privilege of suffering for Him too",
+              "Fame",
+              "Nothing extra"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Standing Firm, Side by Side"
+          },
+          "file": "/static/printables/philippians/lesson03_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: unified, fearless standing as a body of believers, even under real opposition, is itself a form of gospel witness — and suffering for Christ is framed not as a tragedy to merely endure, but as something genuinely \"granted\" alongside faith itself. This reframes hardship as participation in Christ's own pattern, not evidence of God's absence.\n\nConversation starters: (1) Why does unity (\"one spirit, one mind\") matter so much when facing opposition? (2) How can suffering for something you believe in actually be a \"gift,\" in Paul's strange logic? (3) What does standing \"side by side\" with other believers look like for you practically?\n\nPray for courage and unity, standing firm together rather than alone."
+      }
+    }
+  ]
+}

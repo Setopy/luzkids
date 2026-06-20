@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Pressing On, Not Arrived Yet"
+  },
+  "ref": "Philippians 3:12-4:1",
+  "section": "Pressing On Toward the Goal",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Forgetting what's behind, straining ahead"
+      },
+      "body": {
+        "en": "Paul is honest about something important: he hasn't already arrived, hasn't already been made perfect — but he presses ON to take hold of what Christ took hold of him for! Using the picture of a runner in a race, Paul says: forgetting what is behind, and straining toward what is ahead, I press on toward the GOAL, to win the prize for which God called me heavenward in Christ Jesus! He urges mature believers to think this way too, and trusts God will make clear anything they see differently — but whatever they've already attained, keep living up to it. Then a sobering warning: some live as enemies of the cross, whose god is their stomach, whose glory is in their shame, whose mind is set on earthly things — their destiny is destruction. But OUR citizenship, Paul says, is in HEAVEN, and we eagerly await a Savior from there, the Lord Jesus Christ, who will transform our lowly bodies to be like His glorious body! So Paul closes: 'Therefore, stand firm in the Lord, my brothers and sisters — my joy and crown!'"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus."
+      },
+      "ref": {
+        "en": "Philippians 3:14 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "I",
+          "press",
+          "on",
+          "toward",
+          "the",
+          "goal",
+          "to",
+          "win",
+          "the",
+          "prize"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Pressing On, Not Arrived Yet"
+      },
+      "audio_en": "/static/audio/philippians/lesson08_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Does Paul claim to have already 'arrived' spiritually, fully perfect?"
+          },
+          "options": {
+            "en": [
+              "Yes, completely",
+              "No — he presses on, forgetting what's behind, straining toward what's ahead",
+              "He doesn't address this",
+              "He claims to be better than everyone else"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What warning does Paul give about those who are 'enemies of the cross'?"
+          },
+          "options": {
+            "en": [
+              "Nothing serious — they're fine",
+              "Their mind is set on earthly things, and their destiny is destruction",
+              "They are actually the most spiritual people",
+              "No warning is given"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Where does Paul say believers' true citizenship is?"
+          },
+          "options": {
+            "en": [
+              "In their home country only",
+              "In heaven",
+              "Nowhere in particular",
+              "Only in Philippi"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Pressing On, Not Arrived Yet"
+          },
+          "file": "/static/printables/philippians/lesson08_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: confident faith paired with humble, ongoing pursuit — Paul refuses to claim premature spiritual arrival, modeling exactly the kind of perseverance the rest of Scripture (especially Hebrews) calls for, never presumption, always pressing on. The sober warning about \"enemies of the cross\" whose \"destiny is destruction\" (3:18-19) is significant supporting evidence, alongside Hebrews and Galatians, for taking ongoing faithfulness seriously rather than assuming unconditional security regardless of life's direction.\n\nConversation starters: (1) Why is it important that even Paul says he hasn't \"already arrived\"? (2) What does \"forgetting what is behind, straining toward what is ahead\" look like practically for you? (3) What does it mean that your \"citizenship is in heaven\" — how should that change daily priorities?\n\nPray for grace to keep pressing on, never presuming you've already arrived."
+      }
+    }
+  ]
+}

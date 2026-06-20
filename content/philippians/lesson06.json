@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Two Faithful Friends"
+  },
+  "ref": "Philippians 2:19-30",
+  "section": "Timothy and Epaphroditus",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Genuine concern, risked life"
+      },
+      "body": {
+        "en": "Paul now talks about two people he loves and trusts deeply. First, Timothy — Paul says he has no one else like him, who shows GENUINE concern for the Philippians' welfare, because everyone else seems to look out for their own interests, not those of Jesus Christ. Timothy had proved himself, serving alongside Paul like a son with his father, in the work of the gospel. Paul hopes to send him soon, and trusts the Lord he himself will visit too. Then Paul speaks of Epaphroditus — his brother, co-worker, and fellow soldier, who the Philippians had sent to help Paul, and who became desperately ill, even near death, while serving him! God had mercy and Epaphroditus recovered, but Paul says Epaphroditus risked his very life for the work of Christ, to make up for the help the Philippians themselves couldn't give in person. Paul urges them to welcome him back with great joy and honor people like him highly — because faithful, sacrificial service, even when it isn't glamorous or famous, deserves real honor in the church."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "He almost died for the work of Christ, risking his life to make up for the help you could not give me."
+      },
+      "ref": {
+        "en": "Philippians 2:30 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "he",
+          "almost",
+          "died",
+          "for",
+          "the",
+          "work",
+          "of",
+          "Christ",
+          "risking",
+          "his",
+          "life"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Two Faithful Friends"
+      },
+      "audio_en": "/static/audio/philippians/lesson06_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say makes Timothy unusual, compared to most people?"
+          },
+          "options": {
+            "en": [
+              "His wealth",
+              "His genuine concern for others' welfare, not just his own interests",
+              "His fame",
+              "His age"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened to Epaphroditus while he was serving Paul?"
+          },
+          "options": {
+            "en": [
+              "Nothing notable",
+              "He became desperately ill, nearly dying, while serving Paul",
+              "He abandoned his mission",
+              "He became wealthy"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Paul ask the Philippians to treat Epaphroditus when he returns?"
+          },
+          "options": {
+            "en": [
+              "With suspicion",
+              "With great joy and high honor",
+              "Indifferently",
+              "With criticism"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Two Faithful Friends"
+          },
+          "file": "/static/printables/philippians/lesson06_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: genuine, sacrificial service — embodied in two real, named people — deserves real honor in the church, not just admiration for famous leaders. Timothy's \"genuine concern,\" contrasted with those who \"look out for their own interests\" (2:20-21), and Epaphroditus's near-fatal risk taken in ordinary service, model the kind of others-centered love chapter 2 has just described in Christ Himself (2:5-8) — doctrine made visible in real lives.\n\nConversation starters: (1) What made Timothy different from people who only look out for themselves? (2) Why might Paul make a point of publicly honoring Epaphroditus's risk and sacrifice? (3) Who in your life serves faithfully without much recognition, and how could you honor them?\n\nPray for faithful friends like Timothy and Epaphroditus, and for grace to be that kind of friend to others."
+      }
+    }
+  ]
+}

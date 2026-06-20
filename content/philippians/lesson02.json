@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Chains That Set the Gospel Free"
+  },
+  "ref": "Philippians 1:12-26",
+  "section": "Paul's Chains Advance the Gospel",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "To live is Christ"
+      },
+      "body": {
+        "en": "Paul writes from prison — but instead of despair, he shares astonishing news: what happened to him has actually served to ADVANCE the gospel! Because of his chains, the guards and everyone around have heard about Christ, and many believers have been encouraged to speak God's Word more courageously. Some people were even preaching Christ out of selfish rivalry, hoping to make Paul's imprisonment harder — but Paul doesn't care about their motives. 'What does it matter?' he says. 'The important thing is that in every way... Christ is preached. And because of this I rejoice!' Then Paul shares one of his most famous lines: 'For to me, to live is Christ and to die is gain.' He's torn between two good things — staying to keep helping the Philippians grow, or going to be with Christ, which would be far better for himself personally. But Paul decides it's more necessary for them that he continues living and serving. Even chained to a wall, awaiting trial, Paul's entire identity was so wrapped up in Christ that prison couldn't shrink his joy or his usefulness."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "For to me, to live is Christ and to die is gain."
+      },
+      "ref": {
+        "en": "Philippians 1:21 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "for",
+          "to",
+          "me",
+          "to",
+          "live",
+          "is",
+          "Christ",
+          "and",
+          "to",
+          "die",
+          "is",
+          "gain"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Chains That Set the Gospel Free"
+      },
+      "audio_en": "/static/audio/philippians/lesson02_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Paul say actually happened because of his imprisonment?"
+          },
+          "options": {
+            "en": [
+              "The gospel was silenced",
+              "The gospel was advanced — more people heard about Christ",
+              "Nothing changed at all",
+              "Everyone gave up"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did Paul respond to people preaching Christ from selfish motives, just to make trouble for him?"
+          },
+          "options": {
+            "en": [
+              "With anger and bitterness",
+              "He still rejoiced, because Christ was being preached either way",
+              "He stopped preaching entirely",
+              "He tried to silence them"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul mean by 'to live is Christ and to die is gain'?"
+          },
+          "options": {
+            "en": [
+              "He was afraid of both living and dying",
+              "His whole life was about Christ, and even death would bring him closer to Christ",
+              "He wanted to die quickly",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Chains That Set the Gospel Free"
+          },
+          "file": "/static/printables/philippians/lesson02_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: a perspective so anchored in Christ that even imprisonment becomes gospel opportunity, and even the prospect of death loses its sting. Paul's remarkable indifference to others' mixed motives (1:15-18) — caring only that Christ is preached, not who gets credit — models a maturity worth aspiring to. \"To live is Christ and to die is gain\" (1:21) crystallizes a life so identified with Jesus that neither outcome is something to fear.\n\nConversation starters: (1) How could being in prison actually \"advance\" the gospel? (2) Why didn't Paul let other people's selfish motives bother him? (3) What would it mean for YOUR life to be summed up as \"to live is Christ\"?\n\nPray for the same unshakeable perspective Paul had, whatever circumstances come."
+      }
+    }
+  ]
+}

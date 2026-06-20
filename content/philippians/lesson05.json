@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Work It Out, Shine It Out"
+  },
+  "ref": "Philippians 2:12-18",
+  "section": "Shining Like Stars",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "No grumbling, just light"
+      },
+      "body": {
+        "en": "Paul tells the Philippians something that sounds almost backwards at first: 'Continue to work out your salvation with fear and trembling — for it is GOD who works in you to will and to act, in order to fulfill His good purpose.' Notice both halves are true at once: it really is God's work in you, AND you are called to actively work it out, taking it seriously, not casually. Then Paul gets wonderfully practical: do everything WITHOUT grumbling or arguing! Why? So that you may become blameless and pure, children of God without fault in a warped and crooked world — and SHINE among them like stars in the sky, as you hold firmly to the word of life! Imagine the night sky: stars don't make noise, they don't grumble or argue about their job — they simply shine, faithfully, in the darkness, and people notice. Paul says even if his own life is poured out like a drink offering for their faith, he would still be glad and rejoice — and urges them to be glad and rejoice with him too. A grumbling, arguing church doesn't shine. A thankful, united one does, brilliantly."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Continue to work out your salvation with fear and trembling, for it is God who works in you to will and to act in order to fulfill his good purpose."
+      },
+      "ref": {
+        "en": "Philippians 2:12-13 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "continue",
+          "to",
+          "work",
+          "out",
+          "your",
+          "salvation",
+          "with",
+          "fear",
+          "and",
+          "trembling"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Work It Out, Shine It Out"
+      },
+      "audio_en": "/static/audio/philippians/lesson05_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Paul, who works in believers to will and to act?"
+          },
+          "options": {
+            "en": [
+              "No one — it's all human effort",
+              "God Himself, fulfilling His good purpose",
+              "Random chance",
+              "Other church members only"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say believers should do everything without?"
+          },
+          "options": {
+            "en": [
+              "Without prayer",
+              "Without grumbling or arguing",
+              "Without eating",
+              "Without sleeping"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What picture does Paul use for how believers shine in a dark world?"
+          },
+          "options": {
+            "en": [
+              "Loud trumpets",
+              "Stars in the sky",
+              "Fireworks",
+              "Sirens"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Work It Out, Shine It Out"
+          },
+          "file": "/static/printables/philippians/lesson05_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the careful, beautiful tension of 2:12-13 — God's sovereign work and the believer's genuine, serious effort held together without contradiction, a foundational text for understanding sanctification as neither pure passivity nor self-powered striving, but cooperative grace, taken with appropriate \"fear and trembling,\" not casual presumption. The practical fruit of this Spirit-empowered effort is strikingly ordinary: no grumbling, no arguing — and the result is luminous, visible holiness, like stars against a dark sky.\n\nConversation starters: (1) How can it be true that God works in you AND you must actively \"work it out\"? (2) Why might grumbling and arguing dim a Christian's \"shine\" more than almost anything else? (3) What does it look like, practically, for you to \"shine like a star\" this week?\n\nPray for grace to take your own growth seriously, while trusting it is God who works in you."
+      }
+    }
+  ]
+}

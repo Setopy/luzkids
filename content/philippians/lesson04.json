@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "He Made Himself Nothing"
+  },
+  "ref": "Philippians 2:1-11",
+  "section": "Imitating Christ's Humility",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "From the throne to the cross"
+      },
+      "body": {
+        "en": "Paul appeals to the Philippians: if you have any encouragement from being united with Christ, any comfort from His love, then make Paul's joy complete by being like-minded, having the same love, being one in spirit. Do nothing out of selfish ambition — instead, in HUMILITY, value others above yourselves! Then Paul gives the most stunning example of humility ever recorded: Jesus, though He was God, did not cling to His rights and glory — He made Himself NOTHING, taking the very nature of a SERVANT, being made in human likeness! And He humbled Himself even further, becoming obedient to death — even death on a cross, the most shameful death of all. But that's not the end of the story: because of this, God exalted Him to the highest place, giving Him the name above every name — so that one day, at the name of Jesus, EVERY knee will bow, in heaven, on earth, and under the earth, and every tongue will confess that Jesus Christ is LORD! Christ's path from highest glory to lowest humiliation to highest exaltation is the pattern every believer is called to follow."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "In your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing."
+      },
+      "ref": {
+        "en": "Philippians 2:5-7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "have",
+          "the",
+          "same",
+          "mindset",
+          "as",
+          "Christ",
+          "Jesus",
+          "who",
+          "made",
+          "himself",
+          "nothing"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for He Made Himself Nothing"
+      },
+      "audio_en": "/static/audio/philippians/lesson04_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say believers should do instead of acting from selfish ambition?"
+          },
+          "options": {
+            "en": [
+              "Compete for attention",
+              "In humility, value others above themselves",
+              "Ignore others completely",
+              "Demand their own rights"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus do, even though He was God, according to this passage?"
+          },
+          "options": {
+            "en": [
+              "He demanded recognition",
+              "He made Himself nothing, taking the nature of a servant",
+              "He stayed distant from humanity",
+              "He refused to suffer"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened after Jesus humbled Himself even to death on a cross?"
+          },
+          "options": {
+            "en": [
+              "Nothing changed",
+              "God exalted Him to the highest place, above every name",
+              "He was forgotten",
+              "He lost all authority"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: He Made Himself Nothing"
+          },
+          "file": "/static/printables/philippians/lesson04_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the \"Christ hymn\" (2:6-11), among the most theologically rich passages in the New Testament, presents the full arc of Christ's humility and exaltation as the pattern for genuine Christian community — humility isn't weakness, it's the very nature of God displayed in the incarnation and the cross. The downward movement (equality with God → servant nature → death on a cross) is met by an even greater upward movement (exalted to the highest place, every knee bowing) — humility, in God's economy, is the path to true glory, never its opposite.\n\nConversation starters: (1) What does it mean that Jesus \"made Himself nothing,\" even though He was God? (2) Why does humility — valuing others above yourself — feel so countercultural? (3) How does Christ's pattern (humility, then exaltation) change how you think about being treated unfairly?\n\nPray, asking God to give each family member the same mindset as Christ Jesus."
+      }
+    }
+  ]
+}

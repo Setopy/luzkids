@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Don't Be Anxious — Pray!"
+  },
+  "ref": "Philippians 4:2-9",
+  "section": "Final Exhortations",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The peace that guards your heart"
+      },
+      "body": {
+        "en": "Paul gives quick, practical final instructions. First, he personally appeals to two women, Euodia and Syntyche, to agree with each other in the Lord — even naming them, showing how seriously he took unity between real people, not just unity in theory. Then comes one of the most beloved passages in the whole Bible: 'Rejoice in the Lord always. I will say it again: Rejoice! Let your gentleness be evident to all. The Lord is near. Do not be anxious about anything, but in EVERY situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will GUARD your hearts and minds in Christ Jesus.' Picture a soldier standing guard at a gate, protecting what's inside — that's what God's peace does for your heart and mind, when anxiety tries to break in! Finally, Paul says: whatever is true, noble, right, pure, lovely, admirable, excellent, or praiseworthy — think about such things. Whatever you've learned from Paul, put it into practice, and the God of peace will be with you."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+      },
+      "ref": {
+        "en": "Philippians 4:7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "peace",
+          "of",
+          "God",
+          "will",
+          "guard",
+          "your",
+          "hearts",
+          "and",
+          "your",
+          "minds"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Don't Be Anxious — Pray!"
+      },
+      "audio_en": "/static/audio/philippians/lesson09_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say to do instead of being anxious about anything?"
+          },
+          "options": {
+            "en": [
+              "Worry harder",
+              "Pray about everything, with thanksgiving, presenting requests to God",
+              "Ignore the problem",
+              "Complain to others"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What picture does God's peace do for our hearts and minds, according to verse 7?"
+          },
+          "options": {
+            "en": [
+              "It does nothing in particular",
+              "It guards them, like a soldier standing watch",
+              "It confuses them further",
+              "It ignores them"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What kinds of things does Paul say to think about, in verse 8?"
+          },
+          "options": {
+            "en": [
+              "Whatever is true, noble, right, pure, lovely, admirable",
+              "Only negative things",
+              "Whatever feels easiest",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Don't Be Anxious — Pray!"
+          },
+          "file": "/static/printables/philippians/lesson09_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: practical, prayer-soaked peace as the antidote to anxiety, paired with deliberate, disciplined thinking about what is genuinely good. Note Paul doesn't say \"don't feel anxious\" as a command to suppress emotion — he gives a concrete action (prayer, with thanksgiving) that genuinely produces supernatural peace \"which transcends all understanding\" (4:7), a peace that GUARDS rather than merely soothes.\n\nConversation starters: (1) What's the difference between worrying about something and bringing it to God in prayer with thanksgiving? (2) What does it mean for peace to \"guard\" your heart, like a soldier at a gate? (3) What is one true, noble, or lovely thing you could deliberately think about today?\n\nPray together right now about whatever is making anyone anxious, with thanksgiving."
+      }
+    }
+  ]
+}

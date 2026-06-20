@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Content in Any Circumstance"
+  },
+  "ref": "Philippians 4:10-20",
+  "section": "Thanks for Their Gifts",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The secret Paul learned"
+      },
+      "body": {
+        "en": "Paul thanks the Philippians warmly for their gift, renewing their concern for him — though he gently notes they simply hadn't had the opportunity to show it sooner. Then Paul shares something he had to LEARN, not something that came naturally: 'I have learned to be content whatever the circumstances. I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want.' And then the secret itself, one of the most quoted verses in Scripture: 'I can do all things through Him who gives me strength!' Notice this isn't a promise of unlimited success or achievement — it's about CONTENTMENT and ENDURANCE through Christ's strength, in plenty or in need. Paul thanks them again for partnering with him in giving, calling their gift a fragrant offering, a sacrifice pleasing to God — and promises that his God will meet all THEIR needs too, according to the riches of His glory in Christ Jesus."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I can do all this through him who gives me strength."
+      },
+      "ref": {
+        "en": "Philippians 4:13 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "I",
+          "can",
+          "do",
+          "all",
+          "this",
+          "through",
+          "him",
+          "who",
+          "gives",
+          "me",
+          "strength"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Content in Any Circumstance"
+      },
+      "audio_en": "/static/audio/philippians/lesson10_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say he had to LEARN, rather than it coming naturally?"
+          },
+          "options": {
+            "en": [
+              "How to be wealthy",
+              "How to be content in any and every situation",
+              "How to avoid all hardship",
+              "How to impress others"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is Paul's famous secret, in verse 13?"
+          },
+          "options": {
+            "en": [
+              "I can do all things through my own willpower",
+              "I can do all things through Him who gives me strength",
+              "I can do all things if I try hard enough alone",
+              "Nothing is actually possible"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul promise about God meeting the Philippians' needs?"
+          },
+          "options": {
+            "en": [
+              "God will ignore their needs",
+              "God will meet all their needs, according to the riches of His glory",
+              "Only some needs will be met",
+              "Nothing is promised"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Content in Any Circumstance"
+          },
+          "file": "/static/printables/philippians/lesson10_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: contentment, like holiness, is something genuinely LEARNED through Christ-given strength, not a natural personality trait or the product of favorable circumstances. \"I can do all things through him who gives me strength\" (4:13), often misapplied as a promise of unlimited success, is actually Paul's testimony about enduring BOTH plenty and hunger with the same Christ-empowered contentment — a far more durable, mature kind of strength than mere achievement.\n\nConversation starters: (1) What's the difference between contentment that comes naturally and contentment that has to be \"learned\"? (2) Why might learning contentment in want be just as important as learning it in plenty? (3) What does verse 13 actually mean, in its real context, about plenty and need?\n\nPray for the same learned contentment Paul had, whatever circumstances come."
+      }
+    }
+  ]
+}

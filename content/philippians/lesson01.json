@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "A Letter Bursting with Joy"
+  },
+  "ref": "Philippians 1:1-11",
+  "section": "Thanksgiving and Prayer",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Partners from the very first day"
+      },
+      "body": {
+        "en": "Paul writes to the believers in Philippi, a church he loved dearly — and you can feel that love in every line. Every time Paul remembers them, he thanks God, praying with JOY, because they have been his partners in the gospel from the very first day until now. Paul is completely confident that God, who began this good work in them, will carry it on to completion until the day Christ Jesus returns! Then Paul prays something beautiful for them: that their love would overflow more and more, together with real knowledge and careful insight, so they could discern what truly matters — and be pure and blameless, filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God. Notice the partnership language: Paul didn't see himself as the only one doing the work. The Philippians PARTNERED with him — through their prayers, their gifts, their friendship — proof that ministry was never meant to be a solo project."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."
+      },
+      "ref": {
+        "en": "Philippians 1:6 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "being",
+          "confident",
+          "of",
+          "this",
+          "that",
+          "he",
+          "who",
+          "began",
+          "a",
+          "good",
+          "work"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A Letter Bursting with Joy"
+      },
+      "audio_en": "/static/audio/philippians/lesson01_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Paul describe the Philippians, in terms of his gospel work?"
+          },
+          "options": {
+            "en": [
+              "Strangers he barely knew",
+              "His partners in the gospel from the very first day",
+              "People who never helped him",
+              "Opponents of his ministry"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is Paul confident God will do, having begun a good work in the Philippians?"
+          },
+          "options": {
+            "en": [
+              "Abandon it halfway",
+              "Carry it on to completion until Christ returns",
+              "Forget about it",
+              "Undo it"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul pray would overflow more and more in the Philippians?"
+          },
+          "options": {
+            "en": [
+              "Their wealth",
+              "Their love, together with knowledge and insight",
+              "Their fame",
+              "Their arguments"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A Letter Bursting with Joy"
+          },
+          "file": "/static/printables/philippians/lesson01_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: genuine gospel partnership and confident assurance that God completes what He starts — note the careful balance, since \"he who began a good work...will carry it on\" (1:6) sits alongside the rest of the letter's call to active perseverance (worked out fully in 2:12-13 and 3:12-14). Confidence in God's faithfulness and serious, ongoing effort are not opposites in Paul's mind; they work together.\n\nConversation starters: (1) What does it mean to be someone's \"partner in the gospel,\" not just a bystander? (2) How does it feel to know God doesn't abandon work He's begun in you? (3) What would it look like for your love to \"overflow more and more\" this week?\n\nPray with the same joyful confidence Paul prayed, thanking God for specific people in your life."
+      }
+    }
+  ]
+}
