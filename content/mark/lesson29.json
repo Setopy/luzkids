@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Hosanna, and a Cleared-Out Temple"
+  },
+  "ref": "Mark 11:1-33",
+  "section": "Jesus Comes to Jerusalem as King / Jesus Curses a Fig Tree and Clears the Temple Courts / The Authority of Jesus Questioned",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A humble king, a withered tree, a question about authority"
+      },
+      "body": {
+        "en": "Approaching Jerusalem, Jesus sent two disciples to bring a colt that had never been ridden. They threw their cloaks over it, and Jesus rode in, while people spread cloaks and branches on the road, shouting: 'Hosanna! Blessed is he who comes in the name of the Lord!' The next day, Jesus saw a fig tree with no fruit and said, 'May no one ever eat fruit from you again!' Then He entered the temple and began driving out the buyers and sellers, overturning tables, saying: 'My house will be called a house of prayer for all nations, but you have made it a den of robbers!' The chief priests and teachers of the law, alarmed, began looking for a way to kill Him. The next morning, passing the fig tree, the disciples saw it had completely withered! Jesus taught: 'Have faith in God... whatever you ask for in prayer, believe that you have received it, and it will be yours.' When religious leaders demanded to know by what authority Jesus did these things, He answered with a question about John's baptism that left them unable to respond either way."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "My house will be called a house of prayer for all nations."
+      },
+      "ref": {
+        "en": "Mark 11:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "my",
+          "house",
+          "will",
+          "be",
+          "called",
+          "a",
+          "house",
+          "of",
+          "prayer",
+          "for",
+          "all",
+          "nations"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Hosanna, and a Cleared-Out Temple"
+      },
+      "audio_en": "/static/audio/mark/lesson29_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did the crowd respond as Jesus entered Jerusalem on the colt?"
+          },
+          "options": {
+            "en": [
+              "With silence",
+              "Shouting 'Hosanna! Blessed is he who comes in the name of the Lord!'",
+              "With anger",
+              "They ignored Him"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Jesus drive out the buyers and sellers from the temple?"
+          },
+          "options": {
+            "en": [
+              "He was simply angry for no reason",
+              "His house was meant to be a house of prayer, not 'a den of robbers'",
+              "He wanted the space for Himself",
+              "No real reason given"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened to the fig tree Jesus had spoken to?"
+          },
+          "options": {
+            "en": [
+              "It produced more fruit",
+              "It completely withered",
+              "Nothing changed",
+              "It grew taller"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Hosanna, and a Cleared-Out Temple"
+          },
+          "file": "/static/printables/mark/lesson29_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus enters Jerusalem deliberately as the promised King (echoing Zechariah's prophecy of a humble king on a colt), then immediately confronts corrupted worship at its very center — the temple. The withered fig tree functions as an acted-out parable: outward religious appearance without genuine fruit faces real consequences, paralleling Israel's leadership at that moment.\n\nConversation starters: (1) Why might Jesus choose a humble colt rather than a warhorse to enter Jerusalem as King? (2) What does clearing the temple show about what genuine worship should look like? (3) What does the withered fig tree teach about appearing fruitful versus actually being fruitful?\n\nPray for genuine faith and fruitfulness, not just outward religious appearance."
+      }
+    }
+  ]
+}

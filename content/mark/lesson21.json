@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Who Do You Say I Am?"
+  },
+  "ref": "Mark 8:22-9:1",
+  "section": "Jesus Heals a Blind Man at Bethsaida / Peter's Declaration / Jesus Predicts His Death / The Way of the Cross",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Sight restored in two stages, then the truth that changed everything"
+      },
+      "body": {
+        "en": "At Bethsaida, Jesus healed a blind man — but in an unusual two-stage miracle: first the man saw people 'like trees walking around,' blurry, and then Jesus touched his eyes again, and he saw EVERYTHING clearly! On the road, Jesus asked His disciples: 'Who do people say I am?' They answered: John the Baptist, Elijah, one of the prophets. Then Jesus asked directly: 'But what about you? Who do YOU say I am?' Peter answered: 'You are the Messiah!' Jesus then began to teach plainly that the Son of Man must suffer many things, be rejected, be killed, and after three days rise again. Peter, shocked, pulled Jesus aside and rebuked Him! Jesus turned and rebuked Peter sharply: 'Get behind me, Satan! You do not have in mind the concerns of God, but merely human concerns.' Then, calling the crowd, Jesus said: 'Whoever wants to be my disciple must deny themselves and take up their cross and follow me. What good is it to gain the whole world, yet forfeit your soul?'"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Whoever wants to be my disciple must deny themselves and take up their cross and follow me."
+      },
+      "ref": {
+        "en": "Mark 8:34 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "whoever",
+          "wants",
+          "to",
+          "be",
+          "my",
+          "disciple",
+          "must",
+          "deny",
+          "themselves",
+          "and",
+          "take",
+          "up",
+          "their",
+          "cross"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Who Do You Say I Am?"
+      },
+      "audio_en": "/static/audio/mark/lesson21_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What was unusual about how Jesus healed the blind man at Bethsaida?"
+          },
+          "options": {
+            "en": [
+              "Nothing unusual",
+              "It happened in two stages — blurry sight, then clear sight",
+              "He refused to heal him",
+              "He healed him from a distance"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did Peter answer when Jesus asked, 'Who do you say I am?'"
+          },
+          "options": {
+            "en": [
+              "A prophet only",
+              "You are the Messiah",
+              "Just a teacher",
+              "He didn't answer"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did Jesus respond when Peter rebuked Him for predicting His death?"
+          },
+          "options": {
+            "en": [
+              "He agreed with Peter",
+              "Get behind me, Satan! You're not thinking God's thoughts",
+              "He ignored Peter",
+              "He left immediately"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Who Do You Say I Am?"
+          },
+          "file": "/static/printables/mark/lesson21_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: this passage marks the turning point of Mark's Gospel — Peter's confession that Jesus is the Messiah is correct, but his understanding of WHAT KIND of Messiah is immediately revealed as incomplete, even resistant to God's actual plan. The two-stage healing of the blind man mirrors this perfectly: the disciples are gaining sight, but it isn't yet fully clear.\n\nConversation starters: (1) Why might Jesus heal the blind man in two stages, rather than instantly and completely? (2) What's the difference between knowing Jesus is the Messiah and understanding what kind of Messiah He actually is? (3) What does \"take up their cross and follow me\" mean for daily life, not just a dramatic moment?\n\nPray for clear spiritual sight, and courage to follow Jesus even when His way is costly."
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Twelve Years, Twelve-Year-Old"
+  },
+  "ref": "Mark 5:21-43",
+  "section": "Jesus Raises a Dead Girl and Heals a Sick Woman",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A touch in the crowd, a delay that wasn't too late"
+      },
+      "body": {
+        "en": "Jairus, a synagogue leader, fell at Jesus' feet, begging Him to come heal his dying daughter. As Jesus went, a large crowd pressed around Him — and in that crowd was a woman who had been bleeding for TWELVE YEARS, who had spent everything on doctors with no improvement. She thought: 'If I just touch his clothes, I will be healed.' She touched His cloak, and immediately her bleeding stopped! Jesus felt power had gone out from Him and asked, 'Who touched my clothes?' Trembling, the woman explained, and Jesus said gently: 'Daughter, your faith has healed you. Go in peace.' Meanwhile, news came that Jairus's daughter had died! People said it was too late. But Jesus went to the house anyway, took the girl's hand, and said: 'Talitha koum' — 'Little girl, get up!' Immediately she stood up and walked around — she was twelve years old! Everyone was completely astonished. Jesus told them to give her something to eat. Two impossible situations, two acts of faith, and Jesus was never too busy, and never too late, for either one."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Talitha koum (which means 'Little girl, I say to you, get up!')."
+      },
+      "ref": {
+        "en": "Mark 5:41 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "talitha",
+          "koum",
+          "little",
+          "girl",
+          "I",
+          "say",
+          "to",
+          "you",
+          "get",
+          "up"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Twelve Years, Twelve-Year-Old"
+      },
+      "audio_en": "/static/audio/mark/lesson13_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How long had the bleeding woman suffered before she touched Jesus' cloak?"
+          },
+          "options": {
+            "en": [
+              "One year",
+              "Twelve years",
+              "A few days",
+              "She had never been sick"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say to the woman after she touched His cloak?"
+          },
+          "options": {
+            "en": [
+              "Nothing at all",
+              "Daughter, your faith has healed you. Go in peace.",
+              "Don't ever touch me again",
+              "Go home immediately"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened to Jairus's daughter, even though people said it was too late?"
+          },
+          "options": {
+            "en": [
+              "Nothing — she stayed dead",
+              "Jesus raised her, and she got up and walked around immediately",
+              "She woke up days later",
+              "Jesus refused to go to the house"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Twelve Years, Twelve-Year-Old"
+          },
+          "file": "/static/printables/mark/lesson13_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus is never too busy or too late, whether the need is a quiet, desperate touch in a crowd or a situation everyone else has declared hopeless. The pairing of these two stories — twelve years of suffering and a twelve-year-old's death — is no accident in Mark's structure; both find the same compassionate, powerful response.\n\nConversation starters: (1) Why might the woman have been afraid to ask Jesus directly, choosing instead to just touch His cloak? (2) What does it mean that Jesus called her \"Daughter\" — what does that show about how He saw her? (3) What does it teach you that Jesus didn't give up on Jairus's daughter, even after others said it was too late?\n\nPray for situations in your own life that feel hopeless, trusting Jesus is never too late."
+      }
+    }
+  ]
+}

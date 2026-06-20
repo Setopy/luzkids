@@ -1,0 +1,330 @@
+{
+  "title": {
+    "en": "Mark for Kids"
+  },
+  "subtitle": {
+    "en": "All 16 chapters, mapped to the standard sections of the book — the fast-moving story of Jesus!"
+  },
+  "description": {
+    "en": "Mark's favourite word is 'immediately' — his Gospel moves like an adventure, not a slow sermon. Thirty-nine adventures through all sixteen chapters, following the same section divisions found in standard study Bibles — from John the Baptist in the wilderness to the empty tomb and the Great Commission. Calmed storms, multiplied loaves, healed outcasts, a cross, and a resurrection: the whole story of Jesus, for every nation, every child."
+  },
+  "age_range": "6-12",
+  "free": true,
+  "order": 6,
+  "emoji": "🐑",
+  "color": "#1e2547",
+  "lessons": [
+    {
+      "id": "lesson01",
+      "title": {
+        "en": "Get Ready — Jesus Is Coming!"
+      },
+      "ref": "Mark 1:1-13",
+      "section": "John the Baptist Prepares the Way / The Baptism and Testing of Jesus"
+    },
+    {
+      "id": "lesson02",
+      "title": {
+        "en": "Come, Follow Me!"
+      },
+      "ref": "Mark 1:14-20",
+      "section": "Jesus Announces the Good News / Jesus Calls His First Disciples"
+    },
+    {
+      "id": "lesson03",
+      "title": {
+        "en": "A Day Full of Miracles"
+      },
+      "ref": "Mark 1:21-34",
+      "section": "Jesus Drives Out an Impure Spirit / Jesus Heals Many"
+    },
+    {
+      "id": "lesson04",
+      "title": {
+        "en": "Quiet Time, Then a Touch No One Else Would Give"
+      },
+      "ref": "Mark 1:35-45",
+      "section": "Jesus Prays in a Solitary Place / Jesus Heals a Man With Leprosy"
+    },
+    {
+      "id": "lesson05",
+      "title": {
+        "en": "Lowered Through the Roof"
+      },
+      "ref": "Mark 2:1-12",
+      "section": "Jesus Forgives and Heals a Paralyzed Man"
+    },
+    {
+      "id": "lesson06",
+      "title": {
+        "en": "New Wine, New Wineskins"
+      },
+      "ref": "Mark 2:13-28",
+      "section": "Jesus Calls Levi / Jesus Questioned About Fasting / Jesus Is Lord of the Sabbath"
+    },
+    {
+      "id": "lesson07",
+      "title": {
+        "en": "Choosing the Team"
+      },
+      "ref": "Mark 3:1-19",
+      "section": "Jesus Heals on the Sabbath / Crowds Follow Jesus / Jesus Appoints the Twelve"
+    },
+    {
+      "id": "lesson08",
+      "title": {
+        "en": "Jesus' True Family"
+      },
+      "ref": "Mark 3:20-35",
+      "section": "Jesus Accused by His Family and by Teachers of the Law"
+    },
+    {
+      "id": "lesson09",
+      "title": {
+        "en": "Seeds on Different Ground"
+      },
+      "ref": "Mark 4:1-20",
+      "section": "The Parable of the Sower"
+    },
+    {
+      "id": "lesson10",
+      "title": {
+        "en": "Small Things, Big Kingdom"
+      },
+      "ref": "Mark 4:21-34",
+      "section": "A Lamp on a Stand / The Parable of the Growing Seed / The Parable of the Mustard Seed"
+    },
+    {
+      "id": "lesson11",
+      "title": {
+        "en": "Peace! Be Still!"
+      },
+      "ref": "Mark 4:35-41",
+      "section": "Jesus Calms the Storm"
+    },
+    {
+      "id": "lesson12",
+      "title": {
+        "en": "Legion Set Free"
+      },
+      "ref": "Mark 5:1-20",
+      "section": "Jesus Restores a Demon-Possessed Man"
+    },
+    {
+      "id": "lesson13",
+      "title": {
+        "en": "Twelve Years, Twelve-Year-Old"
+      },
+      "ref": "Mark 5:21-43",
+      "section": "Jesus Raises a Dead Girl and Heals a Sick Woman"
+    },
+    {
+      "id": "lesson14",
+      "title": {
+        "en": "Sent Out, Two by Two"
+      },
+      "ref": "Mark 6:1-13",
+      "section": "A Prophet Without Honor / Jesus Sends Out the Twelve"
+    },
+    {
+      "id": "lesson15",
+      "title": {
+        "en": "A King's Terrible Promise"
+      },
+      "ref": "Mark 6:14-29",
+      "section": "John the Baptist Beheaded"
+    },
+    {
+      "id": "lesson16",
+      "title": {
+        "en": "Five Loaves, Two Fish, Thousands Fed"
+      },
+      "ref": "Mark 6:30-44",
+      "section": "Jesus Feeds the Five Thousand"
+    },
+    {
+      "id": "lesson17",
+      "title": {
+        "en": "Take Courage! It Is I"
+      },
+      "ref": "Mark 6:45-56",
+      "section": "Jesus Walks on the Water"
+    },
+    {
+      "id": "lesson18",
+      "title": {
+        "en": "What Really Makes You Unclean?"
+      },
+      "ref": "Mark 7:1-23",
+      "section": "That Which Defiles"
+    },
+    {
+      "id": "lesson19",
+      "title": {
+        "en": "Crumbs of Great Faith"
+      },
+      "ref": "Mark 7:24-37",
+      "section": "Jesus Honors a Syrophoenician Woman's Faith / Jesus Heals a Deaf and Mute Man"
+    },
+    {
+      "id": "lesson20",
+      "title": {
+        "en": "Watch Out for the Wrong Yeast"
+      },
+      "ref": "Mark 8:1-21",
+      "section": "Jesus Feeds the Four Thousand / The Yeast of the Pharisees and Herod"
+    },
+    {
+      "id": "lesson21",
+      "title": {
+        "en": "Who Do You Say I Am?"
+      },
+      "ref": "Mark 8:22-9:1",
+      "section": "Jesus Heals a Blind Man at Bethsaida / Peter's Declaration / Jesus Predicts His Death / The Way of the Cross"
+    },
+    {
+      "id": "lesson22",
+      "title": {
+        "en": "Dazzling White on the Mountain"
+      },
+      "ref": "Mark 9:2-13",
+      "section": "The Transfiguration"
+    },
+    {
+      "id": "lesson23",
+      "title": {
+        "en": "I Do Believe — Help My Unbelief!"
+      },
+      "ref": "Mark 9:14-32",
+      "section": "Jesus Heals a Boy Possessed by an Impure Spirit / Jesus Predicts His Death a Second Time"
+    },
+    {
+      "id": "lesson24",
+      "title": {
+        "en": "The Last Will Be First"
+      },
+      "ref": "Mark 9:33-50",
+      "section": "Who Is the Greatest? / Whoever Is Not Against Us / Causing to Stumble"
+    },
+    {
+      "id": "lesson25",
+      "title": {
+        "en": "Let the Children Come"
+      },
+      "ref": "Mark 10:1-16",
+      "section": "Divorce / The Little Children and Jesus"
+    },
+    {
+      "id": "lesson26",
+      "title": {
+        "en": "Hard for the Rich, Easy for God"
+      },
+      "ref": "Mark 10:17-31",
+      "section": "The Rich and the Kingdom of God"
+    },
+    {
+      "id": "lesson27",
+      "title": {
+        "en": "Not to Be Served, But to Serve"
+      },
+      "ref": "Mark 10:32-45",
+      "section": "Jesus Predicts His Death a Third Time / The Request of James and John"
+    },
+    {
+      "id": "lesson28",
+      "title": {
+        "en": "What Do You Want Me to Do for You?"
+      },
+      "ref": "Mark 10:46-52",
+      "section": "Blind Bartimaeus Receives His Sight"
+    },
+    {
+      "id": "lesson29",
+      "title": {
+        "en": "Hosanna, and a Cleared-Out Temple"
+      },
+      "ref": "Mark 11:1-33",
+      "section": "Jesus Comes to Jerusalem as King / Jesus Curses a Fig Tree and Clears the Temple Courts / The Authority of Jesus Questioned"
+    },
+    {
+      "id": "lesson30",
+      "title": {
+        "en": "Give to Caesar, Give to God"
+      },
+      "ref": "Mark 12:1-17",
+      "section": "The Parable of the Tenants / Paying the Imperial Tax to Caesar"
+    },
+    {
+      "id": "lesson31",
+      "title": {
+        "en": "Love God, Love Your Neighbor"
+      },
+      "ref": "Mark 12:18-34",
+      "section": "Marriage at the Resurrection / The Greatest Commandment"
+    },
+    {
+      "id": "lesson32",
+      "title": {
+        "en": "Two Small Coins, Everything She Had"
+      },
+      "ref": "Mark 12:35-44",
+      "section": "Whose Son Is the Messiah? / Warning Against the Teachers of the Law / The Widow's Offering"
+    },
+    {
+      "id": "lesson33",
+      "title": {
+        "en": "Keep Watch!"
+      },
+      "ref": "Mark 13:1-37",
+      "section": "The Destruction of the Temple and Signs of the End Times / The Day and Hour Unknown"
+    },
+    {
+      "id": "lesson34",
+      "title": {
+        "en": "This Is My Body, This Is My Blood"
+      },
+      "ref": "Mark 14:1-26",
+      "section": "Jesus Anointed at Bethany / The Last Supper"
+    },
+    {
+      "id": "lesson35",
+      "title": {
+        "en": "Not My Will, But Yours"
+      },
+      "ref": "Mark 14:27-52",
+      "section": "Jesus Predicts Peter's Denial / Gethsemane / Jesus Arrested"
+    },
+    {
+      "id": "lesson36",
+      "title": {
+        "en": "Three Times Before the Rooster Crowed"
+      },
+      "ref": "Mark 14:53-72",
+      "section": "Jesus Before the Sanhedrin / Peter Denies Jesus"
+    },
+    {
+      "id": "lesson37",
+      "title": {
+        "en": "Crowned With Thorns"
+      },
+      "ref": "Mark 15:1-20",
+      "section": "Jesus Before Pilate / The Soldiers Mock Jesus"
+    },
+    {
+      "id": "lesson38",
+      "title": {
+        "en": "It Is Finished"
+      },
+      "ref": "Mark 15:21-47",
+      "section": "The Crucifixion of Jesus / The Death of Jesus / The Burial of Jesus"
+    },
+    {
+      "id": "lesson39",
+      "title": {
+        "en": "He Is Not Here — He Has Risen!"
+      },
+      "ref": "Mark 16:1-20",
+      "section": "Jesus Has Risen / Resurrection Appearances and the Great Commission"
+    }
+  ]
+}

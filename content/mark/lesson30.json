@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Give to Caesar, Give to God"
+  },
+  "ref": "Mark 12:1-17",
+  "section": "The Parable of the Tenants / Paying the Imperial Tax to Caesar",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A vineyard story, and a clever trap that failed"
+      },
+      "body": {
+        "en": "Jesus told a parable: a man planted a vineyard and rented it to tenants, then sent servants to collect his share of the fruit — but the tenants beat, even killed, servant after servant! Finally the owner sent his own beloved son, thinking they would respect him — but they killed him too, throwing him out of the vineyard! Jesus asked: what will the owner do? He will destroy the tenants and give the vineyard to others. The religious leaders understood Jesus was talking about THEM, and wanted to arrest Him, but feared the crowd. Later, Pharisees and Herodians tried to trap Jesus with a clever question: 'Is it right to pay taxes to Caesar or not?' If He said yes, He'd anger the crowds; if no, He'd be accused of rebellion against Rome! Jesus asked for a coin, asking whose image was on it. 'Caesar's,' they said. Jesus replied: 'Give back to Caesar what is Caesar's, and to God what is God's.' They were amazed at His answer — the trap had completely failed."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Give back to Caesar what is Caesar's and to God what is God's."
+      },
+      "ref": {
+        "en": "Mark 12:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "give",
+          "back",
+          "to",
+          "Caesar",
+          "what",
+          "is",
+          "Caesar's",
+          "and",
+          "to",
+          "God",
+          "what",
+          "is",
+          "God's"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Give to Caesar, Give to God"
+      },
+      "audio_en": "/static/audio/mark/lesson30_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What happened to each servant sent by the vineyard owner in Jesus' parable?"
+          },
+          "options": {
+            "en": [
+              "They were welcomed warmly",
+              "They were beaten or killed by the tenants",
+              "Nothing happened to them",
+              "They refused to go"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What trap did the Pharisees and Herodians try to set for Jesus?"
+          },
+          "options": {
+            "en": [
+              "A question about marriage",
+              "Whether it was right to pay taxes to Caesar",
+              "A question about food",
+              "Nothing significant"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did Jesus answer the tax question, avoiding the trap completely?"
+          },
+          "options": {
+            "en": [
+              "He refused to answer",
+              "Give back to Caesar what is Caesar's, and to God what is God's",
+              "He said taxes were wrong",
+              "He left immediately"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Give to Caesar, Give to God"
+          },
+          "file": "/static/printables/mark/lesson30_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus exposes religious leadership's rejection of God's messengers (and ultimately His own Son) through a pointed parable, then demonstrates remarkable wisdom under a deliberately constructed political trap — acknowledging legitimate civic obligation while reserving ultimate allegiance for God alone.\n\nConversation starters: (1) Who do the \"servants\" and the \"son\" represent in the vineyard parable? (2) Why was the Caesar/God question such a clever trap — what made it hard to answer either way? (3) What does it look like practically to \"give to Caesar\" and \"give to God\" appropriately in your own life?\n\nPray for wisdom like Jesus showed, navigating difficult questions with both honesty and discernment."
+      }
+    }
+  ]
+}

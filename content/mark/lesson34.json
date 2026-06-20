@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "This Is My Body, This Is My Blood"
+  },
+  "ref": "Mark 14:1-26",
+  "section": "Jesus Anointed at Bethany / The Last Supper",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Costly perfume, and a meal that changed forever"
+      },
+      "body": {
+        "en": "With the Passover near, the chief priests looked for a sneaky way to arrest Jesus. At Simon's house in Bethany, a woman poured very expensive perfume on Jesus' head — some were indignant, calling it wasteful, but Jesus defended her: 'She has done a beautiful thing... she poured perfume on my body beforehand to prepare for my burial. Wherever the gospel is preached, what she has done will also be told, in memory of her.' Then Judas Iscariot went to the chief priests, offering to betray Jesus, and they were delighted, promising him money. On the first day of the Feast, Jesus arranged the Passover meal. As they ate, Jesus took bread, gave thanks, broke it, and said: 'Take it; this is my body.' Then He took a cup, gave thanks, and said: 'This is my blood of the covenant, which is poured out for many.' He said He would not drink wine again until the day He drinks it new in God's kingdom. They sang a hymn together and went out to the Mount of Olives — Jesus had given them a new way to remember Him forever."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "This is my blood of the covenant, which is poured out for many."
+      },
+      "ref": {
+        "en": "Mark 14:24 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "this",
+          "is",
+          "my",
+          "blood",
+          "of",
+          "the",
+          "covenant",
+          "which",
+          "is",
+          "poured",
+          "out",
+          "for",
+          "many"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for This Is My Body, This Is My Blood"
+      },
+      "audio_en": "/static/audio/mark/lesson34_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did Jesus describe the woman's act of pouring expensive perfume on Him?"
+          },
+          "options": {
+            "en": [
+              "A wasteful, foolish act",
+              "A beautiful thing, preparing His body for burial",
+              "Something to be ashamed of",
+              "Nothing significant"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Judas Iscariot do, in exchange for money?"
+          },
+          "options": {
+            "en": [
+              "Defended Jesus",
+              "Agreed to betray Jesus to the chief priests",
+              "Left the disciples permanently",
+              "Nothing notable"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say the bread and the cup represented at the Last Supper?"
+          },
+          "options": {
+            "en": [
+              "Ordinary food only",
+              "His body and His blood of the covenant",
+              "Nothing significant",
+              "A simple meal tradition"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: This Is My Body, This Is My Blood"
+          },
+          "file": "/static/printables/mark/lesson34_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the Last Supper institutes what would become the church's central, ongoing remembrance — Jesus reinterprets the Passover meal around His own body and blood, establishing a new covenant sealed by His sacrifice. The woman's costly devotion and Judas's costly betrayal sit side by side, two starkly opposite responses to the same Jesus.\n\nConversation starters: (1) Why might Jesus call the woman's extravagant act \"beautiful,\" even though others called it wasteful? (2) What does it mean that Jesus' blood establishes a \"new covenant\"? (3) Why might Judas, who had walked with Jesus for years, ultimately betray Him?\n\nPray, thanking Jesus for His body and blood given for us, remembering Him the way He asked."
+      }
+    }
+  ]
+}

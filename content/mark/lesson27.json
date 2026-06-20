@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Not to Be Served, But to Serve"
+  },
+  "ref": "Mark 10:32-45",
+  "section": "Jesus Predicts His Death a Third Time / The Request of James and John",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A third warning, a bold request"
+      },
+      "body": {
+        "en": "On the way to Jerusalem, Jesus told the disciples plainly, a THIRD time, exactly what would happen: He would be betrayed to the chief priests, condemned, mocked, spit on, flogged, and killed — and after three days He would rise! James and John came to Jesus privately with a bold request: 'Let one of us sit at your right and the other at your left in your glory.' Jesus asked if they could drink the cup He would drink — they said yes, not fully understanding what they were agreeing to. When the other ten heard about it, they were indignant! Jesus called them together: 'You know that those who are regarded as rulers lord it over their people... not so with you. Whoever wants to become great among you must be your servant, and whoever wants to be first must be slave of all. For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.' The path to true greatness, Jesus kept insisting, runs directly through serving others, not over them."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."
+      },
+      "ref": {
+        "en": "Mark 10:45 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "Son",
+          "of",
+          "Man",
+          "did",
+          "not",
+          "come",
+          "to",
+          "be",
+          "served",
+          "but",
+          "to",
+          "serve"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Not to Be Served, But to Serve"
+      },
+      "audio_en": "/static/audio/mark/lesson27_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did James and John ask Jesus for, privately?"
+          },
+          "options": {
+            "en": [
+              "Forgiveness for their sins",
+              "To sit at His right and left in His glory",
+              "More food",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did the other ten disciples react when they heard about the request?"
+          },
+          "options": {
+            "en": [
+              "They agreed completely",
+              "They were indignant",
+              "They didn't care",
+              "They left immediately"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say about His own purpose in coming?"
+          },
+          "options": {
+            "en": [
+              "To be served by everyone",
+              "To serve, and give His life as a ransom for many",
+              "To rule over others",
+              "Nothing specific"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Not to Be Served, But to Serve"
+          },
+          "file": "/static/printables/mark/lesson27_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: even James and John, having heard Jesus predict His suffering for the third time, still misunderstood, asking for positions of honour — and Jesus uses their request to teach the deepest principle of kingdom leadership: greatness through service, modeled by His own coming sacrifice as \"a ransom for many,\" language directly connected to atonement and substitutionary sacrifice.\n\nConversation starters: (1) Why might James and John ask for honour, even right after Jesus described suffering and death? (2) What does it mean that the world's idea of greatness (ruling over people) is reversed in God's kingdom? (3) What does \"ransom for many\" teach about why Jesus came?\n\nPray for hearts that genuinely want to serve, not just be served or honoured."
+      }
+    }
+  ]
+}

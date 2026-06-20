@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Come, Follow Me!"
+  },
+  "ref": "Mark 1:14-20",
+  "section": "Jesus Announces the Good News / Jesus Calls His First Disciples",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Dropped nets, instant decision"
+      },
+      "body": {
+        "en": "After John was put in prison, Jesus came into Galilee proclaiming the good news of God: 'The time has come. The kingdom of God has come near. Repent and believe the good news!' Then, walking beside the Sea of Galilee, Jesus saw Simon and his brother Andrew casting their nets — they were fishermen. Jesus said simply: 'Come, follow me, and I will send you out to fish for people.' And here's the astonishing part: AT ONCE they left their nets and followed Him! A little further on, He saw James and John, sons of Zebedee, in their boat preparing nets. Without delay, He called them — and they left their father in the boat with the hired men and followed Jesus too! No long explanation, no convincing speech — just an invitation, and an immediate, total response. These ordinary fishermen had no idea what was ahead, but they trusted the One who called them enough to drop everything, right then, and go."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Come, follow me, and I will send you out to fish for people."
+      },
+      "ref": {
+        "en": "Mark 1:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "come",
+          "follow",
+          "me",
+          "and",
+          "I",
+          "will",
+          "send",
+          "you",
+          "out",
+          "to",
+          "fish",
+          "for",
+          "people"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Come, Follow Me!"
+      },
+      "audio_en": "/static/audio/mark/lesson02_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What was Jesus' main message when He began preaching in Galilee?"
+          },
+          "options": {
+            "en": [
+              "Build bigger boats",
+              "The kingdom of God has come near — repent and believe",
+              "Pay more taxes",
+              "Avoid the Romans"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What were Simon, Andrew, James and John doing when Jesus called them?"
+          },
+          "options": {
+            "en": [
+              "Praying in the temple",
+              "Fishing — they were fishermen",
+              "Studying the law",
+              "Travelling to Rome"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How quickly did they respond to Jesus' call?"
+          },
+          "options": {
+            "en": [
+              "They thought about it for weeks",
+              "At once — immediately, without delay",
+              "They never responded",
+              "They asked for payment first"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Come, Follow Me!"
+          },
+          "file": "/static/printables/mark/lesson02_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the immediacy of true discipleship — Mark's signature word \"immediately\" appears right where it matters most, at the moment of response to Jesus' call. These were not religious professionals; they were ordinary working men who left everything at a simple invitation.\n\nConversation starters: (1) Why do you think they responded so quickly, leaving nets and even family behind? (2) What might Jesus be calling YOU to leave behind or pick up today? (3) What does \"fish for people\" mean as a picture of the disciples' new calling?\n\nPray for the same quick, trusting obedience these first disciples showed."
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "A Day Full of Miracles"
+  },
+  "ref": "Mark 1:21-34",
+  "section": "Jesus Drives Out an Impure Spirit / Jesus Heals Many",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Authority no one had ever seen"
+      },
+      "body": {
+        "en": "Jesus went into the synagogue at Capernaum and began to teach — and the people were amazed, because He taught with AUTHORITY, not like the teachers of the law. Suddenly, a man with an impure spirit cried out, and Jesus commanded: 'Be quiet! Come out of him!' The spirit shook the man violently and came out with a shriek. The people were astonished — news about Jesus spread quickly through the whole region of Galilee! Then Jesus went to Simon's house, where Simon's mother-in-law was in bed with a fever. Jesus took her by the hand and helped her up — the fever left her immediately, and she got up and began to serve them! That evening, after sunset, the whole town gathered at the door, bringing the sick and demon-possessed. Jesus healed many who had various diseases and drove out many demons. One ordinary day in Capernaum, and the whole town had seen, up close, exactly who Jesus was."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The people were amazed at his teaching, because he taught them as one who had authority."
+      },
+      "ref": {
+        "en": "Mark 1:22 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "people",
+          "were",
+          "amazed",
+          "at",
+          "his",
+          "teaching",
+          "because",
+          "he",
+          "taught",
+          "with",
+          "authority"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A Day Full of Miracles"
+      },
+      "audio_en": "/static/audio/mark/lesson03_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why were people amazed at Jesus' teaching in the synagogue?"
+          },
+          "options": {
+            "en": [
+              "He spoke very loudly",
+              "He taught with authority, unlike the teachers of the law",
+              "He taught for a very long time",
+              "He used difficult words"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened to Simon's mother-in-law after Jesus helped her up?"
+          },
+          "options": {
+            "en": [
+              "She stayed in bed",
+              "The fever left her immediately and she got up to serve them",
+              "Nothing changed",
+              "She left the house"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the whole town do that evening after sunset?"
+          },
+          "options": {
+            "en": [
+              "Went to sleep early",
+              "Gathered at the door, bringing the sick and demon-possessed to Jesus",
+              "Ignored Jesus completely",
+              "Left Capernaum"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A Day Full of Miracles"
+          },
+          "file": "/static/printables/mark/lesson03_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' authority is demonstrated, not just claimed — over teaching, over evil spirits, over sickness, all within a single busy day. Mark moves rapidly through these scenes to build a cumulative impression: this is no ordinary teacher.\n\nConversation starters: (1) What's the difference between authority and just being loud or confident? (2) Why might Simon's mother-in-law's immediate response be to serve, right after being healed? (3) What does it show about Jesus that He kept healing late into the evening, even after a full day?\n\nPray, thanking Jesus for His authority over every kind of need."
+      }
+    }
+  ]
+}

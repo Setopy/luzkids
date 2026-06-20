@@ -1,0 +1,118 @@
+{
+  "title": {
+    "en": "Legion Set Free"
+  },
+  "ref": "Mark 5:1-20",
+  "section": "Jesus Restores a Demon-Possessed Man",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Chains he broke, a name he didn't choose"
+      },
+      "body": {
+        "en": "Jesus and His disciples arrived at the region of the Gerasenes, and a man with an impure spirit met Him, coming from the tombs where he lived. No one could bind him anymore, even with chains — he had broken every chain, and night and day he cried out among the tombs, cutting himself with stones. Seeing Jesus, he ran and fell at His feet! Jesus asked, 'What is your name?' He replied, 'My name is Legion' — for he was filled with many demons. They begged Jesus to send them into a nearby herd of about two thousand pigs instead of casting them out into nothing. Jesus gave permission — and the demons went into the pigs, which rushed down a steep bank into the lake and drowned! Those who saw it told everyone, and people came to see for themselves: the man who had been demon-possessed, now sitting there, CLOTHED and in his right mind! They were afraid. The man begged to go with Jesus, but Jesus told him instead: 'Go home to your own people and tell them how much the Lord has done for you.' So he went and told everyone in the region — and they were amazed."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Go home to your own people and tell them how much the Lord has done for you."
+      },
+      "ref": {
+        "en": "Mark 5:19 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "go",
+          "home",
+          "to",
+          "your",
+          "own",
+          "people",
+          "and",
+          "tell",
+          "them",
+          "how",
+          "much",
+          "the",
+          "Lord",
+          "has",
+          "done"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Legion Set Free"
+      },
+      "audio_en": "/static/audio/mark/lesson12_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Where was the demon-possessed man living before Jesus met him?"
+          },
+          "options": {
+            "en": [
+              "In a palace",
+              "Among the tombs",
+              "In a comfortable house",
+              "In the synagogue"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened to the herd of pigs after the demons entered them?"
+          },
+          "options": {
+            "en": [
+              "They became calm",
+              "They rushed down a steep bank into the lake and drowned",
+              "Nothing changed",
+              "They ran away peacefully"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus tell the healed man to do, instead of letting him come along?"
+          },
+          "options": {
+            "en": [
+              "Stay silent forever",
+              "Go home and tell his own people how much the Lord had done for him",
+              "Hide from everyone",
+              "Leave the region completely"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Legion Set Free"
+          },
+          "file": "/static/printables/mark/lesson12_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' authority extends even over an overwhelming, seemingly unmanageable spiritual bondage — restoring full dignity (clothed, in his right mind) to a man everyone else had given up on. The instruction to go tell his own people, rather than follow Jesus directly, models that not every calling looks the same — sometimes the mission field is exactly where you already are.\n\nConversation starters: (1) What does the change from \"chains, cutting himself, living among tombs\" to \"clothed and in his right mind\" show about Jesus' power? (2) Why might Jesus send the man back home, instead of letting him travel with the disciples? (3) Who in your own life could you tell about what God has done for you?\n\nPray for those who feel trapped or hopeless, that they would encounter the same freedom this man found."
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "New Wine, New Wineskins"
+  },
+  "ref": "Mark 2:13-28",
+  "section": "Jesus Calls Levi / Jesus Questioned About Fasting / Jesus Is Lord of the Sabbath",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Eating with the wrong crowd, on purpose"
+      },
+      "body": {
+        "en": "Jesus saw Levi, a tax collector — one of the most despised jobs, since tax collectors often cheated people and worked for Rome — sitting at his tax booth, and said: 'Follow me.' Levi got up and followed Him! Later, eating at Levi's house, many tax collectors and sinners were eating with Jesus too. The Pharisees were scandalised: 'Why does he eat with tax collectors and sinners?' Jesus answered: 'It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.' Then people questioned why Jesus' disciples didn't fast like John's disciples did. Jesus said new wine needs new wineskins — something fresh had arrived, not just an old tradition with patches added. Finally, when His disciples picked grain on the Sabbath to eat, the Pharisees objected — but Jesus said: 'The Sabbath was made for man, not man for the Sabbath... the Son of Man is Lord even of the Sabbath.' Jesus kept breaking expectations, on purpose, to show something genuinely new had come."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The Sabbath was made for man, not man for the Sabbath."
+      },
+      "ref": {
+        "en": "Mark 2:27 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "Sabbath",
+          "was",
+          "made",
+          "for",
+          "man",
+          "not",
+          "man",
+          "for",
+          "the",
+          "Sabbath"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for New Wine, New Wineskins"
+      },
+      "audio_en": "/static/audio/mark/lesson06_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why was it shocking that Jesus called Levi, a tax collector, to follow Him?"
+          },
+          "options": {
+            "en": [
+              "Tax collectors were widely respected",
+              "Tax collectors were despised, often seen as dishonest",
+              "It wasn't shocking at all",
+              "Levi refused to follow"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Jesus say He came to eat with sinners and tax collectors?"
+          },
+          "options": {
+            "en": [
+              "He didn't really care about anyone",
+              "It is the sick who need a doctor, not the healthy",
+              "He had no other friends",
+              "He was forced to"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say about the Sabbath?"
+          },
+          "options": {
+            "en": [
+              "It was made for man, not man for the Sabbath",
+              "No one should ever rest",
+              "The Sabbath doesn't matter at all",
+              "Only priests could keep it"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: New Wine, New Wineskins"
+          },
+          "file": "/static/printables/mark/lesson06_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus repeatedly breaks religious expectations on purpose, revealing that genuine righteousness was never about exclusion or rigid tradition, but about mercy reaching exactly those who know they need it. The \"new wine, new wineskins\" image signals that Jesus brought something fundamentally new, not merely a reform of the old system.\n\nConversation starters: (1) Why might Jesus deliberately choose to eat with people others avoided? (2) What does \"the sick need a doctor, not the healthy\" teach about why Jesus came? (3) What does \"the Sabbath was made for man\" mean about how God designed rest?\n\nPray for hearts willing to reach out to people others might avoid, the way Jesus did."
+      }
+    }
+  ]
+}

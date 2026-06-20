@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "What Really Makes You Unclean?"
+  },
+  "ref": "Mark 7:1-23",
+  "section": "That Which Defiles",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Clean hands, dirty hearts"
+      },
+      "body": {
+        "en": "Pharisees noticed that some of Jesus' disciples ate without the ceremonial hand-washing tradition required. Jesus responded sharply, quoting Isaiah: 'These people honour me with their lips, but their hearts are far from me.' He said they let go of God's actual commands to hold onto human traditions! Then Jesus explained to the crowd: nothing that goes INTO a person from outside can make them unclean — it's what comes OUT of a person that defiles them. Later, His disciples asked Him to explain. Jesus said: 'Don't you see? Whatever enters from outside cannot make you unclean, because it doesn't go into your heart but into your stomach.' But evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, envy, slander, arrogance, and folly — these come from WITHIN, out of the heart, and these are what truly defile a person. Real holiness was never about external rules and rituals alone — it's about what's actually happening in the heart."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "What comes out of a person is what defiles them... it is from within, out of a person's heart, that evil thoughts come."
+      },
+      "ref": {
+        "en": "Mark 7:20-21 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "what",
+          "comes",
+          "out",
+          "of",
+          "a",
+          "person",
+          "is",
+          "what",
+          "defiles",
+          "them"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for What Really Makes You Unclean?"
+      },
+      "audio_en": "/static/audio/mark/lesson18_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus quote from Isaiah about the Pharisees?"
+          },
+          "options": {
+            "en": [
+              "They are perfectly faithful",
+              "Their lips honour God but their hearts are far from Him",
+              "They have no traditions",
+              "Nothing relevant"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Jesus, what makes a person truly unclean?"
+          },
+          "options": {
+            "en": [
+              "What goes into their stomach",
+              "What comes out from within — from the heart",
+              "Not washing hands",
+              "Eating certain foods"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What kinds of things does Jesus list as coming from within and defiling a person?"
+          },
+          "options": {
+            "en": [
+              "Only physical dirt",
+              "Evil thoughts, theft, murder, greed, malice, deceit, and more",
+              "Eating the wrong food",
+              "Nothing serious"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: What Really Makes You Unclean?"
+          },
+          "file": "/static/printables/mark/lesson18_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: genuine holiness is a matter of the heart, not external ritual compliance — a foundational truth this platform has taught throughout its other series (Colossians 2's warning against legalism, the doctrine of entire sanctification as a heart-cleansing work). Jesus directly confronts the gap between honouring God \"with lips\" while the heart remains untouched.\n\nConversation starters: (1) Why might someone follow all the right rules outwardly but still have a far-from-God heart? (2) What's the difference between something that goes \"into\" a person and something that comes \"out of\" their heart? (3) What's one thing on Jesus' list (evil thoughts, greed, deceit, etc.) you want God to help you guard your heart against?\n\nPray for clean hearts, not just clean outward appearances."
+      }
+    }
+  ]
+}

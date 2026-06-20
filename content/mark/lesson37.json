@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Crowned With Thorns"
+  },
+  "ref": "Mark 15:1-20",
+  "section": "Jesus Before Pilate / The Soldiers Mock Jesus",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Silent before accusation, mocked as a king"
+      },
+      "body": {
+        "en": "Early in the morning, Jesus was led to Pilate, the Roman governor. Pilate asked if He was 'King of the Jews' — Jesus answered simply, 'You say so,' but gave no further defence to the many accusations, amazing Pilate. It was custom to release one prisoner during the festival, and the crowd, stirred up by the chief priests, demanded Barabbas — a murderer — be released instead of Jesus! Pilate asked, 'What shall I do with the king of the Jews?' They shouted: 'Crucify him!' Pilate, wanting to satisfy the crowd, had Jesus flogged and handed Him over to be crucified. The soldiers mockingly dressed Jesus in a purple robe, twisted together a crown of THORNS and pressed it on His head, mocking Him: 'Hail, king of the Jews!' They struck Him repeatedly, spat on Him, and knelt before Him in cruel mockery — before leading Him away to crucify Him. The very thing they mocked Him for — being King — was exactly true, even as they tried to humiliate Him for claiming it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "They put a purple robe on him, then twisted together a crown of thorns and set it on him."
+      },
+      "ref": {
+        "en": "Mark 15:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "they",
+          "put",
+          "a",
+          "purple",
+          "robe",
+          "on",
+          "him",
+          "and",
+          "twisted",
+          "a",
+          "crown",
+          "of",
+          "thorns"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Crowned With Thorns"
+      },
+      "audio_en": "/static/audio/mark/lesson37_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did Jesus respond to the many accusations brought against Him before Pilate?"
+          },
+          "options": {
+            "en": [
+              "He argued back at length",
+              "He gave no defence, amazing Pilate",
+              "He denied everything",
+              "He pleaded for mercy"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who did the crowd demand be released instead of Jesus?"
+          },
+          "options": {
+            "en": [
+              "No one",
+              "Barabbas, a murderer",
+              "A Roman soldier",
+              "Pilate himself"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the soldiers mockingly place on Jesus' head?"
+          },
+          "options": {
+            "en": [
+              "A golden crown",
+              "A crown of thorns",
+              "Nothing at all",
+              "A simple hat"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Crowned With Thorns"
+          },
+          "file": "/static/printables/mark/lesson37_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' silence before false accusation and His mockery as \"king\" both ironically affirm the very truth being denied — He truly is the King, even while being humiliated for the claim. The crowd's choice of Barabbas over Jesus is a stark, almost unbearable picture of humanity choosing violence over the innocent one.\n\nConversation starters: (1) Why might Jesus choose not to defend Himself against false accusations? (2) What's the painful irony in the soldiers mocking Jesus as \"king\" when He actually is the King? (3) How does it feel to read about the crowd choosing a murderer's release over Jesus?\n\nPray, acknowledging the weight of what Jesus endured, and thanking Him for enduring it willingly."
+      }
+    }
+  ]
+}

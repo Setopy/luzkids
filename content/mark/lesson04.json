@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Quiet Time, Then a Touch No One Else Would Give"
+  },
+  "ref": "Mark 1:35-45",
+  "section": "Jesus Prays in a Solitary Place / Jesus Heals a Man With Leprosy",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Very early, a solitary place"
+      },
+      "body": {
+        "en": "Very early the next morning, while it was still dark, Jesus got up, left the house, and went to a solitary place to pray. Simon and the others went looking for Him — 'Everyone is looking for you!' But Jesus said: 'Let us go somewhere else — to the nearby villages — so I can preach there also. That is why I have come.' Even with crowds desperate for more miracles, Jesus knew His mission was bigger than staying in one popular spot. Then a man with leprosy came to Jesus, begging on his knees: 'If you are willing, you can make me clean.' In that culture, leprosy made a person an outcast — untouchable, isolated, avoided by everyone. But Jesus, filled with compassion, reached out His hand and TOUCHED him — something almost no one would dare to do — and said: 'I am willing. Be clean!' Immediately the leprosy left him. Jesus didn't just heal from a distance; He touched the untouchable."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Jesus reached out his hand and touched the man. 'I am willing,' he said. 'Be clean!'"
+      },
+      "ref": {
+        "en": "Mark 1:41 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "Jesus",
+          "reached",
+          "out",
+          "his",
+          "hand",
+          "and",
+          "touched",
+          "the",
+          "man",
+          "I",
+          "am",
+          "willing"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Quiet Time, Then a Touch No One Else Would Give"
+      },
+      "audio_en": "/static/audio/mark/lesson04_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus do very early in the morning, before the crowds came?"
+          },
+          "options": {
+            "en": [
+              "Slept in",
+              "Went to a solitary place to pray",
+              "Left Capernaum forever",
+              "Avoided everyone"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why was it unusual for Jesus to touch the man with leprosy?"
+          },
+          "options": {
+            "en": [
+              "It wasn't unusual at all",
+              "Leprosy made someone an outcast that almost no one would touch",
+              "Touching was forbidden for everyone",
+              "Jesus avoided sick people"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say as He touched the man?"
+          },
+          "options": {
+            "en": [
+              "Stay away from me",
+              "I am willing. Be clean!",
+              "Nothing at all",
+              "Go find someone else"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Quiet Time, Then a Touch No One Else Would Give"
+          },
+          "file": "/static/printables/mark/lesson04_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus models both disciplined prayer (seeking solitude even amid overwhelming demand) and radical compassion (touching the untouchable). His mission was never reducible to staying where He was popular — He kept moving toward those most in need, even the most excluded.\n\nConversation starters: (1) Why might Jesus need quiet time alone to pray, even though He was God's Son? (2) Who today might feel like an \"untouchable,\" the way lepers were treated? (3) What does Jesus' willingness to touch the man teach us about how to treat people others avoid?\n\nPray for compassion toward people who feel excluded or untouchable, and for disciplined time alone with God."
+      }
+    }
+  ]
+}

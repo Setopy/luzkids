@@ -1,0 +1,111 @@
+{
+  "title": {
+    "en": "I Do Believe — Help My Unbelief!"
+  },
+  "ref": "Mark 9:14-32",
+  "section": "Jesus Heals a Boy Possessed by an Impure Spirit / Jesus Predicts His Death a Second Time",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A desperate father, an honest prayer"
+      },
+      "body": {
+        "en": "Coming down the mountain, Jesus found a large crowd and His other disciples arguing with teachers of the law — they had tried and failed to heal a boy with a severe, violent spirit that threw him into convulsions. The boy's father explained, exhausted, then said: 'If you can do anything, take pity on us!' Jesus replied: 'If you can?! Everything is possible for one who believes.' The father cried out, with raw honesty: 'I do believe; help me overcome my unbelief!' Jesus commanded the spirit to come out, and it did, with a violent convulsion, leaving the boy looking dead — but Jesus took his hand and lifted him up, completely well! Privately, the disciples asked why THEY couldn't drive it out. Jesus said: 'This kind can come out only by prayer.' Then Jesus again told them plainly that He would be betrayed, killed, and rise after three days — but they still didn't understand, and were afraid to ask Him about it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I do believe; help me overcome my unbelief!"
+      },
+      "ref": {
+        "en": "Mark 9:24 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "I",
+          "do",
+          "believe",
+          "help",
+          "me",
+          "overcome",
+          "my",
+          "unbelief"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for I Do Believe — Help My Unbelief!"
+      },
+      "audio_en": "/static/audio/mark/lesson23_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why had the disciples been unable to heal the boy themselves?"
+          },
+          "options": {
+            "en": [
+              "They didn't try at all",
+              "They lacked enough prayer-dependent faith for this situation",
+              "Jesus forbade them",
+              "No reason given"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What honest, mixed cry did the boy's father give Jesus?"
+          },
+          "options": {
+            "en": [
+              "He had no doubts at all",
+              "I do believe; help me overcome my unbelief!",
+              "He refused to ask for help",
+              "He gave up immediately"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say was needed to drive out 'this kind' of spirit?"
+          },
+          "options": {
+            "en": [
+              "Loud shouting",
+              "Prayer",
+              "Money",
+              "Nothing special"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: I Do Believe — Help My Unbelief!"
+          },
+          "file": "/static/printables/mark/lesson23_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: honest, even mixed faith — \"I believe, help my unbelief\" — is exactly the kind of faith Jesus welcomes and answers, not a perfectly confident, doubt-free faith that few actually possess. This father's prayer has become one of the most relatable, comforting lines in the Gospels for anyone who genuinely believes yet still struggles with doubt.\n\nConversation starters: (1) Why might the father's honest mix of belief and doubt actually be a model prayer, not a failure of faith? (2) What does Jesus mean that \"this kind\" of need requires prayer specifically? (3) Have you ever felt like this father — believing, but wanting help with your doubts?\n\nPray honestly, like this father did, bringing both your faith and your doubts to God."
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "title": {
+    "en": "The Last Will Be First"
+  },
+  "ref": "Mark 9:33-50",
+  "section": "Who Is the Greatest? / Whoever Is Not Against Us / Causing to Stumble",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Arguing about greatness, holding a child instead"
+      },
+      "body": {
+        "en": "Back in Capernaum, Jesus asked the disciples what they'd been arguing about on the road — they were silent, embarrassed, because they'd been arguing about who was the GREATEST! Jesus said: 'Anyone who wants to be first must be the very last, and the servant of all.' He took a little child, had the child stand among them, and said: 'Whoever welcomes one of these little children in my name welcomes me.' John told Jesus they'd seen someone driving out demons in Jesus' name and told him to stop, because he wasn't one of their group. Jesus said: 'Do not stop him... whoever is not against us is for us.' Then Jesus gave a serious warning: if anyone causes a little one who believes to stumble, it would be better for them to have a huge millstone tied around their neck and be thrown into the sea! And if your own hand, foot, or eye causes you to sin, get rid of it — better to enter life maimed than to keep something that leads you away from God entirely. 'Salt is good,' Jesus said, 'but if it loses its saltiness... have salt among yourselves, and be at peace with each other.'"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Anyone who wants to be first must be the very last, and the servant of all."
+      },
+      "ref": {
+        "en": "Mark 9:35 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "anyone",
+          "who",
+          "wants",
+          "to",
+          "be",
+          "first",
+          "must",
+          "be",
+          "the",
+          "very",
+          "last",
+          "and",
+          "the",
+          "servant",
+          "of",
+          "all"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Last Will Be First"
+      },
+      "audio_en": "/static/audio/mark/lesson24_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What had the disciples been secretly arguing about on the road?"
+          },
+          "options": {
+            "en": [
+              "What to eat",
+              "Who was the greatest among them",
+              "Where to travel next",
+              "Nothing important"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus do to teach them about true greatness?"
+          },
+          "options": {
+            "en": [
+              "Gave a long lecture only",
+              "Took a little child and held him up as an example",
+              "Ignored the question",
+              "Argued back"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How seriously does Jesus treat causing a 'little one' to stumble?"
+          },
+          "options": {
+            "en": [
+              "It doesn't matter much",
+              "Extremely seriously — better to have a millstone tied around your neck than cause that",
+              "It's not addressed",
+              "Only adults matter"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Last Will Be First"
+          },
+          "file": "/static/printables/mark/lesson24_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: true greatness in God's kingdom is measured by servanthood, not status — and protecting the faith of \"little ones\" (children, and the spiritually young or vulnerable) is treated with the utmost seriousness, alongside ruthless personal honesty about whatever causes one's own sin. Jesus' tolerance toward the unnamed exorcist (\"whoever is not against us is for us\") models grace toward genuine, even imperfectly-organized, gospel work.\n\nConversation starters: (1) Why might Jesus use a child specifically to teach about greatness and welcome? (2) Why does Jesus take such a strong stance against causing \"little ones\" to stumble? (3) What's something you might need to \"get rid of\" because it leads you toward sin?\n\nPray for hearts that genuinely serve rather than seek status, and for protection over the faith of children."
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Peace! Be Still!"
+  },
+  "ref": "Mark 4:35-41",
+  "section": "Jesus Calms the Storm",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Asleep in the storm, then a word that silenced it"
+      },
+      "body": {
+        "en": "That evening, Jesus said to His disciples: 'Let us go over to the other side.' They got into a boat, and a FURIOUS storm arose — waves breaking over the boat, so that it was nearly swamped! And where was Jesus? Asleep, on a cushion, in the stern! The terrified disciples woke Him: 'Teacher, don't you care if we drown?' Jesus got up, and said to the wind and the waves: 'Quiet! Be still!' Then the wind died down, and it was COMPLETELY calm. Jesus turned to His disciples: 'Why are you so afraid? Do you still have no faith?' They were terrified, and asked each other, 'Who is this? Even the wind and the waves obey him!' Imagine the fear in that boat — experienced fishermen, genuinely afraid for their lives — and then, with a single command, total stillness. This wasn't just a calm man in a crisis. This was the Creator of wind and waves, simply telling His own creation to be quiet, and it obeyed instantly."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm."
+      },
+      "ref": {
+        "en": "Mark 4:39 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "quiet",
+          "be",
+          "still",
+          "then",
+          "the",
+          "wind",
+          "died",
+          "down",
+          "and",
+          "it",
+          "was",
+          "completely",
+          "calm"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Peace! Be Still!"
+      },
+      "audio_en": "/static/audio/mark/lesson11_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Where was Jesus when the furious storm hit the boat?"
+          },
+          "options": {
+            "en": [
+              "Steering the boat anxiously",
+              "Asleep on a cushion in the stern",
+              "Swimming in the water",
+              "He wasn't on the boat"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say to calm the storm?"
+          },
+          "options": {
+            "en": [
+              "Nothing — He just waited",
+              "Quiet! Be still!",
+              "Help us, Father!",
+              "He didn't calm it at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What question did the disciples ask each other after the storm calmed?"
+          },
+          "options": {
+            "en": [
+              "What should we eat tonight?",
+              "Who is this? Even the wind and waves obey him!",
+              "Where should we go next?",
+              "Nothing significant"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Peace! Be Still!"
+          },
+          "file": "/static/printables/mark/lesson11_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' authority over creation itself — not metaphorical calm, but actual command over wind and waves obeyed instantly — reveals His divine identity in a way the disciples couldn't yet fully process. His question, \"Why are you so afraid? Do you still have no faith?\" isn't harsh; it's an invitation to recognize who was in the boat with them all along.\n\nConversation starters: (1) Why do you think Jesus could sleep peacefully through such a violent storm? (2) What \"storms\" in your own life feel overwhelming right now? (3) What does it mean that even wind and waves obey Jesus' voice?\n\nPray together about whatever storm feels biggest in your life right now, trusting the same Jesus who calmed the sea."
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Dazzling White on the Mountain"
+  },
+  "ref": "Mark 9:2-13",
+  "section": "The Transfiguration",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A glimpse of glory before the cross"
+      },
+      "body": {
+        "en": "Six days later, Jesus took Peter, James and John up a high mountain, and there He was TRANSFIGURED before them — His clothes became dazzling white, whiter than anyone could bleach them! Elijah and Moses appeared, talking with Jesus. Peter, overwhelmed, blurted out: 'Let us put up three shelters — one for you, one for Moses, one for Elijah.' He didn't know what to say, they were so terrified! Then a cloud enveloped them, and a voice came from the cloud: 'This is my Son, whom I love. Listen to him!' Suddenly, looking around, they saw only Jesus — Moses and Elijah were gone. As they came down the mountain, Jesus told them to keep what they'd seen to themselves until after He had risen from the dead. They discussed what 'rising from the dead' could mean, still confused. For just a moment, on that mountain, Peter, James and John saw Jesus' true, hidden glory — the same glory He had before the world began, breaking through, right before the path toward the cross."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "This is my Son, whom I love. Listen to him!"
+      },
+      "ref": {
+        "en": "Mark 9:7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "this",
+          "is",
+          "my",
+          "Son",
+          "whom",
+          "I",
+          "love",
+          "listen",
+          "to",
+          "him"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Dazzling White on the Mountain"
+      },
+      "audio_en": "/static/audio/mark/lesson22_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What happened to Jesus' appearance on the mountain?"
+          },
+          "options": {
+            "en": [
+              "Nothing unusual",
+              "He was transfigured — His clothes became dazzling white",
+              "He disappeared",
+              "He grew taller"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who appeared with Jesus, talking with Him?"
+          },
+          "options": {
+            "en": [
+              "Two angels",
+              "Elijah and Moses",
+              "Peter and John only",
+              "No one else"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the voice from the cloud say?"
+          },
+          "options": {
+            "en": [
+              "Nothing important",
+              "This is my Son, whom I love. Listen to him!",
+              "Be silent forever",
+              "Go back home"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Dazzling White on the Mountain"
+          },
+          "file": "/static/printables/mark/lesson22_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: a brief, dazzling glimpse of Jesus' true divine glory, given specifically right after His first prediction of suffering and death — strengthening the disciples (and us) to trust that the coming suffering doesn't contradict who Jesus truly is, but is the path He chooses despite, and because of, His glory. The Father's command, \"Listen to him,\" directly answers Peter's earlier resistance to Jesus' words about the cross.\n\nConversation starters: (1) Why might God give the disciples this glimpse of glory right before the road to the cross gets harder? (2) What does \"Listen to him\" mean as a command for us today? (3) Have you ever had a moment where God felt unusually close or real to you?\n\nPray, asking God for the same kind of clarity about who Jesus truly is, especially in hard seasons."
+      }
+    }
+  ]
+}

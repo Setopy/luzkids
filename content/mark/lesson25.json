@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Let the Children Come"
+  },
+  "ref": "Mark 10:1-16",
+  "section": "Divorce / The Little Children and Jesus",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "What God joined, and who Jesus welcomed"
+      },
+      "body": {
+        "en": "Pharisees tested Jesus, asking if divorce was lawful. Jesus pointed back to creation: 'God made them male and female... a man will be united to his wife, and the two will become one flesh. So they are no longer two, but one. What God has joined together, let no one separate.' Moses permitted divorce because of hardened hearts, but that was never God's original design for marriage. Later, people brought little children to Jesus for Him to touch, but the disciples rebuked them — children weren't considered important enough to bother Jesus! Jesus was INDIGNANT and said: 'Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these. Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.' Then He took the children in His arms, placed His hands on them, and blessed them. Jesus didn't just tolerate children being brought to Him — He was upset that anyone tried to keep them away."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these."
+      },
+      "ref": {
+        "en": "Mark 10:14 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "let",
+          "the",
+          "little",
+          "children",
+          "come",
+          "to",
+          "me",
+          "and",
+          "do",
+          "not",
+          "hinder",
+          "them"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Let the Children Come"
+      },
+      "audio_en": "/static/audio/mark/lesson25_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus point back to, when asked about divorce?"
+          },
+          "options": {
+            "en": [
+              "Roman law only",
+              "God's original design at creation — one flesh, joined together",
+              "Nothing significant",
+              "Personal preference"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did the disciples initially react when people brought children to Jesus?"
+          },
+          "options": {
+            "en": [
+              "They welcomed them warmly",
+              "They rebuked the people, trying to keep children away",
+              "They ignored it",
+              "They brought more children themselves"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did Jesus feel about the disciples trying to keep children away?"
+          },
+          "options": {
+            "en": [
+              "Indifferent",
+              "Indignant — upset that they tried to hinder the children",
+              "Pleased",
+              "He agreed with them"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Let the Children Come"
+          },
+          "file": "/static/printables/mark/lesson25_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' strong, visible emotion (\"indignant\") at the disciples' attempt to keep children away reveals how highly He values them — not as an afterthought, but as a living picture of the humble, trusting receptivity the kingdom of God actually requires. The marriage teaching grounds lasting covenant commitment in God's original creation design, not merely cultural or legal convention.\n\nConversation starters: (1) Why might Jesus get genuinely upset, not just mildly correct the disciples, about keeping children away? (2) What does it mean to \"receive the kingdom like a little child\" — what qualities does a child have that adults can lose? (3) How does God's original design for marriage as \"one flesh\" shape how we think about commitment?\n\nPray, thanking Jesus for how much He values children, and asking for childlike trust in Him."
+      }
+    }
+  ]
+}

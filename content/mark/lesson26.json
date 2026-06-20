@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Hard for the Rich, Easy for God"
+  },
+  "ref": "Mark 10:17-31",
+  "section": "The Rich and the Kingdom of God",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A good question, a hard answer, a camel and a needle"
+      },
+      "body": {
+        "en": "A rich man ran up to Jesus, fell on his knees, and asked: 'Good teacher, what must I do to inherit eternal life?' Jesus listed several commandments — the man said he'd kept them all since he was young. Jesus, looking at him with LOVE, said: 'One thing you lack. Go, sell everything you have and give to the poor... then come, follow me.' At this, the man's face fell, and he went away sad, because he had great wealth. Jesus looked at His disciples: 'How hard it is for the rich to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God!' The disciples were astonished: 'Who then can be saved?' Jesus said: 'With man this is impossible, but not with God; all things are possible with God.' Peter pointed out they had left everything to follow Jesus. Jesus promised that no one who gives up anything for Him and the gospel will fail to receive a hundred times as much, in this life and the age to come — though many who are first will be last, and the last first."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "With man this is impossible, but not with God; all things are possible with God."
+      },
+      "ref": {
+        "en": "Mark 10:27 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "with",
+          "man",
+          "this",
+          "is",
+          "impossible",
+          "but",
+          "not",
+          "with",
+          "God",
+          "all",
+          "things",
+          "are",
+          "possible"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Hard for the Rich, Easy for God"
+      },
+      "audio_en": "/static/audio/mark/lesson26_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus tell the rich man he was lacking, even after keeping all the commandments?"
+          },
+          "options": {
+            "en": [
+              "Nothing — he was already complete",
+              "To sell everything and give to the poor, then follow Jesus",
+              "More religious knowledge",
+              "A bigger house"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did the rich man respond to Jesus' instruction?"
+          },
+          "options": {
+            "en": [
+              "He immediately obeyed with joy",
+              "His face fell, and he went away sad",
+              "He argued back",
+              "He thanked Jesus"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Jesus, who can actually achieve salvation, if it's humanly impossible?"
+          },
+          "options": {
+            "en": [
+              "No one, ever",
+              "God — all things are possible with God",
+              "Only the very wealthy",
+              "Only perfect people"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Hard for the Rich, Easy for God"
+          },
+          "file": "/static/printables/mark/lesson26_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: salvation is impossible by human effort or achievement alone — even a genuinely sincere, commandment-keeping person discovers something he cannot let go of, revealing that the real obstacle is the heart's attachment, not a checklist. Jesus' love for the man (explicitly stated) even as He calls for total surrender models that hard truth is not the opposite of compassion.\n\nConversation starters: (1) Why might the rich man's wealth be the exact thing keeping him from following Jesus fully? (2) What's the difference between religious rule-keeping and actually surrendering everything to Jesus? (3) What might be your own \"one thing\" that's hard to let go of for Jesus?\n\nPray for honesty about whatever might be harder to surrender than expected, trusting all things are possible with God."
+      }
+    }
+  ]
+}

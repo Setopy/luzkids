@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Sent Out, Two by Two"
+  },
+  "ref": "Mark 6:1-13",
+  "section": "A Prophet Without Honor / Jesus Sends Out the Twelve",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Rejected at home, then sent with authority"
+      },
+      "body": {
+        "en": "Jesus went to His hometown, Nazareth, and began teaching in the synagogue — and people were amazed at His wisdom, but then said dismissively: 'Isn't this the carpenter, Mary's son? Aren't his sisters here with us?' They took offence at Him! Jesus said: 'A prophet is without honour in his own town, among his relatives, and in his own home.' He could do only a few small miracles there, because of their unbelief — and He was amazed at THEIR lack of faith. Then Jesus called the Twelve and sent them out two by two, giving them authority over impure spirits. He told them to take nothing for the journey except a staff — no bread, no bag, no money — but to wear sandals and not take extra clothes. If a place wouldn't welcome them, they were to shake the dust off their feet as a testimony against that place and move on. The disciples went out and preached that people should repent, drove out many demons, and anointed many sick people with oil and healed them. Sent simply, trusting completely, they carried Jesus' authority into towns He hadn't even visited yet."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "A prophet is without honor in his own town, among his relatives and in his own home."
+      },
+      "ref": {
+        "en": "Mark 6:4 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "a",
+          "prophet",
+          "is",
+          "without",
+          "honor",
+          "in",
+          "his",
+          "own",
+          "town"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Sent Out, Two by Two"
+      },
+      "audio_en": "/static/audio/mark/lesson14_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why did the people of Nazareth take offence at Jesus?"
+          },
+          "options": {
+            "en": [
+              "He was too kind",
+              "They only saw Him as 'the carpenter, Mary's son' and dismissed Him",
+              "He never visited them",
+              "He demanded money"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus tell the disciples to take with them on their journey?"
+          },
+          "options": {
+            "en": [
+              "As much money as possible",
+              "Almost nothing — just a staff, no bread, no bag, no money",
+              "Extra clothes for everyone",
+              "A large group of helpers"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What were the disciples told to do if a town wouldn't welcome them?"
+          },
+          "options": {
+            "en": [
+              "Force their way in",
+              "Shake the dust off their feet and move on",
+              "Stay anyway and argue",
+              "Give up preaching entirely"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Sent Out, Two by Two"
+          },
+          "file": "/static/printables/mark/lesson14_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: familiarity can blind people to who's actually standing in front of them — Jesus' own hometown, who'd watched Him grow up, struggled most to see Him clearly. Sending the disciples out with almost nothing models radical trust in God's provision rather than self-sufficiency, and extends Jesus' authority beyond His own physical presence.\n\nConversation starters: (1) Why might it be hardest to recognize something remarkable in someone you've known your whole life? (2) Why send the disciples out with almost nothing — what does that teach about trust? (3) What does \"shaking the dust off\" show about respecting people's choice to not listen, without forcing it?\n\nPray for eyes that see Jesus clearly, even in familiar, ordinary places."
+      }
+    }
+  ]
+}

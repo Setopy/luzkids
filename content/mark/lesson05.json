@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Lowered Through the Roof"
+  },
+  "ref": "Mark 2:1-12",
+  "section": "Jesus Forgives and Heals a Paralyzed Man",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Four friends, one big hole in the roof"
+      },
+      "body": {
+        "en": "Jesus was back in Capernaum, and the house was so packed that there was no room left, not even outside the door! Four friends carried a paralysed man on a mat, hoping Jesus would heal him — but they couldn't get anywhere near the door. So what did they do? They climbed onto the ROOF, dug through it, and lowered the man on his mat right down in front of Jesus! Jesus saw their faith and said to the paralysed man: 'Son, your sins are forgiven.' Some teachers of the law sitting there thought: 'Why does this fellow talk like that? He's blaspheming! Only God can forgive sins!' Jesus, knowing their thoughts, said: 'Which is easier — to say \"your sins are forgiven\" or \"get up and walk\"? I want you to know the Son of Man has authority on earth to forgive sins.' Then He said to the man: 'Get up, take your mat and go home.' Immediately the man stood up, took his mat, and walked out in front of everyone — completely amazed!"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I want you to know that the Son of Man has authority on earth to forgive sins."
+      },
+      "ref": {
+        "en": "Mark 2:10 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "Son",
+          "of",
+          "Man",
+          "has",
+          "authority",
+          "on",
+          "earth",
+          "to",
+          "forgive",
+          "sins"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Lowered Through the Roof"
+      },
+      "audio_en": "/static/audio/mark/lesson05_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did the four friends get the paralysed man to Jesus through the packed crowd?"
+          },
+          "options": {
+            "en": [
+              "They pushed through the crowd",
+              "They dug through the roof and lowered him down",
+              "They waited outside for days",
+              "They gave up entirely"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say to the paralysed man first, before healing him physically?"
+          },
+          "options": {
+            "en": [
+              "Get up and walk",
+              "Your sins are forgiven",
+              "Go home now",
+              "Nothing at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why were the teachers of the law upset by what Jesus said?"
+          },
+          "options": {
+            "en": [
+              "They thought it was too quiet",
+              "Only God can forgive sins, and they thought Jesus was blaspheming",
+              "They didn't understand the words",
+              "They weren't upset at all"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Lowered Through the Roof"
+          },
+          "file": "/static/printables/mark/lesson05_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: physical healing and spiritual forgiveness presented together, proving Jesus' authority extends to both — the visible miracle (walking) validates the invisible one (forgiveness) that the religious leaders couldn't see or accept. The friends' resourceful, determined faith (literally breaking through a roof) is itself commended by Jesus before any words are even spoken.\n\nConversation starters: (1) What does the friends' determination — digging through a roof! — teach about bringing people to Jesus? (2) Why does Jesus address forgiveness before physical healing? (3) What does it mean that Jesus has \"authority on earth to forgive sins\"?\n\nPray for friends like these four, and for the same kind of determined faith on behalf of others."
+      }
+    }
+  ]
+}

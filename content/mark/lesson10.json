@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Small Things, Big Kingdom"
+  },
+  "ref": "Mark 4:21-34",
+  "section": "A Lamp on a Stand / The Parable of the Growing Seed / The Parable of the Mustard Seed",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A lamp, a sleeping farmer, and the tiniest seed"
+      },
+      "body": {
+        "en": "Jesus asked: would anyone hide a lamp under a bowl, or under a bed? Of course not — you put it on a stand, so it gives light! Whatever is hidden will eventually be disclosed, so consider carefully how you listen. Then He told another parable: a farmer scatters seed, and whether he's awake or asleep, night and day, the seed sprouts and grows — he doesn't fully understand how, but the soil produces grain by itself, until the harvest is ready. The kingdom of God grows this way too — not by human effort forcing it, but by a mysterious, God-given growth. Then Jesus described the kingdom as a MUSTARD SEED — the smallest of all seeds on earth! But when it's planted, it grows into the largest of garden plants, with such big branches that birds can perch in its shade. Jesus used many such parables, as much as the people could understand, though He explained everything privately to His disciples. The kingdom starts small, even invisible — but it grows into something enormous."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Though it is the smallest of all seeds on earth, yet when planted, it grows... it becomes the largest of all garden plants."
+      },
+      "ref": {
+        "en": "Mark 4:31-32 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "though",
+          "it",
+          "is",
+          "the",
+          "smallest",
+          "of",
+          "all",
+          "seeds",
+          "it",
+          "grows"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Small Things, Big Kingdom"
+      },
+      "audio_en": "/static/audio/mark/lesson10_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Jesus say you should do with a lamp, not hide it under a bowl?"
+          },
+          "options": {
+            "en": [
+              "Put it on a stand, so it gives light",
+              "Hide it forever",
+              "Throw it away",
+              "Keep it in a box"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "In the parable of the growing seed, who actually makes the seed grow?"
+          },
+          "options": {
+            "en": [
+              "Only the farmer's hard effort",
+              "The soil produces grain by itself — a mysterious, God-given growth",
+              "No one — it doesn't really grow",
+              "Birds make it grow"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Jesus compare God's kingdom to, that starts tiny but grows enormous?"
+          },
+          "options": {
+            "en": [
+              "A giant oak tree from the start",
+              "A mustard seed — smallest of all seeds, but grows into the largest plant",
+              "A river",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Small Things, Big Kingdom"
+          },
+          "file": "/static/printables/mark/lesson10_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: God's kingdom grows mysteriously and inevitably, often from the smallest, least impressive beginnings — encouraging both patience (the seed grows on its own timeline) and hope (even tiny faithfulness can produce enormous results). These short parables work together to reframe expectations about how God's work actually unfolds.\n\nConversation starters: (1) Why might Jesus compare the kingdom of God to something as small as a mustard seed? (2) What does the growing-seed parable teach about things we can't fully control or understand? (3) What's a \"lamp\" in your own life that shouldn't stay hidden?\n\nPray for patient faith, trusting God's kingdom to grow even when progress feels small or invisible."
+      }
+    }
+  ]
+}

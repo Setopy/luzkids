@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "He Is Not Here — He Has Risen!"
+  },
+  "ref": "Mark 16:1-20",
+  "section": "Jesus Has Risen / Resurrection Appearances and the Great Commission",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "An empty tomb, and a command for the whole world"
+      },
+      "body": {
+        "en": "Very early on the first day of the week, Mary Magdalene, Mary the mother of James, and Salome went to the tomb with spices, worried about who would roll away the huge stone. But the stone was ALREADY rolled away! Inside, a young man in a white robe said: 'Don't be alarmed. You are looking for Jesus, who was crucified. He has risen! He is not here. See the place where they laid him. Go, tell his disciples and Peter, \"He is going ahead of you into Galilee.\"' The women fled, astonished and afraid! Jesus appeared to Mary Magdalene, who told the others, but they didn't believe her. He appeared to two more disciples walking in the country — they weren't believed either! Finally He appeared to the Eleven themselves, rebuking their unbelief, then commanding them: 'Go into all the world and preach the gospel to all creation. Whoever believes and is baptised will be saved.' Then Jesus was taken up into heaven and sat at the right hand of God. The disciples went out and preached everywhere, the Lord working with them. The tomb was empty — and the mission had only just begun."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Go into all the world and preach the gospel to all creation."
+      },
+      "ref": {
+        "en": "Mark 16:15 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "go",
+          "into",
+          "all",
+          "the",
+          "world",
+          "and",
+          "preach",
+          "the",
+          "gospel",
+          "to",
+          "all",
+          "creation"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for He Is Not Here — He Has Risen!"
+      },
+      "audio_en": "/static/audio/mark/lesson39_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did the women find when they arrived at the tomb?"
+          },
+          "options": {
+            "en": [
+              "Jesus' body, still there",
+              "The stone already rolled away, and the tomb empty",
+              "Soldiers guarding it closely",
+              "Nothing unusual"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What message did the young man in the white robe give the women?"
+          },
+          "options": {
+            "en": [
+              "Jesus is still dead",
+              "He has risen! He is not here.",
+              "Stay away from Galilee",
+              "Nothing significant"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What command did Jesus give the Eleven before He ascended?"
+          },
+          "options": {
+            "en": [
+              "Stay hidden forever",
+              "Go into all the world and preach the gospel to all creation",
+              "Avoid all other nations",
+              "Nothing specific"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: He Is Not Here — He Has Risen!"
+          },
+          "file": "/static/printables/mark/lesson39_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the resurrection is the hinge of the entire Gospel — death could not hold Jesus, and the empty tomb transforms grieving followers into a movement commissioned to reach \"all the world.\" Mark's account is notably understated (no elaborate special effects, just an empty tomb and a simple announcement), letting the fact itself carry the weight rather than dramatic embellishment. The repeated disbelief of the disciples, even when told directly by witnesses, is honestly recorded — faith in the resurrection wasn't instant or easy even for those closest to Jesus.\n\nConversation starters: (1) Why might Mark's account of the resurrection be so simple and understated, rather than dramatic? (2) What does it mean that even the disciples struggled to believe at first? (3) What does \"go into all the world\" mean for YOUR life today, right where you are?\n\nPray, thanking God that Jesus is risen, and asking for boldness to be part of taking that good news everywhere."
+      }
+    }
+  ]
+}

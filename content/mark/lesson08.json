@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Jesus' True Family"
+  },
+  "ref": "Mark 3:20-35",
+  "section": "Jesus Accused by His Family and by Teachers of the Law",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Misunderstood by His own"
+      },
+      "body": {
+        "en": "The crowd around Jesus was so large that He and His disciples couldn't even eat! His own family heard about it and set out to take charge of Him, because people were saying, 'He is out of his mind.' Teachers of the law from Jerusalem went further, saying Jesus was possessed by Beelzebul, the prince of demons, and that's how He drove out demons. Jesus answered with a simple logic: 'How can Satan drive out Satan? If a kingdom is divided against itself, it cannot stand.' He warned that whoever speaks against the Holy Spirit, attributing God's work to evil, will not be forgiven — a serious warning about deliberately, knowingly calling God's good work evil. Then His mother and brothers arrived, standing outside, asking for Him. Jesus looked at those seated around Him and said something startling: 'Who are my mother and my brothers? Whoever does God's will is my brother and sister and mother.' Even His own biological family misunderstood Him at first — but Jesus was building a family defined by something deeper than blood."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Whoever does God's will is my brother and sister and mother."
+      },
+      "ref": {
+        "en": "Mark 3:35 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "whoever",
+          "does",
+          "God's",
+          "will",
+          "is",
+          "my",
+          "brother",
+          "and",
+          "sister",
+          "and",
+          "mother"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Jesus' True Family"
+      },
+      "audio_en": "/static/audio/mark/lesson08_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus' own family think was happening to Him?"
+          },
+          "options": {
+            "en": [
+              "He was the Messiah already",
+              "He was 'out of his mind'",
+              "He was perfectly understood by everyone",
+              "Nothing concerned them"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What logical argument did Jesus give against the accusation that He used Satan's power?"
+          },
+          "options": {
+            "en": [
+              "He didn't respond at all",
+              "A divided kingdom cannot stand — Satan driving out Satan makes no sense",
+              "He agreed with the accusation",
+              "He left immediately"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who did Jesus say is His true brother, sister, and mother?"
+          },
+          "options": {
+            "en": [
+              "Only His blood relatives",
+              "Whoever does God's will",
+              "No one at all",
+              "Only the twelve apostles"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Jesus' True Family"
+          },
+          "file": "/static/printables/mark/lesson08_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: even Jesus' closest family initially misunderstood His mission, and Jesus redefines true family around shared obedience to God's will rather than bloodline alone — a profound and costly redefinition for His own mother and brothers to hear in that moment. The warning about speaking against the Holy Spirit (3:28-29) is serious, but addresses deliberate, knowing rejection of God's clear work, not doubt or honest questions.\n\nConversation starters: (1) Why might even Jesus' own family misunderstand Him at first? (2) What does it mean to be part of God's family by \"doing His will,\" not just by birth? (3) Have you ever felt misunderstood for following Jesus?\n\nPray for a family — by blood and by faith — that genuinely seeks to do God's will together."
+      }
+    }
+  ]
+}

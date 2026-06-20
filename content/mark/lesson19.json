@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Crumbs of Great Faith"
+  },
+  "ref": "Mark 7:24-37",
+  "section": "Jesus Honors a Syrophoenician Woman's Faith / Jesus Heals a Deaf and Mute Man",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A bold mother, and ears opened"
+      },
+      "body": {
+        "en": "Jesus went to the region of Tyre, hoping to stay unnoticed, but a Greek woman, born in Syrian Phoenicia, whose daughter had an impure spirit, came and fell at His feet, begging Him to heal her daughter. Jesus said, testing her faith: 'First let the children eat all they want, for it is not right to take the children's bread and toss it to the dogs.' The woman replied with remarkable wit and humility: 'Lord, even the dogs under the table eat the children's crumbs.' Jesus said: 'For such a reply, you may go; the demon has left your daughter.' She went home and found her daughter lying on the bed, the demon gone! Then a deaf man who could hardly talk was brought to Jesus. Taking him aside privately, Jesus put His fingers in the man's ears, spit, touched his tongue, looked up to heaven and said: 'Ephphatha!' — 'Be opened!' Immediately the man could hear, and his tongue was loosened — he began to speak plainly! The people were overwhelmed with amazement: 'He has done everything well.'"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "For such a reply, you may go; the demon has left your daughter."
+      },
+      "ref": {
+        "en": "Mark 7:29 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "for",
+          "such",
+          "a",
+          "reply",
+          "you",
+          "may",
+          "go",
+          "the",
+          "demon",
+          "has",
+          "left",
+          "your",
+          "daughter"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Crumbs of Great Faith"
+      },
+      "audio_en": "/static/audio/mark/lesson19_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did the Syrophoenician woman respond when Jesus tested her faith?"
+          },
+          "options": {
+            "en": [
+              "She gave up and left",
+              "With a witty, humble reply about dogs eating crumbs",
+              "She got angry and argued",
+              "She said nothing"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What word did Jesus say when healing the deaf and mute man?"
+          },
+          "options": {
+            "en": [
+              "Nothing at all",
+              "'Ephphatha!' — 'Be opened!'",
+              "A long prayer",
+              "He didn't speak"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did the people respond after seeing the deaf man healed?"
+          },
+          "options": {
+            "en": [
+              "With indifference",
+              "Overwhelmed with amazement: 'He has done everything well'",
+              "With anger",
+              "They didn't notice"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Crumbs of Great Faith"
+          },
+          "file": "/static/printables/mark/lesson19_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: persistent, humble, even witty faith from an outsider — a Gentile woman with no claim on Jesus by ethnicity or religion — receives full honour, showing God's mercy extends beyond expected boundaries. Both healings in this passage involve someone reaching beyond an obstacle (ethnic boundary, physical disability) to receive what only Jesus could give.\n\nConversation starters: (1) What does the woman's clever, humble response show about persistent faith? (2) Why might Jesus initially respond the way He did, before honouring her faith? (3) What does \"He has done everything well\" mean as a summary of Jesus' ministry so far?\n\nPray for persistent faith, even when an answer doesn't come immediately."
+      }
+    }
+  ]
+}

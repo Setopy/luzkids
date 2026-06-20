@@ -1,0 +1,111 @@
+{
+  "title": {
+    "en": "Take Courage! It Is I"
+  },
+  "ref": "Mark 6:45-56",
+  "section": "Jesus Walks on the Water",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Walking toward them on the waves"
+      },
+      "body": {
+        "en": "After feeding the crowd, Jesus sent the disciples ahead by boat while He went up a mountainside to pray. Later that night, He saw the disciples straining against the wind, rowing hard on the lake. About the fourth watch of the night, Jesus went out to them, WALKING ON THE LAKE! He was about to pass by them, but they saw Him and were terrified, thinking He was a ghost! Jesus immediately said: 'Take courage! It is I. Don't be afraid.' He climbed into the boat with them, and the wind died down! They were completely amazed — they still hadn't fully understood the feeding of the five thousand, and their hearts were hardened. When they landed, people recognised Jesus immediately and brought the sick to Him from the surrounding area, on mats, just to lay near Him — wherever He went, people begged just to touch even the edge of His cloak, and all who touched Him were healed."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Take courage! It is I. Don't be afraid."
+      },
+      "ref": {
+        "en": "Mark 6:50 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "take",
+          "courage",
+          "it",
+          "is",
+          "I",
+          "don't",
+          "be",
+          "afraid"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Take Courage! It Is I"
+      },
+      "audio_en": "/static/audio/mark/lesson17_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus do that terrified the disciples in the boat?"
+          },
+          "options": {
+            "en": [
+              "He shouted at them",
+              "He walked on the lake toward them",
+              "He left them alone",
+              "He capsized the boat"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the disciples first think Jesus was, when they saw Him?"
+          },
+          "options": {
+            "en": [
+              "Their friend approaching",
+              "A ghost",
+              "An enemy",
+              "Nothing unusual"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened when Jesus climbed into the boat?"
+          },
+          "options": {
+            "en": [
+              "Nothing changed",
+              "The wind died down immediately",
+              "The storm got worse",
+              "The boat sank"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Take Courage! It Is I"
+          },
+          "file": "/static/printables/mark/lesson17_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' mastery over creation continues — walking on water, like calming the storm earlier, reveals divine authority over the natural world. His words \"Take courage, it is I\" carry deeper resonance than simple reassurance, echoing God's own self-identification language; recognizing who is truly present transforms fear into peace.\n\nConversation starters: (1) Why might the disciples be terrified even though it was Jesus coming to help them? (2) What does it mean that Jesus says \"It is I\" — why might that phrase matter? (3) What fear in your own life needs to hear Jesus say \"Take courage, don't be afraid\"?\n\nPray for courage in the middle of fear, recognizing Jesus is present even when He seems unexpected."
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Three Times Before the Rooster Crowed"
+  },
+  "ref": "Mark 14:53-72",
+  "section": "Jesus Before the Sanhedrin / Peter Denies Jesus",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A trial of lies, a courtyard of fear"
+      },
+      "body": {
+        "en": "Jesus was brought before the Sanhedrin, the high council, where the chief priests sought testimony to put Him to death — but the false witnesses contradicted each other. Finally the high priest asked directly: 'Are you the Messiah, the Son of the Blessed One?' Jesus answered: 'I am... and you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.' The high priest tore his clothes, calling it blasphemy, and they all condemned Him to death, spitting on Him and striking Him. Meanwhile, Peter was in the courtyard below. A servant girl recognised him: 'You were with Jesus.' Peter denied it. It happened again. Then a third time, others insisted he was a Galilean, one of Jesus' followers — Peter denied it strongly, even calling down curses on himself! Immediately the rooster crowed a second time. Peter remembered Jesus' words exactly — three denials, before the rooster crowed twice — and broke down and WEPT. The man who had promised he'd never fall away had failed completely, exactly as Jesus had said."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him... And he broke down and wept."
+      },
+      "ref": {
+        "en": "Mark 14:72 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "then",
+          "Peter",
+          "remembered",
+          "the",
+          "word",
+          "Jesus",
+          "had",
+          "spoken",
+          "to",
+          "him",
+          "and",
+          "he",
+          "wept"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Three Times Before the Rooster Crowed"
+      },
+      "audio_en": "/static/audio/mark/lesson36_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did Jesus answer when the high priest asked if He was the Messiah?"
+          },
+          "options": {
+            "en": [
+              "He denied it completely",
+              "I am — and described the Son of Man coming on the clouds of heaven",
+              "He refused to answer",
+              "He laughed it off"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How many times did Peter deny knowing Jesus, exactly as predicted?"
+          },
+          "options": {
+            "en": [
+              "Once",
+              "Three times",
+              "Ten times",
+              "He never denied Him"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Peter do immediately after the rooster crowed the second time?"
+          },
+          "options": {
+            "en": [
+              "Nothing happened",
+              "He remembered Jesus' words and broke down weeping",
+              "He defended Jesus boldly",
+              "He ran away laughing"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Three Times Before the Rooster Crowed"
+          },
+          "file": "/static/printables/mark/lesson36_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' bold, truthful confession before the council — knowing it would seal His death sentence — stands in painful contrast to Peter's fearful denials in the courtyard below, happening at nearly the same moment. Peter's bitter weeping, rather than excusing or hiding his failure, models genuine, broken-hearted repentance, which Mark's later resurrection account will show was not the end of Peter's story.\n\nConversation starters: (1) Why might Jesus answer truthfully, knowing it would lead to His condemnation? (2) What does Peter's reaction — weeping, not making excuses — show about genuine repentance? (3) Have you ever failed at something you were confident you'd never do, the way Peter did?\n\nPray for courage to stand firm under pressure, and grace for the moments when we fail like Peter did."
+      }
+    }
+  ]
+}

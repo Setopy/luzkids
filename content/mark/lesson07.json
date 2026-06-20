@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Choosing the Team"
+  },
+  "ref": "Mark 3:1-19",
+  "section": "Jesus Heals on the Sabbath / Crowds Follow Jesus / Jesus Appoints the Twelve",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A withered hand, and twelve ordinary names"
+      },
+      "body": {
+        "en": "In the synagogue, a man with a shrivelled hand was watching — would Jesus heal on the Sabbath? Jesus asked the Pharisees: 'Which is lawful on the Sabbath: to do good or to do evil?' They stayed silent. Jesus, deeply distressed at their hard hearts, said to the man: 'Stretch out your hand.' He did, and it was completely restored! The Pharisees were furious and began plotting against Jesus. Meanwhile, huge crowds came from everywhere — Galilee, Judea, Jerusalem, even beyond the Jordan — because they had heard about everything He was doing. Then Jesus went up a mountainside and called His disciples to Him, appointing TWELVE — designating them apostles — that they might be with Him and that He might send them out to preach and to have authority to drive out demons. Simon (whom He named Peter), James, John, Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot, who would later betray Him. Twelve ordinary men, chosen to carry something extraordinary."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "He appointed twelve that they might be with him and that he might send them out to preach."
+      },
+      "ref": {
+        "en": "Mark 3:14 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "he",
+          "appointed",
+          "twelve",
+          "that",
+          "they",
+          "might",
+          "be",
+          "with",
+          "him"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Choosing the Team"
+      },
+      "audio_en": "/static/audio/mark/lesson07_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What question did Jesus ask the Pharisees before healing the man's hand?"
+          },
+          "options": {
+            "en": [
+              "What time is it?",
+              "Is it lawful on the Sabbath to do good or evil?",
+              "Where do you live?",
+              "Nothing at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why were crowds coming to Jesus from so many regions?"
+          },
+          "options": {
+            "en": [
+              "They had heard about everything He was doing",
+              "They were forced to come",
+              "They wanted to arrest Him",
+              "No real reason"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How many apostles did Jesus appoint, and for what purpose?"
+          },
+          "options": {
+            "en": [
+              "Three, to argue with Him",
+              "Twelve, to be with Him and be sent out to preach with authority",
+              "One hundred, just to follow",
+              "None — He worked alone"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Choosing the Team"
+          },
+          "file": "/static/printables/mark/lesson07_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' compassion confronts religious legalism directly, while He simultaneously builds a team of ordinary, flawed people (including Judas, His eventual betrayer) entrusted with extraordinary authority. Choosing twelve — echoing the twelve tribes of Israel — signals the formation of a new community around Jesus.\n\nConversation starters: (1) Why might the Pharisees stay silent when Jesus asked His question? (2) What does it mean that Jesus chose ordinary, unremarkable men as His closest team? (3) Why might Mark mention Judas Iscariot by name this early, before any betrayal happens?\n\nPray for the same compassion Jesus showed, even when it meant confronting unfair rules."
+      }
+    }
+  ]
+}

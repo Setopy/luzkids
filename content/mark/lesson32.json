@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Two Small Coins, Everything She Had"
+  },
+  "ref": "Mark 12:35-44",
+  "section": "Whose Son Is the Messiah? / Warning Against the Teachers of the Law / The Widow's Offering",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A poor widow's enormous gift"
+      },
+      "body": {
+        "en": "Jesus posed a puzzling question about how the Messiah could be both David's son and David's Lord, quoting David's own psalm — the large crowd listened with delight! Then Jesus warned about the teachers of the law, who loved walking around in flowing robes, being greeted with respect, having the best seats — yet who devoured widows' houses while making lengthy prayers for show. 'Such men will be punished most severely,' Jesus said. Then, sitting opposite the temple treasury, Jesus watched people putting in their gifts — many rich people gave large amounts. But a poor widow came and put in just TWO small copper coins, worth very little. Jesus called His disciples and said: 'Truly I tell you, this poor widow has put more into the treasury than all the others. They gave out of their wealth; but she, out of her poverty, put in everything — all she had to live on.' The size of the gift wasn't what mattered to Jesus — it was the size of the sacrifice behind it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "She, out of her poverty, put in everything—all she had to live on."
+      },
+      "ref": {
+        "en": "Mark 12:44 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "she",
+          "out",
+          "of",
+          "her",
+          "poverty",
+          "put",
+          "in",
+          "everything",
+          "all",
+          "she",
+          "had",
+          "to",
+          "live",
+          "on"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Two Small Coins, Everything She Had"
+      },
+      "audio_en": "/static/audio/mark/lesson32_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus warn about the teachers of the law who loved flowing robes and respect?"
+          },
+          "options": {
+            "en": [
+              "Nothing — they were perfect examples",
+              "They devoured widows' houses while praying for show, and would be punished severely",
+              "They were ideal models to follow",
+              "They deserved more honour"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How much did the poor widow put into the temple treasury?"
+          },
+          "options": {
+            "en": [
+              "A huge amount of gold",
+              "Two small copper coins",
+              "Nothing at all",
+              "More than everyone else combined"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Jesus say the widow gave MORE than the wealthy givers, even though her amount was tiny?"
+          },
+          "options": {
+            "en": [
+              "She didn't really give more",
+              "She gave out of her poverty, everything she had, while others gave from their excess",
+              "Jesus made a mistake",
+              "It wasn't actually more"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Two Small Coins, Everything She Had"
+          },
+          "file": "/static/printables/mark/lesson32_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: God measures giving not by the absolute amount but by the sacrifice and trust behind it — the widow's two tiny coins represented far greater faith and generosity than the wealthy givers' larger but comparatively painless contributions. This directly follows Jesus' warning against showy, self-serving religiosity, contrasting hollow public piety with quiet, costly, genuine devotion.\n\nConversation starters: (1) Why does Jesus value the widow's tiny gift more than the wealthy people's larger gifts? (2) What's the difference between giving out of \"wealth\" versus giving out of genuine sacrifice? (3) What would it look like for you to give sacrificially, not just give what's easy?\n\nPray for hearts of genuine, sacrificial generosity, regardless of how much or little you have."
+      }
+    }
+  ]
+}

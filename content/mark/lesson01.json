@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Get Ready — Jesus Is Coming!"
+  },
+  "ref": "Mark 1:1-13",
+  "section": "John the Baptist Prepares the Way / The Baptism and Testing of Jesus",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A voice in the wilderness"
+      },
+      "body": {
+        "en": "Mark doesn't waste a single word. 'The beginning of the good news about Jesus the Messiah, the Son of God' — and straight into the action! A wild prophet named John the Baptist appeared in the wilderness, wearing camel's hair, eating locusts and wild honey, calling people to REPENT and be baptised for the forgiveness of sins. Crowds came from everywhere! John told them plainly: 'After me comes one more powerful than I, whose sandals I am not worthy to untie. I baptise you with water, but he will baptise you with the Holy Spirit!' Then Jesus Himself came to the Jordan River and was baptised by John. As Jesus came up out of the water, the heavens TORE OPEN, the Spirit descended like a dove, and a voice from heaven declared: 'You are my Son, whom I love; with you I am well pleased.' Immediately — Mark's favourite word! — the Spirit sent Jesus into the wilderness, where He was tempted by Satan for forty days, with wild animals around Him, and angels attending Him."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "You are my Son, whom I love; with you I am well pleased."
+      },
+      "ref": {
+        "en": "Mark 1:11 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "you",
+          "are",
+          "my",
+          "Son",
+          "whom",
+          "I",
+          "love",
+          "with",
+          "you",
+          "I",
+          "am",
+          "well",
+          "pleased"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Get Ready — Jesus Is Coming!"
+      },
+      "audio_en": "/static/audio/mark/lesson01_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did John the Baptist call people to do?"
+          },
+          "options": {
+            "en": [
+              "Build a temple",
+              "Repent and be baptised for the forgiveness of sins",
+              "Pay extra taxes",
+              "Move to Jerusalem"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened when Jesus came up out of the water after being baptised?"
+          },
+          "options": {
+            "en": [
+              "Nothing unusual",
+              "The heavens tore open, the Spirit descended like a dove, and God spoke",
+              "It started raining",
+              "The crowd left"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Where did the Spirit send Jesus right after His baptism?"
+          },
+          "options": {
+            "en": [
+              "To Jerusalem to teach",
+              "Into the wilderness, to be tempted for forty days",
+              "Back home to rest",
+              "Nowhere in particular"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Get Ready — Jesus Is Coming!"
+          },
+          "file": "/static/printables/mark/lesson01_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Mark opens at full speed, establishing Jesus' identity immediately through the Father's own voice and the Spirit's visible descent — the Trinity on full display in the very first scene. John's baptism of repentance prepares the way, but it's Jesus' baptism that reveals who He truly is.\n\nConversation starters: (1) Why might John dress and live so differently from everyone else? (2) What does it mean that God spoke directly from heaven about Jesus? (3) Why would Jesus, who never sinned, go through testing in the wilderness?\n\nPray, asking God to help your family get ready for Jesus the way John prepared the way."
+      }
+    }
+  ]
+}

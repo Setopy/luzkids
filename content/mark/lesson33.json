@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Keep Watch!"
+  },
+  "ref": "Mark 13:1-37",
+  "section": "The Destruction of the Temple and Signs of the End Times / The Day and Hour Unknown",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Not one stone left standing"
+      },
+      "body": {
+        "en": "Leaving the temple, a disciple admired its massive stones. Jesus said: 'Not one stone here will be left on another; every one will be thrown down.' Privately, on the Mount of Olives, the disciples asked when this would happen. Jesus warned of false messiahs, wars, earthquakes, famines — 'these are the beginning of birth pains.' Believers would face persecution, but the good news must first be preached to all nations. Jesus described a time of great distress unlike anything before, with false prophets performing signs to deceive even the elect — but He told them not to be alarmed; these things must happen first. Then He spoke of the Son of Man coming 'in clouds with great glory' to gather His elect from the ends of the earth. Jesus compared this to a fig tree — when you see the signs, you know the time is near. But 'about that day or hour no one knows... only the Father.' So Jesus' final command in this teaching: 'Watch! Be on your guard! You do not know when the owner of the house will come back... Therefore keep watch.'"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Watch! Be on your guard! You do not know when that day will come."
+      },
+      "ref": {
+        "en": "Mark 13:33 (NIV, paraphrased)"
+      },
+      "scramble_words": {
+        "en": [
+          "watch",
+          "be",
+          "on",
+          "your",
+          "guard",
+          "you",
+          "do",
+          "not",
+          "know",
+          "when",
+          "that",
+          "day",
+          "will",
+          "come"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Keep Watch!"
+      },
+      "audio_en": "/static/audio/mark/lesson33_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus predict would happen to the temple's massive stones?"
+          },
+          "options": {
+            "en": [
+              "They would stand forever",
+              "Not one stone would be left standing on another",
+              "Nothing would change",
+              "They would be made bigger"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say about false messiahs and signs during the coming distress?"
+          },
+          "options": {
+            "en": [
+              "They should be trusted immediately",
+              "Even false prophets would perform signs to deceive — don't be alarmed",
+              "Nothing significant",
+              "They would never appear"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who does Jesus say knows the exact day and hour of His return?"
+          },
+          "options": {
+            "en": [
+              "Everyone knows",
+              "Only the Father",
+              "The disciples knew",
+              "No one, not even God"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Keep Watch!"
+          },
+          "file": "/static/printables/mark/lesson33_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus prepares His disciples for both the coming destruction of the temple (historically fulfilled in 70 AD) and His own future return, with the consistent emphasis being readiness and watchfulness rather than date-calculating speculation. The instruction to \"keep watch\" because \"no one knows\" the exact timing protects against both complacency and unhealthy obsession with predicting specific dates.\n\nConversation starters: (1) Why might Jesus emphasize watchfulness rather than giving an exact timeline? (2) What does it mean that \"the good news must first be preached to all nations\" before the end? (3) What does staying spiritually \"awake\" and \"watching\" look like in ordinary daily life?\n\nPray for hearts that stay watchful and ready, without fear, trusting God's timing completely."
+      }
+    }
+  ]
+}

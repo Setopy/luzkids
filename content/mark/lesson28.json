@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "What Do You Want Me to Do for You?"
+  },
+  "ref": "Mark 10:46-52",
+  "section": "Blind Bartimaeus Receives His Sight",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A persistent shout, a question that mattered"
+      },
+      "body": {
+        "en": "As Jesus left Jericho with a large crowd, a blind beggar named Bartimaeus sat by the roadside. Hearing it was Jesus, he began shouting: 'Jesus, Son of David, have mercy on me!' Many people told him to be quiet, but he shouted EVEN LOUDER! Jesus stopped and said, 'Call him.' They called Bartimaeus, who threw aside his cloak and jumped up to come to Jesus. Jesus asked him directly: 'What do you want me to do for you?' Bartimaeus said: 'Rabbi, I want to see.' Jesus said: 'Go, your faith has healed you.' Immediately Bartimaeus received his sight, and followed Jesus along the road! Notice that Jesus, even surrounded by a huge crowd heading toward Jerusalem for the most important week of His mission, stopped completely for one persistent, shouting beggar — and asked him exactly what he wanted, rather than assuming. Bartimaeus's persistence, despite people trying to silence him, was rewarded with the very thing he asked for."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "What do you want me to do for you?"
+      },
+      "ref": {
+        "en": "Mark 10:51 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "what",
+          "do",
+          "you",
+          "want",
+          "me",
+          "to",
+          "do",
+          "for",
+          "you"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for What Do You Want Me to Do for You?"
+      },
+      "audio_en": "/static/audio/mark/lesson28_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did people tell Bartimaeus to do when he started shouting for Jesus?"
+          },
+          "options": {
+            "en": [
+              "Shout louder",
+              "Be quiet",
+              "Come closer immediately",
+              "Nothing — they encouraged him"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What question did Jesus ask Bartimaeus directly?"
+          },
+          "options": {
+            "en": [
+              "Why are you blind?",
+              "What do you want me to do for you?",
+              "Where do you live?",
+              "Nothing at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Bartimaeus do immediately after receiving his sight?"
+          },
+          "options": {
+            "en": [
+              "Went home alone",
+              "Followed Jesus along the road",
+              "Stayed by the roadside",
+              "Argued with the crowd"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: What Do You Want Me to Do for You?"
+          },
+          "file": "/static/printables/mark/lesson28_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: persistent, unashamed faith — refusing to be silenced by a discouraging crowd — receives Jesus' full, personal attention, even amid the press of a massive crowd on His way to the most significant week of His life. Jesus' question, \"What do you want me to do for you?\" models genuine personal attentiveness rather than assumption.\n\nConversation starters: (1) Why might Bartimaeus shout even louder when people tried to quiet him? (2) Why does Jesus ask what Bartimaeus wants, rather than just healing him without asking? (3) What does Bartimaeus following Jesus afterward show about his response to being healed?\n\nPray with the same bold persistence Bartimaeus showed, bringing your specific requests to Jesus."
+      }
+    }
+  ]
+}

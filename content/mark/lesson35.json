@@ -1,0 +1,118 @@
+{
+  "title": {
+    "en": "Not My Will, But Yours"
+  },
+  "ref": "Mark 14:27-52",
+  "section": "Jesus Predicts Peter's Denial / Gethsemane / Jesus Arrested",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Sweat like agony, a kiss of betrayal"
+      },
+      "body": {
+        "en": "Jesus told them all would fall away — and Peter insisted he never would, even if it meant death! Jesus said, 'Truly I tell you, today, this very night, before the rooster crows twice, you will disown me three times.' Peter insisted even more strongly. In the Garden of Gethsemane, Jesus, deeply distressed, told Peter, James and John: 'My soul is overwhelmed with sorrow. Stay here and keep watch.' Going a little further, He fell to the ground and prayed that, if possible, this hour might pass from Him: 'Abba, Father, everything is possible for you. Take this cup from me. Yet not what I will, but what you will.' Three times He returned to find the disciples sleeping. Then Judas arrived with an armed crowd, and identified Jesus with a kiss. Jesus was seized. One disciple tried to defend Him with a sword, but Jesus didn't resist arrest — He went willingly, exactly as Scripture had foretold, while all His disciples deserted Him and fled."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Abba, Father, everything is possible for you. Take this cup from me. Yet not what I will, but what you will."
+      },
+      "ref": {
+        "en": "Mark 14:36 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "abba",
+          "Father",
+          "everything",
+          "is",
+          "possible",
+          "for",
+          "you",
+          "not",
+          "what",
+          "I",
+          "will",
+          "but",
+          "what",
+          "you",
+          "will"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Not My Will, But Yours"
+      },
+      "audio_en": "/static/audio/mark/lesson35_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Jesus predict Peter would do, despite Peter's strong protest?"
+          },
+          "options": {
+            "en": [
+              "Defend Him bravely",
+              "Disown Him three times before the rooster crowed twice",
+              "Stay faithful no matter what",
+              "Nothing notable"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus pray in Gethsemane, even while being honest about His distress?"
+          },
+          "options": {
+            "en": [
+              "Let this happen exactly as I want",
+              "Not what I will, but what you will",
+              "I refuse to go through with this",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did Judas identify Jesus to the armed crowd?"
+          },
+          "options": {
+            "en": [
+              "He pointed from a distance",
+              "With a kiss",
+              "He shouted His name",
+              "He hid from Jesus"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Not My Will, But Yours"
+          },
+          "file": "/static/printables/mark/lesson35_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus models complete, costly surrender to the Father's will, even while being fully honest about His own distress and reluctance — genuine faith doesn't require pretending difficulty away. His arrest, achieved through betrayal by a close friend, fulfills Scripture exactly while every human relationship around Him fails in that moment.\n\nConversation starters: (1) Why might it matter that Jesus honestly expressed His distress, rather than pretending to be unaffected? (2) What does \"not what I will, but what you will\" teach about surrendering to God even when it's hard? (3) Why might Peter's confident promise fail so completely, despite his sincerity?\n\nPray for the same kind of honest surrender Jesus modeled, trusting God's will even when it's difficult."
+      }
+    }
+  ]
+}

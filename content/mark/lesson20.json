@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Watch Out for the Wrong Yeast"
+  },
+  "ref": "Mark 8:1-21",
+  "section": "Jesus Feeds the Four Thousand / The Yeast of the Pharisees and Herod",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Another miracle, another warning"
+      },
+      "body": {
+        "en": "Another huge crowd had nothing to eat, and Jesus, having compassion, didn't want to send them away hungry — they might collapse on the way home! With seven loaves and a few small fish, Jesus gave thanks, broke them, and fed about FOUR THOUSAND people, with seven basketfuls left over! Even after seeing this miracle (and the earlier feeding of five thousand), the Pharisees came demanding a sign from heaven to test Jesus. Jesus, deeply sighing, refused — no sign would be given to that generation. Later, in the boat, Jesus warned His disciples: 'Watch out for the yeast of the Pharisees and the yeast of Herod.' The disciples, missing the point entirely, thought He was talking about bread, because they'd forgotten to bring any! Jesus, somewhat exasperated, asked: 'Do you still not see or understand? Don't you remember the five loaves for the five thousand, and the seven for the four thousand? Are your hearts hardened?' Yeast spreads quietly through dough — Jesus was warning about how corrupted thinking spreads quietly too, if you're not watching for it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Watch out for the yeast of the Pharisees and that of Herod."
+      },
+      "ref": {
+        "en": "Mark 8:15 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "watch",
+          "out",
+          "for",
+          "the",
+          "yeast",
+          "of",
+          "the",
+          "Pharisees",
+          "and",
+          "that",
+          "of",
+          "Herod"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Watch Out for the Wrong Yeast"
+      },
+      "audio_en": "/static/audio/mark/lesson20_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How many people did Jesus feed with seven loaves and a few fish?"
+          },
+          "options": {
+            "en": [
+              "Five hundred",
+              "About four thousand",
+              "Twelve",
+              "A small family"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Jesus refuse to give the Pharisees a sign, even after two feeding miracles?"
+          },
+          "options": {
+            "en": [
+              "He had no power left",
+              "He had already shown plenty of signs; their demand was a test, not real seeking",
+              "He forgot how",
+              "There was no reason"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus actually mean by warning about 'yeast,' which the disciples misunderstood?"
+          },
+          "options": {
+            "en": [
+              "Literal bread only",
+              "The corrupting, spreading influence of wrong thinking",
+              "Nothing important",
+              "A cooking lesson"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Watch Out for the Wrong Yeast"
+          },
+          "file": "/static/printables/mark/lesson20_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: even after witnessing repeated, abundant miracles, the disciples still struggled to grasp deeper spiritual truths — a sobering reminder that physical evidence alone doesn't guarantee spiritual understanding. The \"yeast\" warning uses a vivid, everyday picture (something small that spreads quietly through everything) for how subtly wrong thinking or compromised values can corrupt a whole life if unchecked.\n\nConversation starters: (1) Why might the disciples miss the point so badly, even after seeing two feeding miracles? (2) What does \"yeast\" spreading quietly through dough teach about how wrong influences can spread in a life? (3) What's a \"yeast\" — a small but spreading wrong influence — you want to watch out for?\n\nPray for hearts that aren't hardened, but stay alert and understanding."
+      }
+    }
+  ]
+}

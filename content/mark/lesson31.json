@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Love God, Love Your Neighbor"
+  },
+  "ref": "Mark 12:18-34",
+  "section": "Marriage at the Resurrection / The Greatest Commandment",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A trick question, and the simplest summary of everything"
+      },
+      "body": {
+        "en": "Sadducees, who didn't believe in resurrection, tried to trap Jesus with a complicated scenario about a woman who married seven brothers in succession — whose wife would she be in the resurrection? Jesus said they were wrong because they didn't know the Scriptures or God's power — in the resurrection, people won't marry, but will be like the angels in heaven. He pointed out that God told Moses, 'I am the God of Abraham, Isaac and Jacob' — God is the God of the LIVING, not the dead! Then a teacher of the law asked Jesus: 'Of all the commandments, which is the most important?' Jesus answered: 'The most important is this: Love the Lord your God with all your heart, all your soul, all your mind, and all your strength. The second is: Love your neighbour as yourself. There is no commandment greater than these.' The teacher agreed completely, and Jesus said he was not far from the kingdom of God. Two simple commands, Jesus said, summarised absolutely everything God requires."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength."
+      },
+      "ref": {
+        "en": "Mark 12:30 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "love",
+          "the",
+          "Lord",
+          "your",
+          "God",
+          "with",
+          "all",
+          "your",
+          "heart",
+          "and",
+          "soul",
+          "and",
+          "mind"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Love God, Love Your Neighbor"
+      },
+      "audio_en": "/static/audio/mark/lesson31_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What mistake did Jesus say the Sadducees made with their trick question?"
+          },
+          "options": {
+            "en": [
+              "Nothing — it was a perfect question",
+              "They didn't know the Scriptures or God's power",
+              "They were too clever",
+              "They asked too many questions"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus say is the most important commandment?"
+          },
+          "options": {
+            "en": [
+              "Keep the Sabbath only",
+              "Love the Lord your God with all your heart, soul, mind, and strength",
+              "Pay your taxes",
+              "Build a temple"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is the second greatest commandment, according to Jesus?"
+          },
+          "options": {
+            "en": [
+              "Avoid all sin",
+              "Love your neighbor as yourself",
+              "Follow every law perfectly",
+              "Nothing specific"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Love God, Love Your Neighbor"
+          },
+          "file": "/static/printables/mark/lesson31_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus distills the entire law into two inseparable commands — wholehearted love for God and genuine love for neighbor — demonstrating that authentic religion was never primarily about complicated rule-systems but about love, rightly directed both upward and outward. His response to the Sadducees also affirms bodily resurrection clearly, against their denial.\n\nConversation starters: (1) Why might loving God and loving neighbor be inseparable from each other? (2) What does it mean to love God with ALL your heart, soul, mind, and strength — every part of you? (3) Who is a \"neighbor\" you could show deliberate love to this week?\n\nPray for hearts that genuinely love God fully and love others as yourself."
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Five Loaves, Two Fish, Thousands Fed"
+  },
+  "ref": "Mark 6:30-44",
+  "section": "Jesus Feeds the Five Thousand",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Not enough, until Jesus held it"
+      },
+      "body": {
+        "en": "The apostles returned from their mission and reported everything to Jesus. He said, 'Come with me by yourselves to a quiet place and get some rest' — but crowds kept coming, and Jesus, having compassion on them, taught them many things anyway. As evening came, the disciples said: 'This is a remote place, send the people away to buy food.' Jesus replied: 'You give them something to eat.' They said: 'That would take eight months of wages! We have only five loaves and two fish.' Jesus had everyone sit down in groups, took the five loaves and two fish, looked up to heaven, gave thanks, and broke the loaves, giving them to the disciples to distribute. Everyone ate and was SATISFIED — and the disciples picked up twelve basketfuls of leftover pieces! The number who ate? Five thousand men, not even counting women and children! Jesus didn't need abundance to start with — He needed willingness to bring what little they had, and trust that He could make it enough for everyone."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces."
+      },
+      "ref": {
+        "en": "Mark 6:42-43 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "they",
+          "all",
+          "ate",
+          "and",
+          "were",
+          "satisfied",
+          "and",
+          "picked",
+          "up",
+          "twelve",
+          "basketfuls"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Five Loaves, Two Fish, Thousands Fed"
+      },
+      "audio_en": "/static/audio/mark/lesson16_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How much food did the disciples initially have to feed the huge crowd?"
+          },
+          "options": {
+            "en": [
+              "Enough for everyone already",
+              "Only five loaves and two fish",
+              "Nothing at all",
+              "A whole banquet"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What happened after Jesus blessed and broke the loaves and fish?"
+          },
+          "options": {
+            "en": [
+              "Nothing changed",
+              "Everyone ate and was satisfied, with twelve baskets of leftovers",
+              "Only a few people got food",
+              "The food ran out immediately"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Roughly how many people were fed, not counting women and children?"
+          },
+          "options": {
+            "en": [
+              "Fifty",
+              "Five thousand men",
+              "Five hundred",
+              "Only the disciples"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Five Loaves, Two Fish, Thousands Fed"
+          },
+          "file": "/static/printables/mark/lesson16_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus multiplies what's offered, however small, when it's given in faith — the miracle didn't require the disciples to have enough; it required them to bring what little they had. The detail of twelve full baskets of leftovers (echoing the twelve tribes, the twelve apostles) emphasizes abundant, overflowing provision, not just bare sufficiency.\n\nConversation starters: (1) What does it teach you that Jesus used what little the disciples already had, rather than creating food from nothing? (2) Why might Jesus have the people sit down in organized groups before the miracle? (3) What \"little\" do you have that you could offer to God, trusting Him to multiply it?\n\nPray, offering whatever feels small or insufficient in your own life, trusting God to provide."
+      }
+    }
+  ]
+}

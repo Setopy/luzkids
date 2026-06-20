@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "A King's Terrible Promise"
+  },
+  "ref": "Mark 6:14-29",
+  "section": "John the Baptist Beheaded",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A dance, a vow, a tragic ending"
+      },
+      "body": {
+        "en": "King Herod had heard about Jesus and wondered if this was John the Baptist, raised from the dead — because Herod himself had had John arrested and beheaded. Herod had married Herodias, his brother's wife, and John had spoken out against it, which made Herodias want John dead. But Herod feared John, knowing he was a righteous and holy man, and kept him safe in prison, even though he liked to listen to him. On Herod's birthday, his daughter Herodias danced for the guests, pleasing Herod so much that he promised, with an oath, to give her anything she asked, even half his kingdom! Prompted by her mother, she asked for John the Baptist's head on a platter. Herod was greatly distressed, but because of his oath and his guests, he gave the order anyway. John's disciples came and took his body and laid it in a tomb. It's a sobering, sad story — a king trapped by his own pride and a careless promise, leading to the death of a truly righteous man. Even powerful people can make terrible choices when they fear looking weak more than they fear doing wrong."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Herod feared John and protected him, knowing he was a righteous and holy man."
+      },
+      "ref": {
+        "en": "Mark 6:20 (NIV, paraphrased)"
+      },
+      "scramble_words": {
+        "en": [
+          "Herod",
+          "feared",
+          "John",
+          "knowing",
+          "he",
+          "was",
+          "a",
+          "righteous",
+          "and",
+          "holy",
+          "man"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A King's Terrible Promise"
+      },
+      "audio_en": "/static/audio/mark/lesson15_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why had Herod originally kept John the Baptist safe, even in prison?"
+          },
+          "options": {
+            "en": [
+              "He didn't care about John at all",
+              "He feared John, knowing he was a righteous and holy man",
+              "John had no influence",
+              "Herod wanted to release him quickly"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What rash promise did Herod make at his birthday celebration?"
+          },
+          "options": {
+            "en": [
+              "To give nothing to anyone",
+              "To give the dancer anything she asked, even half his kingdom",
+              "To free all prisoners",
+              "To leave the kingdom"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Herod ultimately give the order to kill John, even though he was distressed?"
+          },
+          "options": {
+            "en": [
+              "He wanted to",
+              "Because of his oath and not wanting to look weak in front of his guests",
+              "John asked him to",
+              "No real reason"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A King's Terrible Promise"
+          },
+          "file": "/static/printables/mark/lesson15_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: a sobering account of how pride, public image, and a careless promise can override even a leader's own conscience — Herod knew John was righteous, yet chose to look strong rather than do right. This story doesn't shy away from real tragedy, and handling it honestly with children teaches an important lesson about the cost of caring more about appearances than truth.\n\nConversation starters: (1) Why do you think Herod made such a rash promise in the first place? (2) What does it mean that Herod felt \"greatly distressed\" but still gave the order? (3) What helps a person do what's right, even when it's embarrassing or costly?\n\nPray for courage to do what's right, even under pressure to save face."
+      }
+    }
+  ]
+}

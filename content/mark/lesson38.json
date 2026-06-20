@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "It Is Finished"
+  },
+  "ref": "Mark 15:21-47",
+  "section": "The Crucifixion of Jesus / The Death of Jesus / The Burial of Jesus",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Darkness at noon, a torn curtain, a borrowed tomb"
+      },
+      "body": {
+        "en": "A man named Simon was forced to carry Jesus' cross. They crucified Jesus at a place called Golgotha, between two robbers, with a sign reading 'King of the Jews' above Him. People passing by hurled insults. At noon, darkness came over the whole land until three in the afternoon. Then Jesus cried out with a loud voice: 'Eloi, Eloi, lama sabachthani?' — 'My God, my God, why have you forsaken me?' With a loud cry, Jesus breathed His last. At that moment, the curtain of the temple — the very curtain separating people from God's presence — was torn in two, from top to bottom! A Roman centurion, watching how Jesus died, said: 'Surely this man was the Son of God!' That evening, Joseph of Arimathea, a respected council member who was himself looking for the kingdom of God, boldly asked Pilate for Jesus' body. He wrapped it in linen and placed it in a tomb cut out of rock, rolling a stone against the entrance. The women watched where He was laid. The most painful day in history ended in a borrowed tomb — but the curtain was already torn."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "And the curtain of the temple was torn in two from top to bottom."
+      },
+      "ref": {
+        "en": "Mark 15:38 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "curtain",
+          "of",
+          "the",
+          "temple",
+          "was",
+          "torn",
+          "in",
+          "two",
+          "from",
+          "top",
+          "to",
+          "bottom"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for It Is Finished"
+      },
+      "audio_en": "/static/audio/mark/lesson38_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What happened to the land at noon, while Jesus hung on the cross?"
+          },
+          "options": {
+            "en": [
+              "Nothing unusual",
+              "Darkness came over the whole land",
+              "It became very hot",
+              "Everything was quiet"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What significant thing happened to the temple curtain the moment Jesus died?"
+          },
+          "options": {
+            "en": [
+              "Nothing happened to it",
+              "It was torn in two, from top to bottom",
+              "It was removed by priests",
+              "It stayed exactly the same"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the Roman centurion say after watching how Jesus died?"
+          },
+          "options": {
+            "en": [
+              "Nothing at all",
+              "Surely this man was the Son of God!",
+              "This man deserved this",
+              "He was confused"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: It Is Finished"
+          },
+          "file": "/static/printables/mark/lesson38_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the torn temple curtain at the precise moment of Jesus' death is one of Mark's most theologically loaded details — the barrier separating humanity from God's presence is decisively, visibly removed, fulfilling everything the old tabernacle system pointed toward (a theme this platform has taught extensively through Hebrews). Even a Roman centurion, an outsider with no religious stake, recognizes the truth the religious leaders had rejected.\n\nThis is the most solemn moment in the whole Bible for children to encounter — handle it with quiet reverence rather than dwelling on graphic detail; the focus is what Jesus' death accomplished, not the mechanics of suffering.\n\nConversation starters: (1) What does the torn curtain mean about our access to God now? (2) Why might a Roman centurion recognize the truth about Jesus when religious leaders didn't? (3) How does it feel to sit with the weight of this moment before moving to the resurrection?\n\nPray quietly, thanking Jesus for what His death accomplished — full, open access to God."
+      }
+    }
+  ]
+}
