@@ -1,36 +1,37 @@
 {
   "title": {
-    "en": "Pray, Witness, and Finish Well!"
+    "en": "Real People, Real Love"
   },
-  "ref": "Colossians 4:2-18",
+  "ref": "Colossians 4:7-18",
+  "section": "Final Greetings",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "A friend who wrestled in prayer"
+        "en": "Greetings that show the gospel is personal"
       },
       "body": {
-        "en": "Paul closes his letter with final instructions that every believer needs. First: devote yourselves to prayer, being watchful and thankful — and pray specifically that God would open doors for the message of Christ to spread, and that believers would proclaim it clearly. Then Paul gives wisdom for how to live among people who don't yet know Jesus: be wise in how you act toward outsiders, making the most of every opportunity. Let your conversation always be full of grace, seasoned with salt — meaning thoughtful, kind, and interesting, never dull or harsh — so that you'll know how to answer everyone properly. Paul then names real people, real friends: Tychicus and Onesimus, faithful messengers; and Epaphras, who Paul says is 'always wrestling in prayer' for the Colossians, that they would stand firm, mature and fully assured in everything God wills. Imagine someone praying for you so hard it's described as WRESTLING! Finally, Paul asks them to remember his chains — he was still in prison as he wrote — and ends simply: 'Grace be with you.' A letter that began with thanksgiving for the Colossians' faith ends with a call to prayer, wise witness, and grace. The Christian life isn't a sprint finished alone — it's a race run together, carried by people who wrestle in prayer for one another."
+        "en": "Paul closes his letter the way he closes several letters: with real names, real people, real relationships. Tychicus and Onesimus are sent to carry news and encouragement. Paul mentions Aristarchus, his fellow prisoner, and Mark, and Justus, and then says something tender about Epaphras — the very man who first brought the gospel to Colossae — describing him as 'always wrestling in prayer' for the Colossians, that they would stand firm, mature and fully assured in everything God wills. Imagine someone praying for you so hard it's described as WRESTLING! Paul mentions Luke, the doctor, and Demas, and sends a greeting to Nympha and the church meeting in her house. He even asks them to tell Archippus to complete the ministry he received. Finally, Paul writes a closing greeting in his own handwriting — a personal, unmistakable signature — and asks them to remember his chains, ending simply: 'Grace be with you.' A letter overflowing with deep doctrine ends, fittingly, with ordinary people who loved each other and prayed hard for one another."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Devote yourselves to prayer, being watchful and thankful."
+        "en": "He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured."
       },
       "ref": {
-        "en": "Colossians 4:2 (NIV)"
+        "en": "Colossians 4:12 (NIV)"
       },
       "scramble_words": {
         "en": [
-          "devote",
-          "yourselves",
-          "to",
+          "he",
+          "is",
+          "always",
+          "wrestling",
+          "in",
           "prayer",
-          "being",
-          "watchful",
-          "and",
-          "thankful"
+          "for",
+          "you"
         ]
       },
       "typing_challenge": true
@@ -38,27 +39,13 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Pray, Witness, and Finish Well!"
+        "en": "A Song for Real People, Real Love"
       },
       "audio_en": "/static/audio/colossians/lesson08_en.mp3"
     },
     {
       "type": "quiz",
       "questions": [
-        {
-          "q": {
-            "en": "What specific thing did Paul ask the Colossians to pray for?"
-          },
-          "options": {
-            "en": [
-              "More money for the church",
-              "That God would open a door for the message of Christ",
-              "An easier life for Paul",
-              "A bigger congregation"
-            ]
-          },
-          "answer": 1
-        },
         {
           "q": {
             "en": "How is Epaphras described in his prayers for the Colossians?"
@@ -75,17 +62,31 @@
         },
         {
           "q": {
-            "en": "How does Paul say believers should speak to people outside the faith?"
+            "en": "How does Paul close the letter, to make it personal and unmistakably his?"
           },
           "options": {
             "en": [
-              "With conversation full of grace, seasoned with salt",
-              "As little as possible",
-              "Only about church matters",
-              "With harsh, blunt words"
+              "He has someone else sign it",
+              "He writes the closing greeting in his own handwriting",
+              "He doesn't sign it at all",
+              "He uses a stamp"
             ]
           },
-          "answer": 0
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What do all the personal greetings at the end of the letter remind us about the gospel?"
+          },
+          "options": {
+            "en": [
+              "It is impersonal and abstract",
+              "It spreads through real, named people and real relationships",
+              "Names don't matter in the church",
+              "Only leaders matter, not ordinary believers"
+            ]
+          },
+          "answer": 1
         }
       ]
     },
@@ -94,7 +95,7 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Pray, Witness, and Finish Well!"
+            "en": "Activity sheet: Real People, Real Love"
           },
           "file": "/static/printables/colossians/lesson08_sheet.pdf"
         }
@@ -103,7 +104,7 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: prayer, wise witness, and faithful relationships are how the church finishes the race together — a fitting close to a letter that began with Paul's own intercession for a church he'd never met. Epaphras's prayer life, described as \"always wrestling\" (4:12) — agonizomai in the Greek, the same word used for athletic struggle — models intercessory prayer as real spiritual labor, not a passing thought.\n\nPaul's instruction on speech toward outsiders (4:5-6) — wise, gracious, \"seasoned with salt\" — gives a practical, age-appropriate framework for personal evangelism: not awkward or pushy, but winsome, thoughtful, ready with an answer when the moment opens. This connects directly to the doctrine that every believer is called to share the gospel, modeled here not as confrontation but as grace-filled relationship.\n\nThe personal greetings (4:7-17) are a beautiful reminder that the gospel spreads through ordinary, named people — Tychicus, Onesimus, Luke, Epaphras — not anonymous structures. Faith is always personal, carried by real relationships.\n\nConversation starters: (1) Who in your life \"wrestles in prayer\" for you, or who could you wrestle in prayer for? (2) What would it look like for your conversation to be \"full of grace, seasoned with salt\" with someone who doesn't know Jesus? (3) Paul names real friends by name at the end — who are the faithful people God has placed around you?\n\nPray together as a family, taking time to wrestle in prayer for specific people who don't yet know Jesus — perhaps using names already on the Mission page."
+        "en": "Big idea: profound doctrine lands, fittingly, in ordinary named relationships — a reminder that the gospel always travels through real people, not abstract ideas. Epaphras's prayer life, described as \"always wrestling\" (4:12) — the same intensity language used for athletic struggle — models intercessory prayer as real spiritual labor, directly echoing the kind of soul-winning, person-by-person ministry this platform's mission tracker is built around.\n\nConversation starters: (1) Who in your life \"wrestles in prayer\" for you, or who could you wrestle in prayer for? (2) Why might Paul take the time to name so many ordinary people at the end of such an important letter? (3) What does Paul's own handwritten signature show about how personally he cared for this church?\n\nPray together, taking time to wrestle in prayer for specific people by name — perhaps from the Mission page."
       }
     }
   ]

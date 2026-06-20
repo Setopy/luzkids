@@ -2,7 +2,8 @@
   "title": {
     "en": "The Mystery: Christ Lives in You!"
   },
-  "ref": "Colossians 1:24-2:5",
+  "ref": "Colossians 1:24-2:7",
+  "section": "Paul's Labor for the Church",
   "blocks": [
     {
       "type": "story",
@@ -10,26 +11,27 @@
         "en": "A secret too good to keep"
       },
       "body": {
-        "en": "Paul says something that sounds strange at first: he is happy to suffer for the Colossians! Why would suffering make anyone glad? Because Paul knew his sufferings were part of serving the church, and nothing — not prison, not pain — could stop the gospel from spreading. God gave Paul a special job: to fully tell people the WORD OF GOD, including a mystery that had been hidden for ages but is now revealed to God's people. And here is the mystery, the secret too good to keep: CHRIST IN YOU — the hope of glory! Not Christ far away in heaven only, but Christ living INSIDE every believer, right now, today. This is why Paul worked so hard, struggling with all the energy Christ powerfully worked in him, to present every believer fully mature in Christ. He wanted the Colossians to know this wasn't empty talk — he was contending for them, even though they had never met face to face, so that they would not be deceived by fine-sounding arguments that sound smart but lead people away from the truth. Knowing the real mystery — Christ living in you — protects your heart from being fooled by clever lies."
+        "en": "Paul says something that sounds strange at first: he is happy to suffer for the Colossians! Why? Because Paul knew his sufferings were part of serving the church, and nothing — not prison, not pain — could stop the gospel from spreading. God gave Paul a special job: to fully tell people the WORD OF GOD, including a mystery hidden for ages but now revealed: CHRIST IN YOU — the hope of glory! Not Christ far away in heaven only, but Christ living INSIDE every believer, right now. Paul worked hard, struggling with all the energy Christ powerfully worked in him, so that every believer would not be deceived by fine-sounding arguments that lead people away from the truth. So Paul gives one clear instruction to close this section: just as you received Christ Jesus as Lord, keep on walking in Him — ROOTED and BUILT UP in the faith, just as you were taught, overflowing with thankfulness. A tree with deep roots doesn't get blown over by every clever-sounding wind of teaching."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Christ in you, the hope of glory."
+        "en": "So then, just as you received Christ Jesus as Lord, continue to live your lives rooted and built up in him."
       },
       "ref": {
-        "en": "Colossians 1:27 (NIV)"
+        "en": "Colossians 2:6-7 (NIV)"
       },
       "scramble_words": {
         "en": [
-          "Christ",
-          "in",
+          "just",
+          "as",
           "you",
-          "the",
-          "hope",
-          "of",
-          "glory"
+          "received",
+          "Christ",
+          "Jesus",
+          "as",
+          "Lord"
         ]
       },
       "typing_challenge": true
@@ -74,17 +76,17 @@
         },
         {
           "q": {
-            "en": "What does Paul warn the Colossians about?"
+            "en": "What does Paul instruct believers to be, like a deeply-rooted tree?"
           },
           "options": {
             "en": [
-              "Being deceived by fine-sounding arguments",
-              "Eating the wrong foods",
-              "Traveling too far from home",
-              "Speaking too loudly in church"
+              "Easily blown over by clever arguments",
+              "Rooted and built up in the faith, overflowing with thankfulness",
+              "Distracted and uncertain",
+              "Indifferent to teaching"
             ]
           },
-          "answer": 0
+          "answer": 1
         }
       ]
     },
@@ -102,7 +104,7 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the indwelling of Christ in the believer (the central mystery of the New Testament) and the necessity of doctrinal discernment. \"Christ in you, the hope of glory\" (1:27) is not poetic exaggeration — it describes the actual, present reality of the Spirit of Christ dwelling within every genuine believer, the basis for real transformation and holy living taught throughout this letter.\n\nPaul's \"struggling\" and \"contending\" (1:29, 2:1) for believers he had never met models intercessory labor — caring deeply for people's spiritual maturity even without personal contact, something parents praying for children far away, or believers praying for missions fields, can relate to directly.\n\nThe warning against being \"deceived by fine-sounding arguments\" (2:4) is a call to discernment — not all persuasive-sounding teaching is true teaching. Children need this skill early: truth is tested against Scripture, not against how convincing or clever something sounds.\n\nConversation starters: (1) What does it mean that Christ actually lives inside you, not just watches from far away? (2) Can you think of an idea that sounded smart but wasn't actually true? How did you (or could you) tell? (3) Who do you pray for even though you may never meet them?\n\nPray together, thanking God that Christ dwells within, and asking for discernment to recognize truth from clever-sounding lies."
+        "en": "Big idea: the indwelling of Christ in the believer — the central mystery of the New Testament — and the call to be rooted and built up, closing out this whole section on Paul's labor for the church (1:24-2:7). Note this standard section actually crosses the chapter 1/2 boundary in the original text; verses 2:6-7 belong with this unit, not with what follows, since they form Paul's concluding instruction to the readers he's just described laboring for.\n\nConversation starters: (1) What does it mean that Christ actually lives inside you, not just watches from far away? (2) What does being \"rooted and built up\" protect you from? (3) Who labors and prays for your spiritual growth, the way Paul did for the Colossians?\n\nPray together, thanking God that Christ dwells within, and asking for roots that go deep."
       }
     }
   ]

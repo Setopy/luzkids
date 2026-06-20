@@ -3,10 +3,10 @@
     "en": "Colossians for Kids"
   },
   "subtitle": {
-    "en": "All 4 chapters — discovering that Jesus is supreme over everything!"
+    "en": "All 4 chapters, mapped to the standard sections of the book — discovering that Jesus holds everything together!"
   },
   "description": {
-    "en": "Paul wrote to a church he'd never visited, but his message rings just as true today: Jesus holds everything together, lives inside every believer, and is worth putting off our old selves to follow with our whole hearts. Eight adventures through all four chapters of Colossians — from the supremacy of Christ to a family that prays and finishes well together."
+    "en": "Paul wrote to a church he'd never visited, but his message rings just as true today: Jesus holds everything together, lives inside every believer, and is worth putting off our old selves to follow with our whole hearts. Eight adventures through all four chapters of Colossians, following the same section divisions found in standard study Bibles."
   },
   "age_range": "6-12",
   "free": true,
@@ -19,56 +19,64 @@
       "title": {
         "en": "Faith, Love, and a Prayer for Wisdom"
       },
-      "ref": "Colossians 1:1-14"
+      "ref": "Colossians 1:1-14",
+      "section": "Thanksgiving and Prayer"
     },
     {
       "id": "lesson02",
       "title": {
         "en": "Jesus Is Supreme Over Everything!"
       },
-      "ref": "Colossians 1:15-23"
+      "ref": "Colossians 1:15-23",
+      "section": "The Supremacy of Christ"
     },
     {
       "id": "lesson03",
       "title": {
         "en": "The Mystery: Christ Lives in You!"
       },
-      "ref": "Colossians 1:24-2:5"
+      "ref": "Colossians 1:24-2:7",
+      "section": "Paul's Labor for the Church"
     },
     {
       "id": "lesson04",
       "title": {
-        "en": "Rooted, Built Up, and Set Free!"
+        "en": "Set Free — Don't Get Trapped Again!"
       },
-      "ref": "Colossians 2:6-15"
+      "ref": "Colossians 2:8-23",
+      "section": "Freedom From Human Regulations Through Life With Christ"
     },
     {
       "id": "lesson05",
       "title": {
-        "en": "Don't Let Anyone Trap You with Rules!"
+        "en": "Put Off the Old, Put On the New!"
       },
-      "ref": "Colossians 2:16-23"
+      "ref": "Colossians 3:1-17",
+      "section": "The Old Self and the New Self"
     },
     {
       "id": "lesson06",
       "title": {
-        "en": "Put Off the Old, Put On the New!"
+        "en": "Love at Home!"
       },
-      "ref": "Colossians 3:1-17"
+      "ref": "Colossians 3:18-4:1",
+      "section": "Rules for Christian Households"
     },
     {
       "id": "lesson07",
       "title": {
-        "en": "Love at Home!"
+        "en": "Pray, and Speak with Grace"
       },
-      "ref": "Colossians 3:18-4:1"
+      "ref": "Colossians 4:2-6",
+      "section": "Further Instructions"
     },
     {
       "id": "lesson08",
       "title": {
-        "en": "Pray, Witness, and Finish Well!"
+        "en": "Real People, Real Love"
       },
-      "ref": "Colossians 4:2-18"
+      "ref": "Colossians 4:7-18",
+      "section": "Final Greetings"
     }
   ]
 }
