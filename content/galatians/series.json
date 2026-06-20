@@ -1,0 +1,122 @@
+{
+  "title": {
+    "en": "Galatians for Kids"
+  },
+  "subtitle": {
+    "en": "All 6 chapters, mapped to the standard sections of the book — saved by grace, free to love!"
+  },
+  "description": {
+    "en": "A passionate, urgent letter defending one truth: we are made right with God by faith in Jesus, not by earning it through rules. Thirteen adventures through all six chapters of Galatians, following the same section divisions found in standard study Bibles — discovering true freedom, the fruit of the Spirit, and what it means to be a brand new creation in Christ."
+  },
+  "age_range": "6-12",
+  "free": true,
+  "order": 4,
+  "emoji": "🕊️",
+  "color": "#4f9d69",
+  "lessons": [
+    {
+      "id": "lesson01",
+      "title": {
+        "en": "Astonished and Alarmed"
+      },
+      "ref": "Galatians 1:1-10",
+      "section": "No Other Gospel"
+    },
+    {
+      "id": "lesson02",
+      "title": {
+        "en": "From Persecutor to Preacher"
+      },
+      "ref": "Galatians 1:11-24",
+      "section": "Paul Called by God"
+    },
+    {
+      "id": "lesson03",
+      "title": {
+        "en": "Standing Firm Together"
+      },
+      "ref": "Galatians 2:1-10",
+      "section": "Paul Accepted by the Apostles"
+    },
+    {
+      "id": "lesson04",
+      "title": {
+        "en": "Even Peter Got It Wrong"
+      },
+      "ref": "Galatians 2:11-21",
+      "section": "Paul Opposes Peter"
+    },
+    {
+      "id": "lesson05",
+      "title": {
+        "en": "You Foolish Galatians!"
+      },
+      "ref": "Galatians 3:1-14",
+      "section": "Faith or Observance of the Law"
+    },
+    {
+      "id": "lesson06",
+      "title": {
+        "en": "Why the Law, Then?"
+      },
+      "ref": "Galatians 3:15-25",
+      "section": "The Law and the Promise"
+    },
+    {
+      "id": "lesson07",
+      "title": {
+        "en": "No Longer Slaves, But Sons and Daughters"
+      },
+      "ref": "Galatians 3:26-4:7",
+      "section": "Children of God"
+    },
+    {
+      "id": "lesson08",
+      "title": {
+        "en": "Paul's Heartbreak"
+      },
+      "ref": "Galatians 4:8-20",
+      "section": "Paul's Concern for the Galatians"
+    },
+    {
+      "id": "lesson09",
+      "title": {
+        "en": "Two Sons, Two Mothers, Two Ways"
+      },
+      "ref": "Galatians 4:21-31",
+      "section": "Hagar and Sarah"
+    },
+    {
+      "id": "lesson10",
+      "title": {
+        "en": "Stand Firm in Freedom!"
+      },
+      "ref": "Galatians 5:1-15",
+      "section": "Freedom in Christ"
+    },
+    {
+      "id": "lesson11",
+      "title": {
+        "en": "Walk by the Spirit"
+      },
+      "ref": "Galatians 5:16-26",
+      "section": "Life by the Spirit"
+    },
+    {
+      "id": "lesson12",
+      "title": {
+        "en": "Carry Each Other's Burdens"
+      },
+      "ref": "Galatians 6:1-10",
+      "section": "Doing Good to All"
+    },
+    {
+      "id": "lesson13",
+      "title": {
+        "en": "A New Creation Is What Counts"
+      },
+      "ref": "Galatians 6:11-18",
+      "section": "Not Circumcision but a New Creation"
+    }
+  ]
+}

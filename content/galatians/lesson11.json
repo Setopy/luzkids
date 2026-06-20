@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Walk by the Spirit"
+  },
+  "ref": "Galatians 5:16-26",
+  "section": "Life by the Spirit",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A tug-of-war, and beautiful fruit"
+      },
+      "body": {
+        "en": "Paul now explains how real freedom actually works day to day: live by the Spirit, and you will not gratify the desires of the flesh, because the flesh and the Spirit are in constant conflict, like a tug-of-war pulling in opposite directions. Paul lists the works of the sinful nature plainly — things like sexual immorality, hatred, jealousy, fits of rage, selfish ambition, and more — warning that those who LIVE LIKE THIS habitually will not inherit the kingdom of God. But then comes one of the most beloved passages in the whole Bible: the FRUIT of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Notice it's called fruit, singular, not fruits — one beautiful, connected harvest growing from a Spirit-led life, not a checklist to tackle one at a time. Against such things there is no law! Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires. Since we live by the Spirit, Paul says, let us also walk in step with the Spirit, in every part of daily life."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control."
+      },
+      "ref": {
+        "en": "Galatians 5:22-23 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "but",
+          "the",
+          "fruit",
+          "of",
+          "the",
+          "Spirit",
+          "is",
+          "love",
+          "joy",
+          "peace"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Walk by the Spirit"
+      },
+      "audio_en": "/static/audio/galatians/lesson11_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say is in constant conflict, pulling in opposite directions?"
+          },
+          "options": {
+            "en": [
+              "Jews and Gentiles",
+              "The flesh and the Spirit",
+              "Paul and Peter",
+              "Faith and hope"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What warning does Paul give about those who habitually live by the works of the sinful nature?"
+          },
+          "options": {
+            "en": [
+              "Nothing serious happens",
+              "They will not inherit the kingdom of God",
+              "They'll be rewarded anyway",
+              "It doesn't matter at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why is the fruit of the Spirit described as singular fruit, not separate fruits?"
+          },
+          "options": {
+            "en": [
+              "It's a typo",
+              "It's one beautiful, connected harvest, not a checklist done one item at a time",
+              "Only one quality matters",
+              "There's no real reason"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Walk by the Spirit"
+          },
+          "file": "/static/printables/galatians/lesson11_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the Spirit-led life produces a unified, observable character (the \"fruit,\" singular) as the natural outflow of walking in step with the Spirit — not a checklist achieved by willpower, but genuine transformation. The sober warning (5:19-21) that those who habitually practice the works of the flesh \"will not inherit the kingdom of God\" is significant scriptural support, alongside Hebrews' warnings, for holy living being a real, ongoing necessity, not merely a one-time decision disconnected from how life is actually lived.\n\nConversation starters: (1) What does the \"tug-of-war\" between flesh and Spirit feel like in your own life? (2) Why is fruit a better picture than a checklist for spiritual growth? (3) Which fruit of the Spirit do you most want to grow in right now?\n\nPray for a Spirit-led life, walking in step with Him daily."
+      }
+    }
+  ]
+}

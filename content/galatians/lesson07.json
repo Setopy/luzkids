@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "No Longer Slaves, But Sons and Daughters"
+  },
+  "ref": "Galatians 3:26-4:7",
+  "section": "Children of God",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Abba, Father"
+      },
+      "body": {
+        "en": "Paul now declares something glorious: through faith in Christ Jesus, you are ALL children of God! There is no longer Jew or Gentile, slave or free, male or female — for you are all one in Christ Jesus, and if you belong to Christ, you are Abraham's true descendants, heirs according to the promise. Paul explains it with a picture every child understands: imagine a young heir who, while still a child, is no different practically from a slave — even though he will one day own everything, he is kept under guardians and trustees until he grows up. That's how it was under the old law. But when the time set by God had fully come, God sent His Son, born of a woman, born under the law, to redeem those under the law, so that we might receive full adoption as sons and daughters! Because we are His children, God has sent the Spirit of His Son into our hearts, crying out, 'Abba, Father!' — the same intimate, trusting word a small child uses for a loving daddy. So you are no longer a slave, but God's own child — and since you are His child, God has made you an heir of everything He has promised."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir."
+      },
+      "ref": {
+        "en": "Galatians 4:7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "so",
+          "you",
+          "are",
+          "no",
+          "longer",
+          "a",
+          "slave",
+          "but",
+          "God's",
+          "child"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for No Longer Slaves, But Sons and Daughters"
+      },
+      "audio_en": "/static/audio/galatians/lesson07_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Paul, what happens to all believers through faith in Christ Jesus?"
+          },
+          "options": {
+            "en": [
+              "Nothing changes their status",
+              "They become children of God, heirs according to the promise",
+              "Only some become God's children",
+              "They lose all rights"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did God send when the time had fully come, according to this passage?"
+          },
+          "options": {
+            "en": [
+              "Another set of laws",
+              "His Son, to redeem those under the law and bring adoption",
+              "An angel only",
+              "Nothing different"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the Spirit of God's Son cause believers' hearts to cry out?"
+          },
+          "options": {
+            "en": [
+              "A formal title only priests can use",
+              "'Abba, Father' — an intimate, trusting word for a loving Father",
+              "Nothing at all",
+              "Fear and distance"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: No Longer Slaves, But Sons and Daughters"
+          },
+          "file": "/static/printables/galatians/lesson07_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: full adoption into God's family, with the Spirit Himself enabling the intimate cry \"Abba, Father\" — note this section deliberately crosses the chapter 3/4 boundary in the original text, since the argument flows as one continuous thought from \"children of God\" (3:26) through the heir/guardian illustration into full adoption (4:1-7). Note also 3:28's radical statement of equality in Christ — Jew/Gentile, slave/free, male/female — a stunningly countercultural claim for its time, grounded entirely in shared identity in Christ, not earned status.\n\nConversation starters: (1) What does it mean to move from being treated like a slave (even as an heir) to being treated as a full, adopted child? (2) Why does \"Abba, Father\" matter as a description of how we relate to God? (3) What does 3:28's equality \"in Christ\" mean for how we treat people different from us?\n\nPray together, calling out to God as \"Abba, Father,\" with the same trust a child has for a loving parent."
+      }
+    }
+  ]
+}

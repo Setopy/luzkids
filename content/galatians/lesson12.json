@@ -1,0 +1,111 @@
+{
+  "title": {
+    "en": "Carry Each Other's Burdens"
+  },
+  "ref": "Galatians 6:1-10",
+  "section": "Doing Good to All",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "You reap what you sow"
+      },
+      "body": {
+        "en": "Paul gives practical instructions for living in community: if someone is caught in sin, restore them gently, watching your own heart so you're not tempted too. CARRY EACH OTHER'S BURDENS, and in this way you fulfill the law of Christ! Don't think you're too important to help with someone else's struggle — if you think you're above it, you're only fooling yourself. Each person should test their own actions honestly, not comparing themselves to others to feel superior. Then comes a principle that applies to everything: 'Do not be deceived: God cannot be mocked. A man reaps what he sows.' Whoever sows to please their sinful nature will reap destruction; whoever sows to please the Spirit will reap eternal life from the Spirit. Don't grow weary in doing good — at just the right time, you'll reap a harvest, IF you don't give up! And finally: as much as you're able, do good to everyone, especially fellow believers in the faith. The Christian life is a community project — carrying burdens together, sowing patiently, never giving up."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."
+      },
+      "ref": {
+        "en": "Galatians 6:9 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "let",
+          "us",
+          "not",
+          "become",
+          "weary",
+          "in",
+          "doing",
+          "good"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Carry Each Other's Burdens"
+      },
+      "audio_en": "/static/audio/galatians/lesson12_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say believers should do for one another, to fulfill the law of Christ?"
+          },
+          "options": {
+            "en": [
+              "Compete and compare",
+              "Carry each other's burdens",
+              "Ignore each other's struggles",
+              "Judge harshly"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say about sowing and reaping?"
+          },
+          "options": {
+            "en": [
+              "It doesn't matter what you sow",
+              "A man reaps what he sows — sowing to please the Spirit reaps eternal life",
+              "Sowing has no consequences",
+              "Only some people reap what they sow"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What encouragement does Paul give about doing good, even when it's hard?"
+          },
+          "options": {
+            "en": [
+              "Give up if it's too difficult",
+              "Don't grow weary — at the right time, you'll reap a harvest if you don't give up",
+              "Doing good never pays off",
+              "Stop helping others"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Carry Each Other's Burdens"
+          },
+          "file": "/static/printables/galatians/lesson12_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: practical community life — gentle restoration, mutual burden-bearing, honest self-examination — flowing directly from the Spirit-filled life described in chapter 5, with the sowing/reaping principle (6:7-9) as a sober, motivating reminder that present choices have real, lasting consequences. This ties the doctrinal heights of chapters 1-4 into everyday, communal practice.\n\nConversation starters: (1) What does it look like practically to \"carry someone's burden\" this week? (2) Why does Paul warn \"God cannot be mocked\" right after talking about helping others? (3) What's one area you don't want to \"grow weary\" in doing good?\n\nPray for endurance in doing good, and for a community that genuinely carries each other's burdens."
+      }
+    }
+  ]
+}

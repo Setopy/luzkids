@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "You Foolish Galatians!"
+  },
+  "ref": "Galatians 3:1-14",
+  "section": "Faith or Observance of the Law",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Bewitched by the wrong question"
+      },
+      "body": {
+        "en": "Paul doesn't hold back: 'You foolish Galatians! Who has bewitched you?' He reminds them: Jesus Christ was clearly portrayed before their very eyes as crucified — how could they now think something else, beyond faith, was needed? Paul asks a piercing question: did they receive the Holy Spirit by observing the law, or by believing what they heard? Of course it was by faith! So why would they now try to finish by human effort what only began by the Spirit? Paul points back to Abraham — the very father of the Jewish nation — and reminds them: Abraham believed God, and it was credited to him as righteousness, long before any law was even given! Those who rely on faith are blessed along with Abraham, the man of faith. But anyone who relies on observing the law is actually under a CURSE, because the law demands perfect, continuous obedience — and no one can keep it perfectly. Christ redeemed us from that curse by becoming a curse for us, hanging on a cross, so that the blessing given to Abraham might come to everyone — Jew and Gentile alike — through faith."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "So those who rely on faith are blessed along with Abraham, the man of faith."
+      },
+      "ref": {
+        "en": "Galatians 3:9 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "so",
+          "those",
+          "who",
+          "rely",
+          "on",
+          "faith",
+          "are",
+          "blessed",
+          "along",
+          "with",
+          "Abraham"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for You Foolish Galatians!"
+      },
+      "audio_en": "/static/audio/galatians/lesson05_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did the Galatians first receive the Holy Spirit, according to Paul's question?"
+          },
+          "options": {
+            "en": [
+              "By observing the law",
+              "By believing what they heard — by faith",
+              "By being born Jewish",
+              "By performing rituals"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say about Abraham and righteousness?"
+          },
+          "options": {
+            "en": [
+              "Abraham earned righteousness through good works",
+              "Abraham believed God, and it was credited to him as righteousness, before any law existed",
+              "Abraham followed the law perfectly",
+              "Abraham never had faith"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why does Paul say relying on the law actually puts a person under a curse?"
+          },
+          "options": {
+            "en": [
+              "The law is evil",
+              "The law demands perfect obedience, which no one can keep",
+              "There is no real reason",
+              "Because Paul disliked rules"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: You Foolish Galatians!"
+          },
+          "file": "/static/printables/galatians/lesson05_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: justification has always been by faith, even before the law existed — proven directly from Abraham's example, the very founder of the Jewish nation the Galatians' opponents were appealing to. This is the heart of the doctrine of justification by grace through faith, central to the entire letter and to the doctrinal framework taught throughout this platform: the law could expose sin but never produce righteousness; only faith in Christ's redemptive work, becoming a curse in our place (3:13), accomplishes that.\n\nConversation starters: (1) Why does Paul ask whether they received the Spirit by the law or by faith — what's he proving? (2) What does it mean Abraham was credited righteousness through faith, before any law? (3) Why is trying to earn righteousness by keeping rules actually described as a \"curse\"?\n\nPray, thanking God that righteousness comes by faith in Christ, not by perfect rule-keeping we could never achieve."
+      }
+    }
+  ]
+}

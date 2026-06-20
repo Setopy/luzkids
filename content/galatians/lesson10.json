@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Stand Firm in Freedom!"
+  },
+  "ref": "Galatians 5:1-15",
+  "section": "Freedom in Christ",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Free, but not free to be unloving"
+      },
+      "body": {
+        "en": "'It is for freedom that Christ has set us free,' Paul declares. 'Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery!' Paul warns clearly: if they go back to relying on circumcision and law-keeping to be made right with God, Christ will be of no value to them at all — they would be obligated to obey the WHOLE law perfectly, an impossible burden. In Christ, neither circumcision nor its absence matters; what counts is faith expressing itself through LOVE. But then Paul makes sure freedom isn't misunderstood as an excuse for selfishness: 'You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love.' And he sums up the entire law in one sentence: 'Love your neighbor as yourself.' True Christian freedom was never meant to mean 'do whatever you want' — it means being free FROM trying to earn God's favor, so you're now free TO genuinely love others, without needing anything in return."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery."
+      },
+      "ref": {
+        "en": "Galatians 5:1 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "it",
+          "is",
+          "for",
+          "freedom",
+          "that",
+          "Christ",
+          "has",
+          "set",
+          "us",
+          "free"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Stand Firm in Freedom!"
+      },
+      "audio_en": "/static/audio/galatians/lesson10_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul warn would happen if they relied on law-keeping to be made right with God?"
+          },
+          "options": {
+            "en": [
+              "Nothing would change",
+              "Christ would be of no value to them — they'd be obligated to keep the whole law perfectly",
+              "It would make them more spiritual",
+              "It's a good backup plan"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Paul, what really counts in Christ, more than circumcision or its absence?"
+          },
+          "options": {
+            "en": [
+              "Following extra rules",
+              "Faith expressing itself through love",
+              "Being born into the right family",
+              "Nothing matters at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Paul sum up the entire law in one sentence?"
+          },
+          "options": {
+            "en": [
+              "Follow every ritual perfectly",
+              "Love your neighbor as yourself",
+              "Avoid all mistakes",
+              "Earn your own salvation"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Stand Firm in Freedom!"
+          },
+          "file": "/static/printables/galatians/lesson10_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Christian freedom is freedom FROM trying to earn God's favor by works, in order to be free TO genuinely love others — never an excuse for self-indulgence. \"Faith expressing itself through love\" (5:6) beautifully balances justification by faith alone with the real, observable fruit faith always produces: love in action, summed up in the law's true heart (5:14).\n\nConversation starters: (1) What's the difference between being free FROM something and free TO do something? (2) Why might some people misuse \"Christian freedom\" as an excuse to be selfish? (3) What does \"faith expressing itself through love\" look like practically this week?\n\nPray for freedom that leads to genuine, humble love for others."
+      }
+    }
+  ]
+}

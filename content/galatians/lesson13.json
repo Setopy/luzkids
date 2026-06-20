@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "A New Creation Is What Counts"
+  },
+  "ref": "Galatians 6:11-18",
+  "section": "Not Circumcision but a New Creation",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Boasting only in the cross"
+      },
+      "body": {
+        "en": "Paul closes the letter in his own handwriting — a personal, emphatic touch, since he likely dictated most of the letter to a scribe but takes the pen himself for this final, urgent word. He exposes the real motive of those pushing circumcision: they wanted to avoid persecution for the cross of Christ, and to boast about how many people they could get to follow their rules. But Paul says plainly: neither circumcision nor its absence means anything at all. What COUNTS is this: being a NEW CREATION! As for Paul himself, he will boast in nothing except the cross of our Lord Jesus Christ, through which the world has lost its grip on him, and he on the world. Paul has carried real scars from real suffering for the gospel — physical marks from beatings and hardship — and he says these marks on his body show whose servant he truly is. His final words to the Galatians: 'The grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen.' A letter that began with urgent alarm ends, as it must, exactly where it started: pointing entirely back to grace."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Neither circumcision nor uncircumcision means anything; what counts is the new creation."
+      },
+      "ref": {
+        "en": "Galatians 6:15 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "neither",
+          "circumcision",
+          "nor",
+          "uncircumcision",
+          "means",
+          "anything"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A New Creation Is What Counts"
+      },
+      "audio_en": "/static/audio/galatians/lesson13_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Paul say was the real motive of those pushing circumcision on the Galatians?"
+          },
+          "options": {
+            "en": [
+              "Pure love for the truth",
+              "To avoid persecution for the cross, and to boast about followers",
+              "Obedience to God alone",
+              "No motive at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Paul's conclusion, what really counts, more than circumcision or its absence?"
+          },
+          "options": {
+            "en": [
+              "Following extra rules perfectly",
+              "Being a new creation",
+              "Family background",
+              "Wealth and status"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul say he will boast in, more than anything else?"
+          },
+          "options": {
+            "en": [
+              "His own achievements",
+              "The cross of our Lord Jesus Christ",
+              "His scars alone",
+              "His following"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A New Creation Is What Counts"
+          },
+          "file": "/static/printables/galatians/lesson13_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the entire letter's argument lands on one simple, decisive truth — being a \"new creation\" in Christ is what counts, not external religious markers, and Paul's own scars and singular boast in the cross model what it costs, and what it's worth, to hold this truth firmly. The closing benediction, \"grace... be with your spirit,\" fittingly returns the letter full circle to its opening theme.\n\nConversation starters: (1) What might motivate someone to push extra religious rules on others, according to Paul's exposure here? (2) What does it mean to be a \"new creation,\" not just someone following the right external rules? (3) What would it look like for you to \"boast only in the cross\"?\n\nPray, asking God to make each family member genuinely new, not just outwardly religious."
+      }
+    }
+  ]
+}

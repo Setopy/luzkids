@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Two Sons, Two Mothers, Two Ways"
+  },
+  "ref": "Galatians 4:21-31",
+  "section": "Hagar and Sarah",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The slave woman and the free woman"
+      },
+      "body": {
+        "en": "Paul now uses a clever Old Testament story to make his point unforgettable. Remember Abraham had two sons: Ishmael, born to Hagar, a slave woman, born through ordinary human effort — and Isaac, born to Sarah, the free woman, born through God's miraculous PROMISE, since Sarah was far too old to have children naturally. Paul says these two women and their two sons represent two different ways of relating to God: Hagar represents the old covenant of the law — trying to earn God's favor through human effort, which ultimately leads to slavery. Sarah represents the new covenant of grace and promise — receiving God's favor freely, which leads to true freedom. Just as Ishmael, born by human effort, mocked Isaac, born by promise, those insisting on the law were mocking and pressuring those trusting in grace alone. But Scripture says: 'Get rid of the slave woman and her son, for the slave woman's son will never share the inheritance with the free woman's son.' Paul concludes: we, like Isaac, are children of the promise, not children of human effort and slavery — we are children of the FREE woman."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Therefore, brothers and sisters, we are not children of the slave woman, but of the free woman."
+      },
+      "ref": {
+        "en": "Galatians 4:31 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "therefore",
+          "we",
+          "are",
+          "not",
+          "children",
+          "of",
+          "the",
+          "slave",
+          "woman"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Two Sons, Two Mothers, Two Ways"
+      },
+      "audio_en": "/static/audio/galatians/lesson09_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What do Hagar and Sarah represent in Paul's illustration?"
+          },
+          "options": {
+            "en": [
+              "Two unrelated stories with no meaning",
+              "Two different ways of relating to God — human effort versus God's promise",
+              "Nothing important",
+              "Two equally good paths"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How was Isaac born, compared to Ishmael?"
+          },
+          "options": {
+            "en": [
+              "Through ordinary human effort, like Ishmael",
+              "Through God's miraculous promise, since Sarah was far too old naturally",
+              "They were born the same way",
+              "Isaac wasn't really born at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Paul's conclusion, what kind of children are believers?"
+          },
+          "options": {
+            "en": [
+              "Children of the slave woman, born by human effort",
+              "Children of the free woman, born by promise",
+              "Neither — the illustration doesn't apply",
+              "Children of neither woman"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Two Sons, Two Mothers, Two Ways"
+          },
+          "file": "/static/printables/galatians/lesson09_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: a vivid Old Testament allegory contrasting human effort (law, slavery) with God's promise (grace, freedom) — using a story the Galatians' opponents themselves would have revered, turning their own argument against legalism. This passage reinforces, through narrative rather than direct argument, everything chapters 3 establishes propositionally: righteousness by promise/faith, not by human striving.\n\nConversation starters: (1) Why might Paul choose a story instead of just stating his argument again? (2) What's the difference between trying to earn God's favor and freely receiving His promise? (3) What does it feel like to be a \"child of the free woman\" rather than enslaved to performance?\n\nPray, thanking God that we are children of promise, not slaves to earning His favor."
+      }
+    }
+  ]
+}

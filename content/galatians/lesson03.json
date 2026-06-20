@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Standing Firm Together"
+  },
+  "ref": "Galatians 2:1-10",
+  "section": "Paul Accepted by the Apostles",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Agreement among the apostles"
+      },
+      "body": {
+        "en": "Fourteen years later, Paul went up to Jerusalem with Barnabas and Titus, to meet privately with the leaders there — Peter, James, and John — to make sure everyone agreed on the true gospel he had been preaching among the Gentiles. This mattered enormously: if these recognized leaders had disagreed with Paul's gospel, it could have split the church entirely. But here's what happened: even though some false believers had snuck in trying to demand that Titus be circumcised (following the old Jewish law) before he could be accepted, Paul did not give in for even a moment, so that the truth of the gospel would remain intact for the Galatians. And when James, Peter and John saw the evidence of God's grace at work in Paul's ministry, they recognized it, gave Paul and Barnabas the right hand of fellowship, and agreed: Paul would go to the Gentiles, they would go to the Jews — but it was the SAME gospel, the same grace, for everyone. The only thing they asked was to remember the poor, which Paul was already eager to do. The apostles stood united: salvation is by grace through faith, full stop — for everyone, everywhere."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "They recognized that I had been entrusted with the task of preaching the gospel to the Gentiles, just as Peter had been to the Jews."
+      },
+      "ref": {
+        "en": "Galatians 2:7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "they",
+          "recognized",
+          "that",
+          "I",
+          "had",
+          "been",
+          "entrusted"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Standing Firm Together"
+      },
+      "audio_en": "/static/audio/galatians/lesson03_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why did Paul meet privately with the Jerusalem apostles?"
+          },
+          "options": {
+            "en": [
+              "To argue with them",
+              "To make sure everyone agreed on the true gospel he preached",
+              "To ask for money",
+              "To resign as an apostle"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Paul refuse to do, even under pressure?"
+          },
+          "options": {
+            "en": [
+              "Preach to Gentiles",
+              "Have Titus circumcised just to satisfy false believers",
+              "Meet with Peter",
+              "Travel to Jerusalem"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the apostles agree about the gospel Paul preached to the Gentiles?"
+          },
+          "options": {
+            "en": [
+              "It was a different, lesser gospel",
+              "It was the same gospel, the same grace, for everyone",
+              "It needed extra rules added",
+              "It was unnecessary"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Standing Firm Together"
+          },
+          "file": "/static/printables/galatians/lesson03_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: unity among genuine gospel ministers, even across different mission fields (Jew and Gentile), because the gospel of grace through faith is one and the same for everyone — there is no \"Gentile gospel\" and a separate \"Jewish gospel.\" Paul's refusal to compromise even slightly on Titus's circumcision (2:3-5) shows that some gospel-essentials are worth standing firm on absolutely, even under real pressure.\n\nConversation starters: (1) Why did the question of Titus's circumcision matter so much to Paul? (2) What does it mean that the SAME gospel applies to every nation and background? (3) When is firm refusal to compromise the right and loving response?\n\nPray for unity among genuine believers around the one true gospel."
+      }
+    }
+  ]
+}

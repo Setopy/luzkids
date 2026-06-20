@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Astonished and Alarmed"
+  },
+  "ref": "Galatians 1:1-10",
+  "section": "No Other Gospel",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A letter that starts with no thank-you"
+      },
+      "body": {
+        "en": "Most of Paul's letters begin with warm thanks for the people he's writing to. This one doesn't. Paul gets straight to the point, because something urgent and dangerous was happening in the churches of Galatia. He starts by reminding them he is an apostle — sent not by any human authority, but by Jesus Christ Himself and God the Father, who raised Jesus from the dead. Then comes the alarm: 'I am astonished that you are so quickly deserting the one who called you by the grace of Christ, and turning to a different gospel!' Some people had come into the Galatian churches teaching that believing in Jesus wasn't quite enough — you also needed to follow extra rules to really be saved. Paul says clearly: that isn't a different version of the good news. It's NO good news at all, because it twists everything. He says it twice for emphasis: if anyone — even an angel from heaven — preaches a different gospel than the one already given, let them be under God's curse! This wasn't Paul being harsh for no reason. He loved the Galatians enough to be alarmed when something dangerous was creeping into their faith."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I am astonished that you are so quickly deserting the one who called you to live in the grace of Christ and are turning to a different gospel."
+      },
+      "ref": {
+        "en": "Galatians 1:6 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "I",
+          "am",
+          "astonished",
+          "that",
+          "you",
+          "are",
+          "so",
+          "quickly",
+          "deserting"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Astonished and Alarmed"
+      },
+      "audio_en": "/static/audio/galatians/lesson01_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What was unusual about how Paul started this letter, compared to his others?"
+          },
+          "options": {
+            "en": [
+              "He started with extra-long thanks",
+              "He skipped the usual thanks and went straight to an urgent warning",
+              "He didn't mention Jesus at all",
+              "He wrote in a different language"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What had some people been teaching the Galatians?"
+          },
+          "options": {
+            "en": [
+              "That believing in Jesus wasn't enough — extra rules were also needed",
+              "That Jesus never existed",
+              "That they should stop praying",
+              "That Paul wasn't really an apostle"
+            ]
+          },
+          "answer": 0
+        },
+        {
+          "q": {
+            "en": "How seriously does Paul treat a 'different gospel'?"
+          },
+          "options": {
+            "en": [
+              "As a minor disagreement",
+              "As something serious enough to warrant God's curse on whoever preaches it",
+              "As not important at all",
+              "As something to ignore"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Astonished and Alarmed"
+          },
+          "file": "/static/printables/galatians/lesson01_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the gospel of grace through faith alone is not negotiable, and Paul's urgency here models righteous alarm over doctrinal drift, motivated by love, not pettiness. The phrase \"a different gospel — which is really no gospel at all\" (1:6-7) sets the theme for the entire letter: anything added to faith in Christ as a requirement for salvation distorts the gospel itself.\n\nConversation starters: (1) Why might Paul skip his usual warm greeting this time? (2) What does it mean that adding rules to \"just believe in Jesus\" can actually distort the good news? (3) How can we tell the difference between loving correction and unnecessary harshness?\n\nPray for discernment to recognize the true gospel and stand firm in it."
+      }
+    }
+  ]
+}

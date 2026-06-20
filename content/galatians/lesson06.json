@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Why the Law, Then?"
+  },
+  "ref": "Galatians 3:15-25",
+  "section": "The Law and the Promise",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A guard, not the goal"
+      },
+      "body": {
+        "en": "If righteousness comes by faith, not by the law, then why did God give the law in the first place? Paul anticipates this question directly. He explains that God's promise to Abraham came FIRST, 430 years before the law was even given through Moses — and a promise, once made, cannot be changed or added to later. So the law wasn't given to replace the promise. It served a different, important purpose: the law was given because of sin, to show people clearly what sin actually is, acting almost like a guard, watching over us, holding us in protective custody, UNTIL the promised faith in Christ was revealed. Paul uses a beautiful, simple picture: imagine a chaperone or guardian who watches over a child, keeping them safe and disciplined, until the child grows up and the guardian's job is finished. That's exactly the law's purpose — not the final goal, but the careful guard leading us toward faith in Christ, who alone could finally bring true freedom and righteousness. Once faith came, the law's guarding role was complete."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "So the law was our guardian until Christ came, that we might be justified by faith."
+      },
+      "ref": {
+        "en": "Galatians 3:24 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "so",
+          "the",
+          "law",
+          "was",
+          "our",
+          "guardian",
+          "until",
+          "Christ",
+          "came"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Why the Law, Then?"
+      },
+      "audio_en": "/static/audio/galatians/lesson06_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What came first, according to Paul: God's promise to Abraham, or the law given through Moses?"
+          },
+          "options": {
+            "en": [
+              "The law came first",
+              "God's promise to Abraham came first, 430 years before the law",
+              "They came at exactly the same time",
+              "Neither came first"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What purpose did the law actually serve, according to this chapter?"
+          },
+          "options": {
+            "en": [
+              "To replace God's promise entirely",
+              "To show clearly what sin is, like a guard watching over us until faith came",
+              "To make people perfect on their own",
+              "No real purpose"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What picture does Paul use to describe the law's role?"
+          },
+          "options": {
+            "en": [
+              "A king ruling forever",
+              "A guardian or chaperone watching over a child until they grow up",
+              "A prison with no escape",
+              "A reward for good behavior"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Why the Law, Then?"
+          },
+          "file": "/static/printables/galatians/lesson06_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the law's purpose was always temporary and protective — a \"guardian\" (3:24) preparing the way for faith in Christ, never meant to be the final basis of righteousness, and never in competition with God's earlier promise to Abraham. This resolves a question children naturally ask: if faith saves, why did God bother giving all those Old Testament laws? The answer: to reveal sin clearly and guard God's people until the fuller revelation in Christ arrived.\n\nConversation starters: (1) Why couldn't the law replace God's earlier promise to Abraham? (2) What does the \"guardian\" picture teach about the law's real purpose? (3) How does understanding the law's temporary role change how you read the Old Testament?\n\nPray, thanking God for the wisdom of His plan, given in the right order, at the right time."
+      }
+    }
+  ]
+}

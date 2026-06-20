@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Even Peter Got It Wrong"
+  },
+  "ref": "Galatians 2:11-21",
+  "section": "Paul Opposes Peter",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A public correction, in love"
+      },
+      "body": {
+        "en": "Now comes a surprising moment: Paul publicly corrects PETER — one of Jesus' original twelve apostles! When Peter visited Antioch, he had been eating freely with Gentile believers, just as the gospel of grace required. But when certain men arrived who insisted Gentiles needed to follow Jewish law, Peter — out of fear of what they would think — stopped eating with the Gentiles and drew back. Paul saw this as a serious problem: Peter's actions were contradicting the very gospel he believed! So Paul confronted him directly, in front of everyone, because the truth of the gospel was at stake. Then Paul explains the heart of the whole matter, in some of the most important words in the entire Bible: 'We know that a person is not justified by observing the law, but by faith in Jesus Christ.' Paul says he himself has been crucified with Christ, and it is no longer he who lives, but Christ who lives in him — and the life he now lives, he lives by faith in the Son of God who loved him and gave Himself for him. If righteousness could be earned by keeping rules, then Christ died for nothing!"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I have been crucified with Christ and I no longer live, but Christ lives in me."
+      },
+      "ref": {
+        "en": "Galatians 2:20 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "I",
+          "have",
+          "been",
+          "crucified",
+          "with",
+          "Christ",
+          "and",
+          "I",
+          "no",
+          "longer",
+          "live"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Even Peter Got It Wrong"
+      },
+      "audio_en": "/static/audio/galatians/lesson04_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Peter do that Paul felt the need to correct?"
+          },
+          "options": {
+            "en": [
+              "He stopped praying",
+              "Out of fear, he drew back from eating with Gentile believers, contradicting the gospel",
+              "He left the church entirely",
+              "He refused to preach"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Paul correct Peter publicly, in front of everyone?"
+          },
+          "options": {
+            "en": [
+              "He wanted to embarrass Peter",
+              "Because the truth of the gospel itself was at stake",
+              "He didn't like Peter",
+              "For no real reason"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Paul, how is a person made right with God?"
+          },
+          "options": {
+            "en": [
+              "By observing the law perfectly",
+              "By faith in Jesus Christ, not by keeping the law",
+              "By being born into the right family",
+              "By doing enough good deeds"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Even Peter Got It Wrong"
+          },
+          "file": "/static/printables/galatians/lesson04_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: even a leading apostle could act inconsistently with the gospel under social pressure — and the central doctrine of justification by faith alone, not by works of the law, is too important to leave uncorrected, even when correcting someone respected and senior. Galatians 2:20 is among the most quoted verses in Scripture for describing the believer's new identity: crucified with Christ, alive by His indwelling life and faith.\n\nConversation starters: (1) Why might even a respected leader like Peter act inconsistently under pressure? (2) What does it mean to be \"crucified with Christ\" and to live \"by faith in the Son of God\"? (3) When is loving correction necessary, even toward someone we respect?\n\nPray, asking God for courage to live consistently with the gospel, even under social pressure."
+      }
+    }
+  ]
+}

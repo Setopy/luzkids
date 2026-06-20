@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Paul's Heartbreak"
+  },
+  "ref": "Galatians 4:8-20",
+  "section": "Paul's Concern for the Galatians",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Pains of childbirth, all over again"
+      },
+      "body": {
+        "en": "Paul now speaks with raw, personal emotion. Before they knew God, the Galatians were enslaved to things that aren't even real gods. But now that they know the true God — or rather, are known by Him — why would they want to turn BACK to weak and miserable rules and rituals, becoming enslaved all over again? Paul is deeply troubled: he fears all his hard work among them might have been wasted! He reminds them how warmly they once welcomed him, even when he arrived sick — they treated him like an angel of God, even like Christ Himself. What happened to all that joy? Has he now become their enemy just for telling them the truth? Then Paul says something tender and vulnerable: 'My dear children, I am again in the pains of childbirth for you, until Christ is formed in you!' Like a mother going through labor all over again for the same child, Paul is willing to suffer again, hoping to see real spiritual maturity — Christ's character actually formed in them — rather than empty rule-following that looks impressive but changes nothing inside."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "My dear children, for whom I am again in the pains of childbirth until Christ is formed in you."
+      },
+      "ref": {
+        "en": "Galatians 4:19 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "my",
+          "dear",
+          "children",
+          "for",
+          "whom",
+          "I",
+          "am",
+          "again",
+          "in",
+          "the",
+          "pains"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Paul's Heartbreak"
+      },
+      "audio_en": "/static/audio/galatians/lesson08_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What is Paul afraid might have happened to all his hard work among the Galatians?"
+          },
+          "options": {
+            "en": [
+              "Nothing — he isn't worried at all",
+              "That it might have been wasted, if they turn back to empty rules",
+              "That he worked too little",
+              "That they forgot his name"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Paul describe his feelings for the Galatians in verse 19?"
+          },
+          "options": {
+            "en": [
+              "Cold and distant",
+              "Like a mother in the pains of childbirth, longing for Christ to be formed in them",
+              "Angry and bitter",
+              "Indifferent"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Paul hope will actually be 'formed' in the Galatians?"
+          },
+          "options": {
+            "en": [
+              "More rules to follow",
+              "Christ Himself, real spiritual maturity",
+              "A bigger church building",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Paul's Heartbreak"
+          },
+          "file": "/static/printables/galatians/lesson08_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: genuine pastoral love feels real grief over a loved one's spiritual drift, and Paul's vivid, vulnerable language (\"pains of childbirth,\" 4:19) models how deeply truth and relationship are intertwined — correction here flows from love, not mere doctrinal precision. The goal isn't winning an argument but seeing \"Christ formed\" in real character, not performance.\n\nConversation starters: (1) Why does Paul use such an emotional picture (childbirth pains) to describe his concern? (2) What's the difference between rule-following that \"looks impressive\" and Christ actually being \"formed\" in someone? (3) Who has shown you this kind of costly, persistent love when you were drifting?\n\nPray for hearts where Christ's character is genuinely formed, not just outward performance."
+      }
+    }
+  ]
+}

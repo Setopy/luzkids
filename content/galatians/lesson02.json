@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "From Persecutor to Preacher"
+  },
+  "ref": "Galatians 1:11-24",
+  "section": "Paul Called by God",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The most unlikely apostle"
+      },
+      "body": {
+        "en": "Paul explains where his gospel actually came from: not from any human teacher, not something he made up — he received it directly through a revelation of Jesus Christ! And then Paul tells his own incredible story. Before he met Jesus, Paul was famous for one thing: hunting down Christians and trying to destroy the church, intensely, zealously. He was about as unlikely a candidate for apostle as anyone could imagine — the last person you'd expect to spend his life preaching the very faith he once tried to wipe out. But God, who set Paul apart even before he was born, was pleased to reveal His Son to Paul and call him by grace, sending him specifically to preach to the Gentiles. After this, Paul didn't rush to consult human teachers — he went away, then eventually visited Peter and James briefly. When the believers in Judea heard what had happened to Paul, they praised God! The man who once persecuted the faith was now preaching it. If God's grace could reach and transform someone like Paul, completely reversing the direction of his entire life, there is no person too far gone for God's grace to reach."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "They praised God because of me."
+      },
+      "ref": {
+        "en": "Galatians 1:24 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "they",
+          "praised",
+          "God",
+          "because",
+          "of",
+          "me"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for From Persecutor to Preacher"
+      },
+      "audio_en": "/static/audio/galatians/lesson02_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Where did Paul say his gospel message came from?"
+          },
+          "options": {
+            "en": [
+              "He made it up himself",
+              "A revelation of Jesus Christ, not from any human teacher",
+              "Other apostles taught him everything",
+              "A book he found"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What was Paul known for before he met Jesus?"
+          },
+          "options": {
+            "en": [
+              "Helping the church grow",
+              "Intensely persecuting and trying to destroy the church",
+              "Teaching in the synagogue peacefully",
+              "Nothing notable"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did the believers in Judea respond when they heard about Paul's transformation?"
+          },
+          "options": {
+            "en": [
+              "They were suspicious and afraid",
+              "They praised God",
+              "They ignored the news",
+              "They argued with him"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: From Persecutor to Preacher"
+          },
+          "file": "/static/printables/galatians/lesson02_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the gospel's authority comes from direct revelation, not human consensus, and Paul's own radical transformation (persecutor to apostle) becomes living proof of grace's power to completely redirect a life. This personal testimony strengthens his authority to defend the gospel against those questioning it.\n\nConversation starters: (1) Why does Paul's dramatic change from persecutor to preacher matter as evidence for the gospel? (2) What does it mean that God set Paul apart \"before he was born\"? (3) Is there anyone you think is \"too far gone\" for God's grace — and how does Paul's story answer that?\n\nPray, thanking God that no one is beyond the reach of His transforming grace."
+      }
+    }
+  ]
+}
