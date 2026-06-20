@@ -1,0 +1,178 @@
+{
+  "title": {
+    "en": "Hebrews for Kids"
+  },
+  "subtitle": {
+    "en": "All 13 chapters, mapped to the standard sections of the book — Jesus is better than everything!"
+  },
+  "description": {
+    "en": "A letter written to encourage believers who were tempted to give up. Twenty adventures through all thirteen chapters of Hebrews, following the same section divisions found in standard study Bibles — discovering that Jesus is better than angels, better than any priest, and worth running our whole race for, all the way to the finish line."
+  },
+  "age_range": "6-12",
+  "free": true,
+  "order": 3,
+  "emoji": "🏃",
+  "color": "#c45d83",
+  "lessons": [
+    {
+      "id": "lesson01",
+      "title": {
+        "en": "God's Final Word"
+      },
+      "ref": "Hebrews 1:1-14",
+      "section": "The Son Superior to Angels"
+    },
+    {
+      "id": "lesson02",
+      "title": {
+        "en": "Don't Drift Away!"
+      },
+      "ref": "Hebrews 2:1-4",
+      "section": "Warning Against Drifting Away"
+    },
+    {
+      "id": "lesson03",
+      "title": {
+        "en": "Jesus Became Like Us"
+      },
+      "ref": "Hebrews 2:5-18",
+      "section": "Jesus Made Like His Brothers"
+    },
+    {
+      "id": "lesson04",
+      "title": {
+        "en": "Greater Than Moses"
+      },
+      "ref": "Hebrews 3:1-6",
+      "section": "Jesus Greater Than Moses"
+    },
+    {
+      "id": "lesson05",
+      "title": {
+        "en": "Today, If You Hear His Voice"
+      },
+      "ref": "Hebrews 3:7-19",
+      "section": "Warning Against Unbelief"
+    },
+    {
+      "id": "lesson06",
+      "title": {
+        "en": "A Rest Still Waiting"
+      },
+      "ref": "Hebrews 4:1-13",
+      "section": "A Sabbath-Rest for the People of God"
+    },
+    {
+      "id": "lesson07",
+      "title": {
+        "en": "Come Boldly to the Throne of Grace"
+      },
+      "ref": "Hebrews 4:14-5:10",
+      "section": "Jesus the Great High Priest"
+    },
+    {
+      "id": "lesson08",
+      "title": {
+        "en": "Grow Up — or Risk Falling Away"
+      },
+      "ref": "Hebrews 5:11-6:12",
+      "section": "Warning Against Falling Away"
+    },
+    {
+      "id": "lesson09",
+      "title": {
+        "en": "An Anchor for the Soul"
+      },
+      "ref": "Hebrews 6:13-20",
+      "section": "The Certainty of God's Promise"
+    },
+    {
+      "id": "lesson10",
+      "title": {
+        "en": "A Priest Forever"
+      },
+      "ref": "Hebrews 7:1-28",
+      "section": "Melchizedek the Priest"
+    },
+    {
+      "id": "lesson11",
+      "title": {
+        "en": "A Brand New Covenant"
+      },
+      "ref": "Hebrews 8:1-13",
+      "section": "The High Priest of a New Covenant"
+    },
+    {
+      "id": "lesson12",
+      "title": {
+        "en": "Behind the Curtain"
+      },
+      "ref": "Hebrews 9:1-10",
+      "section": "Worship in the Earthly Tabernacle"
+    },
+    {
+      "id": "lesson13",
+      "title": {
+        "en": "The Blood That Truly Cleanses"
+      },
+      "ref": "Hebrews 9:11-28",
+      "section": "The Blood of Christ"
+    },
+    {
+      "id": "lesson14",
+      "title": {
+        "en": "Once For All!"
+      },
+      "ref": "Hebrews 10:1-18",
+      "section": "Christ's Sacrifice Once for All"
+    },
+    {
+      "id": "lesson15",
+      "title": {
+        "en": "Don't Throw Away Your Confidence!"
+      },
+      "ref": "Hebrews 10:19-39",
+      "section": "A Call to Persevere in Faith"
+    },
+    {
+      "id": "lesson16",
+      "title": {
+        "en": "The Faith Hall of Fame"
+      },
+      "ref": "Hebrews 11:1-40",
+      "section": "By Faith"
+    },
+    {
+      "id": "lesson17",
+      "title": {
+        "en": "Run the Race!"
+      },
+      "ref": "Hebrews 12:1-13",
+      "section": "God Disciplines His Children"
+    },
+    {
+      "id": "lesson18",
+      "title": {
+        "en": "Pursue Holiness!"
+      },
+      "ref": "Hebrews 12:14-29",
+      "section": "Warning Against Rejecting God"
+    },
+    {
+      "id": "lesson19",
+      "title": {
+        "en": "Love in Action"
+      },
+      "ref": "Hebrews 13:1-19",
+      "section": "Concluding Exhortations"
+    },
+    {
+      "id": "lesson20",
+      "title": {
+        "en": "The Final Blessing"
+      },
+      "ref": "Hebrews 13:20-25",
+      "section": "Benediction"
+    }
+  ]
+}

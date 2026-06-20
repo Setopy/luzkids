@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "A Priest Forever"
+  },
+  "ref": "Hebrews 7:1-28",
+  "section": "Melchizedek the Priest",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The mysterious king-priest"
+      },
+      "body": {
+        "en": "Long before Israel had priests from the tribe of Levi, there was a mysterious figure named Melchizedek — king of Salem and priest of God Most High — who blessed Abraham. The writer uses this as a picture: Jesus is a priest forever, in the order of Melchizedek — not by family lineage, but by the power of an indestructible life! The regular priests had to offer sacrifices again and again because they were sinful men who eventually died. But Jesus, because He lives forever, holds His priesthood permanently, and is able to save COMPLETELY those who come to God through Him! He always lives to intercede for us. Unlike priests who needed daily sacrifice for their own sins, Jesus was without sin, and offered Himself ONCE, fully sufficient for all time."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Because Jesus lives forever, he has a permanent priesthood."
+      },
+      "ref": {
+        "en": "Hebrews 7:24 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "because",
+          "Jesus",
+          "lives",
+          "forever",
+          "he",
+          "has",
+          "a",
+          "permanent",
+          "priesthood"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A Priest Forever"
+      },
+      "audio_en": "/static/audio/hebrews/lesson10_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Who was Melchizedek, and how does the writer use him?"
+          },
+          "options": {
+            "en": [
+              "A villain",
+              "A mysterious king-priest who blessed Abraham, picturing Jesus' eternal priesthood",
+              "A soldier",
+              "An angel"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did old priests offer sacrifices again and again?"
+          },
+          "options": {
+            "en": [
+              "They enjoyed it",
+              "Because they were sinful and eventually died",
+              "For fun",
+              "Jesus told them to"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What can Jesus do for those who come to God through Him?"
+          },
+          "options": {
+            "en": [
+              "A little",
+              "Save them completely, and always intercede for them",
+              "Nothing",
+              "Help once then stop"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A Priest Forever"
+          },
+          "file": "/static/printables/hebrews/lesson10_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Christ's eternal, sufficient priesthood — He never stops interceding, His sacrifice never repeats. The Melchizedek typology argues Christ's priesthood is superior by an indestructible life (7:16), not lineage.\n\nConversation starters: (1) Why does it matter Jesus never stops praying for you, right now? (2) What's the difference between something repeated and something finished once? (3) How does a \"once for all\" sacrifice change how you think about forgiveness?\n\nPray thanking Jesus for being a priest who never stops interceding."
+      }
+    }
+  ]
+}

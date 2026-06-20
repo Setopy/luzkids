@@ -1,0 +1,108 @@
+{
+  "title": {
+    "en": "Love in Action"
+  },
+  "ref": "Hebrews 13:1-19",
+  "section": "Concluding Exhortations",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Practical love, right to the end"
+      },
+      "body": {
+        "en": "As the letter nears its close, the writer gets wonderfully practical. Keep on loving one another! Don't forget hospitality to strangers, for some who have done so have entertained angels without realizing it! Remember those in prison and those mistreated, as if you were there with them. Marriage should be honoured by everyone. Don't chase after money — be content, because God has said, 'I will never leave you nor forsake you.' Remember your leaders who first spoke God's Word to you, and imitate their faith. Through Jesus, let us continually offer God a sacrifice of praise — words from lips that confess His name — and not forget to do good and share with others, for these please God greatly. The writer even asks for prayer for himself, that he might be restored to them soon."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Keep on loving one another."
+      },
+      "ref": {
+        "en": "Hebrews 13:1 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "keep",
+          "on",
+          "loving",
+          "one",
+          "another"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Love in Action"
+      },
+      "audio_en": "/static/audio/hebrews/lesson19_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does the writer urge believers to keep doing, even without knowing who they might be helping?"
+          },
+          "options": {
+            "en": [
+              "Avoiding strangers",
+              "Showing hospitality, since some have entertained angels unknowingly",
+              "Locking doors to everyone",
+              "Only helping people they know"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Instead of chasing money, what does the writer say believers should be?"
+          },
+          "options": {
+            "en": [
+              "Anxious",
+              "Content, trusting God will never leave or forsake them",
+              "Greedy",
+              "Indifferent"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the writer ask the readers to do for him personally?"
+          },
+          "options": {
+            "en": [
+              "Forget about him",
+              "Pray for him",
+              "Stop writing to him",
+              "Nothing"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Love in Action"
+          },
+          "file": "/static/printables/hebrews/lesson19_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: eleven chapters of soaring doctrine land in ordinary, practical love — hospitality, remembering prisoners, honouring marriage, resisting greed, imitating faithful leaders, and even intercessory prayer for the writer himself. Doctrine that doesn't produce this kind of everyday love hasn't yet done its full work.\n\nConversation starters: (1) When has kindness to a stranger mattered more than expected? (2) What does contentment look like for you this week? (3) Why might the writer specifically ask for prayer for himself here?\n\nPray for practical love this week — toward a stranger, a leader, someone overlooked."
+      }
+    }
+  ]
+}

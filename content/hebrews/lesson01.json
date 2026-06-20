@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "God's Final Word"
+  },
+  "ref": "Hebrews 1:1-14",
+  "section": "The Son Superior to Angels",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "From prophets to the Son"
+      },
+      "body": {
+        "en": "For hundreds of years, God spoke to His people through prophets — Moses, Isaiah, Jeremiah — in many ways: dreams, visions, even a burning bush! But now, the writer says, something far greater has happened: in these LAST DAYS, God has spoken to us by His SON — not a messenger, but the One through WHOM God made the universe! Jesus is the radiance of God's glory, sustaining everything by the power of His word. After dealing with sin once for all, Jesus sat down at the right hand of God — the seat of highest honour. Did God ever say to any angel, 'You are my Son'? No! Angels are mighty, but they are SERVANTS. Jesus is the Son, ruling forever, with a throne that will never end."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "In these last days he has spoken to us by his Son."
+      },
+      "ref": {
+        "en": "Hebrews 1:2 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "in",
+          "these",
+          "last",
+          "days",
+          "he",
+          "has",
+          "spoken",
+          "to",
+          "us"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for God's Final Word"
+      },
+      "audio_en": "/static/audio/hebrews/lesson01_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did God speak to His people before Jesus came?"
+          },
+          "options": {
+            "en": [
+              "Only through dreams",
+              "Through the prophets, in many ways",
+              "Never",
+              "Only angels"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus do after dealing with sin once for all?"
+          },
+          "options": {
+            "en": [
+              "Hid away",
+              "Sat down at the right hand of God",
+              "Disappeared",
+              "Became an angel"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What are angels, compared to the Son?"
+          },
+          "options": {
+            "en": [
+              "Equal to Him",
+              "Servants, sent to help God's people",
+              "More powerful",
+              "Unimportant"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: God's Final Word"
+          },
+          "file": "/static/printables/hebrews/lesson01_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the supremacy of Christ's revelation as God's final, complete Word. The seven Old Testament quotations (1:5-14) prove Christ's deity using Scripture the readers already revered.\n\nConversation starters: (1) Why does it matter that Jesus is God's own Son, not just a messenger? (2) What's the difference between a servant and a son who inherits everything? (3) If God's final word is His Son, how seriously should we take Jesus' words?\n\nPray, thanking God for speaking fully and finally through His Son."
+      }
+    }
+  ]
+}

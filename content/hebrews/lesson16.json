@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "The Faith Hall of Fame"
+  },
+  "ref": "Hebrews 11:1-40",
+  "section": "By Faith",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Heroes who trusted without seeing"
+      },
+      "body": {
+        "en": "Now the writer takes us on a thrilling tour through the greatest heroes of faith in history! Faith, he explains, is being SURE of what we hope for and CERTAIN of what we do not see. By faith, Abel offered a better sacrifice than Cain. By faith, Noah built a giant boat on dry land, warned of a flood no one had seen, and saved his family. By faith, Abraham left his home, not knowing where he was going, simply because God said go. By faith, Moses chose to suffer with God's people rather than enjoy Egypt's treasures, leading them through the Red Sea on dry ground. By faith, the walls of Jericho fell after the people marched and shouted as God commanded. By faith, Rahab — a foreigner who hid Israel's spies — was not killed with the disobedient. The writer keeps going: Gideon, Samson, David, the prophets, who conquered kingdoms, shut the mouths of lions, escaped the sword. But others were tortured, refusing release, so they might gain a better resurrection — the world was not worthy of them! They were looking for something better: a heavenly country. All these were commended for their faith, yet none received the complete promise in their lifetime, because God had something even BETTER planned — including YOU — so that together, their faith would finally be made complete."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Now faith is confidence in what we hope for and assurance about what we do not see."
+      },
+      "ref": {
+        "en": "Hebrews 11:1 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "now",
+          "faith",
+          "is",
+          "confidence",
+          "in",
+          "what",
+          "we",
+          "hope",
+          "for"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Faith Hall of Fame"
+      },
+      "audio_en": "/static/audio/hebrews/lesson16_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Hebrews 11:1 define faith?"
+          },
+          "options": {
+            "en": [
+              "Believing only what you can see",
+              "Confidence in what we hope for, assurance about what we don't see",
+              "Guessing",
+              "Following rules blindly"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Abraham leave his home?"
+          },
+          "options": {
+            "en": [
+              "No other choice",
+              "By faith, simply because God told him to go",
+              "Adventure",
+              "Family forced him"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What were the faith heroes ultimately looking for, even without receiving every promise in this life?"
+          },
+          "options": {
+            "en": [
+              "A bigger house on earth",
+              "A better country — a heavenly one",
+              "More wealth",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Faith Hall of Fame"
+          },
+          "file": "/static/printables/hebrews/lesson16_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: faith demonstrated through real, costly action by ordinary, flawed people — not mere mental belief — answering, after several sharp warnings, what faithful endurance actually looks like in practice. The chapter deliberately spans both faith that acts in triumph (11:1-31) and faith that endures suffering without seeing the promise fulfilled (11:32-40) — read as one continuous testimony, not two separate ideas.\n\nConversation starters: (1) Which hero here is most exciting to you, and why? (2) What does faith in something unseen mean practically? (3) Why does the chapter honour, not pity, those who suffered greatly?\n\nPray for the same kind of confident, enduring faith shown by these heroes."
+      }
+    }
+  ]
+}

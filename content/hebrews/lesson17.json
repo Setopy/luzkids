@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Run the Race!"
+  },
+  "ref": "Hebrews 12:1-13",
+  "section": "God Disciplines His Children",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A crowd cheering you on"
+      },
+      "body": {
+        "en": "Picture an enormous stadium, packed with all those faith heroes from chapter 11 — Abraham, Moses, Rahab, David — cheering from the stands! We are surrounded by this great cloud of witnesses, so let us throw off everything that slows us down, every weight, every sin that trips us up, and run with ENDURANCE the race marked out for us, fixing our eyes on JESUS, who endured the cross because of the joy waiting for Him. Then the writer talks about God's discipline. No discipline feels pleasant at the time — it's painful! But just as a loving parent disciplines a child for their good, God disciplines those He loves, so that we might share in His holiness. Discipline produces a harvest of righteousness and peace for those trained by it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus."
+      },
+      "ref": {
+        "en": "Hebrews 12:1-2 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "let",
+          "us",
+          "run",
+          "with",
+          "perseverance",
+          "the",
+          "race",
+          "marked",
+          "out"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Run the Race!"
+      },
+      "audio_en": "/static/audio/hebrews/lesson17_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Who does the writer say surrounds believers like a cheering crowd?"
+          },
+          "options": {
+            "en": [
+              "Strangers",
+              "A great cloud of faith heroes who went before them",
+              "No one",
+              "Only angels"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why does God discipline those He loves?"
+          },
+          "options": {
+            "en": [
+              "He enjoys causing pain",
+              "So that we might share in His holiness",
+              "Because He's unfair",
+              "No real reason"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What should we fix our eyes on while running the race?"
+          },
+          "options": {
+            "en": [
+              "Other runners",
+              "Jesus",
+              "Our own performance",
+              "The crowd"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Run the Race!"
+          },
+          "file": "/static/printables/hebrews/lesson17_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: holy living as a goal worth all effort, made vivid through the image of a race run before a great cheering crowd. The teaching on divine discipline (12:5-11) is essential: hardship is purposeful, parental, aimed at producing holiness.\n\nConversation starters: (1) Who are the \"faith heroes\" cheering you on? (2) Can you think of a time discipline actually helped you grow? (3) What does \"fixing your eyes on Jesus\" look like mid-race?\n\nPray for endurance, and for the fruit of holy discipline."
+      }
+    }
+  ]
+}

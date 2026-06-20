@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Pursue Holiness!"
+  },
+  "ref": "Hebrews 12:14-29",
+  "section": "Warning Against Rejecting God",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A bowl of soup that cost everything"
+      },
+      "body": {
+        "en": "The writer gives a final, serious warning, using Esau as the example: Esau traded away his entire inheritance for a single bowl of soup, and later, even with tears, could not get it back. 'Make every effort,' the writer urges, 'to live in peace with everyone and to be holy; without holiness no one will see the Lord.' See to it that no one misses the grace of God or trades away something eternal for something that feels good for just a moment. The old covenant, given at Sinai, came with fire, smoke, and trembling. But we have come to something far greater: Mount Zion, the heavenly Jerusalem, the assembly of the firstborn, Jesus the mediator of a better covenant. We have come to something UNSHAKEABLE — a kingdom that cannot be destroyed. Let us worship God with reverence and awe, for our God is a consuming fire."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord."
+      },
+      "ref": {
+        "en": "Hebrews 12:14 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "make",
+          "every",
+          "effort",
+          "to",
+          "live",
+          "in",
+          "peace",
+          "and",
+          "to",
+          "be",
+          "holy"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Pursue Holiness!"
+      },
+      "audio_en": "/static/audio/hebrews/lesson18_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did Esau trade away his inheritance for?"
+          },
+          "options": {
+            "en": [
+              "A great kingdom",
+              "A single bowl of soup",
+              "Gold",
+              "Nothing — he kept it"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to verse 14, what is necessary to see the Lord?"
+          },
+          "options": {
+            "en": [
+              "Wealth",
+              "Holiness",
+              "Fame",
+              "Nothing is required"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What kind of kingdom have believers come to?"
+          },
+          "options": {
+            "en": [
+              "A shaky, temporary one",
+              "An unshakeable kingdom that cannot be destroyed",
+              "No kingdom at all",
+              "One that will soon end"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Pursue Holiness!"
+          },
+          "file": "/static/printables/hebrews/lesson18_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: holiness as non-negotiable for those who hope to see God — \"without holiness no one will see the Lord\" is among Scripture's clearest statements supporting holy living as essential, not optional. Esau's example warns about trading something eternal for momentary satisfaction.\n\nConversation starters: (1) What's something \"Esau-like\" you want to guard against? (2) Why does holiness matter so much, per verse 14? (3) What does it mean we've come to an \"unshakeable kingdom\"?\n\nPray for hearts pursuing holiness, never trading away what's eternal."
+      }
+    }
+  ]
+}

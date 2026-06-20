@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "A Rest Still Waiting"
+  },
+  "ref": "Hebrews 4:1-13",
+  "section": "A Sabbath-Rest for the People of God",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Make every effort to enter it"
+      },
+      "body": {
+        "en": "There is still a REST promised to God's people today — not just a physical land, but a deep rest of trusting God completely. The writer warns: let us be careful that none of us fails to reach that rest through unbelief, the way the wilderness generation did. Let us make every effort to enter it! And here's a sobering truth: God's Word is alive and active, sharper than any double-edged sword, penetrating even to dividing soul and spirit, joints and marrow — able to judge the thoughts and intentions of every heart. Nothing in all creation is hidden from God's sight; everything is uncovered and laid bare before the eyes of Him to whom we must give account. This rest isn't laziness — it's the deep confidence of trusting God so completely that striving and worry can finally stop."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Let us, therefore, make every effort to enter that rest."
+      },
+      "ref": {
+        "en": "Hebrews 4:11 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "let",
+          "us",
+          "therefore",
+          "make",
+          "every",
+          "effort",
+          "to",
+          "enter",
+          "that",
+          "rest"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A Rest Still Waiting"
+      },
+      "audio_en": "/static/audio/hebrews/lesson06_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What is the 'rest' the writer says is still available today?"
+          },
+          "options": {
+            "en": [
+              "A nap",
+              "Deep, complete trust in God",
+              "A vacation",
+              "Only a future physical kingdom"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How is God's Word described in this chapter?"
+          },
+          "options": {
+            "en": [
+              "Old and unclear",
+              "Alive and active, judging the heart",
+              "Hidden from everyone",
+              "Only for priests"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the writer urge believers to do regarding this rest?"
+          },
+          "options": {
+            "en": [
+              "Ignore it completely",
+              "Make every effort to enter it",
+              "Wait passively, doing nothing",
+              "Avoid it"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A Rest Still Waiting"
+          },
+          "file": "/static/printables/hebrews/lesson06_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the \"rest\" theme points beyond Canaan to present trust requiring active pursuit (4:11) — paradoxically, entering true rest takes real effort, the opposite of careless presumption.\n\nConversation starters: (1) What does \"resting\" in God look like while still making effort? (2) Why is striving toward rest not a contradiction? (3) How does it feel to know God's Word can see into your thoughts?\n\nPray for hearts that truly rest in God's trustworthiness."
+      }
+    }
+  ]
+}

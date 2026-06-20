@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Don't Throw Away Your Confidence!"
+  },
+  "ref": "Hebrews 10:19-39",
+  "section": "A Call to Persevere in Faith",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Hold on, and don't give up"
+      },
+      "body": {
+        "en": "Because of Christ's finished sacrifice, we can now draw near to God with full CONFIDENCE, with hearts sprinkled clean and a clear conscience. So the writer urges three things: hold unswervingly to the hope we profess, spur one another toward love and good deeds, and don't give up meeting together, encouraging each other, especially as the day of Christ's return approaches! Then comes a serious warning again: if we deliberately keep on sinning after receiving the full knowledge of the truth, there is no longer any sacrifice left to cover it. But the writer ends with confidence: you have need of endurance, not fear — so that after doing the will of God, you will receive what He has promised. Don't throw away your confidence! It will be richly rewarded."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "So do not throw away your confidence; it will be richly rewarded."
+      },
+      "ref": {
+        "en": "Hebrews 10:35 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "so",
+          "do",
+          "not",
+          "throw",
+          "away",
+          "your",
+          "confidence"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Don't Throw Away Your Confidence!"
+      },
+      "audio_en": "/static/audio/hebrews/lesson15_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What three things does the writer urge in 10:23-25?"
+          },
+          "options": {
+            "en": [
+              "Stop meeting together",
+              "Hold to hope, spur one another to love, and keep meeting together",
+              "Ignore each other",
+              "Avoid encouraging others"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does deliberate, continued sin after knowing the truth leave?"
+          },
+          "options": {
+            "en": [
+              "A new sacrifice available",
+              "No sacrifice left to cover it",
+              "Nothing changes",
+              "A second chance automatically"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What do believers need instead of giving up?"
+          },
+          "options": {
+            "en": [
+              "More money",
+              "Endurance, so they receive what God promised",
+              "An easier life",
+              "A new sacrifice every week"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Don't Throw Away Your Confidence!"
+          },
+          "file": "/static/printables/hebrews/lesson15_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: confident access to God flowing from Christ's finished work, paired with a sober warning against deliberately abandoning that truth — sharper than chapter 6's, yet closing with warm encouragement to endure, not fear.\n\nConversation starters: (1) Why does meeting together matter so much? (2) What does \"throwing away confidence\" look like, versus holding it? (3) What's the difference between struggling with sin and deliberately rejecting truth?\n\nPray for endurance, confidence, and faithful gathering together."
+      }
+    }
+  ]
+}

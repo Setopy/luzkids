@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "The Blood That Truly Cleanses"
+  },
+  "ref": "Hebrews 9:11-28",
+  "section": "The Blood of Christ",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A curtain opened for good"
+      },
+      "body": {
+        "en": "But when Christ came, He entered the TRUE, heavenly sanctuary — not made by human hands — by His OWN blood, securing eternal redemption, ONCE, for all time! The blood of animals could only cleanse the outside, ceremonially, and had to be repeated every year because it could never truly take away sin. But the blood of Christ cleanses the CONSCIENCE itself, washing away real guilt, so we can serve the living God with a clean heart. Just as a person dies once and then faces judgment, so Christ was sacrificed ONCE to take away the sins of many — and He will appear a second time, not to deal with sin again, but to bring full and final salvation to those waiting for Him. The curtain that once separated humanity from God's presence has been opened — for good."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "By means of his own blood, he entered the Most Holy Place once for all, having obtained eternal redemption."
+      },
+      "ref": {
+        "en": "Hebrews 9:12 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "by",
+          "means",
+          "of",
+          "his",
+          "own",
+          "blood",
+          "he",
+          "entered",
+          "once",
+          "for",
+          "all"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Blood That Truly Cleanses"
+      },
+      "audio_en": "/static/audio/hebrews/lesson13_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why did the old animal sacrifices have to be repeated every year?"
+          },
+          "options": {
+            "en": [
+              "Priests liked variety",
+              "Animal blood could never truly take away sin completely",
+              "God forgot",
+              "People demanded it"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Christ's blood cleanse, that animal blood never could?"
+          },
+          "options": {
+            "en": [
+              "Only the outside",
+              "The conscience itself, washing away real guilt",
+              "Nothing different",
+              "Only some hearts"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why will Christ appear a second time?"
+          },
+          "options": {
+            "en": [
+              "To deal with sin all over again",
+              "To bring full and final salvation to those waiting",
+              "To start a new sacrifice",
+              "No reason given"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Blood That Truly Cleanses"
+          },
+          "file": "/static/printables/hebrews/lesson13_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Christ's once-for-all entry into the TRUE heavenly sanctuary, by His own blood, decisively fulfills and surpasses everything the previous lesson's earthly tabernacle could only point toward. \"Cleanse your conscience\" (9:14) is real, inward cleansing, not merely positional forgiveness.\n\nConversation starters: (1) What does the opened curtain represent now? (2) Why couldn't animal blood ever fully take away guilt? (3) What does a truly \"clean conscience\" feel like?\n\nPray, thanking God for hearts cleansed within, not just outwardly."
+      }
+    }
+  ]
+}

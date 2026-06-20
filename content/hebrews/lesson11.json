@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "A Brand New Covenant"
+  },
+  "ref": "Hebrews 8:1-13",
+  "section": "The High Priest of a New Covenant",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A promise of a changed heart"
+      },
+      "body": {
+        "en": "The writer now shows something amazing: God promised, through the prophet Jeremiah, a NEW COVENANT — not like the old one given at Mount Sinai. This new covenant would mean God's law written on people's HEARTS, not just stone tablets, and complete forgiveness — God promising to remember our sins NO MORE! Jesus is the mediator of this better covenant, established on better promises. If the first covenant had been faultless, there would have been no need to look for another. By calling this covenant 'new,' God made the old one obsolete — not because it was a mistake, but because it always pointed forward to something greater, the way a shadow points to the object that casts it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I will put my laws in their minds and write them on their hearts."
+      },
+      "ref": {
+        "en": "Hebrews 8:10 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "I",
+          "will",
+          "put",
+          "my",
+          "laws",
+          "in",
+          "their",
+          "minds",
+          "and",
+          "write",
+          "them"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A Brand New Covenant"
+      },
+      "audio_en": "/static/audio/hebrews/lesson11_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Where does the new covenant promise God's law will be written?"
+          },
+          "options": {
+            "en": [
+              "Only on stone tablets",
+              "On people's hearts and minds",
+              "Nowhere",
+              "In a book only priests read"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did God promise to do with sins, under the new covenant?"
+          },
+          "options": {
+            "en": [
+              "Keep a permanent record",
+              "Remember them no more",
+              "Punish them twice",
+              "Ignore them without forgiving"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did God promise a 'new' covenant?"
+          },
+          "options": {
+            "en": [
+              "The old one was a total mistake",
+              "The old one always pointed forward to something greater",
+              "God changed His mind randomly",
+              "No real reason"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A Brand New Covenant"
+          },
+          "file": "/static/printables/hebrews/lesson11_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the new covenant promise (Jeremiah 31:31-34) fulfills what the old covenant structurally could not deliver — transformed hearts, not mere external rule-keeping.\n\nConversation starters: (1) What's the difference between law on stone and law on your heart? (2) Why does God remembering sins \"no more\" matter so much? (3) How was the old covenant still good, even pointing forward?\n\nPray, asking God to write His law deep on each heart."
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Grow Up — or Risk Falling Away"
+  },
+  "ref": "Hebrews 5:11-6:12",
+  "section": "Warning Against Falling Away",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Still drinking milk, and a warning too serious to ignore"
+      },
+      "body": {
+        "en": "The writer says something that might sting: by now, you ought to be teaching others, but instead you still need someone to teach you the basics — you need MILK, not solid food! Anyone who lives on milk alone is still a spiritual baby. Solid food is for the mature, who have trained themselves through constant practice to tell good from evil. So the call rings out: let's grow up — and here's WHY it matters so much. The writer moves straight from this gentle rebuke into one of the most serious warnings in the whole Bible: it is impossible for people who have once been enlightened, tasted the heavenly gift, shared in the Holy Spirit, tasted the goodness of God's Word — and who then DELIBERATELY fall away — to be brought back to repentance, because in doing so they are, in effect, crucifying the Son of God all over again. This is heavy, and it's meant to be. But the writer immediately reassures: he is confident of BETTER things for those reading — things that accompany real salvation. The call is to keep showing diligence right to the end, imitating those who through faith and patience inherit what was promised — not staying lazy babies on milk forever."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "We want each of you to show this same diligence to the very end, in order to make your hope sure."
+      },
+      "ref": {
+        "en": "Hebrews 6:11 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "we",
+          "want",
+          "each",
+          "of",
+          "you",
+          "to",
+          "show",
+          "this",
+          "diligence"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Grow Up — or Risk Falling Away"
+      },
+      "audio_en": "/static/audio/hebrews/lesson08_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does the writer say believers should move past, toward maturity?"
+          },
+          "options": {
+            "en": [
+              "The Bible entirely",
+              "Milk — basic teaching — toward solid spiritual food",
+              "Church gatherings",
+              "Prayer"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does this passage say about people who deliberately, fully fall away after truly experiencing God's grace?"
+          },
+          "options": {
+            "en": [
+              "Nothing serious happens",
+              "It is impossible to bring them back to repentance",
+              "Nothing changes",
+              "They were never really believers"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the writer urge believers to show, all the way to the end?"
+          },
+          "options": {
+            "en": [
+              "Laziness",
+              "The same diligence, to make their hope sure",
+              "Doubt",
+              "Indifference"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Grow Up — or Risk Falling Away"
+          },
+          "file": "/static/printables/hebrews/lesson08_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: this is one continuous section in the original text — the gentle rebuke about staying on \"milk\" (5:11-14) flows directly into one of Scripture's clearest, most serious warnings against deliberate, final apostasy (6:1-8), then closes with warm confidence (6:9-12). Read together as intended, the connection is powerful: staying spiritually immature isn't neutral — left unchecked, it's the soil deliberate falling-away grows in. This is among the strongest arguments against unconditional eternal security regardless of later choices.\n\nConversation starters: (1) What does moving from \"milk\" to \"solid food\" look like practically? (2) Why might staying spiritually lazy be more dangerous than it seems? (3) How does the writer balance this hard warning with real encouragement right after it?\n\nPray for diligence and growth that lasts all the way to the end."
+      }
+    }
+  ]
+}

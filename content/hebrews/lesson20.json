@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "The Final Blessing"
+  },
+  "ref": "Hebrews 13:20-25",
+  "section": "Benediction",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Equipped for everything good"
+      },
+      "body": {
+        "en": "And so the letter closes with one of the most beautiful blessings in the entire Bible. 'Now to him who through the eternal covenant is able to equip you with everything good for doing his will, working in you that which is pleasing to him, through Jesus Christ, to whom be glory forever and ever. Amen.' The writer adds a final, personal word: he has written only briefly, and urges them to bear with his message of encouragement. He mentions Timothy has been released, and hopes to visit soon together with him. Greetings are sent to all the leaders and God's people. And the very last words of this remarkable letter, after thirteen chapters of the supremacy of Christ, sobering warnings, faith heroes, and practical love: 'Grace be with you all.' A letter that opened with God speaking through His Son closes with grace resting on every reader."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Now to him who is able to equip you with everything good for doing his will, working in you that which is pleasing to him, through Jesus Christ."
+      },
+      "ref": {
+        "en": "Hebrews 13:20-21 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "now",
+          "to",
+          "him",
+          "who",
+          "is",
+          "able",
+          "to",
+          "equip",
+          "you",
+          "with",
+          "everything",
+          "good"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Final Blessing"
+      },
+      "audio_en": "/static/audio/hebrews/lesson20_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does the closing blessing ask God to do for believers?"
+          },
+          "options": {
+            "en": [
+              "Leave them alone",
+              "Equip them with everything good for doing His will",
+              "Test them harshly",
+              "Nothing specific"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who does the writer mention has been released, hoping to visit soon?"
+          },
+          "options": {
+            "en": [
+              "Paul",
+              "Timothy",
+              "Moses",
+              "Peter"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What are the very last words of the letter of Hebrews?"
+          },
+          "options": {
+            "en": [
+              "Goodbye forever",
+              "Grace be with you all",
+              "The end",
+              "Remember me"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Final Blessing"
+          },
+          "file": "/static/printables/hebrews/lesson20_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the closing benediction is a model prayer — not for comfort, but for God to actively equip and work within believers \"everything good for doing his will.\" This final blessing, prayed over the whole community, is a fitting summary of everything Hebrews has taught: a Christ-centered, grace-filled, transformative faith meant to be lived, not merely believed.\n\nConversation starters: (1) What stands out to you most, looking back over the whole book of Hebrews? (2) What does it mean for God to \"work in you\" what's pleasing to Him, not just leave it to your own effort? (3) How would you summarize Hebrews in one sentence to a friend?\n\nPray the closing blessing of Hebrews together as a family, right now, by name."
+      }
+    }
+  ]
+}

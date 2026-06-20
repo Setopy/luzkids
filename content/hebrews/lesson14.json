@@ -1,0 +1,111 @@
+{
+  "title": {
+    "en": "Once For All!"
+  },
+  "ref": "Hebrews 10:1-18",
+  "section": "Christ's Sacrifice Once for All",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A sacrifice that never needs repeating"
+      },
+      "body": {
+        "en": "The old sacrifices, the writer explains, could never make people perfect — that's WHY they had to be offered again and again, year after year. If they had truly worked, wouldn't they have stopped? But Jesus came and said, 'Here I am, I have come to do your will,' offering His own body ONCE — and by that single offering, He made perfect FOREVER those who are being made holy. Day after day, the old priests stood and performed their repeated duties, but Christ offered ONE sacrifice for sins forever, and then sat down at the right hand of God — His work finished, completely. Where sins have truly been forgiven, there is no longer any need for another sacrifice. It is finished."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "By one sacrifice he has made perfect forever those who are being made holy."
+      },
+      "ref": {
+        "en": "Hebrews 10:14 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "by",
+          "one",
+          "sacrifice",
+          "he",
+          "has",
+          "made",
+          "perfect",
+          "forever"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Once For All!"
+      },
+      "audio_en": "/static/audio/hebrews/lesson14_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why did the old sacrifices have to be repeated again and again?"
+          },
+          "options": {
+            "en": [
+              "Worked perfectly the first time",
+              "They could never actually make people perfect",
+              "People enjoyed repeating them",
+              "God liked variety"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus offer, instead of repeated animal sacrifices?"
+          },
+          "options": {
+            "en": [
+              "Nothing different",
+              "His own body, once, fully sufficient forever",
+              "A bigger sacrifice",
+              "Many small sacrifices"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Jesus do after offering His one sacrifice?"
+          },
+          "options": {
+            "en": [
+              "Kept standing and repeating it",
+              "Sat down at the right hand of God",
+              "Started over",
+              "Left forever"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Once For All!"
+          },
+          "file": "/static/printables/hebrews/lesson14_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the absolute sufficiency of Christ's once-for-all sacrifice. \"Made perfect forever those who are being sanctified\" (10:14) holds together both the finished work of justification AND the ongoing, present-tense work of sanctifying grace without contradiction.\n\nConversation starters: (1) What does \"once\" and never repeated mean for Jesus' sacrifice? (2) Why does Jesus sitting down matter? (3) How does \"it is finished\" change how you carry guilt?\n\nPray, thanking God the work of forgiveness is fully and finally complete."
+      }
+    }
+  ]
+}

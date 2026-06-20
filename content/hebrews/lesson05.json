@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Today, If You Hear His Voice"
+  },
+  "ref": "Hebrews 3:7-19",
+  "section": "Warning Against Unbelief",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The generation that almost made it"
+      },
+      "body": {
+        "en": "The writer tells a sobering story. God rescued Israel from Egypt with incredible miracles, leading them toward the Promised Land. But in the wilderness, instead of trusting God, the people grumbled and hardened their hearts — again and again, for forty years! Because of their unbelief, that entire generation never entered the rest God had prepared. The writer quotes God's own warning: 'Today, if you hear his voice, do not harden your hearts.' Then the urgent call: watch out, brothers and sisters, that none of you has a sinful, unbelieving heart that turns away from the living God. Encourage one another DAILY, so none of you is hardened by sin's deceitfulness!"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Today, if you hear his voice, do not harden your hearts."
+      },
+      "ref": {
+        "en": "Hebrews 3:15 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "today",
+          "if",
+          "you",
+          "hear",
+          "his",
+          "voice",
+          "do",
+          "not",
+          "harden"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Today, If You Hear His Voice"
+      },
+      "audio_en": "/static/audio/hebrews/lesson05_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why did the wilderness generation never enter the Promised Land's rest?"
+          },
+          "options": {
+            "en": [
+              "Too tired",
+              "Their unbelief and hardened hearts",
+              "God forgot them",
+              "The land vanished"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What should believers do for one another daily, according to this chapter?"
+          },
+          "options": {
+            "en": [
+              "Avoid each other",
+              "Encourage one another, so none is hardened by sin",
+              "Compete",
+              "Stay silent"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What warning does God give about today specifically?"
+          },
+          "options": {
+            "en": [
+              "Wait until tomorrow to respond",
+              "Today, if you hear His voice, don't harden your heart",
+              "Ignore His voice entirely",
+              "Only listen on special days"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Today, If You Hear His Voice"
+          },
+          "file": "/static/printables/hebrews/lesson05_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the danger of a hardened heart, and daily mutual encouragement as the remedy — strong scriptural support against any doctrine of automatic, unconditional perseverance. The wilderness generation were genuinely rescued people who failed to enter the promised rest through persistent unbelief (3:16-19).\n\nConversation starters: (1) Is a hardened heart usually one big moment or many small ones? (2) Who encourages you daily, and who can you encourage? (3) Why \"today\" specifically — why not wait?\n\nPray for soft, responsive hearts and faithful daily encouragement."
+      }
+    }
+  ]
+}

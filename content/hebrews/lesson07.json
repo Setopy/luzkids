@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Come Boldly to the Throne of Grace"
+  },
+  "ref": "Hebrews 4:14-5:10",
+  "section": "Jesus the Great High Priest",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A welcome that's wide open"
+      },
+      "body": {
+        "en": "Since we have a great high priest, Jesus, who has gone through the heavens, let us hold firmly to the faith we profess. He is not a high priest who cannot sympathize with our weaknesses — He was tempted in every way, just as we are, yet without sin! So let us approach God's throne of grace with CONFIDENCE, not fear, so that we may receive mercy and find grace to help us in our time of need. Every high priest is chosen to represent people before God, and because he himself is weak, he can deal gently with others who are weak too. No one takes this honour for himself; he is called by God, just as Jesus was. And though Jesus is the Son, He learned obedience through what He suffered, becoming the source of eternal salvation for all who obey Him, designated by God to be high priest in the order of Melchizedek."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+      },
+      "ref": {
+        "en": "Hebrews 4:16 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "let",
+          "us",
+          "approach",
+          "God's",
+          "throne",
+          "of",
+          "grace",
+          "with",
+          "confidence"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Come Boldly to the Throne of Grace"
+      },
+      "audio_en": "/static/audio/hebrews/lesson07_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How should we approach God's throne of grace, according to this passage?"
+          },
+          "options": {
+            "en": [
+              "With fear and hiding",
+              "With confidence, to receive mercy and grace",
+              "Only if we're perfect first",
+              "Never, it's too dangerous"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How did Jesus, though the Son, become the source of salvation?"
+          },
+          "options": {
+            "en": [
+              "He skipped suffering entirely",
+              "He learned obedience through what He suffered",
+              "He never faced hardship",
+              "Through magic"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why is Jesus able to sympathize with our weaknesses?"
+          },
+          "options": {
+            "en": [
+              "He was never tempted",
+              "He was tempted in every way, yet without sin",
+              "He doesn't understand humans",
+              "Only priests understand this"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Come Boldly to the Throne of Grace"
+          },
+          "file": "/static/printables/hebrews/lesson07_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' sympathetic, divinely-appointed priesthood makes possible a remarkably bold invitation — approaching God's throne with confidence, not earned perfection. Even Jesus' own perfect obedience was \"learned\" through real suffering (5:8), not theoretical.\n\nConversation starters: (1) Why can we approach God \"with confidence\" rather than hiding? (2) What does it mean even Jesus \"learned obedience\" through suffering? (3) How does a sympathetic high priest change how you pray?\n\nPray together, approaching God's throne of grace boldly as a family right now."
+      }
+    }
+  ]
+}

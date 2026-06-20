@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "An Anchor for the Soul"
+  },
+  "ref": "Hebrews 6:13-20",
+  "section": "The Certainty of God's Promise",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A promise sealed with an oath"
+      },
+      "body": {
+        "en": "After that heavy warning, the writer reminds us of something wonderfully secure: God's promise to Abraham. When God promised Abraham a future and a family, He confirmed it with an OATH, since there was no one greater to swear by — God swore by Himself! He did this so that, by two unchangeable things — His promise and His oath — we who have fled to Him for refuge might be greatly encouraged to hold firmly to the hope set before us. This hope is an ANCHOR for the soul, firm and secure, going right into the inner sanctuary itself, where Jesus, our forerunner, has already entered on our behalf. Think of a ship in a storm — the anchor doesn't stop the waves, but holds the ship steady, connected to solid ground beneath the surf."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "We have this hope as an anchor for the soul, firm and secure."
+      },
+      "ref": {
+        "en": "Hebrews 6:19 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "we",
+          "have",
+          "this",
+          "hope",
+          "as",
+          "an",
+          "anchor",
+          "for",
+          "the",
+          "soul"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for An Anchor for the Soul"
+      },
+      "audio_en": "/static/audio/hebrews/lesson09_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How did God confirm His promise to Abraham?"
+          },
+          "options": {
+            "en": [
+              "With a handshake",
+              "With an oath, swearing by Himself",
+              "With a letter",
+              "Never confirmed it"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What two unchangeable things give believers great encouragement?"
+          },
+          "options": {
+            "en": [
+              "Money and fame",
+              "God's promise and His oath",
+              "Luck and chance",
+              "Nothing real"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the anchor picture represent for the soul?"
+          },
+          "options": {
+            "en": [
+              "Stopping all storms from happening",
+              "Hope that holds firm through every storm",
+              "A heavy weight that slows you",
+              "Something only sailors need"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: An Anchor for the Soul"
+          },
+          "file": "/static/printables/hebrews/lesson09_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: God's promise, doubly secured by oath, gives believers an unshakeable anchor — placed deliberately right after chapter 6's severe warning, showing these truths aren't contradictory but complementary: real security in God's character, not presumption on our own.\n\nConversation starters: (1) What does an anchor do for a ship — and what doesn't it do? (2) Why did God confirm His promise with an oath? (3) What storms need this kind of anchored hope?\n\nPray, thanking God for hope anchored in His unchangeable character."
+      }
+    }
+  ]
+}

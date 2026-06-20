@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Behind the Curtain"
+  },
+  "ref": "Hebrews 9:1-10",
+  "section": "Worship in the Earthly Tabernacle",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A room no one could casually enter"
+      },
+      "body": {
+        "en": "The writer now describes the old earthly tabernacle in careful detail — a holy tent with two rooms. The first room held a lampstand, a table, and consecrated bread. But beyond a thick CURTAIN was the second room, the Most Holy Place, containing the gold altar of incense and the ark of the covenant. Only the high priest could enter that inner room, and only ONCE a year, and never without blood, which he offered for his own sins and the sins the people had committed unknowingly. The Holy Spirit was showing something important through all this: the way into the Most Holy Place was not yet fully open. These regulations about food, drink, and ceremonial washings were only for the body, external matters, until the time of the new order. The whole system pointed forward — every curtain, every room, every limited entrance was a signpost waiting for something greater to arrive."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "This was an illustration pointing to the present time, in which gifts and sacrifices are offered that cannot perfect the conscience of the worshiper."
+      },
+      "ref": {
+        "en": "Hebrews 9:9 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "this",
+          "was",
+          "an",
+          "illustration",
+          "pointing",
+          "to",
+          "the",
+          "present",
+          "time"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Behind the Curtain"
+      },
+      "audio_en": "/static/audio/hebrews/lesson12_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How many rooms did the earthly tabernacle have?"
+          },
+          "options": {
+            "en": [
+              "One",
+              "Two — an outer room and the Most Holy Place",
+              "Five",
+              "None"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who could enter the Most Holy Place, and how often?"
+          },
+          "options": {
+            "en": [
+              "Anyone, anytime",
+              "Only the high priest, once a year",
+              "Every priest, daily",
+              "No one, ever"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did the limited access to the Most Holy Place point forward to?"
+          },
+          "options": {
+            "en": [
+              "Nothing in particular",
+              "Something greater still to come",
+              "A permanent dead end",
+              "A mistake God wanted to fix"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Behind the Curtain"
+          },
+          "file": "/static/printables/hebrews/lesson12_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the tabernacle's careful, restricted structure — curtain, single yearly entrance, external regulations — was never the final word, but a deliberate signpost (\"an illustration pointing to the present time,\" 9:9) pointing forward to something far greater. Visual, spatial detail like this helps children grasp that the old system, while genuinely instituted by God, was always provisional.\n\nConversation starters: (1) What do you think it felt like only one person could enter God's presence, once a year? (2) Why might God design something temporary on purpose? (3) What's coming next, that this curtain was pointing toward?\n\nPray, anticipating together what the next lesson reveals about access to God."
+      }
+    }
+  ]
+}

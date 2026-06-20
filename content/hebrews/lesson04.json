@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Greater Than Moses"
+  },
+  "ref": "Hebrews 3:1-6",
+  "section": "Jesus Greater Than Moses",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A faithful servant, and the Son who built the house"
+      },
+      "body": {
+        "en": "The writer now compares Jesus to the most honoured leader in Israel's history: Moses. Moses was faithful — everyone agrees on that, he served God's people with complete devotion. But the writer makes a careful, important distinction: Moses was a faithful SERVANT in God's house, while Jesus is the SON who actually BUILT the house! Think about the difference between someone who works faithfully inside a building, and the architect and builder who designed and constructed the whole building in the first place. Both deserve honour, but they are not equal in glory. Jesus deserves even greater honour than Moses, just as the builder of a house deserves more honour than the house itself. And here is the call that follows: we are God's house too, if we hold firmly to our confidence and the hope of which we boast, right to the end."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Jesus has been found worthy of greater honor than Moses, just as the builder of a house has greater honor than the house itself."
+      },
+      "ref": {
+        "en": "Hebrews 3:3 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "Jesus",
+          "has",
+          "been",
+          "found",
+          "worthy",
+          "of",
+          "greater",
+          "honor",
+          "than",
+          "Moses"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Greater Than Moses"
+      },
+      "audio_en": "/static/audio/hebrews/lesson04_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How is Moses described in this chapter?"
+          },
+          "options": {
+            "en": [
+              "Unfaithful and lazy",
+              "A faithful servant in God's house",
+              "An enemy of God",
+              "Equal to Jesus in every way"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is the key difference between Moses and Jesus, according to this chapter?"
+          },
+          "options": {
+            "en": [
+              "There is no difference",
+              "Moses was a servant in the house; Jesus is the Son who built it",
+              "Moses built the house himself",
+              "Jesus served Moses"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What are believers called to hold firmly to, right to the end?"
+          },
+          "options": {
+            "en": [
+              "Nothing in particular",
+              "Their confidence and the hope they boast in",
+              "Fear and doubt",
+              "Only their own strength"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Greater Than Moses"
+          },
+          "file": "/static/printables/hebrews/lesson04_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Jesus' superiority over Moses, the most revered figure in Israel's history — argued not by diminishing Moses' real faithfulness, but by the category difference between a faithful servant and the Son who is the house's builder.\n\nConversation starters: (1) Why honour Moses' faithfulness AND still say Jesus is greater? (2) What does it mean that we are \"God's house\" if we hold firm? (3) Who is a faithful \"Moses\" figure in your own life worth honouring?\n\nPray for confidence and hope that holds firm to the very end."
+      }
+    }
+  ]
+}

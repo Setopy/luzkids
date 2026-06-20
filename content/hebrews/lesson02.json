@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Don't Drift Away!"
+  },
+  "ref": "Hebrews 2:1-4",
+  "section": "Warning Against Drifting Away",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A boat with no anchor"
+      },
+      "body": {
+        "en": "Imagine a small boat floating near shore — no one rowing, no anchor dropped. It doesn't crash suddenly; it just slowly drifts further out until the shore disappears. The writer uses this picture as a warning: pay MUCH closer attention to what we've heard about Jesus, so we don't DRIFT AWAY. If the law given through angels carried serious consequences for disobedience, how much more serious is it to ignore the salvation announced by the Lord Himself, confirmed by signs, wonders, and the Holy Spirit?"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away."
+      },
+      "ref": {
+        "en": "Hebrews 2:1 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "we",
+          "must",
+          "pay",
+          "the",
+          "most",
+          "careful",
+          "attention"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Don't Drift Away!"
+      },
+      "audio_en": "/static/audio/hebrews/lesson02_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What warning picture does this lesson use?"
+          },
+          "options": {
+            "en": [
+              "A house fire",
+              "A boat slowly drifting from shore",
+              "A door slamming",
+              "A race"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why is ignoring the salvation Jesus brought so serious?"
+          },
+          "options": {
+            "en": [
+              "It isn't, really",
+              "Because it was confirmed by the Lord Himself, signs, and the Spirit",
+              "Angels get upset",
+              "No reason given"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What kind of attention does the writer say we need?"
+          },
+          "options": {
+            "en": [
+              "None — faith runs on autopilot",
+              "Careful, close attention, daily",
+              "Attention once a year",
+              "Attention only in trouble"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Don't Drift Away!"
+          },
+          "file": "/static/printables/hebrews/lesson02_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the danger of gradual, quiet spiritual drift — the first of five warning passages in Hebrews. Salvation is not presumed automatic; ongoing attentiveness matters.\n\nConversation starters: (1) What are quiet ways faith could \"drift\" unnoticed? (2) What helps you stay anchored? (3) Why might gradual drift be more dangerous than one big fall?\n\nPray for hearts that stay anchored and attentive."
+      }
+    }
+  ]
+}

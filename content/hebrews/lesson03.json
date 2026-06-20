@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Jesus Became Like Us"
+  },
+  "ref": "Hebrews 2:5-18",
+  "section": "Jesus Made Like His Brothers",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Not ashamed to call us family"
+      },
+      "body": {
+        "en": "Jesus did not stay distant in heaven. He became human — fully human — sharing in our weakness, even facing death, so that by His death He might break the power of the one who held the fear of death over humanity. Jesus is not ashamed to call us brothers and sisters! Because He suffered and was tempted in every way we are, He is able to help us perfectly when we are tempted too. He stepped into our exact situation, so He could understand completely and be the perfect High Priest."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Because Jesus himself suffered when he was tempted, he is able to help those who are being tempted."
+      },
+      "ref": {
+        "en": "Hebrews 2:18 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "because",
+          "Jesus",
+          "himself",
+          "suffered",
+          "he",
+          "is",
+          "able",
+          "to",
+          "help"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Jesus Became Like Us"
+      },
+      "audio_en": "/static/audio/hebrews/lesson03_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why did Jesus become fully human?"
+          },
+          "options": {
+            "en": [
+              "To show off",
+              "To share our weakness and break death's power over us",
+              "No choice",
+              "To avoid suffering"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Jesus call those He came to save?"
+          },
+          "options": {
+            "en": [
+              "Strangers",
+              "Brothers and sisters",
+              "Servants only",
+              "Nobody"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why is Jesus able to help us perfectly when tempted?"
+          },
+          "options": {
+            "en": [
+              "He was never tempted",
+              "Because He Himself suffered when tempted",
+              "He doesn't help",
+              "Only perfect people get help"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Jesus Became Like Us"
+          },
+          "file": "/static/printables/hebrews/lesson03_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Christ's full humanity is the foundation for His sympathetic, effective priesthood (developed in chs. 4-10). Pastoral comfort, not abstract theology.\n\nConversation starters: (1) How does it help to know Jesus faced real temptation? (2) What does it mean He is \"not ashamed\" to call us family? (3) Why does shared experience make a better helper?\n\nPray thanking Jesus for becoming one of us to rescue us fully."
+      }
+    }
+  ]
+}
