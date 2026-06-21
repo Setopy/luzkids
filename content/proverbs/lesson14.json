@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "The Path That Leads to Ruin"
+  },
+  "ref": "Proverbs 7:1-27",
+  "section": "Warning Against the Adulterous Woman",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A vivid warning, like an animal walking into a trap"
+      },
+      "body": {
+        "en": "'My son, keep my words and store up my commands within you,' the chapter begins. 'Keep my commands and you will live; guard my teachings as the apple of your eye.'\n\nThis chapter tells an extended, vivid story — a young man with no sense, walking down a street at twilight, meeting someone whose flattering, persuasive words lead him step by step toward real danger, without him even realizing how serious the consequences will be.\n\nProverbs uses an unforgettable comparison: he followed her 'like an ox going to the slaughter, like a deer stepping into a noose... little knowing it will cost him his life.'\n\nThe warning is direct and urgent: 'now then, my sons, listen to me; pay attention to what I say. Do not let your heart turn to her ways or stray into her paths. Many are the victims she has brought down.'\n\nThe whole point of this vivid, almost cinematic warning is to make the danger of a flattering, destructive path feel real and immediate — not a distant, abstract idea, but something to actively, deliberately avoid, the way you'd avoid an actual trap."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Do not let your heart turn to her ways or stray into her paths."
+      },
+      "ref": {
+        "en": "Proverbs 7:25 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "do",
+          "not",
+          "let",
+          "your",
+          "heart",
+          "turn",
+          "to",
+          "her",
+          "ways",
+          "or",
+          "stray",
+          "into",
+          "her",
+          "paths"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Path That Leads to Ruin"
+      },
+      "audio_en": "/static/audio/proverbs/lesson14_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What animal comparisons does this chapter use to describe someone following a dangerous path unknowingly?"
+          },
+          "options": {
+            "en": [
+              "A lion hunting boldly",
+              "An ox going to slaughter, a deer stepping into a noose",
+              "An eagle soaring freely",
+              "No animals are mentioned"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What instruction does the chapter give about guarding your teaching?"
+          },
+          "options": {
+            "en": [
+              "Ignore it whenever convenient",
+              "Guard it as the apple of your eye",
+              "Forget it quickly",
+              "It doesn't matter much"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the chapter say about letting your heart 'turn to' or 'stray into' dangerous paths?"
+          },
+          "options": {
+            "en": [
+              "It's encouraged",
+              "It's strongly warned against",
+              "It doesn't matter either way",
+              "It's required"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Path That Leads to Ruin"
+          },
+          "file": "/static/printables/proverbs/lesson14_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: this is the most extended, narrative warning in Proverbs 1-9 against the same danger addressed in chapters 5 and 6 — adultery and sexual temptation — told here as a vivid, almost story-like cautionary tale to make an abstract danger feel real and immediate. For children, the lesson centers on the broader, transferable principle: dangerous paths often don't announce themselves clearly, and wisdom requires recognizing warning signs before consequences arrive, \"like an ox going to the slaughter,\" unaware. Parents may wish to discuss the chapter's specific content more directly with older children, using their own judgment about timing and detail.\n\nConversation starters: (1) Why might Proverbs tell this warning as a vivid story rather than a simple rule? (2) What does the ox and deer imagery teach about how easily someone can walk into danger without realizing it? (3) What helps you recognize a dangerous path before you're already on it?\n\nPray for eyes that see danger clearly, and hearts that don't stray toward destructive paths."
+      }
+    }
+  ]
+}

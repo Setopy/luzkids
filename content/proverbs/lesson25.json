@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Train Up a Child"
+  },
+  "ref": "Proverbs 13:24; 15:32; 19:18; 22:6; 29:17",
+  "section": "Discipline and Training Children (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The direction that lasts a lifetime"
+      },
+      "body": {
+        "en": "'Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.' Proverbs links discipline directly to love — genuine love includes caring enough to correct, not just to please.\n\n'Whoever disregards discipline despises themselves, but whoever heeds correction gains understanding.' Refusing correction, the book says, isn't strength — it's actually a kind of self-harm.\n\n'Discipline your children while there is hope, and do not be a willing party to their death.' Strong language, showing just how seriously Proverbs takes the long-term stakes of how a child is raised.\n\nOne of the most famous parenting verses in the entire Bible: 'start children off on the way they should go, and even when they are old they will not turn from it.' Early direction, the book promises, shapes the whole trajectory of a life.\n\n'Discipline your children, and they will give you peace; neglect them, and they will bring you shame.' Loving correction, given consistently and early, is presented as one of the greatest gifts a parent can offer."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Start children off on the way they should go, and even when they are old they will not turn from it."
+      },
+      "ref": {
+        "en": "Proverbs 22:6 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "start",
+          "children",
+          "off",
+          "on",
+          "the",
+          "way",
+          "they",
+          "should",
+          "go"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Train Up a Child"
+      },
+      "audio_en": "/static/audio/proverbs/lesson25_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Proverbs 13:24 say about a parent who 'spares the rod'?"
+          },
+          "options": {
+            "en": [
+              "They show extra love",
+              "They actually hate their children; loving parents discipline carefully",
+              "Nothing significant is implied",
+              "Discipline never matters"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Proverbs 22:6, what happens when children are started off on the right way?"
+          },
+          "options": {
+            "en": [
+              "Nothing lasting happens",
+              "Even when old, they will not turn from it",
+              "They forget it quickly",
+              "It makes no difference later in life"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 15:32 say about disregarding discipline?"
+          },
+          "options": {
+            "en": [
+              "It's a sign of strength",
+              "Whoever disregards discipline actually despises themselves",
+              "It has no real effect",
+              "It's always wise"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Train Up a Child"
+          },
+          "file": "/static/printables/proverbs/lesson25_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs treats discipline as an essential expression of parental love, not its opposite — the absence of correction is described as a form of neglect or even hatred, while consistent, loving discipline is framed as one of a parent's most important responsibilities, with lasting, lifelong impact (\"even when old, they will not turn from it\"). This theme speaks directly to parents reading these guides as much as to children hearing the lessons.\n\nConversation starters: (1) Why might Proverbs connect discipline so directly to love, rather than seeing them as opposites? (2) What does \"start children off on the way they should go\" suggest about the importance of early years? (3) For parents: how does this shape how you think about discipline in your own home?\n\nPray for wisdom in how discipline and correction are given and received in your family, recognizing it as an expression of genuine love."
+      }
+    }
+  ]
+}

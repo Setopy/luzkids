@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Pride and Humility"
+  },
+  "ref": "Proverbs 11:2; 16:18; 16:19; 18:12; 29:23",
+  "section": "Pride and Humility (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Before a fall, and before honour"
+      },
+      "body": {
+        "en": "'When pride comes, then comes disgrace, but with humility comes wisdom.' Proverbs sees a direct, almost mathematical relationship: pride and disgrace travel together, while humility and wisdom travel together too.\n\nOne of the most quoted proverbs in the whole book warns: 'Pride goes before destruction, a haughty spirit before a fall.' Notice the order — pride comes FIRST, and trouble follows close behind.\n\n'Better to be lowly in spirit along with the oppressed than to share plunder with the proud.' This is a surprising, countercultural value — Proverbs actually prefers humble poverty to proud wealth!\n\n'Before a downfall the heart is haughty, but humility comes before honour.' Just as pride precedes a fall, humility actually precedes genuine honour — the order matters both ways.\n\n'A person's pride will bring them low, but the lowly in spirit gain honour.' Again and again, the book insists that the path UP runs through humility, not around it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Pride goes before destruction, a haughty spirit before a fall."
+      },
+      "ref": {
+        "en": "Proverbs 16:18 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "pride",
+          "goes",
+          "before",
+          "destruction",
+          "a",
+          "haughty",
+          "spirit",
+          "before",
+          "a",
+          "fall"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Pride and Humility"
+      },
+      "audio_en": "/static/audio/proverbs/lesson20_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Proverbs 16:18, what comes before destruction?"
+          },
+          "options": {
+            "en": [
+              "Hard work",
+              "Pride, a haughty spirit",
+              "Kindness",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 18:12 say comes before honour?"
+          },
+          "options": {
+            "en": [
+              "More pride",
+              "Humility",
+              "Wealth",
+              "Nothing comes before it"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Proverbs describe the choice between humble poverty and proud wealth?"
+          },
+          "options": {
+            "en": [
+              "Proud wealth is always better",
+              "Better to be lowly in spirit with the oppressed than share plunder with the proud",
+              "They're exactly equal",
+              "Neither matters"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Pride and Humility"
+          },
+          "file": "/static/printables/proverbs/lesson20_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs consistently presents humility as the genuine path to honour and stability, while pride — however successful it may look temporarily — reliably precedes downfall. This countercultural value system (preferring humble poverty to proud wealth) challenges children early to measure success by character, not just outward achievement or confidence.\n\nConversation starters: (1) Why might pride \"go before\" a fall — what does that ordering suggest about cause and effect? (2) Can you think of an example (in a story, in real life) where pride led to someone's downfall? (3) What does genuine humility look like, as different from just being timid or having low self-esteem?\n\nPray for hearts that choose humility, trusting that real honour follows it, not pride."
+      }
+    }
+  ]
+}

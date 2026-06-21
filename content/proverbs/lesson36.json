@@ -1,0 +1,118 @@
+{
+  "title": {
+    "en": "Do Not Boast About Tomorrow"
+  },
+  "ref": "Proverbs 14:12; 14:32; 16:25; 21:16; 27:1",
+  "section": "The Brevity of Life and the Two Roads (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A road that seems right, but doesn't lead where you think"
+      },
+      "body": {
+        "en": "'There is a way that appears to be right, but in the end it leads to death.' This sobering proverb appears twice in the book, almost word for word — a sign of how seriously Proverbs wants this warning taken seriously.\n\nThis is genuinely unsettling: a path can FEEL right, seem reasonable, even seem wise — and still lead somewhere destructive. Feeling confident about a direction isn't the same as that direction actually being good.\n\n'The wicked are brought down by their own wickedness, but the righteous have a refuge even in death.' Proverbs is honest that every life, wise or foolish, eventually faces death — but it insists the righteous face it differently, with genuine refuge rather than collapse.\n\n'Whoever strays from the path of prudence will rest in the company of the dead.' Straying from wisdom, even gradually, is treated as a path with a real destination, not a neutral drift with no consequence.\n\nAnd a humble, grounding reminder that closes this whole theme: 'do not boast about tomorrow, for you do not know what a day may bring.' Life is genuinely brief and uncertain — which isn't meant to produce fear, but humility, gratitude for today, and urgency about choosing wisdom now, rather than assuming there will always be time to choose it later."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Do not boast about tomorrow, for you do not know what a day may bring."
+      },
+      "ref": {
+        "en": "Proverbs 27:1 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "do",
+          "not",
+          "boast",
+          "about",
+          "tomorrow",
+          "for",
+          "you",
+          "do",
+          "not",
+          "know",
+          "what",
+          "a",
+          "day",
+          "may",
+          "bring"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Do Not Boast About Tomorrow"
+      },
+      "audio_en": "/static/audio/proverbs/lesson36_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What unsettling truth does Proverbs 14:12 teach about a path that 'seems right'?"
+          },
+          "options": {
+            "en": [
+              "If it feels right, it always is right",
+              "A path can feel right yet still lead to death in the end",
+              "Feelings are always a reliable guide",
+              "This verse doesn't exist"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Proverbs 14:32 say the righteous face death, compared to the wicked?"
+          },
+          "options": {
+            "en": [
+              "Exactly the same way",
+              "The righteous have a refuge, even in death; the wicked are brought down by their own wickedness",
+              "Neither group faces death differently",
+              "Death isn't addressed at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 27:1 warn about boasting?"
+          },
+          "options": {
+            "en": [
+              "Boasting about today is fine",
+              "Do not boast about tomorrow, since you don't know what a day may bring",
+              "Boasting about the future is always wise",
+              "Nothing is said about boasting"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Do Not Boast About Tomorrow"
+          },
+          "file": "/static/printables/proverbs/lesson36_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs includes a quieter, more sobering thread acknowledging life's genuine brevity and uncertainty — not to produce fear, but humility and urgency about choosing wisdom now rather than presuming on an assumed future. The warning that a path can \"seem right\" yet lead to death is one of the book's most psychologically penetrating insights: confidence in a direction is not proof that the direction is actually good, a vital corrective to simple self-trust.\n\nConversation starters: (1) Can you think of a time something felt like a good decision but turned out not to be? (2) Why might it be unwise to \"boast about tomorrow,\" given we don't know what a day may bring? (3) How does remembering life's brevity change how seriously you take choosing wisdom today, rather than waiting?\n\nPray for humility about the future, and urgency about choosing wisdom today, not someday."
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "What Makes a Good Leader"
+  },
+  "ref": "Proverbs 16:10-15; 20:8,26,28; 25:2-7; 29:2,4,12,14",
+  "section": "Wisdom for Rulers and Leaders (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A throne established by righteousness"
+      },
+      "body": {
+        "en": "Many of Solomon's proverbs were written specifically with kings and rulers in mind — but the lessons apply to anyone with any kind of authority or leadership, even leading a small group, a team, or a family.\n\n'It is not for kings to drink wine, not for rulers to crave beer, lest they drink and forget what the law decrees, and deprive all the oppressed of their rights.' A leader's self-control directly affects the people depending on their clear judgment.\n\n'A king's wrath is like a lion's roar; whoever incurs it risks their life.' Proverbs is honest about how much power a leader's mood and temper carries — which is exactly why leaders need extra self-control, not less.\n\n'Love and faithfulness keep a king safe; through love his throne is made secure.' Real security in leadership doesn't come from force or fear — it comes from genuine love and faithfulness toward the people being led.\n\n'If a ruler listens to lies, all his officials become wicked.' What a leader is willing to listen to shapes the whole culture underneath them. And one of the clearest warnings of all: 'when the righteous thrive, the people rejoice; when the wicked rule, the people groan.' Leadership, for better or worse, ripples out into everyone it touches."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Love and faithfulness keep a king safe; through love his throne is made secure."
+      },
+      "ref": {
+        "en": "Proverbs 20:28 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "love",
+          "and",
+          "faithfulness",
+          "keep",
+          "a",
+          "king",
+          "safe",
+          "through",
+          "love",
+          "his",
+          "throne",
+          "is",
+          "made",
+          "secure"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for What Makes a Good Leader"
+      },
+      "audio_en": "/static/audio/proverbs/lesson32_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Why does Proverbs say it's dangerous for kings or rulers to drink too much?"
+          },
+          "options": {
+            "en": [
+              "It's not really dangerous",
+              "They might forget the law and deprive the oppressed of their rights",
+              "It makes them stronger leaders",
+              "No reason is given"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Proverbs 20:28, what keeps a king's throne genuinely secure?"
+          },
+          "options": {
+            "en": [
+              "Force and fear",
+              "Love and faithfulness",
+              "Wealth alone",
+              "Nothing can make a throne secure"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 29:2 say happens when the wicked rule, versus when the righteous thrive?"
+          },
+          "options": {
+            "en": [
+              "The people feel the same either way",
+              "When the righteous thrive the people rejoice; when the wicked rule the people groan",
+              "The wicked ruling always makes people happy",
+              "Leadership has no real effect on people"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: What Makes a Good Leader"
+          },
+          "file": "/static/printables/proverbs/lesson32_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: a significant, often-overlooked thread runs through Proverbs addressing how rulers and leaders should govern — self-control, listening to truth rather than flattery, ruling through love rather than fear — material originally aimed at kings but directly transferable to any position of leadership or influence a child might one day hold (team captain, older sibling, future parent, workplace leader).\n\nConversation starters: (1) Why might a leader's self-control matter even more than an ordinary person's? (2) What does it mean that a throne is made secure through \"love and faithfulness,\" not force? (3) Even without a throne, where do you already have some leadership or influence — over younger siblings, in a group project, on a team?\n\nPray for the leaders in your own life, and for wisdom in any leadership responsibility you already carry, however small."
+      }
+    }
+  ]
+}

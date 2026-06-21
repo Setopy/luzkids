@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Stay on the Safe Path"
+  },
+  "ref": "Proverbs 5:1-23",
+  "section": "Warning Against Adultery",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A warning about smooth words that lead somewhere dangerous"
+      },
+      "body": {
+        "en": "The father continues his urgent instruction, warning his son about people whose words sound smooth and sweet, like honey — but whose path actually leads toward bitterness and ruin.\n\nThis chapter is a serious warning about staying faithful — to God, to your family, and to the people who genuinely love you — rather than being pulled away by someone whose flattering words hide a destructive path underneath.\n\n'Keep to a path far from her,' the father warns, 'do not go near the door of her house, lest you lose your honour to others and your dignity to one who is cruel.'\n\nThe wisdom here isn't really about one specific situation — it's a bigger principle: be very careful about people who say exactly what you want to hear, especially when their actual path leads away from faithfulness and toward real harm.\n\nThe chapter ends with a beautiful, positive picture instead: 'may you rejoice in the wife of your youth... may her love alone satisfy you always.' Faithfulness and loyalty, the chapter insists, lead to real joy — far more than any shortcut ever could."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Keep to a path far from her, do not go near the door of her house."
+      },
+      "ref": {
+        "en": "Proverbs 5:8 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "keep",
+          "to",
+          "a",
+          "path",
+          "far",
+          "from",
+          "her",
+          "do",
+          "not",
+          "go",
+          "near",
+          "the",
+          "door"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Stay on the Safe Path"
+      },
+      "audio_en": "/static/audio/proverbs/lesson11_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does this chapter describe the words of the dangerous path it warns about?"
+          },
+          "options": {
+            "en": [
+              "Harsh and obviously cruel",
+              "Smooth and sweet like honey, but leading somewhere harmful",
+              "Boring and easy to ignore",
+              "Always honest"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What instruction does the father give about this dangerous path?"
+          },
+          "options": {
+            "en": [
+              "Walk toward it slowly",
+              "Keep far from it — don't even go near the door",
+              "Visit it once, just to see",
+              "Follow it eagerly"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What positive picture does the chapter end with instead?"
+          },
+          "options": {
+            "en": [
+              "Nothing positive is offered",
+              "Rejoicing in faithful, loyal love that satisfies always",
+              "More warnings only",
+              "A different danger"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Stay on the Safe Path"
+          },
+          "file": "/static/printables/proverbs/lesson11_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: this chapter is part of a sustained warning in Proverbs 1-9 against adultery and sexual sin (the most direct, serious temptation alongside dishonest gain that the original audience — a young man on the threshold of adult life — would face). For children, the principle taught here is faithfulness, loyalty, and wariness of flattering words that lead away from what's genuinely good; the specific content of the original warning is appropriate to discuss more directly with older children or in family conversation, at a parent's discretion. The chapter's positive close — rejoicing in faithful, satisfied love — frames faithfulness as joy, not mere restriction.\n\nConversation starters: (1) Why might someone with bad intentions use very smooth, flattering words rather than obviously harsh ones? (2) What does staying \"far from\" a dangerous path, rather than just avoiding going too far on it, teach about wisdom? (3) What does it mean that faithfulness leads to real joy, not just rule-following?\n\nPray for discernment to recognize flattering words that lead toward harm, and for hearts that treasure faithfulness."
+      }
+    }
+  ]
+}

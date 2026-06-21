@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "A Mother's Wisdom for a King"
+  },
+  "ref": "Proverbs 31:1-9",
+  "section": "The Sayings of King Lemuel",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Speak up for those who cannot speak for themselves"
+      },
+      "body": {
+        "en": "This short section gives us something rare in the ancient world: the recorded wisdom of a mother, passed directly to her son, King Lemuel, about how to rule well.\n\n'What are you doing, my son? What, son of my vows? Do not spend your strength on women or your vigour on those who ruin kings.' She warns her son directly about the dangers that destroy rulers — distraction, excess, and losing sight of real responsibility.\n\nShe warns about wine and strong drink too — not because they're evil in themselves, but because a king who is intoxicated cannot remember the law or give fair decisions to those who need justice.\n\nThen comes the heart of her advice, and the real purpose behind the warnings: 'speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.'\n\nThis mother's wisdom for her royal son boils down to something every child can understand and practice, even without a throne: use whatever influence you have — big or small — to speak up for people who have no voice of their own."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute."
+      },
+      "ref": {
+        "en": "Proverbs 31:8 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "speak",
+          "up",
+          "for",
+          "those",
+          "who",
+          "cannot",
+          "speak",
+          "for",
+          "themselves"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A Mother's Wisdom for a King"
+      },
+      "audio_en": "/static/audio/proverbs/lesson38_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Who gave King Lemuel the wisdom recorded in this chapter?"
+          },
+          "options": {
+            "en": [
+              "A famous general",
+              "His mother",
+              "A foreign king",
+              "No one in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why did Lemuel's mother warn him about wine and strong drink as a ruler?"
+          },
+          "options": {
+            "en": [
+              "She wanted him to enjoy himself fully",
+              "A king who is intoxicated cannot remember the law or judge fairly",
+              "There was no real reason",
+              "She encouraged it instead"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What did Lemuel's mother say he should use his position to do?"
+          },
+          "options": {
+            "en": [
+              "Gain personal wealth",
+              "Speak up for those who cannot speak for themselves, and defend the rights of the poor",
+              "Ignore the needs of others",
+              "Focus only on his own comfort"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A Mother's Wisdom for a King"
+          },
+          "file": "/static/printables/proverbs/lesson38_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: this brief chapter preserves a mother's direct counsel to her royal son, emphasizing that real leadership exists to serve and protect those who are voiceless or vulnerable, not to indulge personal desire. The principle — using whatever influence you have to speak up for others — translates directly to children's own relationships and small spheres of influence, long before any position of formal power.\n\nConversation starters: (1) Why might a king's self-control directly affect his ability to give fair justice to others? (2) Who in your own life or community might need someone to \"speak up\" for them? (3) What's one small way you could use your own influence — even as a child — to help someone who feels voiceless?\n\nPray for courage to speak up for those who cannot speak for themselves, just as Lemuel's mother taught."
+      }
+    }
+  ]
+}

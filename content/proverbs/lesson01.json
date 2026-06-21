@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "The Beginning of Wisdom"
+  },
+  "ref": "Proverbs 1:1-7",
+  "section": "Purpose and Theme",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Why this whole book exists"
+      },
+      "body": {
+        "en": "Proverbs opens by telling us exactly why it exists: to give wisdom and instruction, to help us understand words of insight, and to teach us how to live well — with discipline, fairness, and good judgment.\n\nIt's a book written for everyone — for the simple, who need guidance, and for the wise, who can always grow wiser still! Even a young child can gain knowledge and good sense here.\n\nThen comes the single most important sentence in the entire book, the key that unlocks everything else: 'The fear of the Lord is the beginning of knowledge.' Not the END of learning — the BEGINNING.\n\nThis doesn't mean being scared of God the way you'd be scared of something dangerous. It means having such deep respect and awe for who God is that you genuinely want to live His way. Real wisdom always starts there — with God, not with cleverness alone.\n\nThe book ends this opening thought with a warning too: 'fools despise wisdom and instruction.' Wisdom is a gift, freely offered — but it can be rejected."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The fear of the Lord is the beginning of knowledge."
+      },
+      "ref": {
+        "en": "Proverbs 1:7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "fear",
+          "of",
+          "the",
+          "Lord",
+          "is",
+          "the",
+          "beginning",
+          "of",
+          "knowledge"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Beginning of Wisdom"
+      },
+      "audio_en": "/static/audio/proverbs/lesson01_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Proverbs 1:7, what is 'the beginning of knowledge'?"
+          },
+          "options": {
+            "en": [
+              "Going to school",
+              "The fear of the Lord",
+              "Being very clever",
+              "Reading many books"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Who does the book of Proverbs say can benefit from its wisdom?"
+          },
+          "options": {
+            "en": [
+              "Only kings",
+              "Everyone — the simple and the wise alike, even children",
+              "Only old people",
+              "No one in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs say about people who 'despise wisdom and instruction'?"
+          },
+          "options": {
+            "en": [
+              "They are called fools",
+              "They are praised",
+              "Nothing is said about them",
+              "They are the wisest of all"
+            ]
+          },
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Beginning of Wisdom"
+          },
+          "file": "/static/printables/proverbs/lesson01_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: \"the fear of the Lord\" is the foundational hinge on which the entire book of Proverbs turns — wisdom is never presented as raw intelligence or cleverness, but as a relationship of reverent trust toward God that then shapes every practical decision. This is the lens through which every individual proverb that follows should be read.\n\nConversation starters: (1) What's the difference between being scared of God and having deep, respectful awe for Him? (2) Why might wisdom need to start with God rather than just with being smart? (3) Have you ever rejected good advice, the way a \"fool\" in this verse does?\n\nPray, asking God to give your family hearts that begin with reverence for Him."
+      }
+    }
+  ]
+}

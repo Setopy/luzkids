@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Wisdom Was There When God Made the World!"
+  },
+  "ref": "Proverbs 8:1-36",
+  "section": "Wisdom's Call",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Present at creation itself"
+      },
+      "body": {
+        "en": "Once again Wisdom calls out, this time with one of the most breathtaking speeches in the entire Bible. She speaks of giving prudence, knowledge, and discretion — and says kings reign and rulers make just laws BECAUSE of her.\n\nThen Wisdom makes an astonishing claim about her own origin: 'The Lord brought me forth as the first of his works, before his deeds of old. I was formed long ages ago, at the very beginning, before the world began.'\n\nWisdom describes being present before the mountains were settled, before the hills, before God made the earth or its fields, before He set the heavens in place, before He marked out the foundations of the earth.\n\n'I was there when he set the heavens in place, when he marked out the horizon on the face of the deep... I was filled with delight day after day, rejoicing always in his presence, rejoicing in his whole world and delighting in mankind.'\n\nThe chapter ends with the same kind of urgent invitation we've seen before: 'blessed are those who listen to me, watching daily at my doors... for those who find me find life.' The very wisdom that helped form the universe is the same wisdom offered freely to you."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "I was there when he set the heavens in place... I was filled with delight, rejoicing always in his presence."
+      },
+      "ref": {
+        "en": "Proverbs 8:27,30 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "I",
+          "was",
+          "there",
+          "when",
+          "he",
+          "set",
+          "the",
+          "heavens",
+          "in",
+          "place"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Wisdom Was There When God Made the World!"
+      },
+      "audio_en": "/static/audio/proverbs/lesson15_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Wisdom claim about her own origin in this chapter?"
+          },
+          "options": {
+            "en": [
+              "She was created very recently",
+              "She was formed at the very beginning, before the world began",
+              "She doesn't really exist",
+              "Nothing is said about her origin"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Wisdom say she was doing while God created the world?"
+          },
+          "options": {
+            "en": [
+              "Hiding away",
+              "Rejoicing always in God's presence, delighting in His whole world",
+              "Sleeping",
+              "Nothing at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Wisdom promise to 'those who find me'?"
+          },
+          "options": {
+            "en": [
+              "Nothing of value",
+              "Life",
+              "Hardship only",
+              "Confusion"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Wisdom Was There When God Made the World!"
+          },
+          "file": "/static/printables/proverbs/lesson15_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Wisdom is poetically pictured as present with God at the dawn of creation itself, rejoicing in His presence and delighting in the world He made — elevating wisdom from mere practical advice to something woven into the very fabric of how God designed reality. Many Christian readers throughout history have seen rich resonances here with Christ Himself, described in John 1 and Colossians 1 as present at creation, through whom all things were made — though Proverbs' own primary point is simply that wisdom is foundational to how the universe actually works.\n\nConversation starters: (1) What does it mean that Wisdom describes herself as rejoicing and delighting, not just instructing? (2) Why might it matter that the same wisdom present at creation is offered freely to you today? (3) What does \"those who find me find life\" promise about the value of seeking wisdom?\n\nPray, marveling together at a God whose wisdom built the universe and is offered freely to His children."
+      }
+    }
+  ]
+}

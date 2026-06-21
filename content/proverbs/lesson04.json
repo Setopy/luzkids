@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Search for Wisdom Like Silver"
+  },
+  "ref": "Proverbs 2:1-22",
+  "section": "Moral Benefits of Wisdom",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Dig for it like buried treasure"
+      },
+      "body": {
+        "en": "If you accept wisdom's words and store up her commands, the father teaches, and if you call out for insight and cry aloud for understanding — and here's the key part — if you LOOK for it as for silver and SEARCH for it as for hidden treasure, then you will understand the fear of the Lord and find the knowledge of God!\n\nWisdom doesn't usually fall into your lap. It takes the same kind of effort someone would put into digging for buried treasure or hunting for silver in a mine.\n\nFor the Lord gives wisdom; from His mouth come knowledge and understanding. Wisdom will enter your heart, and knowledge will be pleasant to your soul. Discretion will protect you, and understanding will guard you.\n\nWisdom will save you from the ways of wicked men, from those whose words are perverse, who delight in doing wrong, and from the immoral woman with her seductive words.\n\nThe chapter ends with a contrast that runs through the whole book: 'the upright will live in the land... but the wicked will be cut off.' Wisdom genuinely protects the life of the one who searches for it like treasure."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "If you look for it as for silver and search for it as for hidden treasure... then you will understand the fear of the Lord."
+      },
+      "ref": {
+        "en": "Proverbs 2:4-5 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "if",
+          "you",
+          "look",
+          "for",
+          "it",
+          "as",
+          "for",
+          "silver",
+          "and",
+          "search",
+          "for",
+          "hidden",
+          "treasure"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Search for Wisdom Like Silver"
+      },
+      "audio_en": "/static/audio/proverbs/lesson04_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What two things does the father say to do, to find wisdom?"
+          },
+          "options": {
+            "en": [
+              "Wait passively for it to arrive",
+              "Look for it as for silver, search for it as for hidden treasure",
+              "Ignore it completely",
+              "Ask only once and give up"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Where does Proverbs say wisdom ultimately comes from?"
+          },
+          "options": {
+            "en": [
+              "Human cleverness alone",
+              "The Lord — from His mouth come knowledge and understanding",
+              "Books only",
+              "No real source"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs say wisdom can save a person from?"
+          },
+          "options": {
+            "en": [
+              "Nothing significant",
+              "The ways of wicked people and perverse, harmful paths",
+              "Hard work",
+              "Friendship"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Search for Wisdom Like Silver"
+          },
+          "file": "/static/printables/proverbs/lesson04_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: wisdom requires active, effortful pursuit — pictured vividly as treasure-hunting, not passive reception — while ultimately originating from God Himself, not human achievement alone. This holds together both genuine human effort and divine source without contradiction, much like the cooperative-grace pattern already taught elsewhere on this platform (Philippians 2:12-13).\n\nConversation starters: (1) What does it mean to search for wisdom \"like silver\" or \"hidden treasure\" — what effort does that picture suggest? (2) Why might wisdom protect someone from harmful people and paths? (3) What's one specific way you could actively \"search\" for wisdom this week (a Bible passage, a wise person's advice)?\n\nPray for hearts willing to dig for wisdom the way a treasure hunter searches for silver."
+      }
+    }
+  ]
+}

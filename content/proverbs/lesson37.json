@@ -1,0 +1,114 @@
+{
+  "title": {
+    "en": "Four Things Too Wonderful to Understand"
+  },
+  "ref": "Proverbs 30:1-33",
+  "section": "The Sayings of Agur",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "An eagle, a snake, a ship, and a wise lizard"
+      },
+      "body": {
+        "en": "Chapter 30 introduces someone new: Agur, who begins with surprising humility. 'Surely I am only a brute, not a man; I do not have human understanding. I have not learned wisdom, nor have I attained to the knowledge of the Holy One.'\n\nAgur asks a striking question: 'Who has gone up to heaven and come down? Whose hands have gathered up the wind? Who has wrapped up the waters in a cloak? Who has established all the ends of the earth?' These are questions only God can truly answer.\n\nThen Agur lists 'four things too wonderful for me to understand: the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a maiden.' Some mysteries in life simply remain wonderfully mysterious!\n\nHe also gives a list of four small, surprisingly wise creatures: ants — though they're tiny, they store up food in summer; rock badgers — though not strong, they make their homes in the rocks; locusts — though leaderless, they advance together in ranks; and lizards, which can be caught by hand, yet are found in kings' palaces.\n\nThe lesson tucked into these lists is gentle but clear: wisdom isn't only found in obvious strength or status — sometimes the smallest, most overlooked creatures show remarkable wisdom worth noticing and learning from."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Four things on earth are small, yet they are extremely wise."
+      },
+      "ref": {
+        "en": "Proverbs 30:24 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "four",
+          "things",
+          "on",
+          "earth",
+          "are",
+          "small",
+          "yet",
+          "they",
+          "are",
+          "extremely",
+          "wise"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Four Things Too Wonderful to Understand"
+      },
+      "audio_en": "/static/audio/proverbs/lesson37_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Agur describe his own understanding at the start of chapter 30?"
+          },
+          "options": {
+            "en": [
+              "Perfect and complete",
+              "Limited — he says he doesn't have human understanding or full wisdom",
+              "Greater than anyone else's",
+              "He claims to know everything"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What kind of small creatures does Agur say are 'extremely wise'?"
+          },
+          "options": {
+            "en": [
+              "Lions and eagles only",
+              "Ants, rock badgers, locusts, and lizards",
+              "Nothing — no small creatures are wise",
+              "Only large, powerful animals"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What lesson is suggested by Agur's list of small but wise creatures?"
+          },
+          "options": {
+            "en": [
+              "Only powerful creatures matter",
+              "Wisdom isn't only found in obvious strength or status — small things can be remarkably wise too",
+              "Small creatures have nothing to teach",
+              "Size determines wisdom"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Four Things Too Wonderful to Understand"
+          },
+          "file": "/static/printables/proverbs/lesson37_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Agur's chapter opens with genuine, refreshing humility about the limits of human understanding, before turning to playful, observant lists that find real wisdom in unexpected, small places — the ant, the rock badger, the lizard. This models intellectual humility paired with careful, attentive observation of the created world, a posture worth cultivating in children's own approach to learning.\n\nConversation starters: (1) Why might it actually be wise to admit, like Agur does, the limits of your own understanding? (2) What does the list of small but wise creatures teach about where wisdom can be found? (3) What's something small or easily overlooked that has taught you an important lesson?\n\nPray for humble hearts like Agur's, willing to admit what we don't understand, and attentive eyes that notice wisdom in small, overlooked things."
+      }
+    }
+  ]
+}

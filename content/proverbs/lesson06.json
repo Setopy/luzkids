@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "More Precious Than Rubies"
+  },
+  "ref": "Proverbs 3:13-20",
+  "section": "Wisdom Bestows Well-Being",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Nothing you desire compares"
+      },
+      "body": {
+        "en": "'Blessed are those who find wisdom,' the chapter declares, 'those who gain understanding, for she is more profitable than silver and yields better returns than gold.'\n\nWisdom is more precious than rubies — nothing you desire can compare with her! Long life is in her right hand, riches and honour in her left. Her ways are pleasant, and all her paths lead to peace.\n\nWisdom is described as a tree of life to those who hold her close — those who hold her fast will be blessed. This is a powerful image, harking back to the very tree of life in the garden of Eden.\n\nThen the chapter zooms out to something enormous: by wisdom the Lord laid the earth's foundations; by understanding He set the heavens in place; by His knowledge the deep waters were divided.\n\nThis means wisdom isn't just a personal nice-to-have — it's woven into the structure of creation itself. The same wisdom that built the universe is offered freely to anyone who seeks it."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "She is more precious than rubies; nothing you desire can compare with her."
+      },
+      "ref": {
+        "en": "Proverbs 3:15 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "she",
+          "is",
+          "more",
+          "precious",
+          "than",
+          "rubies",
+          "nothing",
+          "you",
+          "desire",
+          "can",
+          "compare",
+          "with",
+          "her"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for More Precious Than Rubies"
+      },
+      "audio_en": "/static/audio/proverbs/lesson06_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to this chapter, how valuable is wisdom compared to silver and gold?"
+          },
+          "options": {
+            "en": [
+              "Less valuable",
+              "More profitable than silver, with better returns than gold",
+              "Exactly equal",
+              "Not valuable at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is wisdom compared to, that gives life to those who hold it close?"
+          },
+          "options": {
+            "en": [
+              "A locked treasure chest",
+              "A tree of life",
+              "A heavy burden",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does this chapter say wisdom was involved in?"
+          },
+          "options": {
+            "en": [
+              "Nothing significant",
+              "Laying the earth's foundations and setting the heavens in place",
+              "Only human decisions",
+              "Small, unimportant matters"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: More Precious Than Rubies"
+          },
+          "file": "/static/printables/proverbs/lesson06_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: wisdom's value is framed cosmically, not just personally — the same wisdom by which God created the universe is the wisdom offered to ordinary people for ordinary daily decisions. This elevates the pursuit of wisdom from a self-help exercise into participation in something that reflects God's own creative character.\n\nConversation starters: (1) Why might wisdom be described as \"more precious than rubies\"? (2) What does the \"tree of life\" image suggest about what wisdom does for a person over time? (3) How does it change your view of wisdom to know the same wisdom built the entire universe?\n\nPray, thanking God that the wisdom behind creation itself is available and offered freely to your family."
+      }
+    }
+  ]
+}

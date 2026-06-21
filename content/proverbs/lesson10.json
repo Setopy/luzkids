@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Guard Your Heart Above All Else"
+  },
+  "ref": "Proverbs 4:20-27",
+  "section": "Guard Your Heart",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "What you protect determines what you become"
+      },
+      "body": {
+        "en": "'My son, pay attention to what I say; turn your ear to my words. Do not let them out of your sight, keep them within your heart; for they are life to those who find them and health to one's whole body.'\n\nThen comes one of the most famous instructions in the entire book: 'Above all else, guard your heart, for everything you do flows from it.'\n\nThink about that phrase carefully — EVERYTHING you do flows from your heart. Not just some things, not just the big decisions — everything. Your actions are downstream of what's actually happening inside you.\n\nThe chapter gets specific: put away perversity from your mouth; keep corrupt talk far from your lips. Let your eyes look straight ahead, fix your gaze directly before you.\n\nMake level paths for your feet, and take only ways that are firm. Do not turn to the right or the left; keep your foot from evil. Heart, mouth, eyes, feet — the whole person is called to careful, deliberate guarding."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Above all else, guard your heart, for everything you do flows from it."
+      },
+      "ref": {
+        "en": "Proverbs 4:23 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "above",
+          "all",
+          "else",
+          "guard",
+          "your",
+          "heart",
+          "for",
+          "everything",
+          "you",
+          "do",
+          "flows",
+          "from",
+          "it"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Guard Your Heart Above All Else"
+      },
+      "audio_en": "/static/audio/proverbs/lesson10_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Proverbs 4:23 say to guard 'above all else'?"
+          },
+          "options": {
+            "en": [
+              "Your money",
+              "Your heart",
+              "Your reputation",
+              "Your possessions"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why is guarding the heart so important, according to this verse?"
+          },
+          "options": {
+            "en": [
+              "It isn't really important",
+              "Everything you do flows from it",
+              "Only some actions come from the heart",
+              "The heart doesn't affect behaviour"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Besides the heart, what other parts of the body does this chapter mention guarding?"
+          },
+          "options": {
+            "en": [
+              "Nothing else is mentioned",
+              "Mouth, eyes, and feet",
+              "Only the hands",
+              "Only the ears"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Guard Your Heart Above All Else"
+          },
+          "file": "/static/printables/proverbs/lesson10_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the heart is the wellspring of all behaviour — \"everything you do flows from it\" — making heart-guarding the single most important practical discipline in the wisdom life, more foundational even than guarding speech or actions individually, since those flow downstream from the heart's condition. This connects directly to the doctrine of entire sanctification taught elsewhere on this platform: a genuinely clean heart is the source of genuinely clean living.\n\nConversation starters: (1) What does it mean that \"everything you do flows from\" your heart — even small daily choices? (2) What are some things that try to get into your heart that you need to guard against? (3) Besides the heart, why might mouth, eyes, and feet also need deliberate guarding?\n\nPray for a guarded, protected heart, asking God to help keep watch over what flows in and out of it."
+      }
+    }
+  ]
+}

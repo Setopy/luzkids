@@ -1,0 +1,111 @@
+{
+  "title": {
+    "en": "The Joy of a Godly Family"
+  },
+  "ref": "Proverbs 15:20; 17:6; 17:25; 20:7; 23:22-25",
+  "section": "Family — Parents and Children (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Grandchildren as a crown"
+      },
+      "body": {
+        "en": "'A wise son brings joy to his father, but a foolish man despises his mother.' Proverbs treats family relationships as one of the most important measures of a wise or foolish life.\n\n'Children's children are a crown to the aged, and parents are the pride of their children.' Family, across generations, is pictured as a genuine source of honour, woven together across grandparents, parents, and children.\n\n'A foolish son brings grief to his father and bitterness to the mother who bore him.' The book is honest about how deeply a child's choices, good or bad, genuinely affect the parents who love them.\n\n'The righteous lead blameless lives; blessed are their children after them.' A parent's integrity, Proverbs suggests, leaves a lasting blessing that continues into the next generation.\n\n'Listen to your father, who gave you life, and do not despise your mother when she is old... let your father and mother rejoice; let her who gave you birth be joyful.' Honour for parents, especially as they grow older, is treated as a continuing, lifelong responsibility, not just something owed in childhood."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Children's children are a crown to the aged, and parents are the pride of their children."
+      },
+      "ref": {
+        "en": "Proverbs 17:6 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "children's",
+          "children",
+          "are",
+          "a",
+          "crown",
+          "to",
+          "the",
+          "aged"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Joy of a Godly Family"
+      },
+      "audio_en": "/static/audio/proverbs/lesson28_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Proverbs 17:6 describe the relationship between grandparents and grandchildren?"
+          },
+          "options": {
+            "en": [
+              "Unimportant and disconnected",
+              "Grandchildren are a crown to the aged; parents are the pride of their children",
+              "Negative and full of conflict",
+              "Not addressed at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 17:25 say about a foolish son's effect on his parents?"
+          },
+          "options": {
+            "en": [
+              "No effect at all",
+              "He brings grief to his father and bitterness to his mother",
+              "Only positive effects",
+              "His parents don't notice"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 23:22-25 instruct about parents as they grow old?"
+          },
+          "options": {
+            "en": [
+              "Ignore them once you're grown",
+              "Listen to your father and do not despise your mother when she is old",
+              "Only honour them as small children",
+              "Nothing specific is said"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Joy of a Godly Family"
+          },
+          "file": "/static/printables/proverbs/lesson28_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs presents family as a multi-generational chain of honour and responsibility — grandparents, parents, and children all genuinely affecting and being affected by one another's character — with honour for parents explicitly framed as a continuing responsibility through their old age, not just a childhood duty.\n\nConversation starters: (1) How does your own behaviour genuinely affect your parents' joy or grief, even now? (2) What does it mean that grandchildren are described as \"a crown to the aged\"? (3) What's one specific way you could honour your parents (or grandparents) this week?\n\nPray for your family across every generation — honouring parents and grandparents, and raising up children who walk in wisdom."
+      }
+    }
+  ]
+}

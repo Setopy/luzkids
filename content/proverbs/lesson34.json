@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "A Heart at Peace, Not a Heart That Wants More"
+  },
+  "ref": "Proverbs 14:30; 23:17; 27:4; 30:15-16",
+  "section": "Contentment Versus Envy (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The leech's two daughters who are never satisfied"
+      },
+      "body": {
+        "en": "'A heart at peace gives life to the body, but envy rots the bones.' This is a striking physical image — envy isn't just an uncomfortable feeling, Proverbs says it actually does damage from the inside, like something rotting away at your very bones.\n\n'Do not let your heart envy sinners, but always be zealous for the fear of the Lord.' Even when it looks like wrongdoing is paying off for someone else, Proverbs warns against the temptation to envy them.\n\n'Anger is cruel and fury is overwhelming, but who can stand before jealousy?' Of all the destructive emotions Proverbs names, jealousy is treated as uniquely hard to withstand or defend against, in yourself or in someone aimed at you.\n\nAgur, in his collection of memorable lists, includes this vivid, almost humorous image: 'the leech has two daughters: \"Give! Give!\" they cry.' He's describing something that's never, ever satisfied — always demanding more, the way envy and greed never feel full no matter how much they get.\n\nContentment, by contrast, is pictured throughout Proverbs as genuinely life-giving — not because wanting nothing is the goal, but because a heart constantly comparing itself to others and craving what it doesn't have can never actually rest or be at peace."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "A heart at peace gives life to the body, but envy rots the bones."
+      },
+      "ref": {
+        "en": "Proverbs 14:30 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "a",
+          "heart",
+          "at",
+          "peace",
+          "gives",
+          "life",
+          "to",
+          "the",
+          "body",
+          "but",
+          "envy",
+          "rots",
+          "the",
+          "bones"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A Heart at Peace, Not a Heart That Wants More"
+      },
+      "audio_en": "/static/audio/proverbs/lesson34_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Proverbs 14:30 describe the physical effect of envy?"
+          },
+          "options": {
+            "en": [
+              "It has no real effect",
+              "Envy rots the bones, while a heart at peace gives life to the body",
+              "Envy makes someone healthier",
+              "Nothing is said about its effects"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 27:4 say is even harder to stand before than anger or fury?"
+          },
+          "options": {
+            "en": [
+              "Sadness",
+              "Jealousy",
+              "Happiness",
+              "Boredom"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What image does Agur use to describe something that's never satisfied?"
+          },
+          "options": {
+            "en": [
+              "A well that never runs dry",
+              "The leech's two daughters, who cry 'Give! Give!'",
+              "A full, contented heart",
+              "Nothing related to never being satisfied"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A Heart at Peace, Not a Heart That Wants More"
+          },
+          "file": "/static/printables/proverbs/lesson34_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: envy and covetousness are treated not as minor character flaws but as genuinely corrosive, even physically described as something that \"rots the bones\" — while contentment is consistently pictured as life-giving. Agur's memorable image of the never-satisfied leech gives children a vivid, almost funny way to recognize insatiable wanting in themselves, which is often easier to spot in a striking image than in abstract moral language.\n\nConversation starters: (1) What does it mean that envy \"rots the bones\" — how have you felt envy affect you physically or emotionally? (2) Why might jealousy be harder to withstand than anger, according to Proverbs 27:4? (3) Is there something you find yourself constantly wanting more of, like the leech's daughters crying \"Give! Give!\"?\n\nPray for a heart at peace, genuinely content, rather than a heart that always wants more than it has."
+      }
+    }
+  ]
+}

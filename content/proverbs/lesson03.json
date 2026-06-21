@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Wisdom Calls in the Streets"
+  },
+  "ref": "Proverbs 1:20-33",
+  "section": "Wisdom's Rebuke",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A voice shouting where everyone can hear"
+      },
+      "body": {
+        "en": "Proverbs does something striking here: it pictures WISDOM as a person — a woman calling out loudly in the streets, in the public square, at the city gates, anywhere people gather.\n\n'How long will you mockers delight in mockery, and fools hate knowledge?' Wisdom calls out, practically begging people to turn and listen. 'Repent at my rebuke! Then I will pour out my thoughts to you.'\n\nBut here's the sad part: Wisdom says people ignored her call, stretched out her hand, and no one paid attention! They rejected her advice and wanted nothing to do with her correction.\n\nSo Wisdom warns: because you ignored me, when disaster comes, I will not answer when you call for help — you'll reap exactly what you've sown.\n\nBut the passage ends with hope, not just warning: 'whoever listens to me will live in safety and be at ease, without fear of harm.' Wisdom is loud, public, and freely available — the only question is whether we'll actually stop and listen."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Whoever listens to me will live in safety and be at ease, without fear of harm."
+      },
+      "ref": {
+        "en": "Proverbs 1:33 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "whoever",
+          "listens",
+          "to",
+          "me",
+          "will",
+          "live",
+          "in",
+          "safety",
+          "and",
+          "be",
+          "at",
+          "ease"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Wisdom Calls in the Streets"
+      },
+      "audio_en": "/static/audio/proverbs/lesson03_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How is Wisdom pictured in this passage?"
+          },
+          "options": {
+            "en": [
+              "A hidden treasure",
+              "A person calling out loudly in the streets and public squares",
+              "A locked book",
+              "A quiet whisper no one can hear"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Wisdom say happened when she called out to people?"
+          },
+          "options": {
+            "en": [
+              "Everyone listened immediately",
+              "People ignored her call and rejected her advice",
+              "No one ever calls out to her",
+              "She never actually called out"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Wisdom promise to those who DO listen to her?"
+          },
+          "options": {
+            "en": [
+              "Nothing in particular",
+              "They will live in safety and be at ease, without fear of harm",
+              "More trouble than before",
+              "A difficult life"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Wisdom Calls in the Streets"
+          },
+          "file": "/static/printables/proverbs/lesson03_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: wisdom is personified as an active, public, urgently calling figure — not a secret hidden from seekers, but a freely offered invitation that people nonetheless commonly reject. The sobering warning (disaster meeting indifference with indifference) underscores that ignoring wisdom carries real consequences, while the closing promise of safety frames listening as genuinely good news, not mere obligation.\n\nConversation starters: (1) Why might Wisdom be pictured as calling out loudly in public places, rather than hiding? (2) What are some ways people today \"ignore\" wise advice that's freely available to them? (3) What does it mean to live \"at ease, without fear of harm\" because you listened to wisdom?\n\nPray for ears that genuinely listen when wisdom calls, rather than walking past it."
+      }
+    }
+  ]
+}

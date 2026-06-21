@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Hard Work and Laziness"
+  },
+  "ref": "Proverbs 10:4-5; 12:24; 13:4; 21:25; 24:30-34",
+  "section": "Hard Work and Laziness (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A field overgrown with thorns"
+      },
+      "body": {
+        "en": "'Lazy hands make for poverty, but diligent hands bring wealth,' the book states simply. 'One who gathers crops in summer is wise, but one who sleeps during harvest is a disgrace.'\n\n'Diligent hands will rule, but laziness ends in slave labour.' This isn't just about money — Proverbs sees diligence and laziness as shaping the whole direction of a life.\n\n'The sluggard craves and gets nothing, but the desires of the diligent are fully satisfied.' Wanting something isn't the same as working for it — only diligence actually satisfies the craving.\n\n'The craving of a sluggard will be the death of him, because his hands refuse to work.' This is a serious, almost startling warning about how destructive ongoing laziness can be.\n\nOne passage paints a vivid picture: the writer walked past the field of a sluggard, and found it overgrown with thorns, covered with weeds, its stone wall broken down. 'A little sleep, a little slumber, a little folding of the hands to rest — and poverty will come on you like a thief.'"
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Lazy hands make for poverty, but diligent hands bring wealth."
+      },
+      "ref": {
+        "en": "Proverbs 10:4 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "lazy",
+          "hands",
+          "make",
+          "for",
+          "poverty",
+          "but",
+          "diligent",
+          "hands",
+          "bring",
+          "wealth"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Hard Work and Laziness"
+      },
+      "audio_en": "/static/audio/proverbs/lesson19_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Proverbs 10:4, what do lazy hands lead to, and what do diligent hands lead to?"
+          },
+          "options": {
+            "en": [
+              "Both lead to the same outcome",
+              "Lazy hands lead to poverty; diligent hands lead to wealth",
+              "Lazy hands lead to wealth instead",
+              "Neither matters at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the writer find when he walks past the sluggard's field?"
+          },
+          "options": {
+            "en": [
+              "A beautifully kept garden",
+              "A field overgrown with thorns, weeds, and a broken-down wall",
+              "Nothing unusual",
+              "A thriving harvest"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 13:4 say about the sluggard's desires versus the diligent person's?"
+          },
+          "options": {
+            "en": [
+              "The sluggard craves and gets nothing; the diligent are fully satisfied",
+              "Both get exactly what they want",
+              "Neither gets what they want",
+              "The sluggard gets more"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Hard Work and Laziness"
+          },
+          "file": "/static/printables/proverbs/lesson19_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs treats diligence and laziness as having genuinely different trajectories, not just different feelings — laziness is depicted with vivid, almost shocking imagery (a thorn-choked field, \"the death of him\") to drive home that ongoing idleness has real, serious consequences, while diligence leads to satisfaction and stability.\n\nConversation starters: (1) What does the picture of the overgrown, neglected field teach about what happens when work is consistently put off? (2) What's the difference between craving something and actually working for it? (3) What's one area where you could choose diligence over laziness this week — homework, chores, a responsibility?\n\nPray for diligent hands and hearts, willing to do the work rather than just wishing for the outcome."
+      }
+    }
+  ]
+}

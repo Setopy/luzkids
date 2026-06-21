@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "The Lord Determines Our Steps"
+  },
+  "ref": "Proverbs 16:1-3; 16:9; 16:33; 19:21; 21:30-31",
+  "section": "Trusting God's Plans (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "You plan, but God directs"
+      },
+      "body": {
+        "en": "'To humans belong the plans of the heart, but from the Lord comes the proper answer of the tongue.' Even our best thinking, Proverbs suggests, needs God's involvement to truly land right.\n\n'Commit to the Lord whatever you do, and he will establish your plans.' Notice the order — commit FIRST, and establishment follows; not the other way around.\n\nOne of the clearest statements of God's sovereignty over human planning: 'in their hearts humans plan their course, but the Lord establishes their steps.' We can plan all we want — but God is the one who ultimately directs where our steps actually land.\n\n'The lot is cast into the lap, but its every decision is from the Lord.' Even things that feel random or up to chance, Proverbs says, are ultimately under God's careful direction.\n\n'Many are the plans in a person's heart, but it is the Lord's purpose that prevails.' This theme isn't meant to discourage planning — it's meant to give genuine peace, knowing that even when our plans change unexpectedly, God's purpose is still the one that ultimately wins out."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "In their hearts humans plan their course, but the Lord establishes their steps."
+      },
+      "ref": {
+        "en": "Proverbs 16:9 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "in",
+          "their",
+          "hearts",
+          "humans",
+          "plan",
+          "their",
+          "course",
+          "but",
+          "the",
+          "Lord",
+          "establishes",
+          "their",
+          "steps"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Lord Determines Our Steps"
+      },
+      "audio_en": "/static/audio/proverbs/lesson27_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Proverbs 16:9, who ultimately establishes a person's steps?"
+          },
+          "options": {
+            "en": [
+              "The person alone",
+              "The Lord",
+              "Pure chance",
+              "No one — steps aren't really directed"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 16:3 instruct about committing your plans?"
+          },
+          "options": {
+            "en": [
+              "Keep plans entirely to yourself",
+              "Commit to the Lord whatever you do, and he will establish your plans",
+              "Plans don't need any commitment",
+              "Avoid making plans at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 19:21 say about the many plans in a person's heart?"
+          },
+          "options": {
+            "en": [
+              "They always happen exactly as planned",
+              "It is the Lord's purpose that ultimately prevails",
+              "Plans never matter at all",
+              "God ignores human plans"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Lord Determines Our Steps"
+          },
+          "file": "/static/printables/proverbs/lesson27_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: human planning and divine sovereignty are held together without contradiction — Proverbs neither discourages thoughtful planning nor pretends humans control outcomes; instead it offers genuine peace in knowing God's purpose ultimately prevails, even through (and sometimes despite) our own plans. This connects to the same cooperative-grace theme found in Philippians 2:12-13 elsewhere on this platform.\n\nConversation starters: (1) How can committing your plans to God change how you feel about uncertainty? (2) What does it mean that even something as random-feeling as \"the lot cast into the lap\" is under God's direction? (3) Has a plan of yours ever changed unexpectedly, in a way that turned out to be good?\n\nPray, committing your family's plans to the Lord and trusting His purpose to prevail."
+      }
+    }
+  ]
+}

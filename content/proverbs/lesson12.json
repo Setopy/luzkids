@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "The Ant, the Sluggard, and Seven Things God Hates"
+  },
+  "ref": "Proverbs 6:1-19",
+  "section": "Warnings Against Folly",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Tiny creature, big lesson"
+      },
+      "body": {
+        "en": "This chapter gives several short, punchy warnings. First: don't rashly guarantee someone else's debt without thinking it through carefully — it can trap you in obligations you never meant to take on.\n\nThen comes one of the most famous passages in all of Proverbs: 'Go to the ant, you sluggard; consider its ways and be wise! It has no commander, no overseer or ruler, yet it stores its provisions in summer and gathers its food at harvest.'\n\nThe lazy person is warned directly: 'How long will you lie there, you sluggard? When will you get up from your sleep?' A little sleep, a little slumber, a little folding of the hands to rest — and poverty comes like a thief, suddenly!\n\nThen the chapter lists things the Lord specifically detests: 'haughty eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked schemes, feet that are quick to rush into evil, a false witness who pours out lies, and a person who stirs up conflict in the community.'\n\nSeven specific things, named clearly — a vivid, memorable list of exactly the kind of character God hates, and by contrast, the kind of character wisdom builds instead."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Go to the ant, you sluggard; consider its ways and be wise!"
+      },
+      "ref": {
+        "en": "Proverbs 6:6 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "go",
+          "to",
+          "the",
+          "ant",
+          "you",
+          "sluggard",
+          "consider",
+          "its",
+          "ways",
+          "and",
+          "be",
+          "wise"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Ant, the Sluggard, and Seven Things God Hates"
+      },
+      "audio_en": "/static/audio/proverbs/lesson12_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does the chapter tell a lazy person to learn from the ant?"
+          },
+          "options": {
+            "en": [
+              "Nothing — ants aren't mentioned",
+              "The ant works hard and stores food without needing a boss to tell it to",
+              "Ants are lazy too",
+              "Nothing about hard work"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs say comes 'like a thief' to a lazy person who keeps sleeping?"
+          },
+          "options": {
+            "en": [
+              "Wealth",
+              "Poverty",
+              "Friendship",
+              "Nothing happens"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How many things does this chapter list that the Lord specifically detests?"
+          },
+          "options": {
+            "en": [
+              "Three",
+              "Seven",
+              "Twenty",
+              "None are listed"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Ant, the Sluggard, and Seven Things God Hates"
+          },
+          "file": "/static/printables/proverbs/lesson12_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: two of the most vivid, memorable passages in all of Proverbs — the diligent ant (a brilliant, concrete picture for children of self-motivated hard work) and the specific, named list of things God hates, giving children a clear, tangible vocabulary for character rather than vague generalities. Both passages model Proverbs' characteristic method: making abstract virtue concrete through unforgettable imagery.\n\nConversation starters: (1) What can an ant teach a person about hard work, even without anyone telling it what to do? (2) Why might \"a little\" laziness lead to poverty \"like a thief\" — suddenly and unexpectedly? (3) Which of the seven things God hates in this list do you think is most tempting to overlook as \"not a big deal\"?\n\nPray for diligence like the ant's, and for hearts that genuinely hate what God hates."
+      }
+    }
+  ]
+}

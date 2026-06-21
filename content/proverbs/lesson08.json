@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Get Wisdom, Whatever It Costs"
+  },
+  "ref": "Proverbs 4:1-9",
+  "section": "Get Wisdom at Any Cost",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A grandfather's advice, passed down"
+      },
+      "body": {
+        "en": "Listen, my sons, to a father's instruction, the chapter begins — and then something touching happens: the father reveals he's passing along advice HE received from his own father when he was just a boy.\n\nHis father had told him: 'Lay hold of my words with all your heart; keep my commands and you will live. Get wisdom, get understanding; do not forget my words or turn away from them.'\n\n'The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.' This is one of the boldest statements in the whole book — wisdom is worth literally everything you own.\n\n'Esteem her, and she will exalt you; embrace her, and she will honour you. She will give you a garland of grace and present you with a crown of splendour.'\n\nThis passage is a beautiful picture of generational wisdom — grandfather to father to son — each generation passing down the same core conviction: nothing is more important to pursue than wisdom itself."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding."
+      },
+      "ref": {
+        "en": "Proverbs 4:7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "beginning",
+          "of",
+          "wisdom",
+          "is",
+          "this",
+          "get",
+          "wisdom",
+          "though",
+          "it",
+          "cost",
+          "all",
+          "you",
+          "have"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Get Wisdom, Whatever It Costs"
+      },
+      "audio_en": "/static/audio/proverbs/lesson08_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "Where did the father's advice in this chapter originally come from?"
+          },
+          "options": {
+            "en": [
+              "He made it up himself",
+              "His own father, passed down from grandfather to father to son",
+              "A stranger he met",
+              "Nowhere in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How costly does Proverbs say it's worth being, to get wisdom?"
+          },
+          "options": {
+            "en": [
+              "Not worth much effort",
+              "Worth literally everything you have",
+              "Only a small effort",
+              "Not worth pursuing at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the chapter say wisdom will give to those who embrace her?"
+          },
+          "options": {
+            "en": [
+              "Nothing of value",
+              "A garland of grace and a crown of splendour",
+              "Only hardship",
+              "Confusion"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Get Wisdom, Whatever It Costs"
+          },
+          "file": "/static/printables/proverbs/lesson08_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: wisdom is meant to be passed down generationally, modeled here explicitly as grandfather to father to son, and its value is framed in the boldest possible terms — worth literally everything a person owns. This models exactly the kind of intentional, multi-generational discipleship this platform's parent guides have consistently encouraged throughout every series.\n\nConversation starters: (1) What wisdom has been passed down to you from parents or grandparents? (2) Why might Proverbs say wisdom is worth \"all you have\" to obtain? (3) What's one piece of wisdom you'd want to pass down to someone younger someday?\n\nPray, thanking God for the wisdom passed down in your own family, and asking for grace to pass it on faithfully."
+      }
+    }
+  ]
+}

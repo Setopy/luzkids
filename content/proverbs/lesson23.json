@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Slow to Anger, Quick to Understand"
+  },
+  "ref": "Proverbs 14:29; 15:18; 16:32; 19:11; 29:11",
+  "section": "Anger and Self-Control (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Stronger than a soldier who conquers a city"
+      },
+      "body": {
+        "en": "'Whoever is patient has great understanding, but one who is quick-tempered displays folly.' Patience isn't passive, Proverbs suggests — it's actually a sign of real understanding and depth.\n\n'A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.' One person's temper can ignite an argument; one person's patience can put it out, even in the very same situation.\n\nHere's a remarkable comparison: 'better a patient person than a warrior, one with self-control than one who takes a city.' Proverbs ranks self-control as a GREATER achievement than military conquest!\n\n'A person's wisdom yields patience; it is to one's glory to overlook an offence.' Sometimes the wisest, most honourable response to an insult is simply choosing to let it go.\n\n'Fools give full vent to their rage, but the wise bring calm in the end.' The difference between foolishness and wisdom often shows up most clearly in exactly the moments we're most provoked."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Better a patient person than a warrior, one with self-control than one who takes a city."
+      },
+      "ref": {
+        "en": "Proverbs 16:32 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "better",
+          "a",
+          "patient",
+          "person",
+          "than",
+          "a",
+          "warrior",
+          "one",
+          "with",
+          "self-control"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Slow to Anger, Quick to Understand"
+      },
+      "audio_en": "/static/audio/proverbs/lesson23_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Proverbs 16:32 rank self-control compared to military conquest?"
+          },
+          "options": {
+            "en": [
+              "Self-control is less impressive",
+              "Self-control is greater — better than a warrior who takes a city",
+              "They're exactly equal",
+              "Conquest is always more important"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 15:18 say about the difference between a hot-tempered and a patient person?"
+          },
+          "options": {
+            "en": [
+              "Both stir up conflict equally",
+              "A hot-tempered person stirs up conflict; a patient person calms a quarrel",
+              "Neither affects conflict",
+              "Patience makes things worse"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 19:11 say can be 'to one's glory'?"
+          },
+          "options": {
+            "en": [
+              "Holding a grudge",
+              "Overlooking an offence",
+              "Getting revenge",
+              "Nothing related to forgiveness"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Slow to Anger, Quick to Understand"
+          },
+          "file": "/static/printables/proverbs/lesson23_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs treats self-control over anger as a higher, more difficult achievement than physical conquest or external success — patience and the willingness to overlook an offence are framed as marks of genuine wisdom, not weakness. This challenges a common cultural assumption that strength is primarily about dominance rather than internal mastery.\n\nConversation starters: (1) Why might self-control actually be harder, and more praiseworthy, than winning a physical battle? (2) Can you think of a recent moment where staying patient (or losing your temper) changed how a situation turned out? (3) What does it mean that overlooking an offence can be \"to one's glory\" — an honourable choice, not a weak one?\n\nPray for patience and self-control, especially in the exact moments you're most provoked."
+      }
+    }
+  ]
+}

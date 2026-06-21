@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Words That Spread Like Fire"
+  },
+  "ref": "Proverbs 11:13; 16:28; 18:8; 20:19; 26:20-22",
+  "section": "Gossip and Slander (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "The juicy secret that burns everything down"
+      },
+      "body": {
+        "en": "'A gossip betrays a confidence, but a trustworthy person keeps a secret.' Proverbs treats gossip as a genuine BETRAYAL, not just idle chatter — someone trusted you with something, and gossip breaks that trust.\n\n'A perverse person stirs up conflict, and a gossip separates close friends.' This is a serious warning — gossip doesn't just spread information, it actively damages and destroys real relationships.\n\nOne especially vivid proverb compares gossip to food: 'the words of a gossip are like choice morsels; they go down to the inmost parts.' Gossip is described this way because it FEELS satisfying to hear — juicy, irresistible — even though it's genuinely harmful.\n\n'Without wood a fire goes out; without a gossip a quarrel dies down.' Just like a fire needs fuel to keep burning, most ongoing conflicts need someone continuing to spread and stir things — remove the gossip, and the conflict often fades on its own.\n\n'A whisperer separates friends.' Proverbs is consistent and clear on this theme: words spoken about someone, behind their back, carry real destructive power — power that's easy to underestimate precisely because it feels so harmless and even enjoyable in the moment."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Without wood a fire goes out; without a gossip a quarrel dies down."
+      },
+      "ref": {
+        "en": "Proverbs 26:20 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "without",
+          "wood",
+          "a",
+          "fire",
+          "goes",
+          "out",
+          "without",
+          "a",
+          "gossip",
+          "a",
+          "quarrel",
+          "dies",
+          "down"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Words That Spread Like Fire"
+      },
+      "audio_en": "/static/audio/proverbs/lesson33_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How does Proverbs 11:13 describe a gossip's behaviour?"
+          },
+          "options": {
+            "en": [
+              "A gossip is always trustworthy",
+              "A gossip betrays a confidence; a trustworthy person keeps a secret",
+              "Gossip is harmless fun",
+              "Nothing significant is said"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "Why does Proverbs compare gossip to 'choice morsels' of food?"
+          },
+          "options": {
+            "en": [
+              "Gossip is actually nutritious",
+              "It feels satisfying and irresistible to hear, even though it's harmful",
+              "Gossip has nothing to do with food",
+              "It's meant as a compliment to gossips"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 26:20 say happens 'without a gossip'?"
+          },
+          "options": {
+            "en": [
+              "Quarrels get worse",
+              "A quarrel dies down — like a fire without wood",
+              "Nothing changes",
+              "Gossip has no effect on quarrels"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Words That Spread Like Fire"
+          },
+          "file": "/static/printables/proverbs/lesson33_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: gossip is treated as a genuine betrayal of trust and an active destroyer of relationships, not harmless chatter — and Proverbs is psychologically honest that gossip is tempting precisely because it FEELS satisfying (\"choice morsels\"), which is exactly why it requires deliberate resistance rather than casual avoidance.\n\nConversation starters: (1) Why might gossip feel satisfying or interesting to hear, even though it's harmful? (2) What does it mean that gossip is described as a \"betrayal of confidence\" — what's actually being broken? (3) What's the difference between sharing a genuine concern about someone and gossiping about them?\n\nPray for self-control over your words, especially the temptation to share something juicy about someone else."
+      }
+    }
+  ]
+}

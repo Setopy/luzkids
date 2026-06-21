@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Generosity and Caring for the Poor"
+  },
+  "ref": "Proverbs 11:24-25; 14:21; 14:31; 19:17; 22:9",
+  "section": "Generosity and Caring for the Poor (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Lending to God Himself"
+      },
+      "body": {
+        "en": "'One person gives freely, yet gains even more; another withholds unduly, but comes to poverty.' Proverbs presents a genuinely surprising economic principle: generosity, not hoarding, leads to real flourishing.\n\n'The generous will themselves be blessed, for they share their food with the poor.' Sharing isn't just kind — Proverbs treats it as something that genuinely circles back as blessing to the giver too.\n\nOne of the most powerful verses in the whole book about generosity: 'whoever is kind to the poor lends to the Lord, and he will reward them for what they have done.' Helping someone in need isn't just charity — it's described as lending directly to GOD Himself!\n\nBy contrast, the book warns directly: 'it is a sin to despise one's neighbour, but blessed is the one who is kind to the needy.' Looking down on someone poor isn't treated as a small attitude problem — it's named clearly as sin.\n\n'The generous will themselves be blessed, for they share their food with the poor.' Generosity, throughout Proverbs, is never framed as optional extra credit — it's woven into what genuine wisdom actually looks like in practice."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Whoever is kind to the poor lends to the Lord, and he will reward them for what they have done."
+      },
+      "ref": {
+        "en": "Proverbs 19:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "whoever",
+          "is",
+          "kind",
+          "to",
+          "the",
+          "poor",
+          "lends",
+          "to",
+          "the",
+          "Lord"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Generosity and Caring for the Poor"
+      },
+      "audio_en": "/static/audio/proverbs/lesson24_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What surprising principle does Proverbs 11:24-25 describe about generosity?"
+          },
+          "options": {
+            "en": [
+              "Generous people always lose everything",
+              "One who gives freely gains even more; one who withholds comes to poverty",
+              "Hoarding always leads to wealth",
+              "Generosity has no real effect"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Proverbs 19:17, who does someone 'lend to' when they're kind to the poor?"
+          },
+          "options": {
+            "en": [
+              "No one in particular",
+              "The Lord Himself",
+              "Only the poor person directly",
+              "It's not really lending"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Proverbs 14:21 describe despising — looking down on — a neighbour?"
+          },
+          "options": {
+            "en": [
+              "A minor mistake",
+              "A sin",
+              "A wise choice",
+              "Something encouraged"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Generosity and Caring for the Poor"
+          },
+          "file": "/static/printables/proverbs/lesson24_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: generosity toward the poor is framed not as optional charity but as a direct transaction with God Himself — \"lends to the Lord\" — elevating practical kindness to the level of genuine worship and relationship with God, not mere social good. The warning that despising the poor is named explicitly as \"sin\" gives this theme real moral weight, not just practical advice.\n\nConversation starters: (1) What does it mean that being kind to someone in need is like \"lending to the Lord\" Himself? (2) Why might generosity actually lead to MORE, not less, according to Proverbs' surprising economics? (3) What's one way you could be generous to someone in need this week?\n\nPray for generous hearts, remembering that kindness to the needy is kindness shown directly to God."
+      }
+    }
+  ]
+}

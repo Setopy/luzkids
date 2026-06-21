@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Worth More Than Rubies"
+  },
+  "ref": "Proverbs 31:10-31",
+  "section": "The Wife of Noble Character",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A portrait of excellent character"
+      },
+      "body": {
+        "en": "The book of Proverbs closes with one of the most beautiful poems in the whole Bible — a vivid, detailed portrait of a person of truly excellent character. In the original Hebrew, each line begins with a successive letter of the alphabet, like a carefully crafted acrostic.\n\n'A wife of noble character who can find? She is worth far more than rubies.' This person is industrious — she works with eager hands, considers a field and buys it, plants a vineyard with her own earnings.\n\nShe is strong and dignified: 'she is clothed with strength and dignity.' She speaks with wisdom and faithful instruction is on her tongue. She watches over the affairs of her household and does not eat the bread of idleness.\n\nShe is generous too: 'she opens her arms to the poor and extends her hands to the needy.' Her family, and her whole community, genuinely benefit from her wisdom, care, and hard work.\n\nThe poem ends with words that echo the very first chapter of the book: 'charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.' After thirty-one chapters of seeking wisdom, the book's closing image is a real, living picture of exactly what wisdom looks like, lived out faithfully, day after day, in an ordinary life."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised."
+      },
+      "ref": {
+        "en": "Proverbs 31:30 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "charm",
+          "is",
+          "deceptive",
+          "and",
+          "beauty",
+          "is",
+          "fleeting",
+          "but",
+          "a",
+          "woman",
+          "who",
+          "fears",
+          "the",
+          "Lord"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Worth More Than Rubies"
+      },
+      "audio_en": "/static/audio/proverbs/lesson39_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "How is the woman in this final chapter described, in terms of her value?"
+          },
+          "options": {
+            "en": [
+              "Worth very little",
+              "Worth far more than rubies",
+              "Average and unremarkable",
+              "Worthless"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does this chapter say she does for the poor and needy?"
+          },
+          "options": {
+            "en": [
+              "Ignores them",
+              "Opens her arms and extends her hands to them",
+              "Avoids them entirely",
+              "Nothing is said about generosity"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Proverbs 31:30, what truly deserves praise, more than charm or beauty?"
+          },
+          "options": {
+            "en": [
+              "Wealth alone",
+              "A woman (or person) who fears the Lord",
+              "Fame",
+              "Physical appearance alone"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Worth More Than Rubies"
+          },
+          "file": "/static/printables/proverbs/lesson39_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: the book of Proverbs closes by returning to its opening theme — \"the fear of the Lord\" (1:7; 31:30) — bookending the entire book, and presenting a vivid, concrete picture of wisdom actually lived out: industrious, strong, wise in speech, generous, and ultimately defined by reverence for God rather than outward charm or beauty. Many commentators also see this closing portrait as circling back to chapter 9's image of Lady Wisdom — wisdom, embodied in an ordinary, faithful life, is the final and most compelling argument the whole book makes for itself.\n\nConversation starters: (1) Looking back over the whole book of Proverbs, what stands out to you most about what real wisdom actually looks like, lived out day to day? (2) Why might the book end on \"the fear of the Lord,\" the very same phrase it opened with? (3) What's one quality from this closing portrait — hard work, generosity, wise speech — you want to grow in?\n\nPray, asking God to help your family genuinely live out the wisdom this whole book has been teaching, day after day, in ordinary life."
+      }
+    }
+  ]
+}

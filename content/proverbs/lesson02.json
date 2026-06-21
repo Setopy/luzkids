@@ -1,0 +1,118 @@
+{
+  "title": {
+    "en": "Don't Walk With Sinners"
+  },
+  "ref": "Proverbs 1:8-19",
+  "section": "Warning Against the Invitation of Sinful Men",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "When friends invite you down the wrong path"
+      },
+      "body": {
+        "en": "A father gives his son urgent advice: listen to your parents' instruction — it's like a beautiful garland for your head, a gold chain around your neck.\n\nThen comes a real warning, framed almost like a story: imagine sinful friends inviting you, 'Come with us! Let's ambush someone, take their stuff, get rich quick — we'll all share the loot!'\n\nThe father's response is firm: 'My son, do not go along with them, do not set foot on their paths!' He explains why their plan is actually foolish — those who set traps for others often end up caught in their own trap.\n\n'Greed takes away the life of those who get it,' the proverb warns. Easy money gained through hurting others always costs more than it seems to offer.\n\nThis is one of the very first lessons in the whole book, and it's deliberately practical: wisdom shows up first not in deep theology, but in choosing your friends and your path wisely, before you're even old enough to fully understand why it matters."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "My son, do not go along with them, do not set foot on their paths."
+      },
+      "ref": {
+        "en": "Proverbs 1:15 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "my",
+          "son",
+          "do",
+          "not",
+          "go",
+          "along",
+          "with",
+          "them",
+          "do",
+          "not",
+          "set",
+          "foot",
+          "on",
+          "their",
+          "paths"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Don't Walk With Sinners"
+      },
+      "audio_en": "/static/audio/proverbs/lesson02_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What did the sinful friends in this passage invite the son to do?"
+          },
+          "options": {
+            "en": [
+              "Study together",
+              "Ambush someone and share stolen loot",
+              "Help the poor",
+              "Go to the temple"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the father tell his son to do about this invitation?"
+          },
+          "options": {
+            "en": [
+              "Go along with them",
+              "Do not go along with them — don't even set foot on their path",
+              "Think about it first",
+              "Join them just once"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the proverb say happens to those who set traps for others?"
+          },
+          "options": {
+            "en": [
+              "Nothing happens to them",
+              "They often end up caught in their own trap",
+              "They always get away with it",
+              "They become wealthy and happy"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Don't Walk With Sinners"
+          },
+          "file": "/static/printables/proverbs/lesson02_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: wisdom literature begins its practical instruction with peer influence — recognizing that the earliest and most common temptation a young person faces is the pull of a group inviting participation in wrongdoing, often framed as exciting or rewarding. The proverb's logic (those who set traps often get caught in them) reflects a recurring theme in Proverbs: wickedness tends to backfire on its own practitioners.\n\nConversation starters: (1) Why might it be especially hard to say no when friends are inviting you to do something wrong? (2) What does it mean that 'greed takes away the life of those who get it'? (3) How can you practice saying a firm \"no\" like this son was taught?\n\nPray for discernment and courage to walk away from the wrong path, even when friends invite you onto it."
+      }
+    }
+  ]
+}

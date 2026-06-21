@@ -1,0 +1,111 @@
+{
+  "title": {
+    "en": "Justice for the Poor and the Wronged"
+  },
+  "ref": "Proverbs 17:15; 17:26; 21:3; 24:23-25; 29:7",
+  "section": "Justice and Fairness (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Acquitting the guilty, condemning the innocent"
+      },
+      "body": {
+        "en": "'Acquitting the guilty and condemning the innocent — the Lord detests them both.' Proverbs treats injustice in BOTH directions as equally wrong — letting the guilty go free is just as bad as punishing someone innocent.\n\n'To do what is right and just is more acceptable to the Lord than sacrifice.' Even religious devotion, Proverbs suggests, matters less to God than simple, practical justice and fairness toward others.\n\n'To show partiality in judging is not good... whoever says to the guilty, \"You are innocent\" will be cursed by peoples and denounced by nations.' Favouritism in judgment is treated as a serious moral failure, not a small bias.\n\n'The righteous care about justice for the poor, but the wicked have no such concern.' Genuine righteousness, in Proverbs' view, is measured partly by whether someone actually cares about fairness for people with less power.\n\n'Whoever says to the wicked, \"You are innocent,\" will be cursed by peoples, denounced by nations, but those who convict the guilty will fare well and have a rich blessing come on them.' Standing firmly for what's actually true and fair, even when it's unpopular, leads to genuine blessing."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The righteous care about justice for the poor, but the wicked have no such concern."
+      },
+      "ref": {
+        "en": "Proverbs 29:7 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "righteous",
+          "care",
+          "about",
+          "justice",
+          "for",
+          "the",
+          "poor"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Justice for the Poor and the Wronged"
+      },
+      "audio_en": "/static/audio/proverbs/lesson29_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Proverbs 17:15 say the Lord detests, regarding the guilty and the innocent?"
+          },
+          "options": {
+            "en": [
+              "Nothing in particular",
+              "Acquitting the guilty and condemning the innocent — both detested equally",
+              "Only condemning the innocent",
+              "Only acquitting the guilty"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Proverbs 21:3, what does the Lord value even more than sacrifice?"
+          },
+          "options": {
+            "en": [
+              "Nothing more than sacrifice",
+              "Doing what is right and just",
+              "Wealth",
+              "Loud worship"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Proverbs 29:7 distinguish the righteous from the wicked?"
+          },
+          "options": {
+            "en": [
+              "No real difference exists",
+              "The righteous care about justice for the poor; the wicked have no such concern",
+              "The wicked care more about justice",
+              "Justice doesn't matter to either group"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Justice for the Poor and the Wronged"
+          },
+          "file": "/static/printables/proverbs/lesson29_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: genuine righteousness, in Proverbs' view, is inseparable from a concern for justice and fairness, especially toward those with less power — and this concern is valued by God even above religious ritual or sacrifice. Injustice in either direction (excusing the guilty or condemning the innocent) is treated with equal seriousness, refusing any convenient bias.\n\nConversation starters: (1) Why might Proverbs say doing what's right and just matters even more to God than religious sacrifice? (2) What does it mean that excusing the guilty is just as wrong as condemning the innocent? (3) What's one situation where you could actively \"care about justice\" for someone with less power or voice?\n\nPray for hearts that genuinely care about fairness and justice, especially for those who are often overlooked."
+      }
+    }
+  ]
+}

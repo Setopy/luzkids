@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "The Mocker Who Won't Be Corrected"
+  },
+  "ref": "Proverbs 9:7-8; 13:1; 15:12; 21:24; 22:10",
+  "section": "The Mocker — A Sharper Kind of Fool (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Worse than just foolish — actively hostile to truth"
+      },
+      "body": {
+        "en": "Proverbs actually names several different kinds of people who lack wisdom, and they're not all the same. The SIMPLE person is naive but still teachable — they just haven't learned yet. The FOOL resists correction stubbornly. But there's a third, sharper category: the MOCKER, or scoffer — someone who doesn't just resist correction, but actively despises it and attacks the person offering it.\n\n'Whoever corrects a mocker invites insult; whoever rebukes the wicked incurs abuse.' This is a serious warning — trying to help a true mocker isn't just unsuccessful, it can actually turn into the mocker attacking YOU for trying.\n\n'A wise son heeds his father's instruction, but a mocker does not listen to rebuke.' Notice the difference from a simple fool — a fool might eventually come around. A mocker has hardened past that point and doesn't even pretend to consider it.\n\n'The mocker does not love one who corrects him; he will not consult the wise.' Proverbs is honest that some people will actively avoid wise counsel, not just fail to find it.\n\nThe encouraging flip side: 'drive out the mocker, and out goes strife; quarrels and insults are ended.' Sometimes the wisest move isn't trying harder to reach a mocker — it's recognizing them for what they are and not letting their constant scoffing poison everything around them."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "A wise son heeds his father's instruction, but a mocker does not listen to rebuke."
+      },
+      "ref": {
+        "en": "Proverbs 13:1 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "a",
+          "wise",
+          "son",
+          "heeds",
+          "his",
+          "father's",
+          "instruction",
+          "but",
+          "a",
+          "mocker",
+          "does",
+          "not",
+          "listen"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Mocker Who Won't Be Corrected"
+      },
+      "audio_en": "/static/audio/proverbs/lesson31_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What's the difference between a 'simple' person and a 'mocker' in Proverbs?"
+          },
+          "options": {
+            "en": [
+              "They're exactly the same",
+              "The simple are naive but teachable; a mocker actively despises correction",
+              "Mockers are wiser than the simple",
+              "There's no real difference"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 9:7 warn happens when you correct a true mocker?"
+          },
+          "options": {
+            "en": [
+              "They always thank you",
+              "It can invite insult or abuse back at you",
+              "Nothing happens either way",
+              "They always change instantly"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 22:10 say happens when a mocker is 'driven out'?"
+          },
+          "options": {
+            "en": [
+              "Nothing changes",
+              "Strife goes out with them; quarrels and insults end",
+              "More conflict begins",
+              "It makes things worse"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Mocker Who Won't Be Corrected"
+          },
+          "file": "/static/printables/proverbs/lesson31_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs distinguishes carefully between different postures toward correction — the simple (naive, teachable), the fool (resistant but not hostile), and the mocker (actively hostile, attacking the corrector). This distinction matters practically: it teaches discernment about when patient teaching is appropriate and when continuing to engage a hardened scoffer simply invites unnecessary conflict without benefit.\n\nConversation starters: (1) Have you ever tried to help someone who reacted with anger or mockery instead of listening? (2) Why might Proverbs distinguish a mocker from a simple fool, rather than treating them the same? (3) What does it mean to wisely \"drive out\" constant negativity rather than keep trying to fix it?\n\nPray for discernment about when to keep gently teaching, and when a person's hardened scoffing means it's wiser to step back."
+      }
+    }
+  ]
+}

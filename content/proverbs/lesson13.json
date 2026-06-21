@@ -1,0 +1,113 @@
+{
+  "title": {
+    "en": "Guard Your Heart From Smooth Words"
+  },
+  "ref": "Proverbs 6:20-35",
+  "section": "The High Cost of Adultery",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A lamp, a light, and a warning about the cost of straying"
+      },
+      "body": {
+        "en": "The father continues his teaching: keep your father's commands and don't forsake your mother's teaching. Bind them always on your heart; fasten them around your neck.\n\n'For these commands are a lamp, this teaching is a light, and correction is the way to life.' The instruction a child receives is pictured as light guiding them through dark, uncertain paths.\n\nThis chapter continues the warning from chapter 5, urging faithfulness and loyalty, and cautioning against the kind of flattering deception that leads someone away from what's genuinely good and toward real, lasting harm.\n\nThe chapter uses a vivid picture: can a man scoop fire into his lap without his clothes being burned? Can someone walk on hot coals without their feet being scorched? In the same way, choosing the destructive path always brings real, painful consequences — there's no getting around it.\n\nWisdom's lamp lights the way precisely so a person can see the danger clearly and choose differently, before the consequences arrive."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "For these commands are a lamp, this teaching is a light, and correction is the way to life."
+      },
+      "ref": {
+        "en": "Proverbs 6:23 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "these",
+          "commands",
+          "are",
+          "a",
+          "lamp",
+          "this",
+          "teaching",
+          "is",
+          "a",
+          "light"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Guard Your Heart From Smooth Words"
+      },
+      "audio_en": "/static/audio/proverbs/lesson13_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What are a parent's commands and teaching compared to in this chapter?"
+          },
+          "options": {
+            "en": [
+              "A heavy burden",
+              "A lamp and a light",
+              "Something to ignore",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What picture does the chapter use to show that wrong choices have real consequences?"
+          },
+          "options": {
+            "en": [
+              "A garden growing",
+              "Scooping fire into your lap, or walking on hot coals without being burned",
+              "A peaceful river",
+              "No picture is given"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is correction described as being 'the way to,' according to verse 23?"
+          },
+          "options": {
+            "en": [
+              "Punishment only",
+              "Life",
+              "Nothing significant",
+              "Sadness"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Guard Your Heart From Smooth Words"
+          },
+          "file": "/static/printables/proverbs/lesson13_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: parental instruction is pictured as illuminating light, guiding a young person safely through real dangers — and the consequences of straying from faithfulness are described as inevitable as the burn from real fire, not abstract or avoidable. As with chapter 5, the specific original context is adultery; for children, the principle taught is the protective value of parental teaching and the real, unavoidable cost of choosing a destructive path, with fuller specifics appropriate to discuss as a family at a parent's discretion.\n\nConversation starters: (1) How is good teaching like a \"lamp\" guiding you through dark, uncertain situations? (2) Why does the chapter compare wrong choices to handling real fire — what does that teach about consequences? (3) What \"lamp\" of wise teaching has helped guide you recently?\n\nPray, thanking God for the light of wise teaching, and for protection from paths that lead to real harm."
+      }
+    }
+  ]
+}

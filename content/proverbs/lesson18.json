@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "The Power of the Tongue"
+  },
+  "ref": "Proverbs 12:18; 15:1; 16:24; 18:21; 25:11",
+  "section": "The Power of the Tongue (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Words that heal, words that wound"
+      },
+      "body": {
+        "en": "Proverbs returns again and again to the enormous power of the words we choose. 'The tongue has the power of life and death,' one proverb declares plainly — words really can build up or genuinely destroy.\n\n'Reckless words pierce like a sword, but the tongue of the wise brings healing.' Think about that contrast — careless words can wound as deeply as a weapon, while careful words can actually heal pain.\n\n'A gentle answer turns away wrath, but a harsh word stirs up anger.' This tiny proverb has diffused more arguments than almost any other piece of advice in human history — the tone you choose changes everything.\n\n'Gracious words are a honeycomb, sweet to the soul and healing to the bones.' Kind words don't just sound nice — they genuinely nourish the person who receives them.\n\nAnd one beautifully specific image: 'a word fitly spoken is like apples of gold in a setting of silver' — the RIGHT word, at the RIGHT moment, is a genuine treasure, valuable and beautiful."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The tongue has the power of life and death."
+      },
+      "ref": {
+        "en": "Proverbs 18:21 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "tongue",
+          "has",
+          "the",
+          "power",
+          "of",
+          "life",
+          "and",
+          "death"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Power of the Tongue"
+      },
+      "audio_en": "/static/audio/proverbs/lesson18_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Proverbs 18:21 say the tongue has the power to do?"
+          },
+          "options": {
+            "en": [
+              "Nothing significant",
+              "Bring life and death",
+              "Only bring harm, never good",
+              "Only bring help, never harm"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "According to Proverbs 15:1, what turns away anger, and what stirs it up?"
+          },
+          "options": {
+            "en": [
+              "A gentle answer turns away wrath; a harsh word stirs up anger",
+              "Silence always works best",
+              "Loud words always calm things down",
+              "Nothing affects anger"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What are gracious words compared to in Proverbs 16:24?"
+          },
+          "options": {
+            "en": [
+              "Bitter medicine",
+              "A honeycomb, sweet to the soul and healing to the bones",
+              "Nothing of value",
+              "A heavy weight"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Power of the Tongue"
+          },
+          "file": "/static/printables/proverbs/lesson18_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: few themes recur as often or as urgently in Proverbs as the power of speech — words are treated as genuinely consequential, capable of real healing or real harm, never neutral. This collection of proverbs gives children concrete, memorable language for something they experience daily: the difference between a word that wounds and a word that heals.\n\nConversation starters: (1) Can you remember a time someone's words genuinely helped or healed you? (2) What does \"a gentle answer turns away wrath\" look like practically, in an argument with a sibling or friend? (3) What's one way you could speak more \"gracious,\" honeycomb-like words this week?\n\nPray for tongues that bring healing, not harm — choosing words carefully and kindly."
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "The Wise and the Foolish"
+  },
+  "ref": "Proverbs 10:1; 10:8; 12:15; 13:20; 28:26",
+  "section": "The Wise and the Foolish (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Two kinds of people, all through the book"
+      },
+      "body": {
+        "en": "Starting in chapter 10, the book changes shape — instead of long speeches, it becomes hundreds of short, two-line sayings, packed full of wisdom about everyday life. We'll explore these collected proverbs by theme, gathering related sayings from across many chapters.\n\nThe very first theme that runs through nearly every page: the contrast between the WISE and the FOOLISH. 'A wise son brings joy to his father, but a foolish son brings grief to his mother,' the book begins its new section.\n\n'The wise in heart accept commands, but a chattering fool comes to ruin.' Wisdom listens; foolishness talks over everyone without ever really hearing.\n\n'The way of fools seems right to them, but the wise listen to advice.' This might be the most important difference of all — fools think they're already right, while the wise stay open to correction.\n\n'Whoever trusts in their own heart is a fool, but whoever walks in wisdom is kept safe.' Walk with the wise and become wise, the book promises — but the companions of fools suffer harm."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The way of fools seems right to them, but the wise listen to advice."
+      },
+      "ref": {
+        "en": "Proverbs 12:15 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "way",
+          "of",
+          "fools",
+          "seems",
+          "right",
+          "to",
+          "them",
+          "but",
+          "the",
+          "wise",
+          "listen",
+          "to",
+          "advice"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Wise and the Foolish"
+      },
+      "audio_en": "/static/audio/proverbs/lesson17_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What is the key difference between the wise and fools, according to Proverbs 12:15?"
+          },
+          "options": {
+            "en": [
+              "Fools are always quiet, wise people are loud",
+              "Fools think their own way is right; the wise listen to advice",
+              "There's no real difference",
+              "Fools are wealthier"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs say happens to someone who 'walks with the wise'?"
+          },
+          "options": {
+            "en": [
+              "Nothing changes",
+              "They become wise themselves",
+              "They become foolish instead",
+              "It doesn't matter who you walk with"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 28:26 say about trusting in your own heart?"
+          },
+          "options": {
+            "en": [
+              "It's always a safe choice",
+              "Whoever does so is a fool; walking in wisdom keeps you safe",
+              "It's the wisest path",
+              "Nothing is said about it"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Wise and the Foolish"
+          },
+          "file": "/static/printables/proverbs/lesson17_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: from chapter 10 onward, Proverbs becomes a collection of largely independent two-line sayings rather than continuous discourse — a deliberate, well-recognized feature of Hebrew wisdom literature, not a structural gap. Rather than forcing an artificial sequential reading, this and the following lessons gather related proverbs by theme, a long-established and effective approach to teaching this part of the book. The wise/foolish contrast is the most pervasive theme in the whole collection, distinguished above all by a willingness to receive correction.\n\nConversation starters: (1) What's the real difference between someone who thinks they're already right and someone who listens to advice? (2) Why might \"walking with the wise\" actually make you wiser yourself? (3) Can you think of a time you trusted your own judgment instead of listening to good advice?\n\nPray for hearts that stay humble and open to correction, rather than assuming we're always right."
+      }
+    }
+  ]
+}

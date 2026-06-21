@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Two Houses, Two Invitations"
+  },
+  "ref": "Proverbs 9:1-18",
+  "section": "Invitations of Wisdom and Folly",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "A banquet of life, and a trap dressed up as comfort"
+      },
+      "body": {
+        "en": "Wisdom has built her house, with seven pillars, and prepared a great feast — meat, wine, a table set beautifully. She sends out her servants to call from the highest points of the city: 'Let all who are simple come in here!'\n\nTo those who lack judgment, Wisdom says: 'Come, eat my food and drink the wine I have mixed. Leave your simple ways and you will live; walk in the way of insight.'\n\nThen comes a sharp contrast: Folly is ALSO loud and undisciplined, sitting at the door of her house, calling out to those who pass by: 'Let all who are simple come in here!' To the unwise she says: 'Stolen water is sweet; food eaten in secret is delicious!'\n\nBut what Folly doesn't tell her guests is the truth: 'little do they know that the dead are there, that her guests are in the very realm of the dead.' Folly's invitation sounds appealing but hides real danger and real death.\n\nTwo houses, two invitations, two very different outcomes — and the choice of which banquet to accept is placed squarely in front of every person who hears the call."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Leave your simple ways and you will live; walk in the way of insight."
+      },
+      "ref": {
+        "en": "Proverbs 9:6 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "leave",
+          "your",
+          "simple",
+          "ways",
+          "and",
+          "you",
+          "will",
+          "live",
+          "walk",
+          "in",
+          "the",
+          "way",
+          "of",
+          "insight"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Two Houses, Two Invitations"
+      },
+      "audio_en": "/static/audio/proverbs/lesson16_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What has Wisdom prepared, according to this chapter?"
+          },
+          "options": {
+            "en": [
+              "A trap",
+              "A great feast, with meat, wine, and a beautifully set table",
+              "Nothing at all",
+              "A punishment"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Folly's invitation in this chapter sound at first?"
+          },
+          "options": {
+            "en": [
+              "Obviously dangerous and scary",
+              "Appealing and sweet — 'stolen water is sweet, food eaten in secret is delicious'",
+              "Boring and uninteresting",
+              "Identical to Wisdom's invitation in every way"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the chapter reveal is actually hidden behind Folly's appealing invitation?"
+          },
+          "options": {
+            "en": [
+              "Nothing — it's completely safe",
+              "Death — her guests are in the very realm of the dead",
+              "More wisdom",
+              "A great reward"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Two Houses, Two Invitations"
+          },
+          "file": "/static/printables/proverbs/lesson16_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: this chapter closes the nine-chapter introduction to Proverbs with two parallel, contrasting invitations — Wisdom's genuine feast and Folly's deceptive imitation — teaching that destructive choices often dress themselves up as appealing rather than obviously dangerous, exactly the pattern warned about more narratively in chapter 7. The choice between the two houses functions almost as a summary decision point for everything chapters 1-9 have been building toward.\n\nConversation starters: (1) Why might Folly's invitation use exactly the same kind of public, loud calling as Wisdom's, to seem just as legitimate? (2) What's the danger in something appealing — \"stolen water is sweet\" — actually hiding real harm underneath? (3) Which \"house\" — Wisdom's or Folly's — have you been tempted to enter lately?\n\nPray for discernment to recognize Folly's appealing disguise, and to choose Wisdom's true feast instead."
+      }
+    }
+  ]
+}

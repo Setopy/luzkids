@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "Honesty and Integrity"
+  },
+  "ref": "Proverbs 11:1; 12:22; 16:11; 19:5; 20:23",
+  "section": "Honesty and Integrity (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Honest scales, and a hatred for lies"
+      },
+      "body": {
+        "en": "'The Lord detests dishonest scales, but accurate weights find favour with him.' In a marketplace, a dishonest scale could cheat a buyer without them ever knowing — and Proverbs says God notices and cares deeply about that kind of hidden dishonesty.\n\n'The Lord detests lying lips, but he delights in people who are trustworthy.' Notice the strong language — not just disapproval, but real detestation of dishonesty, and real delight in trustworthiness.\n\n'A false witness will not go unpunished, and whoever pours out lies will not go free.' Proverbs takes lying with serious consequences, not as a minor inconvenience.\n\n'Honest scales and balances belong to the Lord; all the weights in the bag are of his making.' Fairness and honesty aren't just good ideas — they're rooted in God's own character and design.\n\nThe book consistently links integrity to security: 'the integrity of the upright guides them, but the unfaithful are destroyed by their duplicity.' An honest life has a kind of built-in stability that dishonesty can never provide."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The Lord detests lying lips, but he delights in people who are trustworthy."
+      },
+      "ref": {
+        "en": "Proverbs 12:22 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "Lord",
+          "detests",
+          "lying",
+          "lips",
+          "but",
+          "he",
+          "delights",
+          "in",
+          "people",
+          "who",
+          "are",
+          "trustworthy"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Honesty and Integrity"
+      },
+      "audio_en": "/static/audio/proverbs/lesson21_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Proverbs 11:1 say the Lord detests, in the context of a marketplace?"
+          },
+          "options": {
+            "en": [
+              "Hard work",
+              "Dishonest scales — cheating people through unfair measurements",
+              "Loud arguments",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Proverbs 12:22 describe God's reaction to lying lips versus trustworthy people?"
+          },
+          "options": {
+            "en": [
+              "He's indifferent to both",
+              "He detests lying lips but delights in trustworthy people",
+              "He prefers lying lips",
+              "Neither matters to Him"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs say happens to a false witness who pours out lies?"
+          },
+          "options": {
+            "en": [
+              "They always get away with it",
+              "They will not go unpunished or free",
+              "Nothing happens to them",
+              "They are rewarded"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Honesty and Integrity"
+          },
+          "file": "/static/printables/proverbs/lesson21_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: God's own character is the foundation for honesty — \"honest scales and balances belong to the Lord\" — meaning integrity isn't merely a useful social convention but reflects something true about God's design for fairness in the world. The strong language (\"detests,\" \"delights\") shows this isn't treated as a minor virtue but as something God feels deeply about.\n\nConversation starters: (1) Why might small, hidden dishonesty (like an unfair scale no one would notice) matter just as much to God as obvious lying? (2) What does it mean that honesty \"belongs to the Lord\" — that it reflects His own character? (3) What's one situation where it might be tempting to be slightly dishonest, and how can you choose integrity instead?\n\nPray for hearts that genuinely love honesty, the way God Himself delights in trustworthy people."
+      }
+    }
+  ]
+}

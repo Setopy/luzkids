@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Plans Succeed With Many Advisers"
+  },
+  "ref": "Proverbs 11:14; 12:15; 15:22; 19:20; 24:6",
+  "section": "The Value of Good Counsel (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Why wise people ask for help"
+      },
+      "body": {
+        "en": "'For lack of guidance a nation falls, but victory is won through many advisers.' Proverbs treats seeking counsel from others, not just relying on your own judgment, as essential — even for something as significant as an entire nation.\n\n'Plans fail for lack of counsel, but with many advisers they succeed.' This proverb appears more than once in different forms throughout the book, which itself is a signal of how important this theme is — good plans need more than one mind working on them.\n\n'Listen to advice and accept instruction, and at the end you will be counted among the wise.' Notice the order — listening to advice comes FIRST, and being counted wise is the result that follows, not the other way around.\n\n'Surely you need guidance to wage war, and victory is won through many advisers.' Even in something as high-stakes as conflict or competition, Proverbs insists that one mind alone, however confident, isn't enough.\n\nThis theme connects directly back to chapter 12: 'the way of fools seems right to them, but the wise listen to advice.' Throughout the whole book, one of the clearest, most repeated marks of genuine wisdom is simply this: being willing to ask for help and actually listen when it's given."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Plans fail for lack of counsel, but with many advisers they succeed."
+      },
+      "ref": {
+        "en": "Proverbs 15:22 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "plans",
+          "fail",
+          "for",
+          "lack",
+          "of",
+          "counsel",
+          "but",
+          "with",
+          "many",
+          "advisers",
+          "they",
+          "succeed"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Plans Succeed With Many Advisers"
+      },
+      "audio_en": "/static/audio/proverbs/lesson35_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Proverbs 15:22, why do plans fail?"
+          },
+          "options": {
+            "en": [
+              "Always due to bad luck",
+              "For lack of counsel — they succeed with many advisers",
+              "Plans never actually fail",
+              "Only bad plans fail"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What order does Proverbs 19:20 give for becoming wise?"
+          },
+          "options": {
+            "en": [
+              "Become wise first, then listen to advice",
+              "Listen to advice and accept instruction first; being counted wise follows",
+              "It doesn't matter which comes first",
+              "Wisdom requires no listening at all"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Proverbs describe the value of 'many advisers,' even for something as serious as a nation or a war?"
+          },
+          "options": {
+            "en": [
+              "One confident leader is always enough",
+              "Victory and success come through having many advisers, not relying on one mind alone",
+              "Advisers are unnecessary distractions",
+              "Nothing is said about advisers"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Plans Succeed With Many Advisers"
+          },
+          "file": "/static/printables/proverbs/lesson35_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs repeatedly and deliberately undercuts the idea that wisdom means having all the answers yourself — genuine wisdom actively seeks counsel from others, recognizing the real limits of any single perspective, however confident or capable. This is a needed corrective for children (and adults) inclined toward self-reliant pride, connecting directly back to the earlier theme of humility versus pride.\n\nConversation starters: (1) Why might even a confident, capable person still need other people's advice? (2) Can you think of a time someone else's counsel helped you make a better decision than you would have alone? (3) Who are the \"many advisers\" in your own life you could go to for guidance?\n\nPray for humility to seek good counsel, and for wise people in your life willing to give it honestly."
+      }
+    }
+  ]
+}

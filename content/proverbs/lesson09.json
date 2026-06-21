@@ -1,0 +1,116 @@
+{
+  "title": {
+    "en": "The Path of the Righteous, the Path of the Wicked"
+  },
+  "ref": "Proverbs 4:10-19",
+  "section": "Two Paths",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Two roads, two very different destinations"
+      },
+      "body": {
+        "en": "'Listen, my son, accept what I say, and the years of your life will be many. I guide you in the way of wisdom and lead you along straight paths.'\n\nWhen you walk, the father promises, your steps will not be hampered; when you run, you will not stumble. Hold on to instruction; do not let it go — guard it well, for it is your life!\n\nThen comes a vivid warning: do not set foot on the path of the wicked or walk in the way of evildoers. Avoid it, do not travel on it; turn from it and go on your way!\n\nWhy such a strong warning? Because wicked people 'cannot sleep till they have done evil' — they actually feed on violence and wrongdoing.\n\nBut contrast that with the righteous path: 'the path of the righteous is like the morning sun, shining ever brighter till the full light of day. But the path of the wicked is like deep darkness; they do not know what makes them stumble.' Two paths, two destinies — one shines brighter and brighter, the other gets darker and darker."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "The path of the righteous is like the morning sun, shining ever brighter till the full light of day."
+      },
+      "ref": {
+        "en": "Proverbs 4:18 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "the",
+          "path",
+          "of",
+          "the",
+          "righteous",
+          "is",
+          "like",
+          "the",
+          "morning",
+          "sun",
+          "shining",
+          "ever",
+          "brighter"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for The Path of the Righteous, the Path of the Wicked"
+      },
+      "audio_en": "/static/audio/proverbs/lesson09_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does the father say will happen if his son walks on the wise path?"
+          },
+          "options": {
+            "en": [
+              "His steps will be hampered constantly",
+              "His steps will not be hampered; he will not stumble when he runs",
+              "Nothing will change",
+              "He will become confused"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What strong instruction does the father give about the path of the wicked?"
+          },
+          "options": {
+            "en": [
+              "Walk on it sometimes",
+              "Avoid it entirely — do not even set foot on it",
+              "Try it just once",
+              "Follow it carefully"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How is the path of the righteous described, compared to the path of the wicked?"
+          },
+          "options": {
+            "en": [
+              "Both paths are exactly the same",
+              "Like the morning sun, shining ever brighter — while the wicked path is like deep darkness",
+              "The wicked path is brighter",
+              "Neither path matters"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: The Path of the Righteous, the Path of the Wicked"
+          },
+          "file": "/static/printables/proverbs/lesson09_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs repeatedly frames moral choice as a path or journey with cumulative direction, not a single isolated decision — the righteous path grows progressively brighter, while the wicked path grows progressively darker, \"they do not know what makes them stumble.\" This pictures sanctification (and its opposite) as a trajectory, not a single moment.\n\nConversation starters: (1) What does it mean that the righteous path gets \"brighter and brighter,\" not instantly bright? (2) Why might Proverbs warn so strongly against even setting foot on the wicked path, rather than just avoiding going too far on it? (3) What direction does your own daily path seem to be heading — brighter, or darker?\n\nPray for grace to walk firmly on the path that grows brighter, avoiding even a first step on the other."
+      }
+    }
+  ]
+}

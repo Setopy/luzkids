@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Sleep Without Fear"
+  },
+  "ref": "Proverbs 3:21-35",
+  "section": "Further Benefits of Wisdom",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Wisdom that lets you rest easy"
+      },
+      "body": {
+        "en": "Keep sound judgment and discernment, the father urges, and they will be life for you — they will keep you safe so you can go on your way unharmed, your foot will not stumble.\n\nWhen you lie down, you won't be afraid — your sleep will be sweet! Don't be afraid of sudden disaster, because the Lord will be your confidence and will keep your foot from being caught in a trap.\n\nDon't withhold good from those who deserve it, when it's in your power to act. Don't tell a neighbour, 'Come back tomorrow' when you could help them right now.\n\nDon't plot harm against your neighbour who trusts you and lives nearby. Don't envy violent or wicked people, or choose any of their ways, because the Lord detests the perverse but takes the upright into His confidence.\n\nThe chapter closes with one of the book's clearest contrasts: the Lord's curse is on the house of the wicked, but He blesses the home of the righteous. He mocks proud mockers but shows favour to the humble."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "When you lie down, you will not be afraid; when you lie down, your sleep will be sweet."
+      },
+      "ref": {
+        "en": "Proverbs 3:24 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "when",
+          "you",
+          "lie",
+          "down",
+          "you",
+          "will",
+          "not",
+          "be",
+          "afraid",
+          "your",
+          "sleep",
+          "will",
+          "be",
+          "sweet"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Sleep Without Fear"
+      },
+      "audio_en": "/static/audio/proverbs/lesson07_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does this chapter say about the sleep of someone keeping sound judgment?"
+          },
+          "options": {
+            "en": [
+              "Restless and full of nightmares",
+              "Sweet — they will not be afraid",
+              "Exactly the same as anyone else's",
+              "Always interrupted"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the father warn against doing to a neighbour who deserves help?"
+          },
+          "options": {
+            "en": [
+              "Helping them immediately",
+              "Saying 'come back tomorrow' when you could help right now",
+              "Ignoring them politely",
+              "Nothing is said about neighbours"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "How does Proverbs describe the Lord's attitude toward proud mockers versus the humble?"
+          },
+          "options": {
+            "en": [
+              "He favours mockers equally",
+              "He mocks proud mockers but shows favour to the humble",
+              "He ignores both groups",
+              "He favours mockers more"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Sleep Without Fear"
+          },
+          "file": "/static/printables/proverbs/lesson07_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: practical wisdom produces tangible peace — even something as simple and universal as sleep — while also calling for active, immediate kindness toward neighbours rather than delayed or withheld generosity. The closing contrast between blessing on the righteous and curse on the wicked sets up a pattern that runs throughout the book's many short proverbs that follow.\n\nConversation starters: (1) Why might wisdom and trust in God lead to literally sleeping better at night? (2) Why is delaying help (\"come back tomorrow\") treated as its own kind of wrongdoing? (3) What does it mean that God \"shows favour to the humble\" but \"mocks proud mockers\"?\n\nPray for peaceful trust that lets you rest well, and for hearts quick to help, not quick to delay."
+      }
+    }
+  ]
+}

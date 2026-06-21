@@ -1,0 +1,118 @@
+{
+  "title": {
+    "en": "Lean Not on Your Own Understanding"
+  },
+  "ref": "Proverbs 3:1-12",
+  "section": "Trust in the Lord",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Trust with all your heart, not just part of it"
+      },
+      "body": {
+        "en": "Don't forget the teaching, the father urges, but keep these commands in your heart — they will bring you long life, peace, and prosperity. Let love and faithfulness never leave you.\n\nThen comes one of the most quoted verses in the entire Bible: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'\n\nNotice the contrast: trusting God FULLY versus leaning on your OWN understanding. Our own wisdom, however clever it feels, is never enough on its own. We need God's guidance over our own.\n\nThe chapter continues: don't be wise in your own eyes — instead, fear the Lord and shun evil, and this will bring health to your body and nourishment to your bones. Honour the Lord with your wealth, and trust Him even with the resources you have.\n\nFinally, don't despise the Lord's discipline, because the Lord disciplines those He loves, just as a father disciplines the child he delights in. Even correction is a sign of love, not rejection."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Trust in the Lord with all your heart and lean not on your own understanding."
+      },
+      "ref": {
+        "en": "Proverbs 3:5 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "trust",
+          "in",
+          "the",
+          "Lord",
+          "with",
+          "all",
+          "your",
+          "heart",
+          "and",
+          "lean",
+          "not",
+          "on",
+          "your",
+          "own",
+          "understanding"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Lean Not on Your Own Understanding"
+      },
+      "audio_en": "/static/audio/proverbs/lesson05_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Proverbs 3:5, what should we trust, and what should we NOT lean on?"
+          },
+          "options": {
+            "en": [
+              "Trust ourselves, lean on God",
+              "Trust the Lord with all our heart, not lean on our own understanding",
+              "Trust no one at all",
+              "Trust only our friends"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the chapter say happens when the Lord disciplines someone?"
+          },
+          "options": {
+            "en": [
+              "It means He has rejected them",
+              "It's a sign of love, like a father disciplining the child he delights in",
+              "It's always unfair",
+              "Nothing significant"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs say about being 'wise in your own eyes'?"
+          },
+          "options": {
+            "en": [
+              "It's encouraged strongly",
+              "It's discouraged — fear the Lord instead, and shun evil",
+              "It doesn't matter either way",
+              "It's the safest path"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Lean Not on Your Own Understanding"
+          },
+          "file": "/static/printables/proverbs/lesson05_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: complete, wholehearted trust in God rather than self-reliant understanding — and the reframing of discipline as evidence of love rather than rejection, a theme that resurfaces powerfully in Hebrews 12 on this platform. \"Lean not on your own understanding\" doesn't dismiss human reasoning entirely, but refuses to let it be the final authority over God's guidance.\n\nConversation starters: (1) What's the difference between using your own understanding and leaning ENTIRELY on it, without trusting God? (2) Why might discipline actually be a sign that someone loves you, not that they've rejected you? (3) What's one area of your life where you tend to lean on your own understanding instead of trusting God?\n\nPray for hearts that trust God fully, in every area, not just the easy parts."
+      }
+    }
+  ]
+}

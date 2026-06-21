@@ -1,0 +1,112 @@
+{
+  "title": {
+    "en": "Iron Sharpens Iron"
+  },
+  "ref": "Proverbs 17:17; 18:24; 27:6; 27:9; 27:17",
+  "section": "Friendship (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "What real friends actually do"
+      },
+      "body": {
+        "en": "'A friend loves at all times, and a brother is born for a time of adversity.' Real friendship, Proverbs says, shows itself most clearly not in easy times, but in hard ones.\n\n'One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.' Not every relationship called \"friendship\" is genuinely reliable — but a true friend's loyalty runs deeper than family ties sometimes do.\n\nOne of the most surprising proverbs about friendship: 'wounds from a friend can be trusted, but an enemy multiplies kisses.' A real friend will tell you something hard, true, and helpful — while a flatterer's compliments might actually be empty or even harmful.\n\n'Perfume and incense bring joy to the heart, and the pleasantness of a friend springs from their heartfelt advice.' Good friendship isn't just pleasant company — it includes honest, caring counsel.\n\nAnd perhaps the most famous friendship proverb of all: 'as iron sharpens iron, so one person sharpens another.' Good friends make each other better, the same way two blades sharpen each other through contact."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "As iron sharpens iron, so one person sharpens another."
+      },
+      "ref": {
+        "en": "Proverbs 27:17 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "as",
+          "iron",
+          "sharpens",
+          "iron",
+          "so",
+          "one",
+          "person",
+          "sharpens",
+          "another"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for Iron Sharpens Iron"
+      },
+      "audio_en": "/static/audio/proverbs/lesson22_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "According to Proverbs 17:17, when does a real friend's love show most clearly?"
+          },
+          "options": {
+            "en": [
+              "Only in easy, comfortable times",
+              "At all times — including times of adversity",
+              "Never, really",
+              "Only when convenient"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What surprising thing does Proverbs 27:6 say about wounds from a friend, versus an enemy's kisses?"
+          },
+          "options": {
+            "en": [
+              "A friend's wounds can be trusted; an enemy multiplies kisses (which can be empty or harmful)",
+              "Wounds from anyone are always bad",
+              "Enemy's kisses are always trustworthy",
+              "Friends never cause any discomfort"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does the 'iron sharpens iron' proverb teach about good friendship?"
+          },
+          "options": {
+            "en": [
+              "Friends should avoid each other",
+              "Good friends make each other better through their interaction",
+              "Friendship doesn't really change a person",
+              "Iron has nothing to do with friendship"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: Iron Sharpens Iron"
+          },
+          "file": "/static/printables/proverbs/lesson22_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: Proverbs distinguishes genuine friendship from mere pleasant company — true friends offer honest, even hard truths (\"wounds... can be trusted\") rather than empty flattery, and good friendship actively shapes and improves both people involved, like iron sharpening iron. This gives children a concrete standard for evaluating their own friendships: does this relationship make me genuinely better?\n\nConversation starters: (1) Who is a friend that has stuck with you through a hard time, not just the easy times? (2) Why might an honest \"wound\" from a friend actually be more valuable than empty flattery from someone less invested in you? (3) How does \"iron sharpens iron\" describe a friendship you currently have, or wish you had?\n\nPray for friends who genuinely sharpen you, and for grace to be that kind of friend to others."
+      }
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "title": {
+    "en": "Proverbs for Kids"
+  },
+  "subtitle": {
+    "en": "All 31 chapters, every major theme — practical wisdom for everyday life!"
+  },
+  "description": {
+    "en": "Short, punchy, unforgettable sayings about everyday wisdom. Thirty-nine adventures through all thirty-one chapters: the nine opening discourses on choosing wisdom over folly, twenty themed journeys through the book's great collected sayings — covering wise vs. foolish vs. mocking, speech, work, pride, honesty, friendship, anger, generosity, discipline, money, God's sovereignty, family, justice, leadership, gossip, envy, counsel, self-control, and the brevity of life — and the closing voices of Agur, King Lemuel, and the woman worth more than rubies."
+  },
+  "age_range": "6-12",
+  "free": true,
+  "order": 7,
+  "emoji": "📜",
+  "color": "#c9821f",
+  "lessons": [
+    {
+      "id": "lesson01",
+      "title": {
+        "en": "The Beginning of Wisdom"
+      },
+      "ref": "Proverbs 1:1-7",
+      "section": "Purpose and Theme"
+    },
+    {
+      "id": "lesson02",
+      "title": {
+        "en": "Don't Walk With Sinners"
+      },
+      "ref": "Proverbs 1:8-19",
+      "section": "Warning Against the Invitation of Sinful Men"
+    },
+    {
+      "id": "lesson03",
+      "title": {
+        "en": "Wisdom Calls in the Streets"
+      },
+      "ref": "Proverbs 1:20-33",
+      "section": "Wisdom's Rebuke"
+    },
+    {
+      "id": "lesson04",
+      "title": {
+        "en": "Search for Wisdom Like Silver"
+      },
+      "ref": "Proverbs 2:1-22",
+      "section": "Moral Benefits of Wisdom"
+    },
+    {
+      "id": "lesson05",
+      "title": {
+        "en": "Lean Not on Your Own Understanding"
+      },
+      "ref": "Proverbs 3:1-12",
+      "section": "Trust in the Lord"
+    },
+    {
+      "id": "lesson06",
+      "title": {
+        "en": "More Precious Than Rubies"
+      },
+      "ref": "Proverbs 3:13-20",
+      "section": "Wisdom Bestows Well-Being"
+    },
+    {
+      "id": "lesson07",
+      "title": {
+        "en": "Sleep Without Fear"
+      },
+      "ref": "Proverbs 3:21-35",
+      "section": "Further Benefits of Wisdom"
+    },
+    {
+      "id": "lesson08",
+      "title": {
+        "en": "Get Wisdom, Whatever It Costs"
+      },
+      "ref": "Proverbs 4:1-9",
+      "section": "Get Wisdom at Any Cost"
+    },
+    {
+      "id": "lesson09",
+      "title": {
+        "en": "The Path of the Righteous, the Path of the Wicked"
+      },
+      "ref": "Proverbs 4:10-19",
+      "section": "Two Paths"
+    },
+    {
+      "id": "lesson10",
+      "title": {
+        "en": "Guard Your Heart Above All Else"
+      },
+      "ref": "Proverbs 4:20-27",
+      "section": "Guard Your Heart"
+    },
+    {
+      "id": "lesson11",
+      "title": {
+        "en": "Stay on the Safe Path"
+      },
+      "ref": "Proverbs 5:1-23",
+      "section": "Warning Against Adultery"
+    },
+    {
+      "id": "lesson12",
+      "title": {
+        "en": "The Ant, the Sluggard, and Seven Things God Hates"
+      },
+      "ref": "Proverbs 6:1-19",
+      "section": "Warnings Against Folly"
+    },
+    {
+      "id": "lesson13",
+      "title": {
+        "en": "Guard Your Heart From Smooth Words"
+      },
+      "ref": "Proverbs 6:20-35",
+      "section": "The High Cost of Adultery"
+    },
+    {
+      "id": "lesson14",
+      "title": {
+        "en": "The Path That Leads to Ruin"
+      },
+      "ref": "Proverbs 7:1-27",
+      "section": "Warning Against the Adulterous Woman"
+    },
+    {
+      "id": "lesson15",
+      "title": {
+        "en": "Wisdom Was There When God Made the World!"
+      },
+      "ref": "Proverbs 8:1-36",
+      "section": "Wisdom's Call"
+    },
+    {
+      "id": "lesson16",
+      "title": {
+        "en": "Two Houses, Two Invitations"
+      },
+      "ref": "Proverbs 9:1-18",
+      "section": "Invitations of Wisdom and Folly"
+    },
+    {
+      "id": "lesson17",
+      "title": {
+        "en": "The Wise and the Foolish"
+      },
+      "ref": "Proverbs 10:1; 10:8; 12:15; 13:20; 28:26",
+      "section": "The Wise and the Foolish (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson18",
+      "title": {
+        "en": "The Power of the Tongue"
+      },
+      "ref": "Proverbs 12:18; 15:1; 16:24; 18:21; 25:11",
+      "section": "The Power of the Tongue (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson19",
+      "title": {
+        "en": "Hard Work and Laziness"
+      },
+      "ref": "Proverbs 10:4-5; 12:24; 13:4; 21:25; 24:30-34",
+      "section": "Hard Work and Laziness (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson20",
+      "title": {
+        "en": "Pride and Humility"
+      },
+      "ref": "Proverbs 11:2; 16:18; 16:19; 18:12; 29:23",
+      "section": "Pride and Humility (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson21",
+      "title": {
+        "en": "Honesty and Integrity"
+      },
+      "ref": "Proverbs 11:1; 12:22; 16:11; 19:5; 20:23",
+      "section": "Honesty and Integrity (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson22",
+      "title": {
+        "en": "Iron Sharpens Iron"
+      },
+      "ref": "Proverbs 17:17; 18:24; 27:6; 27:9; 27:17",
+      "section": "Friendship (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson23",
+      "title": {
+        "en": "Slow to Anger, Quick to Understand"
+      },
+      "ref": "Proverbs 14:29; 15:18; 16:32; 19:11; 29:11",
+      "section": "Anger and Self-Control (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson24",
+      "title": {
+        "en": "Generosity and Caring for the Poor"
+      },
+      "ref": "Proverbs 11:24-25; 14:21; 14:31; 19:17; 22:9",
+      "section": "Generosity and Caring for the Poor (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson25",
+      "title": {
+        "en": "Train Up a Child"
+      },
+      "ref": "Proverbs 13:24; 15:32; 19:18; 22:6; 29:17",
+      "section": "Discipline and Training Children (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson26",
+      "title": {
+        "en": "A Good Name Is Better Than Riches"
+      },
+      "ref": "Proverbs 11:28; 16:8; 22:1; 22:7; 23:4-5",
+      "section": "Money and Riches (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson27",
+      "title": {
+        "en": "The Lord Determines Our Steps"
+      },
+      "ref": "Proverbs 16:1-3; 16:9; 16:33; 19:21; 21:30-31",
+      "section": "Trusting God's Plans (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson28",
+      "title": {
+        "en": "The Joy of a Godly Family"
+      },
+      "ref": "Proverbs 15:20; 17:6; 17:25; 20:7; 23:22-25",
+      "section": "Family — Parents and Children (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson29",
+      "title": {
+        "en": "Justice for the Poor and the Wronged"
+      },
+      "ref": "Proverbs 17:15; 17:26; 21:3; 24:23-25; 29:7",
+      "section": "Justice and Fairness (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson30",
+      "title": {
+        "en": "A City Without Walls"
+      },
+      "ref": "Proverbs 20:1; 23:19-21; 23:29-35; 25:16; 25:28",
+      "section": "Self-Control Over Desires (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson31",
+      "title": {
+        "en": "The Mocker Who Won't Be Corrected"
+      },
+      "ref": "Proverbs 9:7-8; 13:1; 15:12; 21:24; 22:10",
+      "section": "The Mocker — A Sharper Kind of Fool (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson32",
+      "title": {
+        "en": "What Makes a Good Leader"
+      },
+      "ref": "Proverbs 16:10-15; 20:8,26,28; 25:2-7; 29:2,4,12,14",
+      "section": "Wisdom for Rulers and Leaders (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson33",
+      "title": {
+        "en": "Words That Spread Like Fire"
+      },
+      "ref": "Proverbs 11:13; 16:28; 18:8; 20:19; 26:20-22",
+      "section": "Gossip and Slander (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson34",
+      "title": {
+        "en": "A Heart at Peace, Not a Heart That Wants More"
+      },
+      "ref": "Proverbs 14:30; 23:17; 27:4; 30:15-16",
+      "section": "Contentment Versus Envy (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson35",
+      "title": {
+        "en": "Plans Succeed With Many Advisers"
+      },
+      "ref": "Proverbs 11:14; 12:15; 15:22; 19:20; 24:6",
+      "section": "The Value of Good Counsel (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson36",
+      "title": {
+        "en": "Do Not Boast About Tomorrow"
+      },
+      "ref": "Proverbs 14:12; 14:32; 16:25; 21:16; 27:1",
+      "section": "The Brevity of Life and the Two Roads (Proverbs of Solomon)"
+    },
+    {
+      "id": "lesson37",
+      "title": {
+        "en": "Four Things Too Wonderful to Understand"
+      },
+      "ref": "Proverbs 30:1-33",
+      "section": "The Sayings of Agur"
+    },
+    {
+      "id": "lesson38",
+      "title": {
+        "en": "A Mother's Wisdom for a King"
+      },
+      "ref": "Proverbs 31:1-9",
+      "section": "The Sayings of King Lemuel"
+    },
+    {
+      "id": "lesson39",
+      "title": {
+        "en": "Worth More Than Rubies"
+      },
+      "ref": "Proverbs 31:10-31",
+      "section": "The Wife of Noble Character"
+    }
+  ]
+}

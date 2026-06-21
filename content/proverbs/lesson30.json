@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "A City Without Walls"
+  },
+  "ref": "Proverbs 20:1; 23:19-21; 23:29-35; 25:16; 25:28",
+  "section": "Self-Control Over Desires (Proverbs of Solomon)",
+  "blocks": [
+    {
+      "type": "story",
+      "heading": {
+        "en": "Letting anything rule over you"
+      },
+      "body": {
+        "en": "'Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.' Proverbs is direct about the danger of letting any substance or appetite take control of good judgment.\n\n'Do not join those who drink too much wine or gorge themselves on meat, for drunkards and gluttons become poor, and drowsiness clothes them in rags.' Proverbs links uncontrolled appetite directly to a person's whole life unraveling.\n\nOne striking passage even paints a vivid, almost comical picture of someone trapped by excess: bloodshot eyes, the world feeling like it's spinning, waking up and immediately wanting more of exactly what caused the problem in the first place.\n\nBut the underlying principle reaches further than just food or drink: 'like a city whose walls are broken through is a person who lacks self-control.' Without self-control, a person is left exposed and vulnerable, the way a city without walls has no protection at all.\n\n'If you find honey, eat just enough — too much of it, and you will vomit.' Even good, enjoyable things become harmful without moderation. The wisdom here isn't about avoiding pleasure entirely — it's about not letting any desire become the master instead of staying the servant."
+      }
+    },
+    {
+      "type": "memory_verse",
+      "verse": {
+        "en": "Like a city whose walls are broken through is a person who lacks self-control."
+      },
+      "ref": {
+        "en": "Proverbs 25:28 (NIV)"
+      },
+      "scramble_words": {
+        "en": [
+          "like",
+          "a",
+          "city",
+          "whose",
+          "walls",
+          "are",
+          "broken",
+          "through",
+          "is",
+          "a",
+          "person",
+          "who",
+          "lacks",
+          "self-control"
+        ]
+      },
+      "typing_challenge": true
+    },
+    {
+      "type": "song",
+      "title": {
+        "en": "A Song for A City Without Walls"
+      },
+      "audio_en": "/static/audio/proverbs/lesson30_en.mp3"
+    },
+    {
+      "type": "quiz",
+      "questions": [
+        {
+          "q": {
+            "en": "What does Proverbs 20:1 say wine and beer can do to a person?"
+          },
+          "options": {
+            "en": [
+              "Nothing significant",
+              "Lead astray someone who isn't wise — they're called a 'mocker' and a 'brawler'",
+              "Always make someone wiser",
+              "Have no real effect"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What is a person who lacks self-control compared to in Proverbs 25:28?"
+          },
+          "options": {
+            "en": [
+              "A strong fortress",
+              "A city whose walls are broken through — exposed and vulnerable",
+              "A peaceful garden",
+              "Nothing in particular"
+            ]
+          },
+          "answer": 1
+        },
+        {
+          "q": {
+            "en": "What does Proverbs 25:16 teach about even good things, like honey?"
+          },
+          "options": {
+            "en": [
+              "Eat as much as possible always",
+              "Eat just enough — too much becomes harmful",
+              "Avoid honey entirely",
+              "Honey has no real lesson to teach"
+            ]
+          },
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "printable",
+      "items": [
+        {
+          "label": {
+            "en": "Activity sheet: A City Without Walls"
+          },
+          "file": "/static/printables/proverbs/lesson30_sheet.pdf"
+        }
+      ]
+    },
+    {
+      "type": "parent_guide",
+      "body": {
+        "en": "Big idea: self-control over appetites and desires — not just toward clearly harmful things, but even toward good things like food — is treated as essential protection, pictured vividly as a city's defensive walls. Without that self-control, a person is left exposed and vulnerable in a way that affects every other area of life, not just the specific appetite in question.\n\nConversation starters: (1) What does the image of \"a city whose walls are broken through\" teach about why self-control matters so much? (2) Why might even good things (like Proverbs' example of honey) become harmful without moderation? (3) What's one area in your own life where self-control protects you, like a city wall?\n\nPray for self-control over every appetite and desire, trusting it as genuine protection, not just restriction."
+      }
+    }
+  ]
+}
