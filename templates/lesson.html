@@ -21,8 +21,14 @@
 
     {% if b.type == 'story' %}
     <section class="block story">
-      <h2>{{ t(b.heading) }}</h2>
-      {{ t(b.body)|paragraphs }}
+      <div class="story-head-row">
+        <h2>{{ t(b.heading) }}</h2>
+        <button class="btn small ghost tts-btn" data-target="story-text-{{ loop.index }}"
+          aria-label="{{ t({'en':'Listen to this story','es':'Escuchar esta historia','fr':'Écouter cette histoire'}) }}">
+          🔊 {{ t({'en':'Listen','es':'Escuchar','fr':'Écouter'}) }}
+        </button>
+      </div>
+      <div id="story-text-{{ loop.index }}">{{ t(b.body)|paragraphs }}</div>
     </section>
 
     {% elif b.type == 'memory_verse' %}

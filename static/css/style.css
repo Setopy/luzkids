@@ -226,6 +226,12 @@ a.card:hover .card-emoji { transform: scale(1.18) rotate(8deg); }
 .block.printable   { border-left: 10px solid var(--sea); }
 .block.guide       { border-left: 10px solid var(--meadow); background: #f3f8f4; }
 .block.story p { font-size: 1.08rem; }
+.story-head-row {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: .8rem; flex-wrap: wrap; margin-bottom: .6rem;
+}
+.story-head-row h2 { margin: 0; }
+.tts-btn { flex: none; white-space: nowrap; }
 
 .verse-block blockquote {
   margin: 0 0 1.1rem; font-size: 1.2rem; font-weight: 800;

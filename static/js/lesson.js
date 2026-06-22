@@ -191,4 +191,47 @@
       });
     });
   }
+
+  /* ---------------- read-aloud (browser Web Speech API, no recorded audio) */
+  if ("speechSynthesis" in window) {
+    const LOCALE = { en: "en-US", es: "es-ES", fr: "fr-FR" }[window.LANG] || "en-US";
+    const ttsButtons = document.querySelectorAll(".tts-btn");
+    const LABEL = {
+      listen: { en: "🔊 Listen", es: "🔊 Escuchar", fr: "🔊 Écouter" },
+      stop:   { en: "⏸ Stop",   es: "⏸ Detener",  fr: "⏸ Arrêter" },
+    };
+    let activeBtn = null;
+
+    function setLabel(btn, key) {
+      btn.textContent = LABEL[key][window.LANG] || LABEL[key].en;
+    }
+
+    function stopSpeaking() {
+      window.speechSynthesis.cancel();
+      if (activeBtn) setLabel(activeBtn, "listen");
+      activeBtn = null;
+    }
+
+    ttsButtons.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        const target = document.getElementById(btn.dataset.target);
+        if (!target) return;
+        if (activeBtn === btn) { stopSpeaking(); return; }
+        stopSpeaking();
+        const text = target.textContent.trim();
+        if (!text) return;
+        const utter = new SpeechSynthesisUtterance(text);
+        utter.lang = LOCALE;
+        utter.rate = 0.95;
+        utter.onend = utter.onerror = function () { stopSpeaking(); };
+        activeBtn = btn;
+        setLabel(btn, "stop");
+        window.speechSynthesis.speak(utter);
+      });
+    });
+
+    window.addEventListener("beforeunload", function () { window.speechSynthesis.cancel(); });
+  } else {
+    document.querySelectorAll(".tts-btn").forEach(function (btn) { btn.hidden = true; });
+  }
 })();
