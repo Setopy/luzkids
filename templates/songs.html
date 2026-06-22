@@ -34,6 +34,7 @@
       <video class="song-video" controls preload="metadata" playsinline>
         <source src="{{ s.file }}" type="video/mp4">
       </video>
+      <span class="song-play-badge" aria-hidden="true">▶</span>
     </div>
     <div class="song-info">
       <h3>{{ s.title }}</h3>
@@ -67,9 +68,15 @@
   // Pause every other video when one starts playing.
   var videos = Array.prototype.slice.call(document.querySelectorAll('.song-video'));
   videos.forEach(function (v) {
+    var wrap = v.closest('.song-video-wrap');
     v.addEventListener('play', function () {
-      videos.forEach(function (other) { if (other !== v) other.pause(); });
+      videos.forEach(function (other) {
+        if (other !== v) other.pause();
+        var w = other.closest('.song-video-wrap');
+        if (w) w.classList.toggle('is-playing', other === v);
+      });
     });
+    v.addEventListener('pause', function () { if (wrap) wrap.classList.remove('is-playing'); });
   });
 })();
 </script>
