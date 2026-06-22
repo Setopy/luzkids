@@ -8,5 +8,6 @@ gunicorn>=21.2
 psycopg2-binary>=2.9
 reportlab
 groq
+httpx
 python-dotenv
 pytest>=8.0

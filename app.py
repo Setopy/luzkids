@@ -488,12 +488,18 @@ FEEDBACK_NOTIFY_EMAIL = "aielitazit@gmail.com"
 def send_feedback_email(feedback):
     """Best-effort notification — feedback is already saved in the DB
     regardless of whether this succeeds, so failures here must never
-    break the user-facing request."""
-    password = os.environ.get("GMAIL_APP_PASSWORD")
-    if not password:
+    break the user-facing request.
+
+    Uses Resend's HTTP API rather than SMTP: Railway (and most PaaS
+    hosts) block outbound SMTP ports by default, so raw smtplib never
+    reaches Gmail's servers from production even with valid creds.
+    HTTPS isn't blocked, so an HTTP-based email API is the only
+    transport that actually works from this host.
+    """
+    api_key = os.environ.get("RESEND_API_KEY")
+    if not api_key:
         return
-    import smtplib
-    from email.mime.text import MIMEText
+    import httpx
     try:
         body = (
             f"Page: {feedback.page or '(unknown)'}\n"
@@ -501,13 +507,17 @@ def send_feedback_email(feedback):
             f"Time: {feedback.created_at} UTC\n\n"
             f"{feedback.message}"
         )
-        email = MIMEText(body, _charset="utf-8")
-        email["Subject"] = "LuzKids feedback received"
-        email["From"] = FEEDBACK_NOTIFY_EMAIL
-        email["To"] = FEEDBACK_NOTIFY_EMAIL
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=10) as smtp:
-            smtp.login(FEEDBACK_NOTIFY_EMAIL, password)
-            smtp.send_message(email)
+        httpx.post(
+            "https://api.resend.com/emails",
+            headers={"Authorization": f"Bearer {api_key}"},
+            json={
+                "from": "LuzKids <onboarding@resend.dev>",
+                "to": [FEEDBACK_NOTIFY_EMAIL],
+                "subject": "LuzKids feedback received",
+                "text": body,
+            },
+            timeout=10,
+        ).raise_for_status()
     except Exception as e:
         print("Feedback email error:", e)
 
