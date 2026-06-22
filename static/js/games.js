@@ -142,6 +142,7 @@ var questionsLeft = 3;
 
 function updateLimit() {
   if (limitMsg) {
+    limitMsg.style.display = "block";
     limitMsg.textContent = questionsLeft > 0
       ? ({"en": questionsLeft + " question(s) remaining this session",
           "es": questionsLeft + " pregunta(s) restante(s) esta sesión",
@@ -180,7 +181,10 @@ if (askBtn) {
     }).catch(function() {
       if (answerBox) { answerBox.textContent = "Sorry — something went wrong. Try again!"; }
     }).finally(function() {
-      if (askBtn) { askBtn.disabled = false; askBtn.textContent = {"en":"Ask","es":"Preguntar","fr":"Demander"}[LANG] || "Ask"; }
+      if (askBtn) {
+        askBtn.disabled = questionsLeft <= 0;
+        askBtn.textContent = {"en":"Ask","es":"Preguntar","fr":"Demander"}[LANG] || "Ask";
+      }
     });
   });
 
