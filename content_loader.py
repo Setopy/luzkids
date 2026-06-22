@@ -67,3 +67,13 @@ def _load_lesson_cached(series_id: str, lesson_id: str):
 def load_lesson(series_id: str, lesson_id: str):
     lesson = _load_lesson_cached(series_id, lesson_id)
     return dict(lesson) if lesson is not None else None
+
+
+@lru_cache(maxsize=1)
+def load_songs():
+    """Sing-along songs: content/songs.json, a flat list of
+    {"title", "ref", "file"} — no per-lesson folder needed."""
+    f = CONTENT_DIR / "songs.json"
+    if not f.exists():
+        return []
+    return tuple(json.loads(f.read_text(encoding="utf-8")))

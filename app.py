@@ -22,7 +22,7 @@ from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 from werkzeug.security import generate_password_hash, check_password_hash
 
-from content_loader import load_all_series, load_series, load_lesson
+from content_loader import load_all_series, load_series, load_lesson, load_songs
 
 # ---------------------------------------------------------------- app setup
 app = Flask(__name__)
@@ -305,6 +305,11 @@ def index():
 @app.route("/library")
 def library():
     return render_template("library.html", series_list=load_all_series())
+
+
+@app.route("/songs")
+def songs():
+    return render_template("songs.html", songs=load_songs())
 
 
 @app.route("/series/<series_id>")

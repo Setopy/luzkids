@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block title %}{{ t({'en':'Sing-Along Songs','es':'Canciones para Cantar','fr':'Chansons à Chanter'}) }}{% endblock %}
+{% block og_tags %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LuzKids">
+<meta property="og:title" content="{{ t({'en':'Sing-Along Songs','es':'Canciones para Cantar'}) }} · LuzKids">
+<meta property="og:description" content="{{ t({'en':'Bible verses set to music — sing, learn, and hide God\'s word in your heart.','es':'Versículos bíblicos puestos en música — canta, aprende y guarda la palabra de Dios en tu corazón.'}) }}">
+<meta property="og:image" content="{{ url_for('static', filename='icons/icon-512x512.png', _external=True) }}">
+<meta property="og:url" content="{{ request.url }}">
+<meta name="twitter:card" content="summary_large_image">
+{% endblock %}
+{% block content %}
+<section class="songs-hero">
+  <div class="songs-hero-glow"></div>
+  <h1>🎵 {{ t({'en':'Sing-Along Songs','es':'Canciones para Cantar','fr':'Chansons à Chanter'}) }}</h1>
+  <p class="tagline">{{ t({
+    'en':'Scripture set to music — easy enough to sing in the car, true enough to remember for life.',
+    'es':'Escritura puesta en música — fácil de cantar en el auto, verdadera para recordar toda la vida.',
+    'fr':'L\'Écriture mise en musique — facile à chanter, vraie pour toujours.'}) }}</p>
+  <div class="songs-stats">
+    <span><strong>{{ songs|length }}</strong> {{ t({'en':'songs','es':'canciones','fr':'chansons'}) }}</span>
+  </div>
+</section>
+
+<div class="songs-toolbar">
+  <input id="song-search" type="search" autocomplete="off"
+    placeholder="{{ t({'en':'Search by title or Bible reference…','es':'Buscar por título o referencia bíblica…','fr':'Rechercher par titre ou référence…'}) }}">
+</div>
+
+<div class="songs-grid" id="songs-grid">
+  {% for s in songs %}
+  <article class="song-card" data-search="{{ (s.title ~ ' ' ~ s.ref)|lower }}" style="--hue: {{ (loop.index0 * 47) % 360 }}">
+    <div class="song-video-wrap">
+      <video class="song-video" controls preload="metadata" playsinline>
+        <source src="{{ s.file }}" type="video/mp4">
+      </video>
+    </div>
+    <div class="song-info">
+      <h3>{{ s.title }}</h3>
+      {% if s.title != s.ref %}<p class="song-ref">📖 {{ s.ref }}</p>{% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+<p id="songs-empty" class="songs-empty" hidden>{{ t({'en':'No songs match your search.','es':'Ninguna canción coincide con tu búsqueda.','fr':'Aucune chanson ne correspond.'}) }}</p>
+
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  var input = document.getElementById('song-search');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.song-card'));
+  var empty = document.getElementById('songs-empty');
+  if (!input) return;
+  input.addEventListener('input', function () {
+    var q = input.value.trim().toLowerCase();
+    var visible = 0;
+    cards.forEach(function (card) {
+      var match = !q || card.dataset.search.indexOf(q) !== -1;
+      card.hidden = !match;
+      if (match) visible++;
+    });
+    empty.hidden = visible !== 0;
+  });
+
+  // Pause every other video when one starts playing.
+  var videos = Array.prototype.slice.call(document.querySelectorAll('.song-video'));
+  videos.forEach(function (v) {
+    v.addEventListener('play', function () {
+      videos.forEach(function (other) { if (other !== v) other.pause(); });
+    });
+  });
+})();
+</script>
+{% endblock %}
