@@ -22,62 +22,119 @@
   </div>
 </section>
 
-<div class="songs-toolbar">
-  <input id="song-search" type="search" autocomplete="off"
-    placeholder="{{ t({'en':'Search by title or Bible reference…','es':'Buscar por título o referencia bíblica…','fr':'Rechercher par titre ou référence…'}) }}">
-</div>
-
-<div class="songs-grid" id="songs-grid">
-  {% for s in songs %}
-  <article class="song-card" data-search="{{ (s.title ~ ' ' ~ s.ref)|lower }}" style="--hue: {{ (loop.index0 * 47) % 360 }}">
-    <div class="song-video-wrap">
-      <video class="song-video" controls preload="metadata" playsinline>
-        <source src="{{ s.file }}" type="video/mp4">
-      </video>
-      <span class="song-play-badge" aria-hidden="true">▶</span>
+<div class="player-layout">
+  <div class="now-playing">
+    <div class="now-playing-video-wrap">
+      <video id="now-playing-video" controls playsinline></video>
     </div>
-    <div class="song-info">
-      <h3>{{ s.title }}</h3>
-      {% if s.title != s.ref %}<p class="song-ref">📖 {{ s.ref }}</p>{% endif %}
+    <div class="now-playing-info">
+      <p class="now-playing-label">{{ t({'en':'Now playing','es':'Sonando ahora','fr':'En cours'}) }}</p>
+      <h2 id="now-playing-title">—</h2>
+      <p id="now-playing-ref" class="now-playing-ref"></p>
+      <div class="player-controls">
+        <button id="player-prev" class="player-btn" aria-label="{{ t({'en':'Previous song','es':'Canción anterior'}) }}">⏮</button>
+        <button id="player-toggle" class="player-btn player-btn-main" aria-label="{{ t({'en':'Play or pause','es':'Reproducir o pausar'}) }}">▶</button>
+        <button id="player-next" class="player-btn" aria-label="{{ t({'en':'Next song','es':'Siguiente canción'}) }}">⏭</button>
+      </div>
+      <label class="autoplay-toggle">
+        <input type="checkbox" id="autoplay-check" checked>
+        {{ t({'en':'Autoplay next song','es':'Reproducir siguiente automáticamente','fr':'Lecture automatique'}) }}
+      </label>
     </div>
-  </article>
-  {% endfor %}
-</div>
+  </div>
 
-<p id="songs-empty" class="songs-empty" hidden>{{ t({'en':'No songs match your search.','es':'Ninguna canción coincide con tu búsqueda.','fr':'Aucune chanson ne correspond.'}) }}</p>
+  <div class="songs-queue">
+    <div class="songs-toolbar">
+      <input id="song-search" type="search" autocomplete="off"
+        placeholder="{{ t({'en':'Search by title or Bible reference…','es':'Buscar por título o referencia bíblica…','fr':'Rechercher par titre ou référence…'}) }}">
+    </div>
+    <ol id="songs-list" class="songs-list">
+      {% for s in songs %}
+      <li class="song-row" data-index="{{ loop.index0 }}" data-search="{{ (s.title ~ ' ' ~ s.ref)|lower }}" style="--hue: {{ (loop.index0 * 47) % 360 }}">
+        <span class="song-row-num">{{ loop.index }}</span>
+        <span class="song-row-text">
+          <span class="song-row-title">{{ s.title }}</span>
+          {% if s.title != s.ref %}<span class="song-row-ref">📖 {{ s.ref }}</span>{% endif %}
+        </span>
+        <span class="song-row-playing" aria-hidden="true">♪</span>
+      </li>
+      {% endfor %}
+    </ol>
+    <p id="songs-empty" class="songs-empty" hidden>{{ t({'en':'No songs match your search.','es':'Ninguna canción coincide con tu búsqueda.','fr':'Aucune chanson ne correspond.'}) }}</p>
+  </div>
+</div>
 
 {% endblock %}
 {% block scripts %}
 <script>
+var SONGS = {{ songs|tojson }};
 (function () {
+  var video = document.getElementById('now-playing-video');
+  var titleEl = document.getElementById('now-playing-title');
+  var refEl = document.getElementById('now-playing-ref');
+  var rows = Array.prototype.slice.call(document.querySelectorAll('.song-row'));
+  var toggleBtn = document.getElementById('player-toggle');
+  var prevBtn = document.getElementById('player-prev');
+  var nextBtn = document.getElementById('player-next');
+  var autoplayCheck = document.getElementById('autoplay-check');
   var input = document.getElementById('song-search');
-  var cards = Array.prototype.slice.call(document.querySelectorAll('.song-card'));
   var empty = document.getElementById('songs-empty');
-  if (!input) return;
-  input.addEventListener('input', function () {
-    var q = input.value.trim().toLowerCase();
-    var visible = 0;
-    cards.forEach(function (card) {
-      var match = !q || card.dataset.search.indexOf(q) !== -1;
-      card.hidden = !match;
-      if (match) visible++;
+  var current = -1;
+
+  function load(index, autoplay) {
+    if (index < 0 || index >= SONGS.length) return;
+    current = index;
+    var s = SONGS[index];
+    video.src = s.file;
+    titleEl.textContent = s.title;
+    refEl.textContent = (s.title !== s.ref) ? ('📖 ' + s.ref) : '';
+    rows.forEach(function (r) {
+      r.classList.toggle('is-current', parseInt(r.dataset.index, 10) === index);
     });
-    empty.hidden = visible !== 0;
+    var activeRow = rows[index];
+    if (activeRow) activeRow.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    if (autoplay) { video.play().catch(function () {}); }
+  }
+
+  function nextVisibleIndex(from, dir) {
+    var visible = rows.filter(function (r) { return !r.hidden; }).map(function (r) { return parseInt(r.dataset.index, 10); });
+    if (!visible.length) return -1;
+    var pos = visible.indexOf(from);
+    if (pos === -1) return visible[0];
+    pos = (pos + dir + visible.length) % visible.length;
+    return visible[pos];
+  }
+
+  rows.forEach(function (r) {
+    r.addEventListener('click', function () { load(parseInt(r.dataset.index, 10), true); });
   });
 
-  // Pause every other video when one starts playing.
-  var videos = Array.prototype.slice.call(document.querySelectorAll('.song-video'));
-  videos.forEach(function (v) {
-    var wrap = v.closest('.song-video-wrap');
-    v.addEventListener('play', function () {
-      videos.forEach(function (other) {
-        if (other !== v) other.pause();
-        var w = other.closest('.song-video-wrap');
-        if (w) w.classList.toggle('is-playing', other === v);
-      });
-    });
-    v.addEventListener('pause', function () { if (wrap) wrap.classList.remove('is-playing'); });
+  video.addEventListener('play', function () { toggleBtn.textContent = '⏸'; });
+  video.addEventListener('pause', function () { toggleBtn.textContent = '▶'; });
+  video.addEventListener('ended', function () {
+    if (autoplayCheck.checked) load(nextVisibleIndex(current, 1), true);
   });
+
+  toggleBtn.addEventListener('click', function () {
+    if (video.paused) video.play().catch(function () {}); else video.pause();
+  });
+  prevBtn.addEventListener('click', function () { load(nextVisibleIndex(current, -1), true); });
+  nextBtn.addEventListener('click', function () { load(nextVisibleIndex(current, 1), true); });
+
+  if (input) {
+    input.addEventListener('input', function () {
+      var q = input.value.trim().toLowerCase();
+      var visible = 0;
+      rows.forEach(function (r) {
+        var match = !q || r.dataset.search.indexOf(q) !== -1;
+        r.hidden = !match;
+        if (match) visible++;
+      });
+      empty.hidden = visible !== 0;
+    });
+  }
+
+  if (SONGS.length) load(0, false);
 })();
 </script>
 {% endblock %}
