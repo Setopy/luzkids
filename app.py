@@ -26,12 +26,13 @@ from content_loader import load_all_series, load_series, load_lesson
 
 # ---------------------------------------------------------------- app setup
 app = Flask(__name__)
-# Railway terminates TLS at a single reverse-proxy hop in front of the app.
-# Without this, request.remote_addr is the proxy's address (and can vary
-# per request), which breaks anything keyed on client IP — e.g. the AI
+# Railway routes through two proxy hops in front of the app (an edge LB,
+# then an internal proxy that also re-appends its own IP). Without this,
+# request.remote_addr is one of those hops' addresses (and varies per
+# request), which breaks anything keyed on client IP — e.g. the AI
 # rate limiter below never accumulates because every request looks like
-# a different "client".
-app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
+# a different "client". x_for=2 unwraps both hops to reach the real client.
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=2, x_proto=1, x_host=1)
 app.config["SECRET_KEY"] = os.environ.get("SECRET_KEY", "dev-only-change-me")
 app.config["SESSION_COOKIE_SECURE"] = True
 app.config["SESSION_COOKIE_SAMESITE"] = "Lax"
