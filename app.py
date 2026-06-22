@@ -501,13 +501,6 @@ def feedback_list():
 
 
 
-@app.route("/_debug_whoami")
-def _debug_whoami():
-    return jsonify(remote_addr=request.remote_addr,
-                   x_forwarded_for=request.headers.get("X-Forwarded-For"),
-                   x_forwarded_proto=request.headers.get("X-Forwarded-Proto"))
-
-
 # ----------------------------------------------------- AI companion (Groq free tier)
 @app.errorhandler(429)
 def rate_limit_exceeded(e):
@@ -521,8 +514,19 @@ def rate_limit_exceeded(e):
     return e
 
 
+def _ask_rate_key():
+    # Key by account, not IP: kids on mobile/CGNAT networks can appear to
+    # change IP address between requests, which would make an IP-keyed
+    # limit useless (or worse, randomly punish unrelated users sharing
+    # an IP). The route already requires login, so the account id is a
+    # stable, meaningful unit to rate-limit.
+    if current_user.is_authenticated:
+        return f"user:{current_user.id}"
+    return get_remote_address()
+
+
 @app.route("/api/ask", methods=["POST"])
-@limiter.limit("6/minute;40/day")
+@limiter.limit("6/minute;40/day", key_func=_ask_rate_key)
 def api_ask():
     if not current_user.is_authenticated:
         return jsonify(answer="Please log in to use the AI companion."), 200
