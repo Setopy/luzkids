@@ -12,6 +12,7 @@ from functools import wraps
 
 from flask import (Flask, render_template, redirect, url_for, request,
                    session, flash, jsonify, abort)
+from werkzeug.middleware.proxy_fix import ProxyFix
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 from flask_login import (LoginManager, UserMixin, login_user, logout_user,
@@ -25,6 +26,12 @@ from content_loader import load_all_series, load_series, load_lesson
 
 # ---------------------------------------------------------------- app setup
 app = Flask(__name__)
+# Railway terminates TLS at a single reverse-proxy hop in front of the app.
+# Without this, request.remote_addr is the proxy's address (and can vary
+# per request), which breaks anything keyed on client IP — e.g. the AI
+# rate limiter below never accumulates because every request looks like
+# a different "client".
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
 app.config["SECRET_KEY"] = os.environ.get("SECRET_KEY", "dev-only-change-me")
 app.config["SESSION_COOKIE_SECURE"] = True
 app.config["SESSION_COOKIE_SAMESITE"] = "Lax"
