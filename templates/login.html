@@ -4,6 +4,7 @@
 <section class="auth-card">
   <h1>{{ t({'en':'Welcome back','es':'Bienvenido de nuevo'}) }}</h1>
   <form method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
     <label>{{ t({'en':'Email','es':'Correo'}) }}<input type="email" name="email" required></label>
     <label>{{ t({'en':'Password','es':'Contraseña'}) }}<input type="password" name="password" required></label>
     <button class="btn big" type="submit">{{ t({'en':'Log in','es':'Entrar'}) }}</button>

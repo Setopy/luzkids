@@ -2,8 +2,18 @@
 <html lang="{{ get_lang() }}">
 <head>
 <meta charset="utf-8">
+<meta name="csrf-token" content="{{ csrf_token() }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}LuzKids{% endblock %} · LuzKids</title>
+{% block og_tags %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LuzKids">
+<meta property="og:title" content="LuzKids — {{ t({'en':'Interactive Bible studies for kids','es':'Estudios bíblicos interactivos para niños'}) }}">
+<meta property="og:description" content="{{ t({'en':'Free, interactive Bible studies that light up Scripture for kids — in every language.','es':'Estudios bíblicos interactivos y gratuitos que iluminan la Escritura para niños — en cada idioma.'}) }}">
+<meta property="og:image" content="{{ url_for('static', filename='icons/icon-512x512.png', _external=True) }}">
+<meta property="og:url" content="{{ request.url }}">
+<meta name="twitter:card" content="summary_large_image">
+{% endblock %}
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#f6ab3a">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -53,6 +63,7 @@
 <details class="report-box">
   <summary>⚑ {{ t({'en':'Report an issue','es':'Reportar un problema','fr':'Signaler un problème'}) }}</summary>
   <form method="post" action="{{ url_for('feedback_submit') }}">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
     <input type="hidden" name="page" value="{{ request.path }}">
     <textarea name="message" rows="3" required maxlength="2000"
       placeholder="{{ t({'en':'A typo, a wrong translation, anything off — tell us.','es':'Un error, una mala traducción, lo que sea — cuéntanos.','fr':'Une faute, une mauvaise traduction, quoi que ce soit — dites-nous.'}) }}"></textarea>

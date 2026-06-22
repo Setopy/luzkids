@@ -17,6 +17,7 @@
   <div class="mission-add-card card">
     <h3>{{ t({'en':'Add someone to pray for','es':'Agregar a alguien para orar','fr':'Ajouter quelqu\'un à prier'}) }}</h3>
     <form method="post" action="{{ url_for('mission_add') }}">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
       <div class="mission-add-row">
         <input name="name" required maxlength="100"
           placeholder="{{ t({'en':'Friend\'s or family member\'s name','es':'Nombre de un amigo o familiar','fr':'Nom d\'un ami ou d\'un membre de la famille'}) }}" />
@@ -41,21 +42,25 @@
       {% if tgt.notes %}<p class="meta mission-notes">{{ tgt.notes }}</p>{% endif %}
       <div class="mission-actions">
         <form method="post" action="{{ url_for('mission_toggle', target_id=tgt.id, field='prayed_today') }}" style="display:inline">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
           <button class="mission-btn {{ 'active' if tgt.prayed_today }}" type="submit">
             🙏 {{ t({'en':'Prayed','es':'Oré','fr':'Prié'}) }}
           </button>
         </form>
         <form method="post" action="{{ url_for('mission_toggle', target_id=tgt.id, field='shared_gospel') }}" style="display:inline">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
           <button class="mission-btn {{ 'active' if tgt.shared_gospel }}" type="submit">
             📢 {{ t({'en':'Shared Jesus','es':'Compartí a Jesús','fr':'Partagé Jésus'}) }}
           </button>
         </form>
         <form method="post" action="{{ url_for('mission_toggle', target_id=tgt.id, field='responded') }}" style="display:inline">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
           <button class="mission-btn {{ 'won' if tgt.responded }}" type="submit">
             💛 {{ t({'en':'They responded!','es':'¡Respondió!','fr':'A répondu !'}) }}
           </button>
         </form>
         <form method="post" action="{{ url_for('mission_delete', target_id=tgt.id) }}" style="display:inline">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
           <button class="mission-btn del" type="submit" onclick="return confirm('Remove {{ tgt.name }}?')">✕</button>
         </form>
       </div>

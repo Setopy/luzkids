@@ -1,5 +1,14 @@
 {% extends "base.html" %}
 {% block title %}{{ t(lesson.title) }}{% endblock %}
+{% block og_tags %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LuzKids">
+<meta property="og:title" content="{{ t(lesson.title) }} · {{ t(series.title) }} · LuzKids">
+<meta property="og:description" content="{{ lesson.ref }} — {{ t(series.description) }}">
+<meta property="og:image" content="{{ url_for('static', filename='icons/icon-512x512.png', _external=True) }}">
+<meta property="og:url" content="{{ request.url }}">
+<meta name="twitter:card" content="summary_large_image">
+{% endblock %}
 {% block content %}
 <article class="lesson" data-series="{{ series.id }}" data-lesson="{{ lesson.id }}">
   <header class="lesson-head" style="--accent: {{ series.color }}">

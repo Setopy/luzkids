@@ -13,8 +13,12 @@ from functools import wraps
 from flask import (Flask, render_template, redirect, url_for, request,
                    session, flash, jsonify, abort)
 from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
 from flask_login import (LoginManager, UserMixin, login_user, logout_user,
                          login_required, current_user)
+from flask_wtf import CSRFProtect
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
 from werkzeug.security import generate_password_hash, check_password_hash
 
 from content_loader import load_all_series, load_series, load_lesson
@@ -30,8 +34,11 @@ app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
 db = SQLAlchemy(app)
+migrate = Migrate(app, db)
 login_manager = LoginManager(app)
 login_manager.login_view = "login"
+csrf = CSRFProtect(app)
+limiter = Limiter(get_remote_address, app=app, default_limits=[])
 
 # Verified languages are human-reviewed; AI languages are machine-translated
 # (translate_series.py) and badged as such in the UI.
@@ -322,7 +329,6 @@ def api_complete():
                                    series_id=data["series_id"],
                                    lesson_id=data["lesson_id"]).first()
     already_done = row and row.completed
-    total_q = 0  # defined here so always in scope
     if not row:
         row = Progress(child_id=child.id, series_id=data["series_id"],
                        lesson_id=data["lesson_id"])
@@ -331,19 +337,16 @@ def api_complete():
     row.quiz_score = data.get("quiz_score")
     row.completed_at = datetime.utcnow()
 
+    series = load_series(data["series_id"])
+    lesson = load_lesson(data["series_id"], data["lesson_id"])
+    total_q = 0
+    for b in (lesson or {}).get("blocks", []):
+        if b["type"] == "quiz":
+            total_q = len(b["questions"])
+
     rank_up = False
     xp_earned = 0
     if not already_done:
-        # XP
-        series = load_series(data["series_id"])
-        total_q = 0
-        for l in (series or {}).get("lessons", []):
-            if l["id"] == data["lesson_id"]:
-                from content_loader import load_lesson
-                les = load_lesson(data["series_id"], data["lesson_id"])
-                for b in (les or {}).get("blocks", []):
-                    if b["type"] == "quiz":
-                        total_q = len(b["questions"])
         xp_earned = xp_for_lesson(data.get("quiz_score"), total_q)
         old_rank = get_rank(child.xp)
         child.xp = (child.xp or 0) + xp_earned
@@ -365,7 +368,6 @@ def api_complete():
     db.session.commit()
 
     # check series complete
-    series = load_series(data["series_id"])
     series_complete = False
     if series:
         total = len(series["lessons"])
@@ -493,6 +495,7 @@ def feedback_list():
 
 # ----------------------------------------------------- AI companion (Groq free tier)
 @app.route("/api/ask", methods=["POST"])
+@limiter.limit("6/minute;40/day")
 def api_ask():
     if not current_user.is_authenticated:
         return jsonify(answer="Please log in to use the AI companion."), 200
@@ -691,8 +694,8 @@ def service_worker():
 
 
 # ---------------------------------------------------------------- main
-with app.app_context():
-    db.create_all()
+# Schema is managed by Flask-Migrate now (see migrations/). Run
+# `flask db upgrade` on deploy instead of relying on db.create_all().
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))

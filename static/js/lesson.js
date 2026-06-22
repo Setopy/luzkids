@@ -143,7 +143,8 @@
     btn.addEventListener("click", function () {
       fetch("/api/complete", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: { "Content-Type": "application/json",
+                   "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content },
         body: JSON.stringify({ series_id: seriesId, lesson_id: lessonId,
                                quiz_score: quizScore })
       }).then(r => r.json()).then(function (d) {

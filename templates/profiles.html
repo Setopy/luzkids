@@ -13,6 +13,7 @@
     {% endfor %}
     {% if current_user.children|length < current_user.max_children %}
     <form class="card add-profile" method="post">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
       <input name="name" placeholder="{{ t({'en':'Child\'s name','es':'Nombre del niño'}) }}" required>
       <select name="avatar">
         {% for e in ['🌟','🦁','🐑','🕊️','🌈','🛡️','🎺','🌻'] %}<option>{{ e }}</option>{% endfor %}

@@ -165,7 +165,8 @@ if (askBtn) {
 
     fetch("/api/ask", {
       method: "POST",
-      headers: {"Content-Type": "application/json"},
+      headers: {"Content-Type": "application/json",
+                "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content},
       body: JSON.stringify({question: q, series_id: SERIES_ID, lesson_id: LESSON_ID, lang: LANG})
     }).then(function(r) { return r.json(); }).then(function(d) {
       if (answerBox) {

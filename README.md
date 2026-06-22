@@ -18,7 +18,21 @@ python app.py            # http://localhost:5000
 2. Set env vars: `SECRET_KEY` (random string), and add a Postgres plugin —
    Railway injects `DATABASE_URL` automatically (the code converts the
    legacy `postgres://` prefix).
-3. Procfile is included; Railway runs gunicorn automatically.
+3. Procfile is included; Railway runs `flask db upgrade` as a release step,
+   then gunicorn.
+
+### One-time migration bootstrap on the existing production database
+Schema is now managed by Flask-Migrate/Alembic (`migrations/`) instead of
+`db.create_all()`. Production already has tables matching the current
+models (created previously by `db.create_all()` / `migrate_increment3.py`),
+so on the **first** deploy after this change, stamp the baseline instead of
+running it, or Alembic will try to create tables that already exist:
+```
+railway run flask db stamp 35e0b42b1f2e
+```
+After that one-time stamp, future schema changes go through the normal
+`flask db migrate -m "..."` / `flask db upgrade` flow, and the release step
+in the Procfile handles upgrades automatically on every deploy.
 
 ## Before charging real money (launch checklist)
 - [ ] Replace the `/subscribe/<plan>` stub with Stripe Checkout + webhook

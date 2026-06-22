@@ -4,6 +4,7 @@
 <section class="auth-card">
   <h1>{{ t({'en':'Create your family account','es':'Crea tu cuenta familiar'}) }}</h1>
   <form method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
     <label>{{ t({'en':'Your name','es':'Tu nombre'}) }}<input name="name" required></label>
     <label>{{ t({'en':'Email','es':'Correo'}) }}<input type="email" name="email" required></label>
     <label>{{ t({'en':'Password','es':'Contraseña'}) }}<input type="password" name="password" minlength="8" required></label>
