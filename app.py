@@ -493,7 +493,6 @@ def feedback_list():
 
 # ----------------------------------------------------- AI companion (Groq free tier)
 @app.route("/api/ask", methods=["POST"])
-@login_required
 def api_ask():
     if not current_user.is_authenticated:
         return jsonify(answer="Please log in to use the AI companion."), 200
