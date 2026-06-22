@@ -482,13 +482,45 @@ def dashboard():
 
 
 # ----------------------------------------------------- feedback
+FEEDBACK_NOTIFY_EMAIL = "aielitazit@gmail.com"
+
+
+def send_feedback_email(feedback):
+    """Best-effort notification — feedback is already saved in the DB
+    regardless of whether this succeeds, so failures here must never
+    break the user-facing request."""
+    password = os.environ.get("GMAIL_APP_PASSWORD")
+    if not password:
+        return
+    import smtplib
+    from email.mime.text import MIMEText
+    try:
+        body = (
+            f"Page: {feedback.page or '(unknown)'}\n"
+            f"Language: {feedback.lang or '(unknown)'}\n"
+            f"Time: {feedback.created_at} UTC\n\n"
+            f"{feedback.message}"
+        )
+        email = MIMEText(body, _charset="utf-8")
+        email["Subject"] = "LuzKids feedback received"
+        email["From"] = FEEDBACK_NOTIFY_EMAIL
+        email["To"] = FEEDBACK_NOTIFY_EMAIL
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=10) as smtp:
+            smtp.login(FEEDBACK_NOTIFY_EMAIL, password)
+            smtp.send_message(email)
+    except Exception as e:
+        print("Feedback email error:", e)
+
+
 @app.route("/feedback/submit", methods=["POST"])
 def feedback_submit():
     msg = request.form.get("message", "").strip()
     if msg:
-        db.session.add(Feedback(page=request.form.get("page", "")[:200],
-                                lang=get_lang(), message=msg[:2000]))
+        feedback = Feedback(page=request.form.get("page", "")[:200],
+                            lang=get_lang(), message=msg[:2000])
+        db.session.add(feedback)
         db.session.commit()
+        send_feedback_email(feedback)
         flash(t({"en": "Thank you! Your report helps us improve every language.",
                  "es": "¡Gracias! Tu reporte nos ayuda a mejorar cada idioma.",
                  "fr": "Merci ! Votre signalement nous aide à améliorer chaque langue."}))
