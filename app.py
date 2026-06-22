@@ -509,6 +509,7 @@ def api_ask():
     if not key:
         return jsonify(answer="The AI companion needs a GROQ_API_KEY. Ask your parent to set it up!")
     lesson = load_lesson(series_id, lesson_id)
+    series = load_series(series_id)
     lesson_text = ""
     if lesson:
         for b in lesson.get("blocks", []):
