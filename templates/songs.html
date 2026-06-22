@@ -50,7 +50,7 @@
     </div>
     <ol id="songs-list" class="songs-list">
       {% for s in songs %}
-      <li class="song-row" data-index="{{ loop.index0 }}" data-search="{{ (s.title ~ ' ' ~ s.ref)|lower }}" style="--hue: {{ (loop.index0 * 47) % 360 }}">
+      <li class="song-row" data-index="{{ loop.index0 }}" data-search="{{ (s.title ~ ' ' ~ s.ref)|lower }}">
         <span class="song-row-num">{{ loop.index }}</span>
         <span class="song-row-text">
           <span class="song-row-title">{{ s.title }}</span>

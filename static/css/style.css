@@ -15,6 +15,7 @@
   --berry: #c45d83;
   --sea: #5b7bd5;
   --radius: 22px;
+  --radius-sm: 14px;
   --shadow: 0 8px 28px rgba(18, 23, 46, .14);
   --bounce: cubic-bezier(.34, 1.56, .64, 1);
 }
@@ -336,6 +337,7 @@ button.word-chip:hover { transform: translateY(-3px) rotate(-2deg); }
   text-decoration: none; transition: background .15s, transform .15s;
 }
 .footer-contact-link:hover { background: rgba(255,255,255,.22); transform: translateY(-1px); }
+.footer-contact-link svg { width: 16px; height: 16px; flex: none; }
 
 /* accessibility & responsive */
 :focus-visible { outline: 4px solid var(--sea); outline-offset: 2px; border-radius: 6px; }
@@ -852,12 +854,17 @@ h2.center::after {
   background: linear-gradient(135deg, var(--lamp), #ffcf6b);
   color: var(--sky-deep) !important; padding: .4rem 1rem; border-radius: 999px;
   font-weight: 800 !important; box-shadow: 0 3px 10px var(--lamp-glow);
-  animation: songs-pulse 2.6s ease-in-out infinite;
+  transition: box-shadow .2s, transform .2s;
+  animation: songs-pop .5s var(--bounce) both;
 }
-.songs-nav-link:hover { color: var(--sky-deep) !important; transform: translateY(-1px); }
-@keyframes songs-pulse {
-  0%, 100% { box-shadow: 0 3px 10px var(--lamp-glow); }
-  50% { box-shadow: 0 3px 18px var(--lamp-glow), 0 0 0 4px rgba(246,171,58,.18); }
+.songs-nav-link svg { width: 14px; height: 14px; }
+.songs-nav-link:hover {
+  color: var(--sky-deep) !important; transform: translateY(-1px);
+  box-shadow: 0 4px 14px var(--lamp-glow);
+}
+@keyframes songs-pop {
+  0% { transform: scale(.6); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
 }
 
 /* ============================== Sing-Along Songs */
@@ -937,10 +944,10 @@ h2.center::after {
 .songs-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .4rem; }
 .song-row {
   display: flex; align-items: center; gap: .8rem; padding: .55rem .9rem;
-  background: #fff; border: 2px solid #f1e8d6; border-left: 5px solid hsl(var(--hue, 35) 70% 60%);
-  border-radius: 12px; cursor: pointer; transition: background .15s, transform .12s;
+  background: #fff; border: 2px solid #f1e8d6; border-left: 5px solid transparent;
+  border-radius: var(--radius-sm); cursor: pointer; transition: background .15s, transform .12s, border-color .15s;
 }
-.song-row:hover { background: #fff8e9; transform: translateX(2px); }
+.song-row:hover { background: #fff8e9; transform: translateX(2px); border-left-color: var(--lamp-soft); }
 .song-row.is-current { background: linear-gradient(90deg, #fff3da, #fff); border-color: var(--lamp); }
 .song-row-num {
   flex: 0 0 1.6rem; text-align: center; font-family: 'Fredoka'; font-weight: 700;

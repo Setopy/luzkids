@@ -8,7 +8,7 @@
    (stale cache, undefined Response, rejected fetch events) that come from
    trying to be clever about caching dynamic content. */
 
-const CACHE = "luzkids-static-v9";
+const CACHE = "luzkids-static-v10";
 const PRECACHE = [
   "/static/css/style.css",
   "/static/js/lesson.js",
