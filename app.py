@@ -494,6 +494,18 @@ def feedback_list():
 
 
 # ----------------------------------------------------- AI companion (Groq free tier)
+@app.errorhandler(429)
+def rate_limit_exceeded(e):
+    if request.path == "/api/ask":
+        return jsonify(answer=t({
+            "en": "Whoa, lots of questions! Take a little break and try again in a few minutes.",
+            "es": "¡Vaya, muchas preguntas! Toma un descanso y vuelve a intentarlo en unos minutos.",
+            "fr": "Beaucoup de questions ! Fais une petite pause et réessaie dans quelques minutes.",
+            "pt": "Uau, muitas perguntas! Faça uma pequena pausa e tente novamente em alguns minutos."
+        }), rate_limited=True), 429
+    return e
+
+
 @app.route("/api/ask", methods=["POST"])
 @limiter.limit("6/minute;40/day")
 def api_ask():

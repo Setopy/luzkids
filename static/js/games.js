@@ -169,6 +169,10 @@ if (askBtn) {
                 "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content},
       body: JSON.stringify({question: q, series_id: SERIES_ID, lesson_id: LESSON_ID, lang: LANG})
     }).then(function(r) { return r.json(); }).then(function(d) {
+      if (d.rate_limited) {
+        questionsLeft++;
+        updateLimit();
+      }
       if (answerBox) {
         answerBox.hidden = false;
         answerBox.textContent = d.answer || d.error || "Sorry, I couldn't answer that right now.";
