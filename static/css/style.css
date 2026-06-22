@@ -12,7 +12,9 @@
   --paper: #fdf7ec;
   --ink: #2b2b33;
   --meadow: #4f9d69;
-  --berry: #c45d83;
+  --berry: #a13d63; /* darkened from #c45d83 — that shade was 4.01:1 on
+                        white, just under WCAG AA's 4.5:1 for body text;
+                        this hits 6.24:1 while staying clearly "berry" */
   --sea: #5b7bd5;
   --radius: 22px;
   --radius-sm: 14px;
@@ -213,12 +215,15 @@ a.card:hover .card-emoji { transform: scale(1.18) rotate(8deg); }
   padding: 1.5rem 1.6rem; margin: 1.6rem 0;
 }
 .block h2 { margin: 0 0 .6rem; font-size: 1.35rem; display: flex; align-items: center; gap: .4rem; }
-/* colour-coded left ribbons per block type */
+/* colour-coded left ribbons per block type — three meaningful hues,
+   not five: gold is Scripture itself, blue is narrative/interaction,
+   green is achievement (matches its use as the "correct/success"
+   color everywhere else in the app, e.g. quiz answers, badges). */
 .block.story       { border-left: 10px solid var(--sea); }
 .block.verse-block { border-left: 10px solid var(--lamp); }
-.block.song-block  { border-left: 10px solid var(--berry); }
+.block.song-block  { border-left: 10px solid var(--sea); }
 .block.quiz        { border-left: 10px solid var(--meadow); }
-.block.printable   { border-left: 10px solid #9a7bd5; }
+.block.printable   { border-left: 10px solid var(--sea); }
 .block.guide       { border-left: 10px solid var(--meadow); background: #f3f8f4; }
 .block.story p { font-size: 1.08rem; }
 
@@ -772,7 +777,7 @@ h2.center::after {
 .mission-btn.del:hover { opacity: 1; background: #fae5e4; border-color: #c0504d; }
 
 /* ============================== Wall Demolisher Game */
-.block.wall-game { border-left: 10px solid var(--berry); }
+.block.wall-game { border-left: 10px solid var(--sea); }
 .wall-bricks { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
 .wall-brick {
   background: #6b3a2a; color: #e8c9a0; font-weight: 800;
