@@ -500,6 +500,13 @@ def feedback_list():
 
 
 
+@app.route("/_debug_whoami")
+def _debug_whoami():
+    return jsonify(remote_addr=request.remote_addr,
+                   x_forwarded_for=request.headers.get("X-Forwarded-For"),
+                   x_forwarded_proto=request.headers.get("X-Forwarded-Proto"))
+
+
 # ----------------------------------------------------- AI companion (Groq free tier)
 @app.errorhandler(429)
 def rate_limit_exceeded(e):
