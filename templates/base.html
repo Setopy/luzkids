@@ -62,7 +62,7 @@
 <main>{% block content %}{% endblock %}</main>
 
 <details class="report-box">
-  <summary>⚑ {{ t({'en':'Report an issue','es':'Reportar un problema','fr':'Signaler un problème'}) }}</summary>
+  <summary>⚑ {{ t({'en':'Report an issue or give us feedback','es':'Reporta un problema o déjanos tu opinión','fr':'Signaler un problème ou laisser un avis'}) }}</summary>
   <form method="post" action="{{ url_for('feedback_submit') }}">
     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
     <input type="hidden" name="page" value="{{ request.path }}">
