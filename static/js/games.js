@@ -98,11 +98,16 @@ document.querySelectorAll(".typing-check").forEach(function(btn) {
     var box = btn.closest(".typing-challenge");
     var input = box.querySelector(".typing-input");
     var result = box.querySelector(".typing-result");
-    // Get the correct verse text from the blockquote in the same verse-block section
+    // Get the correct verse text from the blockquote in the same verse-block section.
+    // The <cite> reference (e.g. "Proverbs 25:28 (NIV)") lives inside the same
+    // blockquote with no whitespace before it in the markup, so textContent would
+    // glue the verse's last word to the citation — clone and strip <cite> first.
     var verseBlock = btn.closest(".verse-block");
     var quote = verseBlock ? verseBlock.querySelector("blockquote") : null;
     if (!quote) return;
-    var correct = quote.textContent.replace(/["""]/g,"").split("\n")[0].trim().toLowerCase();
+    var quoteClone = quote.cloneNode(true);
+    quoteClone.querySelectorAll("cite").forEach(function(c) { c.remove(); });
+    var correct = quoteClone.textContent.replace(/["""]/g,"").split("\n")[0].trim().toLowerCase();
     var typed = input.value.trim().toLowerCase();
 
     // Simple word-match scoring
