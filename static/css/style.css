@@ -324,6 +324,18 @@ button.word-chip:hover { transform: translateY(-3px) rotate(-2deg); }
   background: linear-gradient(180deg, var(--sky), var(--sky-deep)); color: #fff;
   font-style: italic; border-radius: 44px 44px 0 0;
 }
+.footer-contact {
+  margin-top: 1.2rem; display: flex; flex-wrap: wrap; align-items: center;
+  justify-content: center; gap: .9rem; font-style: normal;
+}
+.footer-contact-label { font-weight: 800; font-family: 'Fredoka'; opacity: .85; font-size: .9rem; }
+.footer-contact-link {
+  display: inline-flex; align-items: center; gap: .35rem;
+  background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.25);
+  border-radius: 999px; padding: .4rem 1rem; font-weight: 700; font-size: .88rem;
+  text-decoration: none; transition: background .15s, transform .15s;
+}
+.footer-contact-link:hover { background: rgba(255,255,255,.22); transform: translateY(-1px); }
 
 /* accessibility & responsive */
 :focus-visible { outline: 4px solid var(--sea); outline-offset: 2px; border-radius: 6px; }
