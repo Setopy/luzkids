@@ -1,0 +1,36 @@
+<svg class="lumi-svg" viewBox="0 0 140 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lumi, the LuzKids lamp">
+  <defs>
+    <linearGradient id="lumiBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffd98a"/>
+      <stop offset="100%" stop-color="#f6ab3a"/>
+    </linearGradient>
+    <linearGradient id="lumiFlame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff3da"/>
+      <stop offset="100%" stop-color="#ffd98a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- left arm, resting -->
+  <path d="M33,112 Q18,120 14,134" stroke="#f6ab3a" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <circle cx="14" cy="134" r="7" fill="#f6ab3a"/>
+
+  <!-- right arm, waving -->
+  <g class="lumi-arm-wave">
+    <path d="M107,112 Q123,98 121,82" stroke="#f6ab3a" stroke-width="8" stroke-linecap="round" fill="none"/>
+    <circle cx="121" cy="82" r="7" fill="#f6ab3a"/>
+  </g>
+
+  <!-- flame -->
+  <path class="lumi-flame" d="M70,16 C56,40 52,57 70,76 C88,57 84,40 70,16 Z" fill="url(#lumiFlame)"/>
+
+  <!-- body -->
+  <ellipse cx="70" cy="116" rx="40" ry="46" fill="url(#lumiBody)"/>
+  <ellipse cx="56" cy="92" rx="13" ry="17" fill="#fff" opacity=".22"/>
+
+  <!-- face -->
+  <circle class="lumi-eye" cx="56" cy="110" r="5" fill="#2b2b33"/>
+  <circle class="lumi-eye" cx="84" cy="110" r="5" fill="#2b2b33"/>
+  <circle cx="50" cy="124" r="7" fill="#c45d83" opacity=".3"/>
+  <circle cx="90" cy="124" r="7" fill="#c45d83" opacity=".3"/>
+  <path d="M58,130 Q70,140 82,130" stroke="#2b2b33" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>

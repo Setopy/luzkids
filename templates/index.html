@@ -23,6 +23,7 @@
     <div class="hero-photos">
       <figure class="polaroid p1"><img src="{{ url_for('static', filename='img/kids_tree.jpg') }}" alt="{{ t({'en':'Our four youngest by the big tree','es':'Nuestros cuatro pequeños junto al árbol'}) }}"><figcaption>{{ t({'en':'Learning together','es':'Aprendiendo juntos'}) }}</figcaption></figure>
       <figure class="polaroid p2"><img src="{{ url_for('static', filename='img/boys_park.jpg') }}" alt="{{ t({'en':'Two of our boys at the park','es':'Dos de nuestros niños en el parque'}) }}"><figcaption>{{ t({'en':'Adventure time!','es':'¡Hora de aventura!'}) }}</figcaption></figure>
+      <div class="mascot mascot-hero" aria-hidden="true">{% include "_lumi.html" %}</div>
     </div>
   </div>
 </section>
@@ -123,6 +124,7 @@
 
 <section class="cta-band reveal">
   <div class="stars"></div>
+  <div class="mascot mascot-cta" aria-hidden="true">{% include "_lumi.html" %}</div>
   <h2>{{ t({'en':'Ready to light the first lamp?','es':'¿Listos para encender la primera lámpara?'}) }}</h2>
   <a class="btn big" href="{{ url_for('register') }}">🕯️ {{ t({'en':'Join free today','es':'Únete gratis hoy'}) }}</a>
 </section>

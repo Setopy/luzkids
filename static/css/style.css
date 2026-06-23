@@ -506,6 +506,53 @@ h2.center::after {
 /* hero photos: gentle float so the sky feels alive */
 .hero-photos .p1 { animation: float-a 7s ease-in-out infinite alternate; }
 .hero-photos .p2 { animation: float-b 8s ease-in-out 1s infinite alternate; }
+
+/* ---------------------------------------------------- Lumi the mascot */
+.mascot { pointer-events: none; }
+.lumi-svg { display: block; width: 100%; height: 100%; }
+.mascot-hero {
+  position: absolute; right: 2%; bottom: -14px; width: 84px; z-index: 3;
+  animation: lumi-bob 3.6s ease-in-out infinite;
+}
+.mascot-cta {
+  position: absolute; left: 6%; top: 6px; width: 64px; z-index: 1; opacity: .92;
+  animation: lumi-bob 3.6s ease-in-out infinite;
+}
+@keyframes lumi-bob {
+  0%, 100% { transform: translateY(0) rotate(-2deg); }
+  50%      { transform: translateY(-8px) rotate(2deg); }
+}
+.lumi-arm-wave {
+  transform-box: fill-box; transform-origin: 0% 100%;
+  animation: lumi-wave 1.8s ease-in-out infinite;
+}
+@keyframes lumi-wave {
+  0%, 100% { transform: rotate(0deg); }
+  50%      { transform: rotate(-18deg); }
+}
+.lumi-eye {
+  transform-box: fill-box; transform-origin: 50% 50%;
+  animation: lumi-blink 4.2s ease-in-out infinite;
+}
+@keyframes lumi-blink {
+  0%, 92%, 100% { transform: scaleY(1); }
+  95%           { transform: scaleY(.1); }
+}
+.lumi-flame {
+  transform-box: fill-box; transform-origin: 50% 100%;
+  animation: lumi-flicker 2.4s ease-in-out infinite;
+}
+@keyframes lumi-flicker {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.06) rotate(1deg); }
+}
+@media (max-width: 600px) {
+  .mascot-hero { width: 60px; right: 0; bottom: -6px; }
+  .mascot-cta { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mascot-hero, .mascot-cta, .lumi-arm-wave, .lumi-eye, .lumi-flame { animation: none; }
+}
 @keyframes float-a { from { transform: rotate(4deg) translateY(0); } to { transform: rotate(5deg) translateY(-12px); } }
 @keyframes float-b { from { transform: rotate(-6deg) translateY(0); } to { transform: rotate(-7deg) translateY(-10px); } }
 .hero-photos .polaroid:hover { animation-play-state: paused; }
