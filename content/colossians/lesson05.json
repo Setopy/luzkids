@@ -1,25 +1,35 @@
 {
   "title": {
-    "en": "Put Off the Old, Put On the New!"
+    "en": "Put Off the Old, Put On the New!",
+    "es": "¡Quita lo Viejo, Ponte lo Nuevo!",
+    "fr": "Quitte le Vieux, Revêts le Nouveau !"
   },
   "ref": "Colossians 3:1-17",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "A brand new wardrobe for your heart"
+        "en": "A brand new wardrobe for your heart",
+        "es": "Un armario completamente nuevo para tu corazón",
+        "fr": "Une garde-robe toute neuve pour ton cœur"
       },
       "body": {
-        "en": "Now Paul gets very practical: since you have been raised with Christ, set your hearts and minds on things above, not on earthly things — because your old life has died, and your new life is now hidden with Christ in God!\n\nThen comes a clear, strong instruction: PUT TO DEATH whatever belongs to your old earthly nature — anger, rage, malice, lying, sexual sin, greed. These were once part of your old way of living, but not anymore!\n\nNow — and this is the wonderful part — Paul says PUT ON your new self, like getting dressed in brand new clothes that actually fit who you really are now: compassion, kindness, humility, gentleness, patience, forgiveness toward one another, and above ALL these, put on LOVE, which binds everything together perfectly.\n\nLet the peace of Christ rule in your hearts. Let the Word of Christ dwell richly among you, teaching and encouraging one another, singing psalms, hymns and spiritual songs with gratitude in your hearts to God. And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through Him.\n\nThis is not about trying harder to be a little nicer — it's about a completely new wardrobe for a completely new heart."
+        "en": "Now Paul gets very practical: since you have been raised with Christ, set your hearts and minds on things above, not on earthly things — because your old life has died, and your new life is now hidden with Christ in God!\n\nThen comes a clear, strong instruction: PUT TO DEATH whatever belongs to your old earthly nature — anger, rage, malice, lying, sexual sin, greed. These were once part of your old way of living, but not anymore!\n\nNow — and this is the wonderful part — Paul says PUT ON your new self, like getting dressed in brand new clothes that actually fit who you really are now: compassion, kindness, humility, gentleness, patience, forgiveness toward one another, and above ALL these, put on LOVE, which binds everything together perfectly.\n\nLet the peace of Christ rule in your hearts. Let the Word of Christ dwell richly among you, teaching and encouraging one another, singing psalms, hymns and spiritual songs with gratitude in your hearts to God. And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through Him.\n\nThis is not about trying harder to be a little nicer — it's about a completely new wardrobe for a completely new heart.",
+        "es": "Ahora Pablo se vuelve muy práctico: ya que has resucitado con Cristo, pon tu corazón y mente en las cosas de arriba, no en las cosas terrenales — porque tu vida vieja ha muerto, ¡y tu vida nueva ahora está escondida con Cristo en Dios!\n\nLuego viene una instrucción clara y fuerte: HAZ MORIR todo lo que pertenece a tu vieja naturaleza terrenal — ira, enojo, malicia, mentira, pecado sexual, codicia. Estas eran antes parte de tu antigua manera de vivir, ¡pero ya no!\n\nAhora — y esta es la parte maravillosa — Pablo dice VÍSTETE de tu nuevo yo, como ponerte ropa completamente nueva que en verdad encaja con quien realmente eres ahora: compasión, bondad, humildad, mansedumbre, paciencia, perdón mutuo, y por encima de TODO esto, vístete de AMOR, que une todo perfectamente.\n\nQue la paz de Cristo gobierne en sus corazones. Que la Palabra de Cristo habite ricamente entre ustedes, enseñándose y animándose unos a otros, cantando salmos, himnos y canciones espirituales con gratitud en sus corazones a Dios. Y todo lo que hagan, sea en palabra o en obra, háganlo en el nombre del Señor Jesús, dando gracias a Dios el Padre por medio de Él.\n\nEsto no se trata de esforzarte más para ser un poco más amable — se trata de un armario completamente nuevo para un corazón completamente nuevo.",
+        "fr": "Maintenant Paul devient très pratique : puisque tu es ressuscité avec Christ, mets ton cœur et ton esprit sur les choses d'en haut, non sur les choses terrestres — car ta vieille vie est morte, et ta vie nouvelle est maintenant cachée avec Christ en Dieu !\n\nPuis vient une instruction claire et forte : FAIS MOURIR tout ce qui appartient à ton ancienne nature terrestre — la colère, la rage, la méchanceté, le mensonge, le péché sexuel, l'avidité. Ces choses faisaient autrefois partie de ta vieille manière de vivre, mais plus maintenant !\n\nMaintenant — et voici la partie merveilleuse — Paul dit REVÊTS ton nouvel homme, comme mettre des vêtements tout neufs qui correspondent vraiment à qui tu es réellement maintenant : la compassion, la bonté, l'humilité, la douceur, la patience, le pardon mutuel, et par-dessus TOUT cela, revêts l'AMOUR, qui unit tout parfaitement.\n\nQue la paix de Christ règne dans vos cœurs. Que la Parole de Christ habite richement parmi vous, vous enseignant et vous encourageant les uns les autres, chantant des psaumes, des hymnes et des chants spirituels avec gratitude dans vos cœurs envers Dieu. Et tout ce que vous faites, en parole ou en action, faites-le tout au nom du Seigneur Jésus, rendant grâces à Dieu le Père par Lui.\n\nIl ne s'agit pas d'essayer plus fort d'être un peu plus gentil — il s'agit d'une garde-robe entièrement neuve pour un cœur entièrement nouveau."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God."
+        "en": "Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God.",
+        "es": "Si habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado a la diestra de Dios.",
+        "fr": "Si donc vous êtes ressuscités avec Christ, cherchez les choses d'en haut, où Christ est assis à la droite de Dieu."
       },
       "ref": {
-        "en": "Colossians 3:1 (NIV)"
+        "en": "Colossians 3:1 (NIV)",
+        "es": "Colosenses 3:1 (Valera)",
+        "fr": "Colossiens 3:1 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -31,6 +41,24 @@
           "raised",
           "with",
           "Christ"
+        ],
+        "es": [
+          "Si",
+          "habéis",
+          "pues",
+          "resucitado",
+          "con",
+          "Cristo",
+          "buscad"
+        ],
+        "fr": [
+          "Si",
+          "donc",
+          "vous",
+          "êtes",
+          "ressuscités",
+          "avec",
+          "Christ"
         ]
       },
       "typing_challenge": true
@@ -38,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Put Off the Old, Put On the New!"
+        "en": "A Song for Put Off the Old, Put On the New!",
+        "es": "Una Canción para ¡Quita lo Viejo, Ponte lo Nuevo!",
+        "fr": "Une Chanson pour Quitte le Vieux, Revêts le Nouveau !"
       },
       "audio_en": "/static/audio/colossians/lesson06_en.mp3"
     },
@@ -47,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Paul say to 'put to death' in this passage?"
+            "en": "What does Paul say to 'put to death' in this passage?",
+            "es": "¿Qué dice Pablo que debemos 'hacer morir' en este pasaje?",
+            "fr": "Que dit Paul de « faire mourir » dans ce passage ?"
           },
           "options": {
             "en": [
@@ -55,13 +87,27 @@
               "Whatever belongs to the old earthly nature — anger, lying, greed and the like",
               "Singing songs",
               "Praying too often"
+            ],
+            "es": [
+              "Ir a la escuela",
+              "Todo lo que pertenece a la vieja naturaleza terrenal — ira, mentira, codicia y similares",
+              "Cantar canciones",
+              "Orar demasiado seguido"
+            ],
+            "fr": [
+              "Aller à l'école",
+              "Tout ce qui appartient à l'ancienne nature terrestre — la colère, le mensonge, l'avidité et autres",
+              "Chanter des chants",
+              "Prier trop souvent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What virtue does Paul say binds everything else together perfectly?"
+            "en": "What virtue does Paul say binds everything else together perfectly?",
+            "es": "¿Qué virtud dice Pablo que une todo lo demás perfectamente?",
+            "fr": "Quelle vertu, selon Paul, unit parfaitement tout le reste ?"
           },
           "options": {
             "en": [
@@ -69,13 +115,27 @@
               "Love",
               "Knowledge",
               "Money"
+            ],
+            "es": [
+              "La paciencia",
+              "El amor",
+              "El conocimiento",
+              "El dinero"
+            ],
+            "fr": [
+              "La patience",
+              "L'amour",
+              "La connaissance",
+              "L'argent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to verse 17, how should believers do everything they say or do?"
+            "en": "According to verse 17, how should believers do everything they say or do?",
+            "es": "Según el versículo 17, ¿cómo deben los creyentes hacer todo lo que dicen o hacen?",
+            "fr": "Selon le verset 17, comment les croyants doivent-ils faire tout ce qu'ils disent ou font ?"
           },
           "options": {
             "en": [
@@ -83,6 +143,18 @@
               "In the name of the Lord Jesus, with thanks to God",
               "Only when others are watching",
               "Quickly, without much thought"
+            ],
+            "es": [
+              "Como se sienta más fácil en el momento",
+              "En el nombre del Señor Jesús, con gratitud a Dios",
+              "Solo cuando otros están observando",
+              "Rápidamente, sin mucho pensar"
+            ],
+            "fr": [
+              "Comme cela semble le plus facile sur le moment",
+              "Au nom du Seigneur Jésus, avec gratitude envers Dieu",
+              "Seulement quand les autres regardent",
+              "Rapidement, sans trop réfléchir"
             ]
           },
           "answer": 1
@@ -94,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Put Off the Old, Put On the New!"
+            "en": "Activity sheet: Put Off the Old, Put On the New!",
+            "es": "Hoja de actividad: ¡Quita lo Viejo, Ponte lo Nuevo!",
+            "fr": "Fiche d'activité : Quitte le Vieux, Revêts le Nouveau !"
           },
           "file": "/static/printables/colossians/lesson06_sheet.pdf"
         }
@@ -103,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the decisive 'put off / put on' pattern of holy living — the heart of practical sanctification in this letter, and a direct parallel to the doctrine of entire sanctification as a definite work followed by ongoing growth. Paul's command is not gradual self-improvement but a decisive death to the old nature (3:5, \"put to death\") and a decisive clothing in the new (3:12, \"put on\"). This pattern — die to the old, be clothed in the new, by the same power that raised Christ from the dead (3:1) — describes exactly what happens in genuine sanctifying grace: not willpower stretched thin, but a real, Spirit-wrought change of nature, evidenced by real, observable virtues.\n\nNote the comprehensiveness: compassion, kindness, humility, gentleness, patience, forbearance, forgiveness, love (3:12-14) — and then worship: the peace of Christ ruling, the Word dwelling richly, gratitude expressed in song (3:15-16). Holiness in Colossians is never grim or rule-bound; it is relational, musical, and thankful.\n\nConversation starters: (1) What is one thing from the \"old wardrobe\" (anger, lying, etc.) you want God to help you put to death? (2) What is one \"new clothing\" virtue (kindness, patience, forgiveness) you want to put on this week? (3) What does it mean to do \"everything\" — even ordinary things like chores or homework — in the name of the Lord Jesus?\n\nPray together for grace to put off the old nature decisively and to put on Christ's character daily."
+        "en": "Big idea: the decisive 'put off / put on' pattern of holy living — the heart of practical sanctification in this letter, and a direct parallel to the doctrine of entire sanctification as a definite work followed by ongoing growth. Paul's command is not gradual self-improvement but a decisive death to the old nature (3:5, \"put to death\") and a decisive clothing in the new (3:12, \"put on\"). This pattern — die to the old, be clothed in the new, by the same power that raised Christ from the dead (3:1) — describes exactly what happens in genuine sanctifying grace: not willpower stretched thin, but a real, Spirit-wrought change of nature, evidenced by real, observable virtues.\n\nNote the comprehensiveness: compassion, kindness, humility, gentleness, patience, forbearance, forgiveness, love (3:12-14) — and then worship: the peace of Christ ruling, the Word dwelling richly, gratitude expressed in song (3:15-16). Holiness in Colossians is never grim or rule-bound; it is relational, musical, and thankful.\n\nConversation starters: (1) What is one thing from the \"old wardrobe\" (anger, lying, etc.) you want God to help you put to death? (2) What is one \"new clothing\" virtue (kindness, patience, forgiveness) you want to put on this week? (3) What does it mean to do \"everything\" — even ordinary things like chores or homework — in the name of the Lord Jesus?\n\nPray together for grace to put off the old nature decisively and to put on Christ's character daily.",
+        "es": "Idea principal: el patrón decisivo de 'quitar / poner' de la vida santa — el corazón de la santificación práctica en esta carta, y un paralelo directo a la doctrina de la entera santificación como una obra definida seguida de un crecimiento continuo. El mandamiento de Pablo no es una mejora gradual de uno mismo, sino una muerte decisiva a la vieja naturaleza (3:5, \"haced morir\") y un vestirse decisivo de lo nuevo (3:12, \"vestíos\"). Este patrón — morir a lo viejo, vestirse de lo nuevo, por el mismo poder que resucitó a Cristo de los muertos (3:1) — describe exactamente lo que sucede en la gracia santificadora genuina: no fuerza de voluntad estirada al límite, sino un cambio real de naturaleza obrado por el Espíritu, evidenciado por virtudes reales y observables.\n\nNótese la totalidad: compasión, bondad, humildad, mansedumbre, paciencia, tolerancia, perdón, amor (3:12-14) — y luego adoración: la paz de Cristo gobernando, la Palabra habitando ricamente, gratitud expresada en canto (3:15-16). La santidad en Colosenses nunca es severa ni atada a reglas; es relacional, musical, y agradecida.\n\nPara conversar: (1) ¿Cuál es una cosa del \"armario viejo\" (ira, mentira, etc.) que quieres que Dios te ayude a hacer morir? (2) ¿Cuál es una virtud de la \"nueva ropa\" (bondad, paciencia, perdón) que quieres ponerte esta semana? (3) ¿Qué significa hacer \"todo\" — hasta cosas comunes como tareas o quehaceres — en el nombre del Señor Jesús?\n\nOren juntos por gracia para quitarse decisivamente la vieja naturaleza y vestirse del carácter de Cristo cada día.",
+        "fr": "Idée principale : le schéma décisif de « se dépouiller / se revêtir » de la vie sainte — le cœur de la sanctification pratique dans cette lettre, et un parallèle direct avec la doctrine de l'entière sanctification comme œuvre définie suivie d'une croissance continue. Le commandement de Paul n'est pas une amélioration progressive de soi, mais une mort décisive à l'ancienne nature (3.5, « faites mourir ») et un revêtement décisif du nouvel homme (3.12, « revêtez-vous »). Ce schéma — mourir à l'ancien, se revêtir du nouveau, par la même puissance qui a ressuscité Christ d'entre les morts (3.1) — décrit exactement ce qui se produit dans la grâce sanctifiante authentique : non une volonté tendue à l'extrême, mais un véritable changement de nature opéré par l'Esprit, attesté par des vertus réelles et observables.\n\nNotez l'exhaustivité : compassion, bonté, humilité, douceur, patience, tolérance, pardon, amour (3.12-14) — puis l'adoration : la paix de Christ régnant, la Parole habitant richement, la gratitude exprimée en chant (3.15-16). La sainteté dans Colossiens n'est jamais sévère ni liée à des règles ; elle est relationnelle, musicale, et reconnaissante.\n\nPour la conversation : (1) Quelle est une chose de « l'ancienne garde-robe » (colère, mensonge, etc.) que tu veux que Dieu t'aide à faire mourir ? (2) Quelle vertu du « nouveau vêtement » (bonté, patience, pardon) veux-tu revêtir cette semaine ? (3) Que signifie faire « tout » — même des choses ordinaires comme les tâches ou les devoirs — au nom du Seigneur Jésus ?\n\nPriez ensemble pour la grâce de quitter résolument l'ancienne nature et de revêtir le caractère de Christ chaque jour."
       }
     }
   ],

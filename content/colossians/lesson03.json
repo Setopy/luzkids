@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Mystery: Christ Lives in You!"
+    "en": "The Mystery: Christ Lives in You!",
+    "es": "El Misterio: ¡Cristo Vive en Ti!",
+    "fr": "Le Mystère : Christ Vit en Toi !"
   },
   "ref": "Colossians 1:24-2:7",
   "section": "Paul's Labor for the Church",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A secret too good to keep"
+        "en": "A secret too good to keep",
+        "es": "Un secreto demasiado bueno para guardar",
+        "fr": "Un secret trop bon pour être gardé"
       },
       "body": {
-        "en": "Paul says something that sounds strange at first: he is happy to suffer for the Colossians! Why? Because Paul knew his sufferings were part of serving the church, and nothing — not prison, not pain — could stop the gospel from spreading.\n\nGod gave Paul a special job: to fully tell people the WORD OF GOD, including a mystery hidden for ages but now revealed: CHRIST IN YOU — the hope of glory! Not Christ far away in heaven only, but Christ living INSIDE every believer, right now. Paul worked hard, struggling with all the energy Christ powerfully worked in him, so that every believer would not be deceived by fine-sounding arguments that lead people away from the truth.\n\nSo Paul gives one clear instruction to close this section: just as you received Christ Jesus as Lord, keep on walking in Him — ROOTED and BUILT UP in the faith, just as you were taught, overflowing with thankfulness. A tree with deep roots doesn't get blown over by every clever-sounding wind of teaching."
+        "en": "Paul says something that sounds strange at first: he is happy to suffer for the Colossians! Why? Because Paul knew his sufferings were part of serving the church, and nothing — not prison, not pain — could stop the gospel from spreading.\n\nGod gave Paul a special job: to fully tell people the WORD OF GOD, including a mystery hidden for ages but now revealed: CHRIST IN YOU — the hope of glory! Not Christ far away in heaven only, but Christ living INSIDE every believer, right now. Paul worked hard, struggling with all the energy Christ powerfully worked in him, so that every believer would not be deceived by fine-sounding arguments that lead people away from the truth.\n\nSo Paul gives one clear instruction to close this section: just as you received Christ Jesus as Lord, keep on walking in Him — ROOTED and BUILT UP in the faith, just as you were taught, overflowing with thankfulness. A tree with deep roots doesn't get blown over by every clever-sounding wind of teaching.",
+        "es": "Pablo dice algo que al principio suena extraño: ¡está feliz de sufrir por los colosenses! ¿Por qué? Porque Pablo sabía que sus sufrimientos eran parte de servir a la iglesia, y nada — ni la cárcel, ni el dolor — podía detener la expansión del evangelio.\n\nDios le dio a Pablo una tarea especial: anunciar plenamente la PALABRA DE DIOS, incluyendo un misterio escondido por siglos pero ahora revelado: ¡CRISTO EN TI — la esperanza de gloria! No Cristo lejano en el cielo solamente, sino Cristo viviendo DENTRO de cada creyente, en este momento. Pablo trabajó duro, esforzándose con toda la energía que Cristo obraba poderosamente en él, para que ningún creyente fuera engañado por argumentos que suenan convincentes pero alejan a las personas de la verdad.\n\nAsí que Pablo da una instrucción clara para cerrar esta sección: tal como recibiste a Cristo Jesús como Señor, sigue caminando en Él — ARRAIGADO y EDIFICADO en la fe, tal como te enseñaron, desbordante de gratitud. Un árbol con raíces profundas no se cae con cualquier viento de enseñanza que suene inteligente.",
+        "fr": "Paul dit quelque chose qui semble étrange au premier abord : il est heureux de souffrir pour les Colossiens ! Pourquoi ? Parce que Paul savait que ses souffrances faisaient partie du service à l'Église, et que rien — ni la prison, ni la douleur — ne pouvait empêcher l'Évangile de se répandre.\n\nDieu a donné à Paul une tâche spéciale : annoncer pleinement la PAROLE DE DIEU, y compris un mystère caché pendant des siècles mais maintenant révélé : CHRIST EN TOI — l'espérance de la gloire ! Pas seulement un Christ lointain dans le ciel, mais Christ vivant À L'INTÉRIEUR de chaque croyant, dès maintenant. Paul travaillait dur, luttant avec toute l'énergie que Christ faisait puissamment agir en lui, afin qu'aucun croyant ne soit trompé par des arguments qui semblent convaincants mais éloignent les gens de la vérité.\n\nAlors Paul donne une instruction claire pour clore cette section : tout comme tu as reçu Christ Jésus comme Seigneur, continue à marcher en Lui — ENRACINÉ et ÉDIFIÉ dans la foi, tel qu'on te l'a enseigné, débordant de gratitude. Un arbre aux racines profondes ne tombe pas au premier vent d'un enseignement qui semble astucieux."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "So then, just as you received Christ Jesus as Lord, continue to live your lives rooted and built up in him."
+        "en": "So then, just as you received Christ Jesus as Lord, continue to live your lives rooted and built up in him.",
+        "es": "Por tanto, de la manera que habéis recibido al Señor Jesucristo, andad en él, arraigados y sobreedificados en él.",
+        "fr": "Ainsi donc, comme vous avez reçu le Seigneur Jésus-Christ, marchez en lui, étant enracinés et fondés en lui."
       },
       "ref": {
-        "en": "Colossians 2:6-7 (NIV)"
+        "en": "Colossians 2:6-7 (NIV)",
+        "es": "Colosenses 2:6-7 (Valera)",
+        "fr": "Colossiens 2:6-7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -32,6 +42,24 @@
           "Jesus",
           "as",
           "Lord"
+        ],
+        "es": [
+          "de",
+          "la",
+          "manera",
+          "que",
+          "habéis",
+          "recibido",
+          "al",
+          "Señor"
+        ],
+        "fr": [
+          "comme",
+          "vous",
+          "avez",
+          "reçu",
+          "le",
+          "Seigneur"
         ]
       },
       "typing_challenge": true
@@ -39,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Mystery: Christ Lives in You!"
+        "en": "A Song for The Mystery: Christ Lives in You!",
+        "es": "Una Canción para El Misterio: ¡Cristo Vive en Ti!",
+        "fr": "Une Chanson pour Le Mystère : Christ Vit en Toi !"
       },
       "audio_en": "/static/audio/colossians/lesson03_en.mp3"
     },
@@ -48,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What is the 'mystery' Paul reveals in this passage?"
+            "en": "What is the 'mystery' Paul reveals in this passage?",
+            "es": "¿Cuál es el 'misterio' que Pablo revela en este pasaje?",
+            "fr": "Quel est le « mystère » que Paul révèle dans ce passage ?"
           },
           "options": {
             "en": [
@@ -56,13 +88,27 @@
               "Christ living inside every believer",
               "The location of a hidden treasure",
               "A riddle nobody can solve"
+            ],
+            "es": [
+              "Un código secreto en la Biblia",
+              "Cristo viviendo dentro de cada creyente",
+              "La ubicación de un tesoro escondido",
+              "Un acertijo que nadie puede resolver"
+            ],
+            "fr": [
+              "Un code secret dans la Bible",
+              "Christ vivant à l'intérieur de chaque croyant",
+              "L'emplacement d'un trésor caché",
+              "Une énigme que personne ne peut résoudre"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why was Paul glad to suffer for the church?"
+            "en": "Why was Paul glad to suffer for the church?",
+            "es": "¿Por qué Pablo estaba feliz de sufrir por la iglesia?",
+            "fr": "Pourquoi Paul était-il heureux de souffrir pour l'Église ?"
           },
           "options": {
             "en": [
@@ -70,13 +116,27 @@
               "He knew it served the spread of the gospel",
               "He wanted attention",
               "He had no other choice"
+            ],
+            "es": [
+              "Disfrutaba del dolor",
+              "Sabía que servía a la expansión del evangelio",
+              "Quería atención",
+              "No tenía otra opción"
+            ],
+            "fr": [
+              "Il aimait la douleur",
+              "Il savait que cela servait à la propagation de l'Évangile",
+              "Il voulait de l'attention",
+              "Il n'avait pas d'autre choix"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul instruct believers to be, like a deeply-rooted tree?"
+            "en": "What does Paul instruct believers to be, like a deeply-rooted tree?",
+            "es": "¿Qué instruye Pablo a los creyentes a ser, como un árbol profundamente arraigado?",
+            "fr": "Que demande Paul aux croyants d'être, comme un arbre profondément enraciné ?"
           },
           "options": {
             "en": [
@@ -84,6 +144,18 @@
               "Rooted and built up in the faith, overflowing with thankfulness",
               "Distracted and uncertain",
               "Indifferent to teaching"
+            ],
+            "es": [
+              "Fácilmente derribados por argumentos astutos",
+              "Arraigados y edificados en la fe, desbordantes de gratitud",
+              "Distraídos e inseguros",
+              "Indiferentes a la enseñanza"
+            ],
+            "fr": [
+              "Facilement renversés par des arguments astucieux",
+              "Enracinés et édifiés dans la foi, débordants de gratitude",
+              "Distraits et incertains",
+              "Indifférents à l'enseignement"
             ]
           },
           "answer": 1
@@ -95,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Mystery: Christ Lives in You!"
+            "en": "Activity sheet: The Mystery: Christ Lives in You!",
+            "es": "Hoja de actividad: El Misterio: ¡Cristo Vive en Ti!",
+            "fr": "Fiche d'activité : Le Mystère : Christ Vit en Toi !"
           },
           "file": "/static/printables/colossians/lesson03_sheet.pdf"
         }
@@ -104,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the indwelling of Christ in the believer — the central mystery of the New Testament — and the call to be rooted and built up, closing out this whole section on Paul's labor for the church (1:24-2:7). Note this standard section actually crosses the chapter 1/2 boundary in the original text; verses 2:6-7 belong with this unit, not with what follows, since they form Paul's concluding instruction to the readers he's just described laboring for.\n\nConversation starters: (1) What does it mean that Christ actually lives inside you, not just watches from far away? (2) What does being \"rooted and built up\" protect you from? (3) Who labors and prays for your spiritual growth, the way Paul did for the Colossians?\n\nPray together, thanking God that Christ dwells within, and asking for roots that go deep."
+        "en": "Big idea: the indwelling of Christ in the believer — the central mystery of the New Testament — and the call to be rooted and built up, closing out this whole section on Paul's labor for the church (1:24-2:7). Note this standard section actually crosses the chapter 1/2 boundary in the original text; verses 2:6-7 belong with this unit, not with what follows, since they form Paul's concluding instruction to the readers he's just described laboring for.\n\nConversation starters: (1) What does it mean that Christ actually lives inside you, not just watches from far away? (2) What does being \"rooted and built up\" protect you from? (3) Who labors and prays for your spiritual growth, the way Paul did for the Colossians?\n\nPray together, thanking God that Christ dwells within, and asking for roots that go deep.",
+        "es": "Idea principal: la morada de Cristo en el creyente — el misterio central del Nuevo Testamento — y el llamado a estar arraigados y edificados, cerrando toda esta sección sobre el trabajo de Pablo por la iglesia (1:24-2:7). Nótese que esta sección estándar realmente cruza el límite entre el capítulo 1 y 2 en el texto original; los versículos 2:6-7 pertenecen a esta unidad, no a lo que sigue, ya que forman la instrucción final de Pablo a los lectores por quienes acaba de describir su trabajo.\n\nPara conversar: (1) ¿Qué significa que Cristo realmente vive dentro de ti, no solo te observa desde lejos? (2) ¿De qué te protege estar \"arraigado y edificado\"? (3) ¿Quién trabaja y ora por tu crecimiento espiritual, como Pablo lo hizo por los colosenses?\n\nOren juntos, agradeciendo a Dios que Cristo habita en ustedes, y pidiendo raíces que vayan profundo.",
+        "fr": "Idée principale : l'habitation du Christ dans le croyant — le mystère central du Nouveau Testament — et l'appel à être enracinés et édifiés, qui clôt toute cette section sur le travail de Paul pour l'Église (1.24-2.7). Notons que cette section standard traverse en réalité la frontière entre le chapitre 1 et 2 dans le texte original ; les versets 2.6-7 appartiennent à cette unité, et non à ce qui suit, car ils forment l'instruction finale de Paul aux lecteurs pour qui il vient de décrire son travail.\n\nPour la conversation : (1) Que signifie le fait que Christ vit réellement en toi, pas seulement qu'il t'observe de loin ? (2) De quoi te protège le fait d'être « enraciné et édifié » ? (3) Qui travaille et prie pour ta croissance spirituelle, comme Paul l'a fait pour les Colossiens ?\n\nPriez ensemble, remerciant Dieu que Christ habite en vous, et demandant des racines qui vont profondément."
       }
     }
   ]

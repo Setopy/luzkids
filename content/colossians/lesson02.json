@@ -1,25 +1,35 @@
 {
   "title": {
-    "en": "Jesus Is Supreme Over Everything!"
+    "en": "Jesus Is Supreme Over Everything!",
+    "es": "¡Jesús Es Supremo Sobre Todas las Cosas!",
+    "fr": "Jésus Est Suprême Sur Toutes Choses !"
   },
   "ref": "Colossians 1:15-23",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "The King above every king"
+        "en": "The King above every king",
+        "es": "El Rey por encima de todo rey",
+        "fr": "Le Roi au-dessus de tout roi"
       },
       "body": {
-        "en": "Now Paul writes one of the most powerful descriptions of Jesus in the whole Bible. Jesus is the IMAGE of the invisible God — if you want to know what God is like, look at Jesus! He existed before anything was made, and everything — stars, oceans, angels, kings, governments, EVERYTHING — was created through Him and for Him.\n\nNot only that: Jesus holds it all together right now! Take away Jesus for one second and the universe would simply fall apart. He is the head of the church, His body, and He was the first to rise from death forever, so that in everything He might have first place.\n\nAnd here is the most amazing part: God was pleased to reconcile EVERYTHING to Himself through Jesus, making peace through His blood on the cross. You — who were once far from God, an enemy in your thinking because of evil behavior — have now been brought near, reconciled, holy and blameless in God's sight!\n\nBut Paul adds something important: this is true for those who continue in the faith, established and firm, not shifting from the hope of the gospel. Knowing Jesus is the beginning — staying close to Him is the journey."
+        "en": "Now Paul writes one of the most powerful descriptions of Jesus in the whole Bible. Jesus is the IMAGE of the invisible God — if you want to know what God is like, look at Jesus! He existed before anything was made, and everything — stars, oceans, angels, kings, governments, EVERYTHING — was created through Him and for Him.\n\nNot only that: Jesus holds it all together right now! Take away Jesus for one second and the universe would simply fall apart. He is the head of the church, His body, and He was the first to rise from death forever, so that in everything He might have first place.\n\nAnd here is the most amazing part: God was pleased to reconcile EVERYTHING to Himself through Jesus, making peace through His blood on the cross. You — who were once far from God, an enemy in your thinking because of evil behavior — have now been brought near, reconciled, holy and blameless in God's sight!\n\nBut Paul adds something important: this is true for those who continue in the faith, established and firm, not shifting from the hope of the gospel. Knowing Jesus is the beginning — staying close to Him is the journey.",
+        "es": "Ahora Pablo escribe una de las descripciones más poderosas de Jesús en toda la Biblia. Jesús es la IMAGEN del Dios invisible — si quieres saber cómo es Dios, ¡mira a Jesús! Él existía antes de que se hiciera cualquier cosa, y todo — estrellas, océanos, ángeles, reyes, gobiernos, TODO — fue creado por Él y para Él.\n\n¡Y no solo eso: Jesús lo sostiene todo junto en este momento! Quita a Jesús por un segundo y el universo simplemente se desmoronaría. Él es la cabeza de la iglesia, Su cuerpo, y fue el primero en resucitar de la muerte para siempre, para que en todo tuviera el primer lugar.\n\nY aquí está la parte más asombrosa: a Dios le agradó reconciliar TODO consigo mismo por medio de Jesús, haciendo la paz por Su sangre en la cruz. Tú — que una vez estabas lejos de Dios, enemigo en tu pensamiento por las malas acciones — ¡ahora has sido acercado, reconciliado, santo e intachable ante los ojos de Dios!\n\nPero Pablo añade algo importante: esto es verdad para los que permanecen en la fe, fundados y firmes, sin moverse de la esperanza del evangelio. Conocer a Jesús es el comienzo — permanecer cerca de Él es el camino.",
+        "fr": "Maintenant Paul écrit l'une des descriptions les plus puissantes de Jésus dans toute la Bible. Jésus est l'IMAGE du Dieu invisible — si tu veux savoir comment est Dieu, regarde Jésus ! Il existait avant que quoi que ce soit ne soit fait, et tout — les étoiles, les océans, les anges, les rois, les gouvernements, TOUT — a été créé par Lui et pour Lui.\n\nEt pas seulement cela : Jésus maintient tout ensemble en ce moment même ! Retire Jésus une seconde et l'univers s'effondrerait simplement. Il est la tête de l'Église, Son corps, et Il fut le premier à ressusciter des morts pour toujours, afin d'avoir en tout la première place.\n\nEt voici la partie la plus étonnante : Dieu a voulu réconcilier TOUTES CHOSES avec Lui-même par Jésus, faisant la paix par Son sang sur la croix. Toi — qui étais autrefois loin de Dieu, ennemi par ta pensée à cause de tes mauvaises actions — tu as maintenant été rapproché, réconcilié, saint et irréprochable devant Dieu !\n\nMais Paul ajoute quelque chose d'important : cela est vrai pour ceux qui demeurent dans la foi, fondés et fermes, sans s'éloigner de l'espérance de l'Évangile. Connaître Jésus est le commencement — rester proche de Lui est le chemin."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "He is before all things, and in him all things hold together."
+        "en": "He is before all things, and in him all things hold together.",
+        "es": "Y él es antes de todas las cosas, y por él todas las cosas subsisten.",
+        "fr": "Il est avant toutes choses, et toutes choses subsistent en lui."
       },
       "ref": {
-        "en": "Colossians 1:17 (NIV)"
+        "en": "Colossians 1:17 (NIV)",
+        "es": "Colosenses 1:17 (Valera)",
+        "fr": "Colossiens 1:17 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -31,6 +41,23 @@
           "and",
           "in",
           "him"
+        ],
+        "es": [
+          "Y",
+          "él",
+          "es",
+          "antes",
+          "de",
+          "todas",
+          "las",
+          "cosas"
+        ],
+        "fr": [
+          "Il",
+          "est",
+          "avant",
+          "toutes",
+          "choses"
         ]
       },
       "typing_challenge": true
@@ -38,7 +65,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Jesus Is Supreme Over Everything!"
+        "en": "A Song for Jesus Is Supreme Over Everything!",
+        "es": "Una Canción para ¡Jesús Es Supremo Sobre Todas las Cosas!",
+        "fr": "Une Chanson pour Jésus Est Suprême Sur Toutes Choses !"
       },
       "audio_en": "/static/audio/colossians/lesson02_en.mp3"
     },
@@ -47,7 +76,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does it mean that Jesus is the 'image of the invisible God'?"
+            "en": "What does it mean that Jesus is the 'image of the invisible God'?",
+            "es": "¿Qué significa que Jesús es la 'imagen del Dios invisible'?",
+            "fr": "Que signifie que Jésus est « l'image du Dieu invisible » ?"
           },
           "options": {
             "en": [
@@ -55,13 +86,27 @@
               "If you want to know what God is like, look at Jesus",
               "He is invisible too",
               "He is only a picture, not real"
+            ],
+            "es": [
+              "Se parece a una pintura famosa",
+              "Si quieres saber cómo es Dios, mira a Jesús",
+              "Él también es invisible",
+              "Es solo una imagen, no real"
+            ],
+            "fr": [
+              "Il ressemble à une peinture célèbre",
+              "Si tu veux savoir comment est Dieu, regarde Jésus",
+              "Il est invisible lui aussi",
+              "Ce n'est qu'une image, pas réelle"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Who holds the entire universe together?"
+            "en": "Who holds the entire universe together?",
+            "es": "¿Quién mantiene unido todo el universo?",
+            "fr": "Qui maintient tout l'univers ensemble ?"
           },
           "options": {
             "en": [
@@ -69,13 +114,27 @@
               "Scientists",
               "Jesus Christ",
               "No one — it holds itself together"
+            ],
+            "es": [
+              "Solo la gravedad",
+              "Los científicos",
+              "Jesucristo",
+              "Nadie — se mantiene solo"
+            ],
+            "fr": [
+              "La gravité seule",
+              "Les scientifiques",
+              "Jésus-Christ",
+              "Personne — il se maintient tout seul"
             ]
           },
           "answer": 2
         },
         {
           "q": {
-            "en": "According to Paul, who remains reconciled and holy in God's sight?"
+            "en": "According to Paul, who remains reconciled and holy in God's sight?",
+            "es": "Según Pablo, ¿quién permanece reconciliado y santo ante Dios?",
+            "fr": "Selon Paul, qui demeure réconcilié et saint devant Dieu ?"
           },
           "options": {
             "en": [
@@ -83,6 +142,18 @@
               "Those who continue in the faith, firm and not shifting",
               "Only people born in certain countries",
               "Only church leaders"
+            ],
+            "es": [
+              "Todos automáticamente, sin importar nada",
+              "Los que permanecen en la fe, firmes y sin moverse",
+              "Solo las personas nacidas en ciertos países",
+              "Solo los líderes de la iglesia"
+            ],
+            "fr": [
+              "Tout le monde automatiquement, peu importe quoi",
+              "Ceux qui demeurent dans la foi, fermes et sans s'éloigner",
+              "Seulement les personnes nées dans certains pays",
+              "Seulement les dirigeants d'église"
             ]
           },
           "answer": 1
@@ -94,7 +165,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Jesus Is Supreme Over Everything!"
+            "en": "Activity sheet: Jesus Is Supreme Over Everything!",
+            "es": "Hoja de actividad: ¡Jesús Es Supremo Sobre Todas las Cosas!",
+            "fr": "Fiche d'activité : Jésus Est Suprême Sur Toutes Choses !"
           },
           "file": "/static/printables/colossians/lesson02_sheet.pdf"
         }
@@ -103,7 +176,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the absolute supremacy and deity of Christ, paired with the necessity of continuing in the faith. Colossians 1:15-20 is among the highest Christological statements in Scripture — Jesus as Creator, Sustainer, and Reconciler of all things. This passage was written partly to combat early teachings that diminished Christ's full deity, a danger that recurs in every generation.\n\nThe crucial phrase often missed: \"if you continue in your faith, established and firm, and do not move from the hope held out in the gospel\" (1:23). Reconciliation and holiness before God are real and present (1:22), but Paul explicitly conditions ongoing standing on continuing — language that affirms present assurance while excluding unconditional eternal security regardless of later unfaithfulness.\n\nConversation starters: (1) If someone asked you \"what is God like,\" how could you point them to Jesus specifically? (2) What does it mean practically that Jesus \"holds all things together\" — even on a hard day? (3) Paul says to \"continue\" in the faith — what helps you keep going, not just start well?\n\nPray together, thanking Jesus for His supremacy over every fear, and asking for grace to continue firm in faith."
+        "en": "Big idea: the absolute supremacy and deity of Christ, paired with the necessity of continuing in the faith. Colossians 1:15-20 is among the highest Christological statements in Scripture — Jesus as Creator, Sustainer, and Reconciler of all things. This passage was written partly to combat early teachings that diminished Christ's full deity, a danger that recurs in every generation.\n\nThe crucial phrase often missed: \"if you continue in your faith, established and firm, and do not move from the hope held out in the gospel\" (1:23). Reconciliation and holiness before God are real and present (1:22), but Paul explicitly conditions ongoing standing on continuing — language that affirms present assurance while excluding unconditional eternal security regardless of later unfaithfulness.\n\nConversation starters: (1) If someone asked you \"what is God like,\" how could you point them to Jesus specifically? (2) What does it mean practically that Jesus \"holds all things together\" — even on a hard day? (3) Paul says to \"continue\" in the faith — what helps you keep going, not just start well?\n\nPray together, thanking Jesus for His supremacy over every fear, and asking for grace to continue firm in faith.",
+        "es": "Idea principal: la supremacía absoluta y la deidad de Cristo, junto con la necesidad de permanecer en la fe. Colosenses 1:15-20 está entre las declaraciones cristológicas más altas de la Escritura — Jesús como Creador, Sustentador y Reconciliador de todas las cosas. Este pasaje fue escrito en parte para combatir enseñanzas tempranas que disminuían la deidad plena de Cristo, un peligro que se repite en cada generación.\n\nLa frase crucial que a menudo se pasa por alto: \"si permanecéis fundados y firmes en la fe, y sin moveros de la esperanza del evangelio\" (1:23). La reconciliación y la santidad ante Dios son reales y presentes (1:22), pero Pablo condiciona explícitamente la posición continua al hecho de permanecer — un lenguaje que afirma la seguridad presente mientras excluye la seguridad eterna incondicional sin importar la infidelidad posterior.\n\nPara conversar: (1) Si alguien te preguntara \"¿cómo es Dios?\", ¿cómo podrías señalarle específicamente a Jesús? (2) ¿Qué significa en la práctica que Jesús \"mantiene todas las cosas unidas\" — incluso en un día difícil? (3) Pablo dice \"permaneced\" en la fe — ¿qué te ayuda a seguir adelante, no solo a comenzar bien?\n\nOren juntos, agradeciendo a Jesús por Su supremacía sobre todo temor, y pidiendo gracia para permanecer firmes en la fe.",
+        "fr": "Idée principale : la suprématie absolue et la divinité du Christ, ainsi que la nécessité de demeurer dans la foi. Colossiens 1.15-20 est parmi les déclarations christologiques les plus élevées de l'Écriture — Jésus comme Créateur, Soutien, et Réconciliateur de toutes choses. Ce passage a été écrit en partie pour combattre les premiers enseignements qui diminuaient la pleine divinité du Christ, un danger qui se répète à chaque génération.\n\nLa phrase cruciale souvent négligée : « si vous demeurez fondés et fermes dans la foi, et ne vous éloignez pas de l'espérance de l'Évangile » (1.23). La réconciliation et la sainteté devant Dieu sont réelles et présentes (1.22), mais Paul conditionne explicitement la position continue au fait de demeurer — un langage qui affirme l'assurance présente tout en excluant la sécurité éternelle inconditionnelle indépendamment d'une infidélité ultérieure.\n\nPour la conversation : (1) Si quelqu'un te demandait « comment est Dieu », comment pourrais-tu le diriger spécifiquement vers Jésus ? (2) Que signifie concrètement que Jésus « maintient toutes choses ensemble » — même dans un jour difficile ? (3) Paul dit de « demeurer » dans la foi — qu'est-ce qui t'aide à continuer, pas seulement à bien commencer ?\n\nPriez ensemble, remerciant Jésus pour Sa suprématie sur toute peur, et demandant la grâce de demeurer fermes dans la foi."
       }
     }
   ],

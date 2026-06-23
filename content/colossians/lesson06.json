@@ -1,25 +1,35 @@
 {
   "title": {
-    "en": "Love at Home!"
+    "en": "Love at Home!",
+    "es": "¡Amor en el Hogar!",
+    "fr": "L'Amour à la Maison !"
   },
   "ref": "Colossians 3:18-4:1",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "Doing everything as if for Jesus"
+        "en": "Doing everything as if for Jesus",
+        "es": "Haciendo todo como para Jesús",
+        "fr": "Tout faire comme pour Jésus"
       },
       "body": {
-        "en": "Paul now turns to something every family needs: how to live together in love. He speaks to wives, telling them to honor their husbands' leadership in a way that reflects Christ; he speaks to husbands, commanding them to love their wives and never be harsh with them. He speaks directly to children: obey your parents in everything, for this pleases the Lord — and he speaks to parents too: do not discourage or embitter your children, or they will lose heart.\n\nThen Paul says something that changes how we see ALL work, even the hardest or most unfair jobs: whatever you do, work at it with your whole heart, as though you were working for the Lord, not merely for people — because you know you will receive an inheritance from the Lord as a reward!\n\nThis was an astonishing message in Paul's world, where servants were treated as having no value at all — Paul says their work, done with a right heart, has eternal worth and reward from God Himself. And Paul tells those in positions of authority to treat the people under them justly and fairly, remembering that they too have a Master in heaven who sees everything and judges fairly.\n\nNo relationship, no job, no chore — is too small to do for Jesus."
+        "en": "Paul now turns to something every family needs: how to live together in love. He speaks to wives, telling them to honor their husbands' leadership in a way that reflects Christ; he speaks to husbands, commanding them to love their wives and never be harsh with them. He speaks directly to children: obey your parents in everything, for this pleases the Lord — and he speaks to parents too: do not discourage or embitter your children, or they will lose heart.\n\nThen Paul says something that changes how we see ALL work, even the hardest or most unfair jobs: whatever you do, work at it with your whole heart, as though you were working for the Lord, not merely for people — because you know you will receive an inheritance from the Lord as a reward!\n\nThis was an astonishing message in Paul's world, where servants were treated as having no value at all — Paul says their work, done with a right heart, has eternal worth and reward from God Himself. And Paul tells those in positions of authority to treat the people under them justly and fairly, remembering that they too have a Master in heaven who sees everything and judges fairly.\n\nNo relationship, no job, no chore — is too small to do for Jesus.",
+        "es": "Pablo ahora se dirige a algo que toda familia necesita: cómo vivir juntos en amor. Habla a las esposas, diciéndoles que honren el liderazgo de sus esposos de una manera que refleje a Cristo; habla a los esposos, mandándoles que amen a sus esposas y nunca sean ásperos con ellas. Habla directamente a los hijos: obedezcan a sus padres en todo, porque esto agrada al Señor — y también habla a los padres: no desanimen ni amarguen a sus hijos, o perderán el ánimo.\n\nLuego Pablo dice algo que cambia cómo vemos TODO trabajo, incluso los empleos más difíciles o injustos: todo lo que hagan, trabájenlo con todo el corazón, como si trabajaran para el Señor, y no simplemente para personas — ¡porque saben que recibirán una herencia del Señor como recompensa!\n\nEste era un mensaje asombroso en el mundo de Pablo, donde a los siervos se les trataba como si no tuvieran ningún valor — Pablo dice que su trabajo, hecho con un corazón recto, tiene valor eterno y recompensa de Dios mismo. Y Pablo dice a quienes están en posiciones de autoridad que traten a las personas bajo ellos con justicia e igualdad, recordando que ellos también tienen un Amo en el cielo que ve todo y juzga con justicia.\n\nNinguna relación, ningún trabajo, ningún quehacer — es demasiado pequeño para hacerlo por Jesús.",
+        "fr": "Paul se tourne maintenant vers quelque chose dont toute famille a besoin : comment vivre ensemble dans l'amour. Il parle aux femmes, leur disant d'honorer le leadership de leurs maris d'une manière qui reflète Christ ; il parle aux maris, leur commandant d'aimer leurs femmes et de ne jamais être durs avec elles. Il parle directement aux enfants : obéissez à vos parents en tout, car cela plaît au Seigneur — et il parle aussi aux parents : ne décourageons pas et n'aigrissons pas nos enfants, sinon ils perdront courage.\n\nPuis Paul dit quelque chose qui change la façon dont nous voyons TOUT travail, même les emplois les plus difficiles ou injustes : tout ce que vous faites, faites-le de bon cœur, comme pour le Seigneur et non pour des hommes — car vous savez que vous recevrez du Seigneur l'héritage pour récompense !\n\nC'était un message étonnant dans le monde de Paul, où les serviteurs étaient traités comme n'ayant aucune valeur — Paul dit que leur travail, fait avec un cœur droit, a une valeur éternelle et une récompense de Dieu Lui-même. Et Paul dit à ceux qui sont en position d'autorité de traiter les personnes sous eux avec justice et équité, se souvenant qu'eux aussi ont un Maître au ciel qui voit tout et juge avec justice.\n\nAucune relation, aucun travail, aucune tâche — n'est trop petite pour être faite pour Jésus."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
+        "en": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+        "es": "Y todo lo que hagáis, hacedlo de ánimo, como al Señor, y no a los hombres.",
+        "fr": "Tout ce que vous faites, faites-le de bon cœur, comme pour le Seigneur et non pour des hommes."
       },
       "ref": {
-        "en": "Colossians 3:23 (NIV)"
+        "en": "Colossians 3:23 (NIV)",
+        "es": "Colosenses 3:23 (Valera)",
+        "fr": "Colossiens 3:23 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,29 @@
           "all",
           "your",
           "heart"
+        ],
+        "es": [
+          "Y",
+          "todo",
+          "lo",
+          "que",
+          "hagáis",
+          "hacedlo",
+          "de",
+          "ánimo",
+          "como",
+          "al"
+        ],
+        "fr": [
+          "Tout",
+          "ce",
+          "que",
+          "vous",
+          "faites",
+          "faites-le",
+          "de",
+          "bon",
+          "cœur"
         ]
       },
       "typing_challenge": true
@@ -40,7 +73,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Love at Home!"
+        "en": "A Song for Love at Home!",
+        "es": "Una Canción para ¡Amor en el Hogar!",
+        "fr": "Une Chanson pour L'Amour à la Maison !"
       },
       "audio_en": "/static/audio/colossians/lesson07_en.mp3"
     },
@@ -49,7 +84,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Paul, why should children obey their parents?"
+            "en": "According to Paul, why should children obey their parents?",
+            "es": "Según Pablo, ¿por qué deben los hijos obedecer a sus padres?",
+            "fr": "Selon Paul, pourquoi les enfants doivent-ils obéir à leurs parents ?"
           },
           "options": {
             "en": [
@@ -57,13 +94,27 @@
               "Because this pleases the Lord",
               "Only if they feel like it",
               "Only when guests are watching"
+            ],
+            "es": [
+              "Porque si no, se meterán en problemas",
+              "Porque esto agrada al Señor",
+              "Solo si tienen ganas",
+              "Solo cuando hay visitas mirando"
+            ],
+            "fr": [
+              "Parce qu'ils auront des ennuis sinon",
+              "Parce que cela plaît au Seigneur",
+              "Seulement s'ils en ont envie",
+              "Seulement quand des invités regardent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul tell parents not to do?"
+            "en": "What does Paul tell parents not to do?",
+            "es": "¿Qué les dice Pablo a los padres que no hagan?",
+            "fr": "Que dit Paul aux parents de ne pas faire ?"
           },
           "options": {
             "en": [
@@ -71,13 +122,27 @@
               "Teach their children the Bible",
               "Spend time with their children",
               "Pray for their children"
+            ],
+            "es": [
+              "Amargar o desanimar a sus hijos",
+              "Enseñar la Biblia a sus hijos",
+              "Pasar tiempo con sus hijos",
+              "Orar por sus hijos"
+            ],
+            "fr": [
+              "Aigrir ou décourager leurs enfants",
+              "Enseigner la Bible à leurs enfants",
+              "Passer du temps avec leurs enfants",
+              "Prier pour leurs enfants"
             ]
           },
           "answer": 0
         },
         {
           "q": {
-            "en": "According to verse 23, who are we ultimately working for, even in ordinary tasks?"
+            "en": "According to verse 23, who are we ultimately working for, even in ordinary tasks?",
+            "es": "Según el versículo 23, ¿para quién trabajamos en última instancia, incluso en tareas comunes?",
+            "fr": "Selon le verset 23, pour qui travaillons-nous finalement, même dans les tâches ordinaires ?"
           },
           "options": {
             "en": [
@@ -85,6 +150,18 @@
               "The Lord, not merely for people",
               "Whoever pays the most",
               "No one in particular"
+            ],
+            "es": [
+              "Solo para nosotros mismos",
+              "El Señor, no simplemente para personas",
+              "Quien pague más",
+              "Nadie en particular"
+            ],
+            "fr": [
+              "Seulement pour nous-mêmes",
+              "Le Seigneur, pas simplement pour des hommes",
+              "Celui qui paie le plus",
+              "Personne en particulier"
             ]
           },
           "answer": 1
@@ -96,7 +173,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Love at Home!"
+            "en": "Activity sheet: Love at Home!",
+            "es": "Hoja de actividad: ¡Amor en el Hogar!",
+            "fr": "Fiche d'activité : L'Amour à la Maison !"
           },
           "file": "/static/printables/colossians/lesson07_sheet.pdf"
         }
@@ -105,7 +184,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: every relationship and every task, however ordinary or unfair, can be transformed into worship by doing it 'as for the Lord.' This household passage mirrors the parallel teaching in Ephesians 5-6, reinforcing family order rooted in mutual love and honor rather than harshness or domination (note Paul explicitly forbids husbands being harsh and parents embittering children — authority in Scripture always comes bound to responsibility and gentleness).\n\nA sensitive teaching note for the servant/master passage (3:22-4:1): Paul is not endorsing the institution as it existed, but radically dignifying those within it — declaring their labor has eternal worth and reward from God Himself, while holding masters accountable to a heavenly Master who judges with perfect fairness. For older children or in parent-led discussion, this is a good moment to mention Paul's letter to Philemon (written around the same time), where Paul personally pleads for the freedom and dignity of Onesimus, a runaway, now a \"dear brother.\" The gospel, even while operating within the broken structures of its day, was already planting the seeds that would one day overturn them entirely.\n\nFor today's children, the timeless principle is direct: chores, homework, and even unfair situations become opportunities to honor Christ, not because the task itself is glamorous, but because of WHO it's ultimately done for.\n\nConversation starters: (1) What is a task you find boring or hard that you could do \"as for the Lord\" this week? (2) Why do you think Paul tells parents specifically not to discourage their children? (3) How does knowing your work has \"reward from the Lord\" change how you do it?\n\nPray together, asking for grace to honor one another at home and to work with whole hearts as unto the Lord."
+        "en": "Big idea: every relationship and every task, however ordinary or unfair, can be transformed into worship by doing it 'as for the Lord.' This household passage mirrors the parallel teaching in Ephesians 5-6, reinforcing family order rooted in mutual love and honor rather than harshness or domination (note Paul explicitly forbids husbands being harsh and parents embittering children — authority in Scripture always comes bound to responsibility and gentleness).\n\nA sensitive teaching note for the servant/master passage (3:22-4:1): Paul is not endorsing the institution as it existed, but radically dignifying those within it — declaring their labor has eternal worth and reward from God Himself, while holding masters accountable to a heavenly Master who judges with perfect fairness. For older children or in parent-led discussion, this is a good moment to mention Paul's letter to Philemon (written around the same time), where Paul personally pleads for the freedom and dignity of Onesimus, a runaway, now a \"dear brother.\" The gospel, even while operating within the broken structures of its day, was already planting the seeds that would one day overturn them entirely.\n\nFor today's children, the timeless principle is direct: chores, homework, and even unfair situations become opportunities to honor Christ, not because the task itself is glamorous, but because of WHO it's ultimately done for.\n\nConversation starters: (1) What is a task you find boring or hard that you could do \"as for the Lord\" this week? (2) Why do you think Paul tells parents specifically not to discourage their children? (3) How does knowing your work has \"reward from the Lord\" change how you do it?\n\nPray together, asking for grace to honor one another at home and to work with whole hearts as unto the Lord.",
+        "es": "Idea principal: toda relación y toda tarea, sin importar cuán ordinaria o injusta, puede transformarse en adoración al hacerla \"como para el Señor.\" Este pasaje sobre el hogar refleja la enseñanza paralela en Efesios 5-6, reforzando un orden familiar fundado en el amor y honor mutuo en lugar de la aspereza o el dominio (nótese que Pablo prohíbe explícitamente que los esposos sean ásperos y que los padres amarguen a sus hijos — la autoridad en la Escritura siempre viene atada a la responsabilidad y la mansedumbre).\n\nUna nota sensible de enseñanza para el pasaje de siervo/amo (3:22-4:1): Pablo no está respaldando la institución como existía, sino dignificando radicalmente a quienes estaban dentro de ella — declarando que su trabajo tiene valor eterno y recompensa de Dios mismo, mientras hace responsables a los amos ante un Amo celestial que juzga con perfecta justicia. Para niños mayores o en una discusión guiada por los padres, este es un buen momento para mencionar la carta de Pablo a Filemón (escrita casi al mismo tiempo), donde Pablo personalmente suplica por la libertad y dignidad de Onésimo, un fugitivo, ahora un \"hermano querido.\" El evangelio, incluso mientras operaba dentro de las estructuras rotas de su época, ya estaba plantando las semillas que un día las derrocarían por completo.\n\nPara los niños de hoy, el principio eterno es directo: los quehaceres, la tarea, e incluso situaciones injustas se convierten en oportunidades para honrar a Cristo, no porque la tarea misma sea glamorosa, sino por QUIÉN finalmente la recibe.\n\nPara conversar: (1) ¿Cuál es una tarea que encuentras aburrida o difícil que podrías hacer \"como para el Señor\" esta semana? (2) ¿Por qué crees que Pablo les dice específicamente a los padres que no desanimen a sus hijos? (3) ¿Cómo cambia saber que tu trabajo tiene \"recompensa del Señor\" la manera en que lo haces?\n\nOren juntos, pidiendo gracia para honrarse unos a otros en casa y trabajar con todo el corazón como para el Señor.",
+        "fr": "Idée principale : toute relation et toute tâche, même ordinaire ou injuste, peut être transformée en adoration en la faisant « comme pour le Seigneur ». Ce passage sur le foyer reflète l'enseignement parallèle d'Éphésiens 5-6, renforçant un ordre familial fondé sur l'amour et l'honneur mutuel plutôt que sur la dureté ou la domination (notez que Paul interdit explicitement aux maris d'être durs et aux parents d'aigrir leurs enfants — l'autorité dans l'Écriture est toujours liée à la responsabilité et à la douceur).\n\nUne note d'enseignement sensible pour le passage serviteur/maître (3.22-4.1) : Paul n'approuve pas l'institution telle qu'elle existait, mais dignifie radicalement ceux qui s'y trouvaient — déclarant que leur travail a une valeur éternelle et une récompense de Dieu Lui-même, tout en tenant les maîtres responsables devant un Maître céleste qui juge avec une parfaite équité. Pour les enfants plus âgés ou dans une discussion guidée par les parents, c'est un bon moment pour mentionner la lettre de Paul à Philémon (écrite à peu près à la même époque), où Paul plaide personnellement pour la liberté et la dignité d'Onésime, un fugitif, devenu maintenant un « frère bien-aimé ». L'Évangile, même en opérant dans les structures brisées de son époque, plantait déjà les graines qui les renverseraient un jour entièrement.\n\nPour les enfants d'aujourd'hui, le principe intemporel est direct : les tâches ménagères, les devoirs, et même les situations injustes deviennent des occasions d'honorer Christ, non parce que la tâche elle-même est glorieuse, mais à cause de QUI elle est finalement faite pour.\n\nPour la conversation : (1) Quelle est une tâche que tu trouves ennuyeuse ou difficile que tu pourrais faire « comme pour le Seigneur » cette semaine ? (2) Pourquoi penses-tu que Paul dit spécifiquement aux parents de ne pas décourager leurs enfants ? (3) Comment le fait de savoir que ton travail a une « récompense du Seigneur » change-t-il la façon dont tu le fais ?\n\nPriez ensemble, demandant la grâce de vous honorer les uns les autres à la maison et de travailler de tout cœur comme pour le Seigneur."
       }
     }
   ],

@@ -1,25 +1,35 @@
 {
   "title": {
-    "en": "Faith, Love, and a Prayer for Wisdom"
+    "en": "Faith, Love, and a Prayer for Wisdom",
+    "es": "Fe, Amor, y una Oración por Sabiduría",
+    "fr": "Foi, Amour, et une Prière pour la Sagesse"
   },
   "ref": "Colossians 1:1-14",
   "blocks": [
     {
       "type": "story",
       "heading": {
-        "en": "A church Paul never visited"
+        "en": "A church Paul never visited",
+        "es": "Una iglesia que Pablo nunca visitó",
+        "fr": "Une église que Paul n'a jamais visitée"
       },
       "body": {
-        "en": "Here's something surprising: Paul wrote this letter to a church he had never even visited! The believers in Colossae were taught the gospel by a man named Epaphras, who learned it from Paul and carried it home — like a torch passed from hand to hand. Paul heard wonderful news: the Colossians had real faith in Jesus and real love for every believer.\n\nTheir faith was producing fruit and growing, just like good seed planted in good soil.\n\nSo Paul prayed for them — not for money, not for easy lives, but for something far more valuable: that God would fill them with wisdom and understanding of His will, so they would live lives that please Him in every way, bearing fruit in every good work.\n\nThen Paul reminds them what they already have in Christ: rescued from darkness, brought into God's kingdom of light, and given REDEMPTION — the forgiveness of every sin, completely paid for. The gospel doesn't need Paul standing in the room. It travels by faithful hands, from person to person, exactly the way it reached Colossae — and exactly the way it can reach your street, your school, your family."
+        "en": "Here's something surprising: Paul wrote this letter to a church he had never even visited! The believers in Colossae were taught the gospel by a man named Epaphras, who learned it from Paul and carried it home — like a torch passed from hand to hand. Paul heard wonderful news: the Colossians had real faith in Jesus and real love for every believer.\n\nTheir faith was producing fruit and growing, just like good seed planted in good soil.\n\nSo Paul prayed for them — not for money, not for easy lives, but for something far more valuable: that God would fill them with wisdom and understanding of His will, so they would live lives that please Him in every way, bearing fruit in every good work.\n\nThen Paul reminds them what they already have in Christ: rescued from darkness, brought into God's kingdom of light, and given REDEMPTION — the forgiveness of every sin, completely paid for. The gospel doesn't need Paul standing in the room. It travels by faithful hands, from person to person, exactly the way it reached Colossae — and exactly the way it can reach your street, your school, your family.",
+        "es": "Aquí hay algo sorprendente: ¡Pablo escribió esta carta a una iglesia que nunca había visitado! Los creyentes de Colosas fueron enseñados el evangelio por un hombre llamado Epafras, quien lo aprendió de Pablo y lo llevó a su hogar — como una antorcha que pasa de mano en mano. Pablo escuchó una noticia maravillosa: los colosenses tenían fe verdadera en Jesús y amor verdadero por todos los creyentes.\n\nSu fe estaba produciendo fruto y creciendo, tal como una buena semilla plantada en buena tierra.\n\nAsí que Pablo oraba por ellos — no por dinero, ni por vidas fáciles, sino por algo mucho más valioso: que Dios los llenara de sabiduría y entendimiento de Su voluntad, para que vivieran vidas que le agradaran en todo, dando fruto en toda buena obra.\n\nLuego Pablo les recuerda lo que ya tienen en Cristo: rescatados de la oscuridad, llevados al reino de luz de Dios, y dada la REDENCIÓN — el perdón de cada pecado, completamente pagado. El evangelio no necesita que Pablo esté presente en la habitación. Viaja por manos fieles, de persona a persona, exactamente como llegó a Colosas — y exactamente como puede llegar a tu calle, tu escuela, tu familia.",
+        "fr": "Voici quelque chose de surprenant : Paul a écrit cette lettre à une église qu'il n'avait jamais visitée ! Les croyants de Colosses avaient été enseignés l'évangile par un homme nommé Épaphras, qui l'avait appris de Paul et l'avait porté chez lui — comme une torche transmise de main en main. Paul reçut une merveilleuse nouvelle : les Colossiens avaient une foi authentique en Jésus et un amour authentique pour tous les croyants.\n\nLeur foi produisait du fruit et grandissait, tout comme une bonne semence plantée dans une bonne terre.\n\nAlors Paul priait pour eux — non pour de l'argent, ni pour une vie facile, mais pour quelque chose de bien plus précieux : que Dieu les remplisse de sagesse et de compréhension de Sa volonté, afin qu'ils vivent d'une manière qui Lui plaise en tout, portant du fruit en toute bonne œuvre.\n\nPuis Paul leur rappelle ce qu'ils ont déjà en Christ : sauvés des ténèbres, amenés dans le royaume de lumière de Dieu, et reçu la RÉDEMPTION — le pardon de chaque péché, entièrement payé. L'Évangile n'a pas besoin que Paul soit présent dans la pièce. Il voyage par des mains fidèles, de personne à personne, exactement comme il est parvenu à Colosses — et exactement comme il peut atteindre ta rue, ton école, ta famille."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "We have not stopped praying for you and asking God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives, in whom we have redemption, the forgiveness of sins."
+        "en": "We have not stopped praying for you and asking God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives, in whom we have redemption, the forgiveness of sins.",
+        "es": "No cesamos de orar por vosotros y de pedir que seáis llenos del conocimiento de su voluntad, en toda sabiduría y espiritual inteligencia, en el cual tenemos redención, la remisión de pecados.",
+        "fr": "Nous ne cessons de prier Dieu pour vous, et de demander que vous soyez remplis de la connaissance de sa volonté, en toute sagesse et intelligence spirituelle, en qui nous avons la rédemption, la rémission des péchés."
       },
       "ref": {
-        "en": "Colossians 1:9,14 (NIV)"
+        "en": "Colossians 1:9,14 (NIV)",
+        "es": "Colosenses 1:9,14 (Valera)",
+        "fr": "Colossiens 1:9,14 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -30,6 +40,22 @@
           "praying",
           "for",
           "you"
+        ],
+        "es": [
+          "No",
+          "cesamos",
+          "de",
+          "orar",
+          "por",
+          "vosotros"
+        ],
+        "fr": [
+          "Nous",
+          "ne",
+          "cessons",
+          "de",
+          "prier",
+          "Dieu"
         ]
       },
       "typing_challenge": true
@@ -37,7 +63,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Faith, Love, and a Prayer for Wisdom"
+        "en": "A Song for Faith, Love, and a Prayer for Wisdom",
+        "es": "Una Canción para Fe, Amor, y una Oración por Sabiduría",
+        "fr": "Une Chanson pour la Foi, l'Amour, et une Prière pour la Sagesse"
       },
       "audio_en": "/static/audio/colossians/lesson01_en.mp3"
     },
@@ -46,7 +74,9 @@
       "questions": [
         {
           "q": {
-            "en": "Who first taught the Colossians the gospel?"
+            "en": "Who first taught the Colossians the gospel?",
+            "es": "¿Quién enseñó primero el evangelio a los colosenses?",
+            "fr": "Qui a enseigné l'évangile aux Colossiens pour la première fois ?"
           },
           "options": {
             "en": [
@@ -54,13 +84,27 @@
               "Epaphras, who learned it from Paul",
               "Timothy",
               "Peter"
+            ],
+            "es": [
+              "Pablo mismo",
+              "Epafras, quien lo aprendió de Pablo",
+              "Timoteo",
+              "Pedro"
+            ],
+            "fr": [
+              "Paul lui-même",
+              "Épaphras, qui l'avait appris de Paul",
+              "Timothée",
+              "Pierre"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Paul pray for the Colossians, more than anything else?"
+            "en": "What did Paul pray for the Colossians, more than anything else?",
+            "es": "¿Qué pidió Pablo en oración por los colosenses, más que cualquier otra cosa?",
+            "fr": "Pour quoi Paul a-t-il prié pour les Colossiens, plus que tout ?"
           },
           "options": {
             "en": [
@@ -68,13 +112,27 @@
               "Fame in their city",
               "Wisdom and understanding of God's will",
               "A bigger church building"
+            ],
+            "es": [
+              "Riqueza y comodidad",
+              "Fama en su ciudad",
+              "Sabiduría y entendimiento de la voluntad de Dios",
+              "Un edificio de iglesia más grande"
+            ],
+            "fr": [
+              "La richesse et le confort",
+              "La renommée dans leur ville",
+              "La sagesse et la compréhension de la volonté de Dieu",
+              "Un plus grand bâtiment d'église"
             ]
           },
           "answer": 2
         },
         {
           "q": {
-            "en": "What does 'redemption' mean in this passage?"
+            "en": "What does 'redemption' mean in this passage?",
+            "es": "¿Qué significa 'redención' en este pasaje?",
+            "fr": "Que signifie « rédemption » dans ce passage ?"
           },
           "options": {
             "en": [
@@ -82,6 +140,18 @@
               "The forgiveness of sins, completely paid for",
               "Becoming famous",
               "Moving to a new city"
+            ],
+            "es": [
+              "Ganar un premio",
+              "El perdón de los pecados, completamente pagado",
+              "Hacerse famoso",
+              "Mudarse a una nueva ciudad"
+            ],
+            "fr": [
+              "Gagner un prix",
+              "Le pardon des péchés, entièrement payé",
+              "Devenir célèbre",
+              "Déménager dans une nouvelle ville"
             ]
           },
           "answer": 1
@@ -93,7 +163,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Faith, Love, and a Prayer for Wisdom"
+            "en": "Activity sheet: Faith, Love, and a Prayer for Wisdom",
+            "es": "Hoja de actividad: Fe, Amor, y una Oración por Sabiduría",
+            "fr": "Fiche d'activité : Foi, Amour, et une Prière pour la Sagesse"
           },
           "file": "/static/printables/colossians/lesson01_sheet.pdf"
         }
@@ -102,7 +174,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the gospel travels by faithful hands, and the highest prayer for any believer is not comfort but spiritual wisdom. Paul never set foot in Colossae — Epaphras carried the gospel there, and it took root and bore fruit (1:6-8). This models exactly what personal evangelism looks like: ordinary believers carrying truth to people an apostle never reached.\n\nPaul's prayer (1:9-12) is a masterclass in what to actually pray for our children: not success, not ease, but \"the knowledge of his will,\" wisdom, and a life that bears fruit. Redemption (1:14) is justification language — sins forgiven through Christ's blood, the first and necessary work of grace before any growth in holiness can follow.\n\nConversation starters: (1) Who has been an \"Epaphras\" in your life — someone who carried the gospel to you? (2) When you pray for someone you love, do you pray for their comfort or for their wisdom and fruitfulness? (3) What does it mean that redemption is already \"complete\" — not something you're still earning?\n\nPray together, using Paul's actual words, asking God to fill each family member with wisdom and understanding of His will."
+        "en": "Big idea: the gospel travels by faithful hands, and the highest prayer for any believer is not comfort but spiritual wisdom. Paul never set foot in Colossae — Epaphras carried the gospel there, and it took root and bore fruit (1:6-8). This models exactly what personal evangelism looks like: ordinary believers carrying truth to people an apostle never reached.\n\nPaul's prayer (1:9-12) is a masterclass in what to actually pray for our children: not success, not ease, but \"the knowledge of his will,\" wisdom, and a life that bears fruit. Redemption (1:14) is justification language — sins forgiven through Christ's blood, the first and necessary work of grace before any growth in holiness can follow.\n\nConversation starters: (1) Who has been an \"Epaphras\" in your life — someone who carried the gospel to you? (2) When you pray for someone you love, do you pray for their comfort or for their wisdom and fruitfulness? (3) What does it mean that redemption is already \"complete\" — not something you're still earning?\n\nPray together, using Paul's actual words, asking God to fill each family member with wisdom and understanding of His will.",
+        "es": "Idea principal: el evangelio viaja por manos fieles, y la oración más elevada por cualquier creyente no es por comodidad sino por sabiduría espiritual. Pablo nunca puso un pie en Colosas — Epafras llevó el evangelio allí, y echó raíces y dio fruto (1:6-8). Esto muestra exactamente cómo es la evangelización personal: creyentes comunes llevando la verdad a personas que un apóstol nunca alcanzó.\n\nLa oración de Pablo (1:9-12) es una clase magistral sobre qué orar realmente por nuestros hijos: no éxito, no comodidad, sino “el conocimiento de su voluntad”, sabiduría, y una vida que da fruto. La redención (1:14) es lenguaje de justificación — pecados perdonados por la sangre de Cristo, la primera y necesaria obra de gracia antes de que pueda seguir cualquier crecimiento en santidad.\n\nPara conversar: (1) ¿Quién ha sido un “Epafras” en tu vida — alguien que te llevó el evangelio? (2) Cuando oras por alguien que amas, ¿oras por su comodidad o por su sabiduría y fruto? (3) ¿Qué significa que la redención ya está “completa” — que no es algo que todavía estás ganando?\n\nOren juntos, usando las palabras mismas de Pablo, pidiendo a Dios que llene a cada miembro de la familia con sabiduría y entendimiento de Su voluntad.",
+        "fr": "Idée principale : l'Évangile voyage par des mains fidèles, et la prière la plus élevée pour tout croyant n'est pas le confort mais la sagesse spirituelle. Paul n'a jamais mis les pieds à Colosses — Épaphras y a porté l'Évangile, qui y a pris racine et porté du fruit (1.6-8). Cela illustre exactement ce à quoi ressemble l'évangélisation personnelle : des croyants ordinaires portant la vérité à des gens qu'un apôtre n'a jamais atteints.\n\nLa prière de Paul (1.9-12) est un véritable modèle de ce pour quoi prier réellement pour nos enfants : non le succès, non le confort, mais « la connaissance de sa volonté », la sagesse, et une vie qui porte du fruit. La rédemption (1.14) est un langage de justification — les péchés pardonnés par le sang de Christ, la première œuvre nécessaire de la grâce avant que toute croissance en sainteté ne puisse suivre.\n\nPour la conversation : (1) Qui a été un « Épaphras » dans ta vie — quelqu'un qui t'a apporté l'Évangile ? (2) Quand tu pries pour quelqu'un que tu aimes, pries-tu pour son confort ou pour sa sagesse et sa fécondité ? (3) Que signifie le fait que la rédemption soit déjà « complète » — que ce n'est pas quelque chose que tu es encore en train de gagner ?\n\nPriez ensemble, en utilisant les mots mêmes de Paul, demandant à Dieu de remplir chaque membre de la famille de sagesse et de compréhension de Sa volonté."
       }
     }
   ],

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Real People, Real Love"
+    "en": "Real People, Real Love",
+    "es": "Personas Reales, Amor Real",
+    "fr": "Des Gens Réels, un Amour Réel"
   },
   "ref": "Colossians 4:7-18",
   "section": "Final Greetings",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Greetings that show the gospel is personal"
+        "en": "Greetings that show the gospel is personal",
+        "es": "Saludos que muestran que el evangelio es personal",
+        "fr": "Des salutations qui montrent que l'Évangile est personnel"
       },
       "body": {
-        "en": "Paul closes his letter the way he closes several letters: with real names, real people, real relationships. Tychicus and Onesimus are sent to carry news and encouragement. Paul mentions Aristarchus, his fellow prisoner, and Mark, and Justus, and then says something tender about Epaphras — the very man who first brought the gospel to Colossae — describing him as 'always wrestling in prayer' for the Colossians, that they would stand firm, mature and fully assured in everything God wills.\n\nImagine someone praying for you so hard it's described as WRESTLING! Paul mentions Luke, the doctor, and Demas, and sends a greeting to Nympha and the church meeting in her house. He even asks them to tell Archippus to complete the ministry he received.\n\nFinally, Paul writes a closing greeting in his own handwriting — a personal, unmistakable signature — and asks them to remember his chains, ending simply: 'Grace be with you.' A letter overflowing with deep doctrine ends, fittingly, with ordinary people who loved each other and prayed hard for one another."
+        "en": "Paul closes his letter the way he closes several letters: with real names, real people, real relationships. Tychicus and Onesimus are sent to carry news and encouragement. Paul mentions Aristarchus, his fellow prisoner, and Mark, and Justus, and then says something tender about Epaphras — the very man who first brought the gospel to Colossae — describing him as 'always wrestling in prayer' for the Colossians, that they would stand firm, mature and fully assured in everything God wills.\n\nImagine someone praying for you so hard it's described as WRESTLING! Paul mentions Luke, the doctor, and Demas, and sends a greeting to Nympha and the church meeting in her house. He even asks them to tell Archippus to complete the ministry he received.\n\nFinally, Paul writes a closing greeting in his own handwriting — a personal, unmistakable signature — and asks them to remember his chains, ending simply: 'Grace be with you.' A letter overflowing with deep doctrine ends, fittingly, with ordinary people who loved each other and prayed hard for one another.",
+        "es": "Pablo cierra su carta de la misma manera que cierra varias cartas: con nombres reales, personas reales, relaciones reales. Tíquico y Onésimo son enviados para llevar noticias y ánimo. Pablo menciona a Aristarco, su compañero de prisión, y a Marcos, y a Justo, y luego dice algo tierno sobre Epafras — el mismo hombre que primero llevó el evangelio a Colosas — describiéndolo como alguien 'siempre solícito en oración' por los colosenses, para que estuvieran firmes, maduros y plenamente confiados en todo lo que Dios quiere.\n\n¡Imagina a alguien orando tanto por ti que se describe como LUCHAR! Pablo menciona a Lucas, el médico, y a Demas, y envía un saludo a Ninfa y a la iglesia que se reúne en su casa. Incluso les pide que le digan a Arquipo que complete el ministerio que recibió.\n\nFinalmente, Pablo escribe un saludo de cierre con su propia letra — una firma personal e inconfundible — y les pide que recuerden sus cadenas, terminando simplemente: 'La gracia sea con vosotros.' Una carta desbordante de doctrina profunda termina, apropiadamente, con personas comunes que se amaban y oraban intensamente unas por otras.",
+        "fr": "Paul clôt sa lettre de la même manière qu'il clôt plusieurs lettres : avec des noms réels, des personnes réelles, des relations réelles. Tychique et Onésime sont envoyés pour porter des nouvelles et de l'encouragement. Paul mentionne Aristarque, son compagnon de captivité, et Marc, et Jésus appelé Justus, puis dit quelque chose de touchant à propos d'Épaphras — l'homme même qui a apporté l'Évangile à Colosses pour la première fois — le décrivant comme quelqu'un qui 'ne cesse de combattre dans ses prières' pour les Colossiens, afin qu'ils demeurent fermes, parfaits et pleinement persuadés dans toute la volonté de Dieu.\n\nImagine quelqu'un priant si fort pour toi que c'est décrit comme un COMBAT ! Paul mentionne Luc, le médecin, et Démas, et envoie une salutation à Nympha et à l'église qui se réunit dans sa maison. Il leur demande même de dire à Archippe d'accomplir le ministère qu'il a reçu.\n\nEnfin, Paul écrit une salutation de clôture de sa propre main — une signature personnelle et indéniable — et leur demande de se souvenir de ses chaînes, terminant simplement : « Que la grâce soit avec vous. » Une lettre débordante de doctrine profonde se termine, à juste titre, par des gens ordinaires qui s'aimaient et priaient ardemment les uns pour les autres."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured."
+        "en": "He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured.",
+        "es": "Siempre solícito por vosotros en oraciones, para que estéis firmes, perfectos y cumplidos en todo lo que Dios quiere.",
+        "fr": "Il ne cesse de combattre pour vous dans ses prières, afin que, parfaits et pleinement persuadés, vous persistiez dans une entière soumission à la volonté de Dieu."
       },
       "ref": {
-        "en": "Colossians 4:12 (NIV)"
+        "en": "Colossians 4:12 (NIV)",
+        "es": "Colosenses 4:12 (Valera)",
+        "fr": "Colossiens 4:12 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -32,6 +42,25 @@
           "prayer",
           "for",
           "you"
+        ],
+        "es": [
+          "Siempre",
+          "solícito",
+          "por",
+          "vosotros",
+          "en",
+          "oraciones",
+          "para",
+          "que"
+        ],
+        "fr": [
+          "Il",
+          "ne",
+          "cesse",
+          "de",
+          "combattre",
+          "pour",
+          "vous"
         ]
       },
       "typing_challenge": true
@@ -39,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Real People, Real Love"
+        "en": "A Song for Real People, Real Love",
+        "es": "Una Canción para Personas Reales, Amor Real",
+        "fr": "Une Chanson pour Des Gens Réels, un Amour Réel"
       },
       "audio_en": "/static/audio/colossians/lesson08_en.mp3"
     },
@@ -48,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "How is Epaphras described in his prayers for the Colossians?"
+            "en": "How is Epaphras described in his prayers for the Colossians?",
+            "es": "¿Cómo se describe a Epafras en sus oraciones por los colosenses?",
+            "fr": "Comment Épaphras est-il décrit dans ses prières pour les Colossiens ?"
           },
           "options": {
             "en": [
@@ -56,13 +89,27 @@
               "Always wrestling in prayer for them",
               "Too busy to pray",
               "Uninterested in their wellbeing"
+            ],
+            "es": [
+              "Distraído y olvidadizo",
+              "Siempre luchando en oración por ellos",
+              "Demasiado ocupado para orar",
+              "Sin interés en su bienestar"
+            ],
+            "fr": [
+              "Distrait et oublieux",
+              "Toujours en train de combattre dans la prière pour eux",
+              "Trop occupé pour prier",
+              "Indifférent à leur bien-être"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Paul close the letter, to make it personal and unmistakably his?"
+            "en": "How does Paul close the letter, to make it personal and unmistakably his?",
+            "es": "¿Cómo cierra Pablo la carta, para hacerla personal e inconfundiblemente suya?",
+            "fr": "Comment Paul clôt-il la lettre, pour la rendre personnelle et indéniablement sienne ?"
           },
           "options": {
             "en": [
@@ -70,13 +117,27 @@
               "He writes the closing greeting in his own handwriting",
               "He doesn't sign it at all",
               "He uses a stamp"
+            ],
+            "es": [
+              "Hace que otra persona la firme",
+              "Escribe el saludo de cierre con su propia letra",
+              "No la firma para nada",
+              "Usa un sello"
+            ],
+            "fr": [
+              "Il fait signer quelqu'un d'autre",
+              "Il écrit la salutation de clôture de sa propre main",
+              "Il ne la signe pas du tout",
+              "Il utilise un sceau"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What do all the personal greetings at the end of the letter remind us about the gospel?"
+            "en": "What do all the personal greetings at the end of the letter remind us about the gospel?",
+            "es": "¿Qué nos recuerdan todos los saludos personales al final de la carta sobre el evangelio?",
+            "fr": "Que nous rappellent toutes les salutations personnelles à la fin de la lettre sur l'Évangile ?"
           },
           "options": {
             "en": [
@@ -84,6 +145,18 @@
               "It spreads through real, named people and real relationships",
               "Names don't matter in the church",
               "Only leaders matter, not ordinary believers"
+            ],
+            "es": [
+              "Que es impersonal y abstracto",
+              "Que se extiende a través de personas reales, con nombre, y relaciones reales",
+              "Que los nombres no importan en la iglesia",
+              "Que solo los líderes importan, no los creyentes comunes"
+            ],
+            "fr": [
+              "Qu'il est impersonnel et abstrait",
+              "Qu'il se propage à travers des personnes réelles, nommées, et des relations réelles",
+              "Que les noms n'ont pas d'importance dans l'Église",
+              "Que seuls les dirigeants comptent, pas les croyants ordinaires"
             ]
           },
           "answer": 1
@@ -95,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Real People, Real Love"
+            "en": "Activity sheet: Real People, Real Love",
+            "es": "Hoja de actividad: Personas Reales, Amor Real",
+            "fr": "Fiche d'activité : Des Gens Réels, un Amour Réel"
           },
           "file": "/static/printables/colossians/lesson08_sheet.pdf"
         }
@@ -104,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: profound doctrine lands, fittingly, in ordinary named relationships — a reminder that the gospel always travels through real people, not abstract ideas. Epaphras's prayer life, described as \"always wrestling\" (4:12) — the same intensity language used for athletic struggle — models intercessory prayer as real spiritual labor, directly echoing the kind of soul-winning, person-by-person ministry this platform's mission tracker is built around.\n\nConversation starters: (1) Who in your life \"wrestles in prayer\" for you, or who could you wrestle in prayer for? (2) Why might Paul take the time to name so many ordinary people at the end of such an important letter? (3) What does Paul's own handwritten signature show about how personally he cared for this church?\n\nPray together, taking time to wrestle in prayer for specific people by name — perhaps from the Mission page."
+        "en": "Big idea: profound doctrine lands, fittingly, in ordinary named relationships — a reminder that the gospel always travels through real people, not abstract ideas. Epaphras's prayer life, described as \"always wrestling\" (4:12) — the same intensity language used for athletic struggle — models intercessory prayer as real spiritual labor, directly echoing the kind of soul-winning, person-by-person ministry this platform's mission tracker is built around.\n\nConversation starters: (1) Who in your life \"wrestles in prayer\" for you, or who could you wrestle in prayer for? (2) Why might Paul take the time to name so many ordinary people at the end of such an important letter? (3) What does Paul's own handwritten signature show about how personally he cared for this church?\n\nPray together, taking time to wrestle in prayer for specific people by name — perhaps from the Mission page.",
+        "es": "Idea principal: la doctrina profunda desemboca, apropiadamente, en relaciones comunes y con nombre — un recordatorio de que el evangelio siempre viaja a través de personas reales, no de ideas abstractas. La vida de oración de Epafras, descrita como \"siempre luchando\" (4:12) — el mismo lenguaje de intensidad usado para el esfuerzo atlético — modela la oración intercesora como un trabajo espiritual real, haciendo eco directo del tipo de ministerio de ganar almas, persona por persona, en torno al cual está construido el rastreador de misión de esta plataforma.\n\nPara conversar: (1) ¿Quién en tu vida \"lucha en oración\" por ti, o por quién podrías luchar tú en oración? (2) ¿Por qué crees que Pablo se toma el tiempo de nombrar a tantas personas comunes al final de una carta tan importante? (3) ¿Qué muestra la propia firma manuscrita de Pablo sobre cuán personalmente le importaba esta iglesia?\n\nOren juntos, tomando tiempo para luchar en oración por personas específicas por nombre — quizás de la página de Misión.",
+        "fr": "Idée principale : la doctrine profonde aboutit, à juste titre, à des relations ordinaires et nommées — un rappel que l'Évangile voyage toujours à travers des personnes réelles, non des idées abstraites. La vie de prière d'Épaphras, décrite comme « ne cessant de combattre » (4.12) — le même langage d'intensité utilisé pour l'effort athlétique — modélise la prière d'intercession comme un véritable travail spirituel, faisant directement écho au type de ministère de conquête des âmes, personne par personne, autour duquel le suivi de mission de cette plateforme est construit.\n\nPour la conversation : (1) Qui dans ta vie « combat dans la prière » pour toi, ou pour qui pourrais-tu combattre dans la prière ? (2) Pourquoi penses-tu que Paul prend le temps de nommer tant de gens ordinaires à la fin d'une lettre si importante ? (3) Que montre la signature manuscrite de Paul lui-même sur à quel point il se souciait personnellement de cette église ?\n\nPriez ensemble, prenant le temps de combattre dans la prière pour des personnes précises, par leur nom — peut-être depuis la page Mission."
       }
     }
   ]
