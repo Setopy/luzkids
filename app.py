@@ -422,8 +422,20 @@ def register():
     return render_template("register.html")
 
 
+def _login_rate_key():
+    # Key by the target email, not source IP: mobile/CGNAT networks can
+    # present a different apparent IP on every single request (confirmed
+    # against this exact app's traffic — see the /api/ask rate limiter
+    # above), making IP-keyed throttling useless against exactly the
+    # attacker behavior it's meant to stop. Keying by email also means
+    # an attacker rotating IPs to brute-force ONE account is still
+    # blocked, which IP-keying could never guarantee anyway.
+    email = request.form.get("email", "").strip().lower()
+    return email or get_remote_address()
+
+
 @app.route("/login", methods=["GET", "POST"])
-@limiter.limit("10/minute;50/day", methods=["POST"])
+@limiter.limit("10/minute;50/day", methods=["POST"], key_func=_login_rate_key)
 def login():
     if request.method == "POST":
         user = User.query.filter_by(
