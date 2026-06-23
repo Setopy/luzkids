@@ -404,6 +404,7 @@ def api_complete():
 
 # ----------------------------------------------------- auth & profiles
 @app.route("/register", methods=["GET", "POST"])
+@limiter.limit("5/hour", methods=["POST"])
 def register():
     if request.method == "POST":
         email = request.form["email"].strip().lower()
@@ -422,6 +423,7 @@ def register():
 
 
 @app.route("/login", methods=["GET", "POST"])
+@limiter.limit("10/minute;50/day", methods=["POST"])
 def login():
     if request.method == "POST":
         user = User.query.filter_by(
@@ -558,6 +560,13 @@ def rate_limit_exceeded(e):
             "fr": "Beaucoup de questions ! Fais une petite pause et réessaie dans quelques minutes.",
             "pt": "Uau, muitas perguntas! Faça uma pequena pausa e tente novamente em alguns minutos."
         }), rate_limited=True), 429
+    if request.path in ("/login", "/register"):
+        flash(t({
+            "en": "Too many attempts — please wait a few minutes and try again.",
+            "es": "Demasiados intentos — espera unos minutos e inténtalo de nuevo.",
+            "fr": "Trop de tentatives — attends quelques minutes et réessaie."
+        }))
+        return redirect(url_for(request.path.strip("/")))
     return e
 
 
