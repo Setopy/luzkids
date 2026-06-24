@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Pursue Holiness!"
+    "en": "Pursue Holiness!",
+    "es": "¡Persigan la Santidad!",
+    "fr": "Recherchez la Sainteté !"
   },
   "ref": "Hebrews 12:14-29",
   "section": "Warning Against Rejecting God",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A bowl of soup that cost everything"
+        "en": "A bowl of soup that cost everything",
+        "es": "Un plato de sopa que costó todo",
+        "fr": "Un bol de soupe qui a tout coûté"
       },
       "body": {
-        "en": "The writer gives a final, serious warning, using Esau as the example: Esau traded away his entire inheritance for a single bowl of soup, and later, even with tears, could not get it back. 'Make every effort,' the writer urges, 'to live in peace with everyone and to be holy; without holiness no one will see the Lord.' See to it that no one misses the grace of God or trades away something eternal for something that feels good for just a moment.\n\nThe old covenant, given at Sinai, came with fire, smoke, and trembling.\n\nBut we have come to something far greater: Mount Zion, the heavenly Jerusalem, the assembly of the firstborn, Jesus the mediator of a better covenant. We have come to something UNSHAKEABLE — a kingdom that cannot be destroyed. Let us worship God with reverence and awe, for our God is a consuming fire."
+        "en": "The writer gives a final, serious warning, using Esau as the example: Esau traded away his entire inheritance for a single bowl of soup, and later, even with tears, could not get it back. 'Make every effort,' the writer urges, 'to live in peace with everyone and to be holy; without holiness no one will see the Lord.' See to it that no one misses the grace of God or trades away something eternal for something that feels good for just a moment.\n\nThe old covenant, given at Sinai, came with fire, smoke, and trembling.\n\nBut we have come to something far greater: Mount Zion, the heavenly Jerusalem, the assembly of the firstborn, Jesus the mediator of a better covenant. We have come to something UNSHAKEABLE — a kingdom that cannot be destroyed. Let us worship God with reverence and awe, for our God is a consuming fire.",
+        "es": "El escritor da una advertencia final y seria, usando a Esaú como ejemplo: Esaú vendió toda su herencia por un solo plato de sopa, y después, incluso con lágrimas, no pudo recuperarla. \"Esfuércense,\" insta el escritor, \"por vivir en paz con todos y por ser santos; sin santidad nadie verá al Señor.\" Cuídense de que nadie pierda la gracia de Dios o cambie algo eterno por algo que se siente bien solo por un momento.\n\nEl antiguo pacto, dado en el Sinaí, llegó con fuego, humo, y temblor.\n\nPero hemos llegado a algo mucho más grande: el Monte Sión, la Jerusalén celestial, la asamblea de los primogénitos, Jesús el mediador de un pacto mejor. Hemos llegado a algo INQUEBRANTABLE — un reino que no puede ser destruido. Adoremos a Dios con reverencia y temor, porque nuestro Dios es fuego consumidor.",
+        "fr": "L'auteur donne un dernier et sérieux avertissement, en utilisant Ésaü comme exemple : Ésaü a vendu tout son héritage pour un seul bol de soupe, et plus tard, même avec des larmes, n'a pas pu le récupérer. « Efforcez-vous, » exhorte l'auteur, « de vivre en paix avec tous et de rechercher la sainteté ; sans la sainteté personne ne verra le Seigneur. » Veillez à ce que personne ne manque la grâce de Dieu ou n'échange quelque chose d'éternel pour quelque chose qui fait du bien seulement pour un instant.\n\nL'ancienne alliance, donnée au Sinaï, est venue avec du feu, de la fumée, et des tremblements.\n\nMais nous sommes arrivés à quelque chose de bien plus grand : la montagne de Sion, la Jérusalem céleste, l'assemblée des premiers-nés, Jésus le médiateur d'une meilleure alliance. Nous sommes arrivés à quelque chose d'INÉBRANLABLE — un royaume qui ne peut être détruit. Adorons Dieu avec révérence et crainte, car notre Dieu est un feu consumant."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord."
+        "en": "Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord.",
+        "es": "Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor.",
+        "fr": "Recherchez la paix avec tous, et la sanctification, sans laquelle personne ne verra le Seigneur."
       },
       "ref": {
-        "en": "Hebrews 12:14 (NIV)"
+        "en": "Hebrews 12:14 (NIV)",
+        "es": "Hebreos 12:14 (Valera)",
+        "fr": "Hébreux 12:14 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "to",
           "be",
           "holy"
+        ],
+        "es": [
+          "Seguid",
+          "la",
+          "paz",
+          "con",
+          "todos",
+          "y"
+        ],
+        "fr": [
+          "Recherchez",
+          "la",
+          "paix",
+          "avec",
+          "tous",
+          "et"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Pursue Holiness!"
+        "en": "A Song for Pursue Holiness!",
+        "es": "Una Canción para ¡Persigan la Santidad!",
+        "fr": "Une Chanson pour Recherchez la Sainteté !"
       },
       "audio_en": "/static/audio/hebrews/lesson18_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Esau trade away his inheritance for?"
+            "en": "What did Esau trade away his inheritance for?",
+            "es": "¿Por qué cambió Esaú su herencia?",
+            "fr": "Contre quoi Ésaü a-t-il échangé son héritage ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "A single bowl of soup",
               "Gold",
               "Nothing — he kept it"
+            ],
+            "es": [
+              "Un gran reino",
+              "Un solo plato de sopa",
+              "Oro",
+              "Nada — la conservó"
+            ],
+            "fr": [
+              "Un grand royaume",
+              "Un seul bol de soupe",
+              "De l'or",
+              "Rien — il l'a gardé"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to verse 14, what is necessary to see the Lord?"
+            "en": "According to verse 14, what is necessary to see the Lord?",
+            "es": "Según el versículo 14, ¿qué es necesario para ver al Señor?",
+            "fr": "Selon le verset 14, qu'est-il nécessaire pour voir le Seigneur ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Holiness",
               "Fame",
               "Nothing is required"
+            ],
+            "es": [
+              "Riqueza",
+              "Santidad",
+              "Fama",
+              "No se requiere nada"
+            ],
+            "fr": [
+              "La richesse",
+              "La sainteté",
+              "La célébrité",
+              "Rien n'est requis"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What kind of kingdom have believers come to?"
+            "en": "What kind of kingdom have believers come to?",
+            "es": "¿A qué tipo de reino han llegado los creyentes?",
+            "fr": "À quel genre de royaume les croyants sont-ils arrivés ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "An unshakeable kingdom that cannot be destroyed",
               "No kingdom at all",
               "One that will soon end"
+            ],
+            "es": [
+              "Uno inestable y temporal",
+              "Un reino inquebrantable que no puede ser destruido",
+              "A ningún reino en absoluto",
+              "Uno que terminará pronto"
+            ],
+            "fr": [
+              "Un royaume instable et temporaire",
+              "Un royaume inébranlable qui ne peut être détruit",
+              "À aucun royaume du tout",
+              "Un qui se terminera bientôt"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Pursue Holiness!"
+            "en": "Activity sheet: Pursue Holiness!",
+            "es": "Hoja de actividad: ¡Persigan la Santidad!",
+            "fr": "Fiche d'activité : Recherchez la Sainteté !"
           },
           "file": "/static/printables/hebrews/lesson18_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: holiness as non-negotiable for those who hope to see God — \"without holiness no one will see the Lord\" is among Scripture's clearest statements supporting holy living as essential, not optional. Esau's example warns about trading something eternal for momentary satisfaction.\n\nConversation starters: (1) What's something \"Esau-like\" you want to guard against? (2) Why does holiness matter so much, per verse 14? (3) What does it mean we've come to an \"unshakeable kingdom\"?\n\nPray for hearts pursuing holiness, never trading away what's eternal."
+        "en": "Big idea: holiness as non-negotiable for those who hope to see God — \"without holiness no one will see the Lord\" is among Scripture's clearest statements supporting holy living as essential, not optional. Esau's example warns about trading something eternal for momentary satisfaction.\n\nConversation starters: (1) What's something \"Esau-like\" you want to guard against? (2) Why does holiness matter so much, per verse 14? (3) What does it mean we've come to an \"unshakeable kingdom\"?\n\nPray for hearts pursuing holiness, never trading away what's eternal.",
+        "es": "Idea principal: la santidad como no negociable para quienes esperan ver a Dios — 'sin santidad nadie verá al Señor' es una de las declaraciones más claras de la Escritura que respalda la vida santa como esencial, no opcional. El ejemplo de Esaú advierte sobre cambiar algo eterno por satisfacción momentánea.\n\nPara conversar: (1) ¿Cuál es algo 'tipo Esaú' contra lo que quieres protegerte? (2) ¿Por qué importa tanto la santidad, según el versículo 14? (3) ¿Qué significa que hayamos llegado a un 'reino inquebrantable'?\n\nOren por corazones que persigan la santidad, nunca cambiando lo eterno.",
+        "fr": "Idée principale : la sainteté comme non négociable pour ceux qui espèrent voir Dieu — « sans la sainteté personne ne verra le Seigneur » est l'une des déclarations les plus claires de l'Écriture soutenant que la vie saine est essentielle, et non optionnelle. L'exemple d'Ésaü avertit contre l'échange de quelque chose d'éternel pour une satisfaction momentanée.\n\nPour la conversation : (1) Quelle est une chose « à la manière d'Ésaü » contre laquelle tu veux te garder ? (2) Pourquoi la sainteté compte-t-elle tant, selon le verset 14 ? (3) Que signifie le fait que nous soyons arrivés à un « royaume inébranlable » ?\n\nPriez pour des cœurs qui recherchent la sainteté, n'échangeant jamais ce qui est éternel."
       }
     }
   ]

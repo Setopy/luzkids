@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Come, Follow Me!"
+    "en": "Come, Follow Me!",
+    "es": "¡Ven, Sígueme!",
+    "fr": "Viens, Suis-moi !"
   },
   "ref": "Mark 1:14-20",
   "section": "Jesus Announces the Good News / Jesus Calls His First Disciples",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Dropped nets, instant decision"
+        "en": "Dropped nets, instant decision",
+        "es": "Redes abandonadas, decisión instantánea",
+        "fr": "Filets abandonnés, décision instantanée"
       },
       "body": {
-        "en": "After John was put in prison, Jesus came into Galilee proclaiming the good news of God: 'The time has come. The kingdom of God has come near. Repent and believe the good news!' Then, walking beside the Sea of Galilee, Jesus saw Simon and his brother Andrew casting their nets — they were fishermen.\n\nJesus said simply: 'Come, follow me, and I will send you out to fish for people.' And here's the astonishing part: AT ONCE they left their nets and followed Him! A little further on, He saw James and John, sons of Zebedee, in their boat preparing nets. Without delay, He called them — and they left their father in the boat with the hired men and followed Jesus too!\n\nNo long explanation, no convincing speech — just an invitation, and an immediate, total response. These ordinary fishermen had no idea what was ahead, but they trusted the One who called them enough to drop everything, right then, and go."
+        "en": "After John was put in prison, Jesus came into Galilee proclaiming the good news of God: 'The time has come. The kingdom of God has come near. Repent and believe the good news!' Then, walking beside the Sea of Galilee, Jesus saw Simon and his brother Andrew casting their nets — they were fishermen.\n\nJesus said simply: 'Come, follow me, and I will send you out to fish for people.' And here's the astonishing part: AT ONCE they left their nets and followed Him! A little further on, He saw James and John, sons of Zebedee, in their boat preparing nets. Without delay, He called them — and they left their father in the boat with the hired men and followed Jesus too!\n\nNo long explanation, no convincing speech — just an invitation, and an immediate, total response. These ordinary fishermen had no idea what was ahead, but they trusted the One who called them enough to drop everything, right then, and go.",
+        "es": "Después de que Juan fue encarcelado, Jesús vino a Galilea proclamando el evangelio de Dios: \"El tiempo se ha cumplido. El reino de Dios se ha acercado. ¡Arrepiéntanse y crean en el evangelio!\" Luego, caminando junto al mar de Galilea, Jesús vio a Simón y a su hermano Andrés echando sus redes — eran pescadores.\n\nJesús dijo simplemente: \"Vengan, síganme, y los haré pescadores de hombres.\" Y aquí está la parte asombrosa: ¡AL INSTANTE dejaron sus redes y le siguieron! Un poco más adelante, vio a Jacobo y Juan, hijos de Zebedeo, en su barca preparando las redes. Sin demora, los llamó — ¡y dejaron a su padre en la barca con los jornaleros y también siguieron a Jesús!\n\nSin explicación larga, sin discurso convincente — solo una invitación, y una respuesta inmediata y total. Estos pescadores comunes no tenían idea de lo que vendría, pero confiaron lo suficiente en Aquel que los llamó como para dejarlo todo, en ese mismo momento, y ir.",
+        "fr": "Après que Jean eut été mis en prison, Jésus vint en Galilée, proclamant la bonne nouvelle de Dieu : « Le temps est accompli, et le royaume de Dieu est proche. Repentez-vous, et croyez à la bonne nouvelle. » Puis, marchant le long de la mer de Galilée, Jésus vit Simon et son frère André qui jetaient leurs filets — c'étaient des pêcheurs.\n\nJésus leur dit simplement : « Suivez-moi, et je vous ferai pêcheurs d'hommes. » Et voici la partie étonnante : AUSSITÔT, ils laissèrent leurs filets et le suivirent ! Un peu plus loin, Il vit Jacques et Jean, fils de Zébédée, dans leur barque préparant les filets. Sans délai, Il les appela — et ils laissèrent leur père dans la barque avec les ouvriers et suivirent aussi Jésus !\n\nPas de longue explication, pas de discours convaincant — juste une invitation, et une réponse immédiate et totale. Ces pêcheurs ordinaires n'avaient aucune idée de ce qui les attendait, mais ils faisaient assez confiance à Celui qui les appelait pour tout abandonner, sur-le-champ, et partir."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Come, follow me, and I will send you out to fish for people."
+        "en": "Come, follow me, and I will send you out to fish for people.",
+        "es": "Y les dijo Jesús: Venid en pos de mí, y haré que seáis pescadores de hombres.",
+        "fr": "Jésus leur dit : Suivez-moi, et je vous ferai pêcheurs d'hommes."
       },
       "ref": {
-        "en": "Mark 1:17 (NIV)"
+        "en": "Mark 1:17 (NIV)",
+        "es": "Marcos 1:17 (Valera)",
+        "fr": "Marc 1:17 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "fish",
           "for",
           "people"
+        ],
+        "es": [
+          "Y",
+          "les",
+          "dijo",
+          "Jesús",
+          "Venid",
+          "en"
+        ],
+        "fr": [
+          "Jésus",
+          "leur",
+          "dit",
+          "Suivez-moi",
+          "et",
+          "je"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Come, Follow Me!"
+        "en": "A Song for Come, Follow Me!",
+        "es": "Una Canción para ¡Ven, Sígueme!",
+        "fr": "Une Chanson pour Viens, Suis-moi !"
       },
       "audio_en": "/static/audio/mark/lesson02_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What was Jesus' main message when He began preaching in Galilee?"
+            "en": "What was Jesus' main message when He began preaching in Galilee?",
+            "es": "¿Cuál fue el mensaje principal de Jesús cuando comenzó a predicar en Galilea?",
+            "fr": "Quel était le message principal de Jésus quand Il a commencé à prêcher en Galilée ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "The kingdom of God has come near — repent and believe",
               "Pay more taxes",
               "Avoid the Romans"
+            ],
+            "es": [
+              "Construir barcos más grandes",
+              "El reino de Dios se ha acercado — arrepiéntanse y crean",
+              "Pagar más impuestos",
+              "Evitar a los romanos"
+            ],
+            "fr": [
+              "Construire des bateaux plus grands",
+              "Le royaume de Dieu est proche — repentez-vous et croyez",
+              "Payer plus d'impôts",
+              "Éviter les Romains"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What were Simon, Andrew, James and John doing when Jesus called them?"
+            "en": "What were Simon, Andrew, James and John doing when Jesus called them?",
+            "es": "¿Qué estaban haciendo Simón, Andrés, Jacobo y Juan cuando Jesús los llamó?",
+            "fr": "Que faisaient Simon, André, Jacques et Jean quand Jésus les a appelés ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Fishing — they were fishermen",
               "Studying the law",
               "Travelling to Rome"
+            ],
+            "es": [
+              "Orando en el templo",
+              "Pescando — eran pescadores",
+              "Estudiando la ley",
+              "Viajando a Roma"
+            ],
+            "fr": [
+              "Ils priaient dans le temple",
+              "Ils pêchaient — c'étaient des pêcheurs",
+              "Ils étudiaient la loi",
+              "Ils voyageaient à Rome"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How quickly did they respond to Jesus' call?"
+            "en": "How quickly did they respond to Jesus' call?",
+            "es": "¿Con qué rapidez respondieron al llamado de Jesús?",
+            "fr": "Avec quelle rapidité ont-ils répondu à l'appel de Jésus ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "At once — immediately, without delay",
               "They never responded",
               "They asked for payment first"
+            ],
+            "es": [
+              "Lo pensaron durante semanas",
+              "Al instante — inmediatamente, sin demora",
+              "Nunca respondieron",
+              "Pidieron pago primero"
+            ],
+            "fr": [
+              "Ils y ont réfléchi pendant des semaines",
+              "Aussitôt — immédiatement, sans délai",
+              "Ils n'ont jamais répondu",
+              "Ils ont demandé d'être payés d'abord"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Come, Follow Me!"
+            "en": "Activity sheet: Come, Follow Me!",
+            "es": "Hoja de actividad: ¡Ven, Sígueme!",
+            "fr": "Fiche d'activité : Viens, Suis-moi !"
           },
           "file": "/static/printables/mark/lesson02_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the immediacy of true discipleship — Mark's signature word \"immediately\" appears right where it matters most, at the moment of response to Jesus' call. These were not religious professionals; they were ordinary working men who left everything at a simple invitation.\n\nConversation starters: (1) Why do you think they responded so quickly, leaving nets and even family behind? (2) What might Jesus be calling YOU to leave behind or pick up today? (3) What does \"fish for people\" mean as a picture of the disciples' new calling?\n\nPray for the same quick, trusting obedience these first disciples showed."
+        "en": "Big idea: the immediacy of true discipleship — Mark's signature word \"immediately\" appears right where it matters most, at the moment of response to Jesus' call. These were not religious professionals; they were ordinary working men who left everything at a simple invitation.\n\nConversation starters: (1) Why do you think they responded so quickly, leaving nets and even family behind? (2) What might Jesus be calling YOU to leave behind or pick up today? (3) What does \"fish for people\" mean as a picture of the disciples' new calling?\n\nPray for the same quick, trusting obedience these first disciples showed.",
+        "es": "Idea principal: la inmediatez del discipulado verdadero — la palabra característica de Marcos, 'inmediatamente', aparece justo donde más importa, en el momento de responder al llamado de Jesús. Estos no eran profesionales religiosos; eran hombres trabajadores comunes que lo dejaron todo ante una simple invitación.\n\nPara conversar: (1) ¿Por qué crees que respondieron tan rápido, dejando atrás redes e incluso a su familia? (2) ¿Qué podría estar llamándote Jesús a TI a dejar atrás o tomar hoy? (3) ¿Qué significa 'pescadores de hombres' como imagen del nuevo llamado de los discípulos?\n\nOren por la misma obediencia rápida y confiada que mostraron estos primeros discípulos.",
+        "fr": "Idée principale : l'immédiateté du véritable disciplinat — le mot signature de Marc, « immédiatement », apparaît précisément là où cela compte le plus, au moment de répondre à l'appel de Jésus. Ce n'étaient pas des professionnels religieux ; c'étaient des travailleurs ordinaires qui ont tout quitté sur une simple invitation.\n\nPour la conversation : (1) Pourquoi penses-tu qu'ils ont répondu si vite, laissant derrière eux des filets et même leur famille ? (2) Que pourrait Jésus t'appeler à laisser derrière toi ou à prendre aujourd'hui ? (3) Que signifie « pêcheurs d'hommes » comme image du nouvel appel des disciples ?\n\nPriez pour la même obéissance rapide et confiante que ces premiers disciples ont montrée."
       }
     }
   ]

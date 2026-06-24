@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Dazzling White on the Mountain"
+    "en": "Dazzling White on the Mountain",
+    "es": "Blanco Resplandeciente en la Montaña",
+    "fr": "Éblouissant de Blancheur sur la Montagne"
   },
   "ref": "Mark 9:2-13",
   "section": "The Transfiguration",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A glimpse of glory before the cross"
+        "en": "A glimpse of glory before the cross",
+        "es": "Un vistazo de gloria antes de la cruz",
+        "fr": "Un aperçu de gloire avant la croix"
       },
       "body": {
-        "en": "Six days later, Jesus took Peter, James and John up a high mountain, and there He was TRANSFIGURED before them — His clothes became dazzling white, whiter than anyone could bleach them! Elijah and Moses appeared, talking with Jesus. Peter, overwhelmed, blurted out: 'Let us put up three shelters — one for you, one for Moses, one for Elijah.' He didn't know what to say, they were so terrified!\n\nThen a cloud enveloped them, and a voice came from the cloud: 'This is my Son, whom I love. Listen to him!' Suddenly, looking around, they saw only Jesus — Moses and Elijah were gone. As they came down the mountain, Jesus told them to keep what they'd seen to themselves until after He had risen from the dead.\n\nThey discussed what 'rising from the dead' could mean, still confused. For just a moment, on that mountain, Peter, James and John saw Jesus' true, hidden glory — the same glory He had before the world began, breaking through, right before the path toward the cross."
+        "en": "Six days later, Jesus took Peter, James and John up a high mountain, and there He was TRANSFIGURED before them — His clothes became dazzling white, whiter than anyone could bleach them! Elijah and Moses appeared, talking with Jesus. Peter, overwhelmed, blurted out: 'Let us put up three shelters — one for you, one for Moses, one for Elijah.' He didn't know what to say, they were so terrified!\n\nThen a cloud enveloped them, and a voice came from the cloud: 'This is my Son, whom I love. Listen to him!' Suddenly, looking around, they saw only Jesus — Moses and Elijah were gone. As they came down the mountain, Jesus told them to keep what they'd seen to themselves until after He had risen from the dead.\n\nThey discussed what 'rising from the dead' could mean, still confused. For just a moment, on that mountain, Peter, James and John saw Jesus' true, hidden glory — the same glory He had before the world began, breaking through, right before the path toward the cross.",
+        "es": "Seis días después, Jesús llevó a Pedro, Jacobo y Juan a una montaña alta, y allí fue TRANSFIGURADO ante ellos — ¡Sus ropas se volvieron blancas resplandecientes, más blancas de lo que nadie podría blanquearlas! Elías y Moisés aparecieron, hablando con Jesús. Pedro, abrumado, exclamó: \"Hagamos tres tiendas — una para ti, una para Moisés, una para Elías.\" ¡No sabía qué decir, estaban tan aterrorizados!\n\nEntonces una nube los envolvió, y una voz vino de la nube: \"¡Este es mi Hijo amado! ¡A él oíd!\" De repente, mirando alrededor, solo vieron a Jesús — Moisés y Elías se habían ido. Al bajar de la montaña, Jesús les dijo que guardaran para sí lo que habían visto hasta que Él hubiera resucitado de los muertos.\n\nDiscutieron qué podría significar \"resucitar de los muertos\", todavía confundidos. Por un solo momento, en esa montaña, Pedro, Jacobo y Juan vieron la gloria verdadera y escondida de Jesús — la misma gloria que tuvo antes de que el mundo comenzara, irrumpiendo, justo antes del camino hacia la cruz.",
+        "fr": "Six jours plus tard, Jésus prit Pierre, Jacques et Jean sur une haute montagne, et là Il fut TRANSFIGURÉ devant eux — Ses vêtements devinrent d'une blancheur éblouissante, plus blancs que personne au monde ne pourrait les blanchir ! Élie et Moïse apparurent, s'entretenant avec Jésus. Pierre, dépassé, s'exclama : « Faisons trois tentes — une pour toi, une pour Moïse, une pour Élie. » Il ne savait que dire, tant ils étaient effrayés !\n\nPuis une nuée les couvrit, et une voix vint de la nuée : « Celui-ci est mon Fils bien-aimé : écoutez-le ! » Soudain, en regardant autour d'eux, ils ne virent plus que Jésus — Moïse et Élie avaient disparu. En descendant de la montagne, Jésus leur dit de garder pour eux ce qu'ils avaient vu jusqu'à ce qu'Il soit ressuscité des morts.\n\nIls discutaient de ce que « ressusciter des morts » pouvait signifier, encore confus. Pour un seul instant, sur cette montagne, Pierre, Jacques et Jean virent la gloire véritable et cachée de Jésus — la même gloire qu'Il avait avant que le monde ne commence, faisant irruption, juste avant le chemin vers la croix."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "This is my Son, whom I love. Listen to him!"
+        "en": "This is my Son, whom I love. Listen to him!",
+        "es": "Y vino una nube que les hizo sombra, y una voz de la nube, que decía: Este es mi Hijo amado: á él oid.",
+        "fr": "Une nuée vint les couvrir, et de la nuée sortit une voix : Celui-ci est mon Fils bien-aimé : écoutez-le !"
       },
       "ref": {
-        "en": "Mark 9:7 (NIV)"
+        "en": "Mark 9:7 (NIV)",
+        "es": "Marcos 9:7 (Valera)",
+        "fr": "Marc 9:7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "listen",
           "to",
           "him"
+        ],
+        "es": [
+          "Y",
+          "vino",
+          "una",
+          "nube",
+          "que",
+          "les"
+        ],
+        "fr": [
+          "Une",
+          "nuée",
+          "vint",
+          "les",
+          "couvrir",
+          "et"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Dazzling White on the Mountain"
+        "en": "A Song for Dazzling White on the Mountain",
+        "es": "Una Canción para Blanco Resplandeciente en la Montaña",
+        "fr": "Une Chanson pour Éblouissant de Blancheur sur la Montagne"
       },
       "audio_en": "/static/audio/mark/lesson22_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What happened to Jesus' appearance on the mountain?"
+            "en": "What happened to Jesus' appearance on the mountain?",
+            "es": "¿Qué le sucedió a la apariencia de Jesús en la montaña?",
+            "fr": "Qu'est-il arrivé à l'apparence de Jésus sur la montagne ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "He was transfigured — His clothes became dazzling white",
               "He disappeared",
               "He grew taller"
+            ],
+            "es": [
+              "Nada inusual",
+              "Fue transfigurado — Sus ropas se volvieron blancas resplandecientes",
+              "Desapareció",
+              "Se hizo más alto"
+            ],
+            "fr": [
+              "Rien d'inhabituel",
+              "Il a été transfiguré — Ses vêtements sont devenus d'une blancheur éblouissante",
+              "Il a disparu",
+              "Il est devenu plus grand"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Who appeared with Jesus, talking with Him?"
+            "en": "Who appeared with Jesus, talking with Him?",
+            "es": "¿Quién apareció con Jesús, hablando con Él?",
+            "fr": "Qui est apparu avec Jésus, s'entretenant avec Lui ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Elijah and Moses",
               "Peter and John only",
               "No one else"
+            ],
+            "es": [
+              "Dos ángeles",
+              "Elías y Moisés",
+              "Solo Pedro y Juan",
+              "Nadie más"
+            ],
+            "fr": [
+              "Deux anges",
+              "Élie et Moïse",
+              "Seulement Pierre et Jean",
+              "Personne d'autre"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did the voice from the cloud say?"
+            "en": "What did the voice from the cloud say?",
+            "es": "¿Qué dijo la voz de la nube?",
+            "fr": "Qu'a dit la voix venant de la nuée ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "This is my Son, whom I love. Listen to him!",
               "Be silent forever",
               "Go back home"
+            ],
+            "es": [
+              "Nada importante",
+              "Este es mi Hijo amado: ¡a él oíd!",
+              "Permanezcan en silencio para siempre",
+              "Vuelvan a casa"
+            ],
+            "fr": [
+              "Rien d'important",
+              "Celui-ci est mon Fils bien-aimé : écoutez-le !",
+              "Restez silencieux pour toujours",
+              "Rentrez chez vous"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Dazzling White on the Mountain"
+            "en": "Activity sheet: Dazzling White on the Mountain",
+            "es": "Hoja de actividad: Blanco Resplandeciente en la Montaña",
+            "fr": "Fiche d'activité : Éblouissant de Blancheur sur la Montagne"
           },
           "file": "/static/printables/mark/lesson22_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: a brief, dazzling glimpse of Jesus' true divine glory, given specifically right after His first prediction of suffering and death — strengthening the disciples (and us) to trust that the coming suffering doesn't contradict who Jesus truly is, but is the path He chooses despite, and because of, His glory. The Father's command, \"Listen to him,\" directly answers Peter's earlier resistance to Jesus' words about the cross.\n\nConversation starters: (1) Why might God give the disciples this glimpse of glory right before the road to the cross gets harder? (2) What does \"Listen to him\" mean as a command for us today? (3) Have you ever had a moment where God felt unusually close or real to you?\n\nPray, asking God for the same kind of clarity about who Jesus truly is, especially in hard seasons."
+        "en": "Big idea: a brief, dazzling glimpse of Jesus' true divine glory, given specifically right after His first prediction of suffering and death — strengthening the disciples (and us) to trust that the coming suffering doesn't contradict who Jesus truly is, but is the path He chooses despite, and because of, His glory. The Father's command, \"Listen to him,\" directly answers Peter's earlier resistance to Jesus' words about the cross.\n\nConversation starters: (1) Why might God give the disciples this glimpse of glory right before the road to the cross gets harder? (2) What does \"Listen to him\" mean as a command for us today? (3) Have you ever had a moment where God felt unusually close or real to you?\n\nPray, asking God for the same kind of clarity about who Jesus truly is, especially in hard seasons.",
+        "es": "Idea principal: un breve y resplandeciente vistazo de la verdadera gloria divina de Jesús, dado específicamente justo después de Su primera predicción de sufrimiento y muerte — fortaleciendo a los discípulos (y a nosotros) para confiar en que el sufrimiento venidero no contradice quién es Jesús verdaderamente, sino que es el camino que Él elige a pesar de, y a causa de, Su gloria. El mandato del Padre, 'A él oíd', responde directamente a la resistencia anterior de Pedro a las palabras de Jesús sobre la cruz.\n\nPara conversar: (1) ¿Por qué podría Dios dar a los discípulos este vistazo de gloria justo antes de que el camino hacia la cruz se haga más difícil? (2) ¿Qué significa 'A él oíd' como mandato para nosotros hoy? (3) ¿Has tenido alguna vez un momento en que Dios se sintió inusualmente cercano o real para ti?\n\nOren, pidiendo a Dios el mismo tipo de claridad sobre quién es Jesús verdaderamente, especialmente en temporadas difíciles.",
+        "fr": "Idée principale : un aperçu bref et éblouissant de la véritable gloire divine de Jésus, donné spécifiquement juste après Sa première prédiction de souffrance et de mort — fortifiant les disciples (et nous) pour faire confiance que la souffrance à venir ne contredit pas qui Jésus est véritablement, mais est le chemin qu'Il choisit malgré, et à cause de, Sa gloire. Le commandement du Père, « écoutez-le », répond directement à la résistance précédente de Pierre face aux paroles de Jésus sur la croix.\n\nPour la conversation : (1) Pourquoi Dieu pourrait-Il donner aux disciples cet aperçu de gloire juste avant que le chemin vers la croix ne devienne plus difficile ? (2) Que signifie « écoutez-le » comme commandement pour nous aujourd'hui ? (3) As-tu déjà eu un moment où Dieu te semblait particulièrement proche ou réel ?\n\nPriez, en demandant à Dieu la même clarté sur qui Jésus est véritablement, surtout dans les saisons difficiles."
       }
     }
   ]

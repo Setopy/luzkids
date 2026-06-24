@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Iron Sharpens Iron"
+    "en": "Iron Sharpens Iron",
+    "es": "Hierro Con Hierro Se Aguza",
+    "fr": "Comme le Fer Aiguise le Fer"
   },
   "ref": "Proverbs 17:17; 18:24; 27:6; 27:9; 27:17",
   "section": "Friendship (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "What real friends actually do"
+        "en": "What real friends actually do",
+        "es": "Lo que los verdaderos amigos realmente hacen",
+        "fr": "Ce que les vrais amis font réellement"
       },
       "body": {
-        "en": "'A friend loves at all times, and a brother is born for a time of adversity.' Real friendship, Proverbs says, shows itself most clearly not in easy times, but in hard ones.\n\n'One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.' Not every relationship called \"friendship\" is genuinely reliable — but a true friend's loyalty runs deeper than family ties sometimes do.\n\nOne of the most surprising proverbs about friendship: 'wounds from a friend can be trusted, but an enemy multiplies kisses.' A real friend will tell you something hard, true, and helpful — while a flatterer's compliments might actually be empty or even harmful.\n\n'Perfume and incense bring joy to the heart, and the pleasantness of a friend springs from their heartfelt advice.' Good friendship isn't just pleasant company — it includes honest, caring counsel.\n\nAnd perhaps the most famous friendship proverb of all: 'as iron sharpens iron, so one person sharpens another.' Good friends make each other better, the same way two blades sharpen each other through contact."
+        "en": "'A friend loves at all times, and a brother is born for a time of adversity.' Real friendship, Proverbs says, shows itself most clearly not in easy times, but in hard ones.\n\n'One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.' Not every relationship called \"friendship\" is genuinely reliable — but a true friend's loyalty runs deeper than family ties sometimes do.\n\nOne of the most surprising proverbs about friendship: 'wounds from a friend can be trusted, but an enemy multiplies kisses.' A real friend will tell you something hard, true, and helpful — while a flatterer's compliments might actually be empty or even harmful.\n\n'Perfume and incense bring joy to the heart, and the pleasantness of a friend springs from their heartfelt advice.' Good friendship isn't just pleasant company — it includes honest, caring counsel.\n\nAnd perhaps the most famous friendship proverb of all: 'as iron sharpens iron, so one person sharpens another.' Good friends make each other better, the same way two blades sharpen each other through contact.",
+        "es": "\"En todo tiempo ama el amigo; y es como hermano en tiempo de angustia.\" La verdadera amistad, dice Proverbios, se muestra más claramente no en tiempos fáciles, sino en los difíciles.\n\n\"El hombre que tiene amigos ha de mostrarse amigo; y hay amigo más amigo que el hermano.\" No toda relación llamada \"amistad\" es genuinamente confiable — pero la lealtad de un verdadero amigo corre más profundo que los lazos familiares a veces.\n\nUno de los proverbios más sorprendentes sobre la amistad: \"fieles son las heridas del que ama; pero importunos los besos del que aborrece.\" Un verdadero amigo te dirá algo difícil, verdadero y útil — mientras que los elogios de un adulador podrían en realidad ser vacíos o incluso dañinos.\n\n\"El ungüento y el perfume alegran el corazón: y el amigo con el dulce consejo de amigo.\" La buena amistad no es solo compañía agradable — incluye consejo honesto y cariñoso.\n\nY quizás el proverbio sobre la amistad más famoso de todos: \"hierro con hierro se aguza; y el hombre aguza el rostro de su amigo.\" Los buenos amigos se hacen mejores entre sí, de la misma manera que dos cuchillas se afilan entre sí mediante el contacto.",
+        "fr": "« L'ami aime en tout temps, et dans le malheur il se montre un frère. » La vraie amitié, disent les Proverbes, se montre le plus clairement non pas dans les moments faciles, mais dans les moments difficiles.\n\n« Celui qui veut avoir des amis montre qu'il l'est, et il y a des amis plus attachés qu'un frère. » Toute relation appelée « amitié » n'est pas véritablement fiable — mais la loyauté d'un vrai ami va parfois plus profond que les liens familiaux.\n\nL'un des proverbes les plus surprenants sur l'amitié : « les blessures d'un ami prouvent sa fidélité, mais les baisers d'un ennemi sont trompeurs. » Un vrai ami te dira quelque chose de difficile, de vrai et d'utile — tandis que les compliments d'un flatteur pourraient en réalité être vides ou même nuisibles.\n\n« L'huile et les parfums réjouissent le cœur, et la douceur d'un ami vient de ses conseils empreints de bonté. » La bonne amitié n'est pas seulement une compagnie agréable — elle inclut un conseil honnête et attentif.\n\nEt peut-être le proverbe sur l'amitié le plus célèbre de tous : « comme le fer aiguise le fer, ainsi un homme excite la colère d'un homme. » Les bons amis se rendent meilleurs l'un l'autre, de la même manière que deux lames s'affûtent par contact."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "As iron sharpens iron, so one person sharpens another."
+        "en": "As iron sharpens iron, so one person sharpens another.",
+        "es": "Hierro con hierro se aguza; y el hombre aguza el rostro de su amigo.",
+        "fr": "Comme le fer aiguise le fer, Ainsi un homme excite la colère d'un homme."
       },
       "ref": {
-        "en": "Proverbs 27:17 (NIV)"
+        "en": "Proverbs 27:17 (NIV)",
+        "es": "Proverbios 27:17 (Valera)",
+        "fr": "Proverbes 27:17 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "person",
           "sharpens",
           "another"
+        ],
+        "es": [
+          "Hierro",
+          "con",
+          "hierro",
+          "se",
+          "aguza",
+          "y"
+        ],
+        "fr": [
+          "Comme",
+          "le",
+          "fer",
+          "aiguise",
+          "le",
+          "fer"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Iron Sharpens Iron"
+        "en": "A Song for Iron Sharpens Iron",
+        "es": "Una Canción para Hierro Con Hierro Se Aguza",
+        "fr": "Une Chanson pour Comme le Fer Aiguise le Fer"
       },
       "audio_en": "/static/audio/proverbs/lesson22_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 17:17, when does a real friend's love show most clearly?"
+            "en": "According to Proverbs 17:17, when does a real friend's love show most clearly?",
+            "es": "Según Proverbios 17:17, ¿cuándo se muestra más claramente el amor de un verdadero amigo?",
+            "fr": "Selon Proverbes 17:17, quand l'amour d'un vrai ami se montre-t-il le plus clairement ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "At all times — including times of adversity",
               "Never, really",
               "Only when convenient"
+            ],
+            "es": [
+              "Solo en tiempos fáciles y cómodos",
+              "En todo tiempo — incluyendo tiempos de angustia",
+              "Nunca, realmente",
+              "Solo cuando es conveniente"
+            ],
+            "fr": [
+              "Seulement dans les moments faciles et confortables",
+              "En tout temps — y compris dans le malheur",
+              "Jamais, en réalité",
+              "Seulement quand c'est pratique"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What surprising thing does Proverbs 27:6 say about wounds from a friend, versus an enemy's kisses?"
+            "en": "What surprising thing does Proverbs 27:6 say about wounds from a friend, versus an enemy's kisses?",
+            "es": "¿Qué cosa sorprendente dice Proverbios 27:6 sobre las heridas de un amigo, versus los besos de un enemigo?",
+            "fr": "Quelle chose surprenante dit Proverbes 27:6 sur les blessures d'un ami, comparées aux baisers d'un ennemi ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "Wounds from anyone are always bad",
               "Enemy's kisses are always trustworthy",
               "Friends never cause any discomfort"
+            ],
+            "es": [
+              "Las heridas de un amigo son fieles; los besos del enemigo son importunos (pueden ser vacíos o dañinos)",
+              "Las heridas de cualquiera siempre son malas",
+              "Los besos de un enemigo siempre son confiables",
+              "Los amigos nunca causan ninguna molestia"
+            ],
+            "fr": [
+              "Les blessures d'un ami prouvent sa fidélité ; les baisers d'un ennemi sont trompeurs",
+              "Les blessures de n'importe qui sont toujours mauvaises",
+              "Les baisers d'un ennemi sont toujours fiables",
+              "Les amis ne causent jamais d'inconfort"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the 'iron sharpens iron' proverb teach about good friendship?"
+            "en": "What does the 'iron sharpens iron' proverb teach about good friendship?",
+            "es": "¿Qué enseña el proverbio 'hierro con hierro se aguza' sobre la buena amistad?",
+            "fr": "Que nous enseigne le proverbe « comme le fer aiguise le fer » sur la bonne amitié ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Good friends make each other better through their interaction",
               "Friendship doesn't really change a person",
               "Iron has nothing to do with friendship"
+            ],
+            "es": [
+              "Los amigos deben evitarse entre sí",
+              "Los buenos amigos se hacen mejores entre sí a través de su interacción",
+              "La amistad realmente no cambia a una persona",
+              "El hierro no tiene nada que ver con la amistad"
+            ],
+            "fr": [
+              "Les amis devraient s'éviter",
+              "Les bons amis se rendent meilleurs l'un l'autre par leur interaction",
+              "L'amitié ne change vraiment pas une personne",
+              "Le fer n'a rien à voir avec l'amitié"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Iron Sharpens Iron"
+            "en": "Activity sheet: Iron Sharpens Iron",
+            "es": "Hoja de actividad: Hierro Con Hierro Se Aguza",
+            "fr": "Fiche d'activité : Comme le Fer Aiguise le Fer"
           },
           "file": "/static/printables/proverbs/lesson22_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs distinguishes genuine friendship from mere pleasant company — true friends offer honest, even hard truths (\"wounds... can be trusted\") rather than empty flattery, and good friendship actively shapes and improves both people involved, like iron sharpening iron. This gives children a concrete standard for evaluating their own friendships: does this relationship make me genuinely better?\n\nConversation starters: (1) Who is a friend that has stuck with you through a hard time, not just the easy times? (2) Why might an honest \"wound\" from a friend actually be more valuable than empty flattery from someone less invested in you? (3) How does \"iron sharpens iron\" describe a friendship you currently have, or wish you had?\n\nPray for friends who genuinely sharpen you, and for grace to be that kind of friend to others."
+        "en": "Big idea: Proverbs distinguishes genuine friendship from mere pleasant company — true friends offer honest, even hard truths (\"wounds... can be trusted\") rather than empty flattery, and good friendship actively shapes and improves both people involved, like iron sharpening iron. This gives children a concrete standard for evaluating their own friendships: does this relationship make me genuinely better?\n\nConversation starters: (1) Who is a friend that has stuck with you through a hard time, not just the easy times? (2) Why might an honest \"wound\" from a friend actually be more valuable than empty flattery from someone less invested in you? (3) How does \"iron sharpens iron\" describe a friendship you currently have, or wish you had?\n\nPray for friends who genuinely sharpen you, and for grace to be that kind of friend to others.",
+        "es": "Idea principal: Proverbios distingue la amistad genuina de la mera compañía agradable — los verdaderos amigos ofrecen verdades honestas, incluso difíciles (\"fieles son las heridas\") en lugar de halagos vacíos, y la buena amistad moldea y mejora activamente a ambas personas involucradas, como el hierro que afila al hierro. Esto da a los niños un estándar concreto para evaluar sus propias amistades: ¿esta relación realmente me hace mejor?\n\nPara conversar: (1) ¿Quién es un amigo que se ha quedado contigo en un momento difícil, no solo en los fáciles? (2) ¿Por qué podría una \"herida\" honesta de un amigo ser en realidad más valiosa que un halago vacío de alguien menos comprometido contigo? (3) ¿Cómo describe \"hierro con hierro se aguza\" una amistad que tienes actualmente, o que desearías tener?\n\nOren por amigos que genuinamente te afilen, y por gracia para ser ese tipo de amigo para otros.",
+        "fr": "Idée principale : les Proverbes distinguent l'amitié authentique de la simple compagnie agréable — les vrais amis offrent des vérités honnêtes, même difficiles (« les blessures d'un ami prouvent sa fidélité ») plutôt que des flatteries vides, et la bonne amitié façonne et améliore activement les deux personnes impliquées, comme le fer qui aiguise le fer. Cela donne aux enfants une norme concrète pour évaluer leurs propres amitiés : cette relation me rend-elle vraiment meilleur ?\n\nPour la conversation : (1) Qui est un ami qui est resté avec toi dans un moment difficile, pas seulement dans les moments faciles ? (2) Pourquoi une « blessure » honnête d'un ami pourrait-elle en réalité avoir plus de valeur qu'une flatterie vide de quelqu'un de moins investi en toi ? (3) Comment « le fer aiguise le fer » décrit-il une amitié que tu as actuellement, ou que tu souhaiterais avoir ?\n\nPriez pour des amis qui t'aiguisent véritablement, et pour la grâce d'être ce genre d'ami pour les autres."
       }
     }
   ]

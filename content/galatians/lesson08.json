@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Paul's Heartbreak"
+    "en": "Paul's Heartbreak",
+    "es": "El Dolor de Pablo",
+    "fr": "Le Chagrin de Paul"
   },
   "ref": "Galatians 4:8-20",
   "section": "Paul's Concern for the Galatians",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Pains of childbirth, all over again"
+        "en": "Pains of childbirth, all over again",
+        "es": "Dolores de parto, otra vez",
+        "fr": "Les douleurs de l'enfantement, encore une fois"
       },
       "body": {
-        "en": "Paul now speaks with raw, personal emotion. Before they knew God, the Galatians were enslaved to things that aren't even real gods.\n\nBut now that they know the true God — or rather, are known by Him — why would they want to turn BACK to weak and miserable rules and rituals, becoming enslaved all over again? Paul is deeply troubled: he fears all his hard work among them might have been wasted! He reminds them how warmly they once welcomed him, even when he arrived sick — they treated him like an angel of God, even like Christ Himself.\n\nWhat happened to all that joy? Has he now become their enemy just for telling them the truth?\n\nThen Paul says something tender and vulnerable: 'My dear children, I am again in the pains of childbirth for you, until Christ is formed in you!' Like a mother going through labor all over again for the same child, Paul is willing to suffer again, hoping to see real spiritual maturity — Christ's character actually formed in them — rather than empty rule-following that looks impressive but changes nothing inside."
+        "en": "Paul now speaks with raw, personal emotion. Before they knew God, the Galatians were enslaved to things that aren't even real gods.\n\nBut now that they know the true God — or rather, are known by Him — why would they want to turn BACK to weak and miserable rules and rituals, becoming enslaved all over again? Paul is deeply troubled: he fears all his hard work among them might have been wasted! He reminds them how warmly they once welcomed him, even when he arrived sick — they treated him like an angel of God, even like Christ Himself.\n\nWhat happened to all that joy? Has he now become their enemy just for telling them the truth?\n\nThen Paul says something tender and vulnerable: 'My dear children, I am again in the pains of childbirth for you, until Christ is formed in you!' Like a mother going through labor all over again for the same child, Paul is willing to suffer again, hoping to see real spiritual maturity — Christ's character actually formed in them — rather than empty rule-following that looks impressive but changes nothing inside.",
+        "es": "Pablo habla ahora con emoción cruda y personal. Antes de conocer a Dios, los gálatas estaban esclavizados a cosas que ni siquiera son dioses verdaderos.\n\nPero ahora que conocen al Dios verdadero — o más bien, son conocidos por Él — ¿por qué querrían volver a las reglas y rituales débiles y miserables, esclavizándose otra vez? Pablo está profundamente angustiado: ¡teme que todo su arduo trabajo entre ellos haya sido en vano! Les recuerda cuán cálidamente lo recibieron una vez, incluso cuando llegó enfermo — lo trataron como a un ángel de Dios, incluso como a Cristo mismo.\n\n¿Qué pasó con todo ese gozo? ¿Se ha convertido ahora en su enemigo solo por decirles la verdad?\n\nEntonces Pablo dice algo tierno y vulnerable: \"¡Hijitos míos, vuelvo otra vez a estar de parto por vosotros, hasta que Cristo sea formado en vosotros!\" Como una madre que vuelve a pasar por el parto por el mismo hijo, Pablo está dispuesto a sufrir de nuevo, esperando ver verdadera madurez espiritual — el carácter de Cristo realmente formado en ellos — en lugar de un vacío cumplimiento de reglas que parece impresionante pero no cambia nada por dentro.",
+        "fr": "Paul parle maintenant avec une émotion brute et personnelle. Avant de connaître Dieu, les Galates étaient esclaves de choses qui ne sont même pas de vrais dieux.\n\nMais maintenant qu'ils connaissent le vrai Dieu — ou plutôt, sont connus par Lui — pourquoi voudraient-ils revenir en arrière vers des règles et des rituels faibles et misérables, redevenant esclaves ? Paul est profondément troublé : il craint que tout son dur travail parmi eux n'ait été vain ! Il leur rappelle avec quelle chaleur ils l'avaient autrefois accueilli, même quand il était arrivé malade — ils l'avaient traité comme un ange de Dieu, voire comme Christ Lui-même.\n\nQu'est-il advenu de toute cette joie ? Est-il devenu leur ennemi simplement pour leur avoir dit la vérité ?\n\nPuis Paul dit quelque chose de tendre et de vulnérable : « Mes enfants, pour qui j'éprouve de nouveau les douleurs de l'enfantement, jusqu'à ce que Christ soit formé en vous ! » Comme une mère qui traverse de nouveau le travail pour le même enfant, Paul est prêt à souffrir encore, espérant voir une véritable maturité spirituelle — le caractère de Christ réellement formé en eux — plutôt qu'un suivi vide de règles qui paraît impressionnant mais qui ne change rien à l'intérieur."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "My dear children, for whom I am again in the pains of childbirth until Christ is formed in you."
+        "en": "My dear children, for whom I am again in the pains of childbirth until Christ is formed in you.",
+        "es": "Hijitos míos, que vuelvo otra vez á estar de parto de vosotros, hasta que Cristo sea formado en vosotros.",
+        "fr": "Mes enfants, pour qui j'éprouve de nouveau les douleurs de l'enfantement, jusqu'à ce que Christ soit formé en vous."
       },
       "ref": {
-        "en": "Galatians 4:19 (NIV)"
+        "en": "Galatians 4:19 (NIV)",
+        "es": "Gálatas 4:19 (Valera)",
+        "fr": "Galates 4:19 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "in",
           "the",
           "pains"
+        ],
+        "es": [
+          "Hijitos",
+          "míos",
+          "que",
+          "vuelvo",
+          "otra",
+          "vez"
+        ],
+        "fr": [
+          "Mes",
+          "enfants",
+          "pour",
+          "qui",
+          "j'éprouve",
+          "de"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Paul's Heartbreak"
+        "en": "A Song for Paul's Heartbreak",
+        "es": "Una Canción para El Dolor de Pablo",
+        "fr": "Une Chanson pour Le Chagrin de Paul"
       },
       "audio_en": "/static/audio/galatians/lesson08_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What is Paul afraid might have happened to all his hard work among the Galatians?"
+            "en": "What is Paul afraid might have happened to all his hard work among the Galatians?",
+            "es": "¿Qué teme Pablo que le haya sucedido a todo su arduo trabajo entre los gálatas?",
+            "fr": "Que craint Paul qu'il soit arrivé à tout son dur travail parmi les Galates ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "That it might have been wasted, if they turn back to empty rules",
               "That he worked too little",
               "That they forgot his name"
+            ],
+            "es": [
+              "Nada — no está preocupado en absoluto",
+              "Que pudiera haber sido en vano, si vuelven a reglas vacías",
+              "Que trabajó muy poco",
+              "Que olvidaron su nombre"
+            ],
+            "fr": [
+              "Rien — il ne s'inquiète pas du tout",
+              "Qu'il ait pu être vain, s'ils retournent à des règles vides",
+              "Qu'il ait trop peu travaillé",
+              "Qu'ils aient oublié son nom"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Paul describe his feelings for the Galatians in verse 19?"
+            "en": "How does Paul describe his feelings for the Galatians in verse 19?",
+            "es": "¿Cómo describe Pablo sus sentimientos por los gálatas en el versículo 19?",
+            "fr": "Comment Paul décrit-il ses sentiments pour les Galates au verset 19 ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Like a mother in the pains of childbirth, longing for Christ to be formed in them",
               "Angry and bitter",
               "Indifferent"
+            ],
+            "es": [
+              "Fríos y distantes",
+              "Como una madre con dolores de parto, anhelando que Cristo sea formado en ellos",
+              "Enojados y amargados",
+              "Indiferentes"
+            ],
+            "fr": [
+              "Froids et distants",
+              "Comme une mère dans les douleurs de l'enfantement, désirant que Christ soit formé en eux",
+              "En colère et amers",
+              "Indifférents"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul hope will actually be 'formed' in the Galatians?"
+            "en": "What does Paul hope will actually be 'formed' in the Galatians?",
+            "es": "¿Qué espera Pablo que realmente sea 'formado' en los gálatas?",
+            "fr": "Que Paul espère-t-il voir réellement « formé » chez les Galates ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Christ Himself, real spiritual maturity",
               "A bigger church building",
               "Nothing in particular"
+            ],
+            "es": [
+              "Más reglas que seguir",
+              "A Cristo mismo, verdadera madurez espiritual",
+              "Un edificio de iglesia más grande",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Plus de règles à suivre",
+              "Christ Lui-même, une véritable maturité spirituelle",
+              "Un plus grand bâtiment d'église",
+              "Rien de particulier"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Paul's Heartbreak"
+            "en": "Activity sheet: Paul's Heartbreak",
+            "es": "Hoja de actividad: El Dolor de Pablo",
+            "fr": "Fiche d'activité : Le Chagrin de Paul"
           },
           "file": "/static/printables/galatians/lesson08_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: genuine pastoral love feels real grief over a loved one's spiritual drift, and Paul's vivid, vulnerable language (\"pains of childbirth,\" 4:19) models how deeply truth and relationship are intertwined — correction here flows from love, not mere doctrinal precision. The goal isn't winning an argument but seeing \"Christ formed\" in real character, not performance.\n\nConversation starters: (1) Why does Paul use such an emotional picture (childbirth pains) to describe his concern? (2) What's the difference between rule-following that \"looks impressive\" and Christ actually being \"formed\" in someone? (3) Who has shown you this kind of costly, persistent love when you were drifting?\n\nPray for hearts where Christ's character is genuinely formed, not just outward performance."
+        "en": "Big idea: genuine pastoral love feels real grief over a loved one's spiritual drift, and Paul's vivid, vulnerable language (\"pains of childbirth,\" 4:19) models how deeply truth and relationship are intertwined — correction here flows from love, not mere doctrinal precision. The goal isn't winning an argument but seeing \"Christ formed\" in real character, not performance.\n\nConversation starters: (1) Why does Paul use such an emotional picture (childbirth pains) to describe his concern? (2) What's the difference between rule-following that \"looks impressive\" and Christ actually being \"formed\" in someone? (3) Who has shown you this kind of costly, persistent love when you were drifting?\n\nPray for hearts where Christ's character is genuinely formed, not just outward performance.",
+        "es": "Idea principal: el amor pastoral genuino siente verdadero dolor por el alejamiento espiritual de un ser querido, y el lenguaje vívido y vulnerable de Pablo (\"dolores de parto\", 4:19) modela cuán profundamente están entrelazados la verdad y la relación — la corrección aquí fluye del amor, no de mera precisión doctrinal. La meta no es ganar un argumento sino ver \"a Cristo formado\" en un carácter real, no en una actuación.\n\nPara conversar: (1) ¿Por qué usa Pablo una imagen tan emocional (dolores de parto) para describir su preocupación? (2) ¿Cuál es la diferencia entre seguir reglas que \"parecen impresionantes\" y que Cristo realmente sea \"formado\" en alguien? (3) ¿Quién te ha mostrado este tipo de amor costoso y persistente cuando te estabas alejando?\n\nOren por corazones donde el carácter de Cristo sea genuinamente formado, no solo una actuación externa.",
+        "fr": "Idée principale : un amour pastoral authentique ressent une véritable douleur face à la dérive spirituelle d'une personne aimée, et le langage vif et vulnérable de Paul (« douleurs de l'enfantement », 4.19) illustre à quel point la vérité et la relation sont étroitement liées — la correction ici découle de l'amour, et non d'une simple précision doctrinale. Le but n'est pas de gagner un débat mais de voir « Christ formé » dans un caractère réel, et non dans une performance.\n\nPour la conversation : (1) Pourquoi Paul utilise-t-il une image aussi émotionnelle (douleurs de l'enfantement) pour décrire son inquiétude ? (2) Quelle est la différence entre suivre des règles qui « paraissent impressionnantes » et le fait que Christ soit réellement « formé » en quelqu'un ? (3) Qui t'a montré ce genre d'amour coûteux et persévérant quand tu t'éloignais ?\n\nPriez pour des cœurs où le caractère de Christ est véritablement formé, et non une simple performance extérieure."
       }
     }
   ]

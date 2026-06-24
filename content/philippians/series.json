@@ -1,12 +1,18 @@
 {
   "title": {
-    "en": "Philippians for Kids"
+    "en": "Philippians for Kids",
+    "es": "Filipenses para Niños",
+    "fr": "Philippiens pour les Enfants"
   },
   "subtitle": {
-    "en": "All 4 chapters, mapped to the standard sections of the book — joy in every circumstance!"
+    "en": "All 4 chapters, mapped to the standard sections of the book — joy in every circumstance!",
+    "es": "Los 4 capítulos completos, mapeados a las secciones estándar del libro — ¡gozo en cada circunstancia!",
+    "fr": "Les 4 chapitres complets, alignés sur les sections standard du livre — la joie en toute circonstance !"
   },
   "description": {
-    "en": "A joyful letter written from prison, proving that real joy doesn't depend on circumstances. Eleven adventures through all four chapters of Philippians, following the same section divisions found in standard study Bibles — discovering Christ's humility, pressing on toward the goal, and the secret of contentment in any and every situation."
+    "en": "A joyful letter written from prison, proving that real joy doesn't depend on circumstances. Eleven adventures through all four chapters of Philippians, following the same section divisions found in standard study Bibles — discovering Christ's humility, pressing on toward the goal, and the secret of contentment in any and every situation.",
+    "es": "Una carta gozosa escrita desde la prisión, que demuestra que el gozo verdadero no depende de las circunstancias. Once aventuras a través de los cuatro capítulos de Filipenses, siguiendo las mismas divisiones de sección que se encuentran en las Biblias de estudio estándar — descubriendo la humildad de Cristo, avanzando hacia la meta, y el secreto del contentamiento en toda y cada situación.",
+    "fr": "Une lettre joyeuse écrite depuis la prison, qui prouve que la vraie joie ne dépend pas des circonstances. Onze aventures à travers les quatre chapitres de Philippiens, suivant les mêmes divisions de section que l'on trouve dans les Bibles d'étude standard — découvrant l'humilité de Christ, avançant vers le but, et le secret du contentement en toute et n'importe quelle situation."
   },
   "age_range": "6-12",
   "free": true,
@@ -17,7 +23,9 @@
     {
       "id": "lesson01",
       "title": {
-        "en": "A Letter Bursting with Joy"
+        "en": "A Letter Bursting with Joy",
+        "es": "Una Carta Desbordante de Alegría",
+        "fr": "Une Lettre Débordante de Joie"
       },
       "ref": "Philippians 1:1-11",
       "section": "Thanksgiving and Prayer"
@@ -25,7 +33,9 @@
     {
       "id": "lesson02",
       "title": {
-        "en": "Chains That Set the Gospel Free"
+        "en": "Chains That Set the Gospel Free",
+        "es": "Cadenas Que Liberan el Evangelio",
+        "fr": "Des Chaînes Qui Libèrent l'Évangile"
       },
       "ref": "Philippians 1:12-26",
       "section": "Paul's Chains Advance the Gospel"
@@ -33,7 +43,9 @@
     {
       "id": "lesson03",
       "title": {
-        "en": "Standing Firm, Side by Side"
+        "en": "Standing Firm, Side by Side",
+        "es": "Firmes, Codo a Codo",
+        "fr": "Fermes, Côte à Côte"
       },
       "ref": "Philippians 1:27-30",
       "section": "Life Worthy of the Gospel"
@@ -41,7 +53,9 @@
     {
       "id": "lesson04",
       "title": {
-        "en": "He Made Himself Nothing"
+        "en": "He Made Himself Nothing",
+        "es": "Se Hizo Nada a Sí Mismo",
+        "fr": "Il S'est Anéanti Lui-Même"
       },
       "ref": "Philippians 2:1-11",
       "section": "Imitating Christ's Humility"
@@ -49,7 +63,9 @@
     {
       "id": "lesson05",
       "title": {
-        "en": "Work It Out, Shine It Out"
+        "en": "Work It Out, Shine It Out",
+        "es": "Trabaja y Brilla",
+        "fr": "Travaille et Resplendis"
       },
       "ref": "Philippians 2:12-18",
       "section": "Shining Like Stars"
@@ -57,7 +73,9 @@
     {
       "id": "lesson06",
       "title": {
-        "en": "Two Faithful Friends"
+        "en": "Two Faithful Friends",
+        "es": "Dos Amigos Fieles",
+        "fr": "Deux Amis Fidèles"
       },
       "ref": "Philippians 2:19-30",
       "section": "Timothy and Epaphroditus"
@@ -65,7 +83,9 @@
     {
       "id": "lesson07",
       "title": {
-        "en": "Garbage, Compared to Knowing Christ"
+        "en": "Garbage, Compared to Knowing Christ",
+        "es": "Basura, Comparado con Conocer a Cristo",
+        "fr": "De la Boue, Comparée à Connaître Christ"
       },
       "ref": "Philippians 3:1-11",
       "section": "No Confidence in the Flesh"
@@ -73,7 +93,9 @@
     {
       "id": "lesson08",
       "title": {
-        "en": "Pressing On, Not Arrived Yet"
+        "en": "Pressing On, Not Arrived Yet",
+        "es": "Avanzando, Aún No He Llegado",
+        "fr": "Avançant, Pas Encore Arrivé"
       },
       "ref": "Philippians 3:12-4:1",
       "section": "Pressing On Toward the Goal"
@@ -81,7 +103,9 @@
     {
       "id": "lesson09",
       "title": {
-        "en": "Don't Be Anxious — Pray!"
+        "en": "Don't Be Anxious — Pray!",
+        "es": "No Te Angusties — ¡Ora!",
+        "fr": "Ne Sois Pas Anxieux — Prie !"
       },
       "ref": "Philippians 4:2-9",
       "section": "Final Exhortations"
@@ -89,7 +113,9 @@
     {
       "id": "lesson10",
       "title": {
-        "en": "Content in Any Circumstance"
+        "en": "Content in Any Circumstance",
+        "es": "Contento en Cualquier Circunstancia",
+        "fr": "Content en Toute Circonstance"
       },
       "ref": "Philippians 4:10-20",
       "section": "Thanks for Their Gifts"
@@ -97,7 +123,9 @@
     {
       "id": "lesson11",
       "title": {
-        "en": "Grace Be With Your Spirit"
+        "en": "Grace Be With Your Spirit",
+        "es": "La Gracia Sea Con Tu Espíritu",
+        "fr": "Que la Grâce Soit Avec Ton Esprit"
       },
       "ref": "Philippians 4:21-23",
       "section": "Final Greetings"

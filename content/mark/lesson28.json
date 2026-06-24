@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "What Do You Want Me to Do for You?"
+    "en": "What Do You Want Me to Do for You?",
+    "es": "¿Qué Quieres Que Haga por Ti?",
+    "fr": "Que Veux-tu Que Je Fasse Pour Toi ?"
   },
   "ref": "Mark 10:46-52",
   "section": "Blind Bartimaeus Receives His Sight",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A persistent shout, a question that mattered"
+        "en": "A persistent shout, a question that mattered",
+        "es": "Un grito persistente, una pregunta que importaba",
+        "fr": "Un cri persistant, une question qui comptait"
       },
       "body": {
-        "en": "As Jesus left Jericho with a large crowd, a blind beggar named Bartimaeus sat by the roadside. Hearing it was Jesus, he began shouting: 'Jesus, Son of David, have mercy on me!' Many people told him to be quiet, but he shouted EVEN LOUDER! Jesus stopped and said, 'Call him.' They called Bartimaeus, who threw aside his cloak and jumped up to come to Jesus.\n\nJesus asked him directly: 'What do you want me to do for you?' Bartimaeus said: 'Rabbi, I want to see.' Jesus said: 'Go, your faith has healed you.' Immediately Bartimaeus received his sight, and followed Jesus along the road! Notice that Jesus, even surrounded by a huge crowd heading toward Jerusalem for the most important week of His mission, stopped completely for one persistent, shouting beggar — and asked him exactly what he wanted, rather than assuming.\n\nBartimaeus's persistence, despite people trying to silence him, was rewarded with the very thing he asked for."
+        "en": "As Jesus left Jericho with a large crowd, a blind beggar named Bartimaeus sat by the roadside. Hearing it was Jesus, he began shouting: 'Jesus, Son of David, have mercy on me!' Many people told him to be quiet, but he shouted EVEN LOUDER! Jesus stopped and said, 'Call him.' They called Bartimaeus, who threw aside his cloak and jumped up to come to Jesus.\n\nJesus asked him directly: 'What do you want me to do for you?' Bartimaeus said: 'Rabbi, I want to see.' Jesus said: 'Go, your faith has healed you.' Immediately Bartimaeus received his sight, and followed Jesus along the road! Notice that Jesus, even surrounded by a huge crowd heading toward Jerusalem for the most important week of His mission, stopped completely for one persistent, shouting beggar — and asked him exactly what he wanted, rather than assuming.\n\nBartimaeus's persistence, despite people trying to silence him, was rewarded with the very thing he asked for.",
+        "es": "Cuando Jesús salía de Jericó con una gran multitud, un mendigo ciego llamado Bartimeo estaba sentado junto al camino. Al oír que era Jesús, comenzó a gritar: \"¡Jesús, Hijo de David, ten misericordia de mí!\" Muchas personas le decían que se callara, ¡pero gritó AÚN MÁS FUERTE! Jesús se detuvo y dijo: \"Llámenlo.\" Llamaron a Bartimeo, quien arrojó su manto y se levantó de un salto para acercarse a Jesús.\n\nJesús le preguntó directamente: \"¿Qué quieres que haga por ti?\" Bartimeo dijo: \"Rabí, quiero ver.\" Jesús dijo: \"Ve, tu fe te ha sanado.\" ¡Inmediatamente Bartimeo recibió la vista, y siguió a Jesús por el camino! Nota que Jesús, incluso rodeado por una enorme multitud dirigiéndose a Jerusalén para la semana más importante de Su misión, se detuvo completamente por un mendigo persistente que gritaba — y le preguntó exactamente qué quería, en lugar de asumirlo.\n\nLa persistencia de Bartimeo, a pesar de que la gente intentaba silenciarlo, fue recompensada con exactamente lo que pidió.",
+        "fr": "Comme Jésus quittait Jéricho avec une grande foule, un mendiant aveugle nommé Bartimée était assis au bord du chemin. Apprenant que c'était Jésus, il commença à crier : « Jésus, fils de David, aie pitié de moi ! » Beaucoup de gens lui disaient de se taire, mais il cria ENCORE PLUS FORT ! Jésus s'arrêta et dit : « Appelez-le. » Ils appelèrent Bartimée, qui jeta son manteau et se leva d'un bond pour venir à Jésus.\n\nJésus lui demanda directement : « Que veux-tu que je te fasse ? » Bartimée dit : « Rabbouni, que je recouvre la vue. » Jésus dit : « Va, ta foi t'a sauvé. » Immédiatement Bartimée recouvra la vue, et suivit Jésus sur le chemin ! Remarque que Jésus, même entouré d'une immense foule se dirigeant vers Jérusalem pour la semaine la plus importante de Sa mission, s'arrêta complètement pour un mendiant persistant qui criait — et lui demanda exactement ce qu'il voulait, plutôt que de le présumer.\n\nLa persévérance de Bartimée, malgré les gens qui essayaient de le faire taire, fut récompensée par exactement ce qu'il avait demandé."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "What do you want me to do for you?"
+        "en": "What do you want me to do for you?",
+        "es": "Y respondiendo Jesús, le dice: ¿Qué quieres que te haga? Y el ciego le dice: Maestro, que cobre la vista.",
+        "fr": "Jésus, prenant la parole, lui dit : Que veux-tu que je te fasse ? Rabbouni, lui répondit l'aveugle, que je recouvre la vue."
       },
       "ref": {
-        "en": "Mark 10:51 (NIV)"
+        "en": "Mark 10:51 (NIV)",
+        "es": "Marcos 10:51 (Valera)",
+        "fr": "Marc 10:51 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "do",
           "for",
           "you"
+        ],
+        "es": [
+          "Y",
+          "respondiendo",
+          "Jesús",
+          "le",
+          "dice",
+          "Qué"
+        ],
+        "fr": [
+          "Jésus",
+          "prenant",
+          "la",
+          "parole",
+          "lui",
+          "dit"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for What Do You Want Me to Do for You?"
+        "en": "A Song for What Do You Want Me to Do for You?",
+        "es": "Una Canción para ¿Qué Quieres Que Haga por Ti?",
+        "fr": "Une Chanson pour Que Veux-tu Que Je Fasse Pour Toi ?"
       },
       "audio_en": "/static/audio/mark/lesson28_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did people tell Bartimaeus to do when he started shouting for Jesus?"
+            "en": "What did people tell Bartimaeus to do when he started shouting for Jesus?",
+            "es": "¿Qué le dijo la gente a Bartimeo que hiciera cuando comenzó a gritar por Jesús?",
+            "fr": "Qu'est-ce que les gens ont dit à Bartimée de faire quand il a commencé à crier vers Jésus ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "Be quiet",
               "Come closer immediately",
               "Nothing — they encouraged him"
+            ],
+            "es": [
+              "Grita más fuerte",
+              "Cállate",
+              "Acércate de inmediato",
+              "Nada — lo animaron"
+            ],
+            "fr": [
+              "Crier plus fort",
+              "Se taire",
+              "S'approcher immédiatement",
+              "Rien — ils l'ont encouragé"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What question did Jesus ask Bartimaeus directly?"
+            "en": "What question did Jesus ask Bartimaeus directly?",
+            "es": "¿Qué pregunta hizo Jesús directamente a Bartimeo?",
+            "fr": "Quelle question Jésus a-t-il posée directement à Bartimée ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "What do you want me to do for you?",
               "Where do you live?",
               "Nothing at all"
+            ],
+            "es": [
+              "¿Por qué eres ciego?",
+              "¿Qué quieres que haga por ti?",
+              "¿Dónde vives?",
+              "Nada en absoluto"
+            ],
+            "fr": [
+              "Pourquoi es-tu aveugle ?",
+              "Que veux-tu que je fasse pour toi ?",
+              "Où habites-tu ?",
+              "Rien du tout"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Bartimaeus do immediately after receiving his sight?"
+            "en": "What did Bartimaeus do immediately after receiving his sight?",
+            "es": "¿Qué hizo Bartimeo inmediatamente después de recibir la vista?",
+            "fr": "Qu'a fait Bartimée immédiatement après avoir recouvré la vue ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Followed Jesus along the road",
               "Stayed by the roadside",
               "Argued with the crowd"
+            ],
+            "es": [
+              "Se fue solo a casa",
+              "Siguió a Jesús por el camino",
+              "Se quedó junto al camino",
+              "Discutió con la multitud"
+            ],
+            "fr": [
+              "Il est rentré seul chez lui",
+              "Il a suivi Jésus sur le chemin",
+              "Il est resté au bord du chemin",
+              "Il a discuté avec la foule"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: What Do You Want Me to Do for You?"
+            "en": "Activity sheet: What Do You Want Me to Do for You?",
+            "es": "Hoja de actividad: ¿Qué Quieres Que Haga por Ti?",
+            "fr": "Fiche d'activité : Que Veux-tu Que Je Fasse Pour Toi ?"
           },
           "file": "/static/printables/mark/lesson28_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: persistent, unashamed faith — refusing to be silenced by a discouraging crowd — receives Jesus' full, personal attention, even amid the press of a massive crowd on His way to the most significant week of His life. Jesus' question, \"What do you want me to do for you?\" models genuine personal attentiveness rather than assumption.\n\nConversation starters: (1) Why might Bartimaeus shout even louder when people tried to quiet him? (2) Why does Jesus ask what Bartimaeus wants, rather than just healing him without asking? (3) What does Bartimaeus following Jesus afterward show about his response to being healed?\n\nPray with the same bold persistence Bartimaeus showed, bringing your specific requests to Jesus."
+        "en": "Big idea: persistent, unashamed faith — refusing to be silenced by a discouraging crowd — receives Jesus' full, personal attention, even amid the press of a massive crowd on His way to the most significant week of His life. Jesus' question, \"What do you want me to do for you?\" models genuine personal attentiveness rather than assumption.\n\nConversation starters: (1) Why might Bartimaeus shout even louder when people tried to quiet him? (2) Why does Jesus ask what Bartimaeus wants, rather than just healing him without asking? (3) What does Bartimaeus following Jesus afterward show about his response to being healed?\n\nPray with the same bold persistence Bartimaeus showed, bringing your specific requests to Jesus.",
+        "es": "Idea principal: la fe persistente y sin vergüenza — negándose a ser silenciada por una multitud desalentadora — recibe la atención completa y personal de Jesús, incluso en medio de la presión de una multitud masiva en Su camino hacia la semana más importante de Su vida. La pregunta de Jesús, '¿Qué quieres que haga por ti?', modela una atención personal genuina en lugar de suposición.\n\nPara conversar: (1) ¿Por qué podría Bartimeo gritar incluso más fuerte cuando la gente intentaba callarlo? (2) ¿Por qué pregunta Jesús qué quiere Bartimeo, en lugar de simplemente sanarlo sin preguntar? (3) ¿Qué muestra que Bartimeo siguiera a Jesús después sobre su respuesta a ser sanado?\n\nOren con la misma audaz persistencia que mostró Bartimeo, trayendo sus peticiones específicas a Jesús.",
+        "fr": "Idée principale : une foi persistante et sans honte — refusant de se laisser réduire au silence par une foule décourageante — reçoit l'attention pleine et personnelle de Jésus, même au milieu de la pression d'une foule massive sur Son chemin vers la semaine la plus importante de Sa vie. La question de Jésus, « Que veux-tu que je fasse pour toi ? », modèle une attention personnelle authentique plutôt qu'une présomption.\n\nPour la conversation : (1) Pourquoi Bartimée pourrait-il crier encore plus fort quand les gens essayaient de le faire taire ? (2) Pourquoi Jésus demande-t-Il ce que veut Bartimée, plutôt que de simplement le guérir sans demander ? (3) Que montre le fait que Bartimée ait suivi Jésus après, sur sa réponse à sa guérison ?\n\nPriez avec la même audacieuse persévérance que Bartimée a montrée, en apportant tes demandes précises à Jésus."
       }
     }
   ]

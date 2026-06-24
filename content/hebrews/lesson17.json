@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Run the Race!"
+    "en": "Run the Race!",
+    "es": "¡Corre la Carrera!",
+    "fr": "Cours la Course !"
   },
   "ref": "Hebrews 12:1-13",
   "section": "God Disciplines His Children",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A crowd cheering you on"
+        "en": "A crowd cheering you on",
+        "es": "Una multitud animándote",
+        "fr": "Une foule qui t'encourage"
       },
       "body": {
-        "en": "Picture an enormous stadium, packed with all those faith heroes from chapter 11 — Abraham, Moses, Rahab, David — cheering from the stands! We are surrounded by this great cloud of witnesses, so let us throw off everything that slows us down, every weight, every sin that trips us up, and run with ENDURANCE the race marked out for us, fixing our eyes on JESUS, who endured the cross because of the joy waiting for Him.\n\nThen the writer talks about God's discipline. No discipline feels pleasant at the time — it's painful!\n\nBut just as a loving parent disciplines a child for their good, God disciplines those He loves, so that we might share in His holiness. Discipline produces a harvest of righteousness and peace for those trained by it."
+        "en": "Picture an enormous stadium, packed with all those faith heroes from chapter 11 — Abraham, Moses, Rahab, David — cheering from the stands! We are surrounded by this great cloud of witnesses, so let us throw off everything that slows us down, every weight, every sin that trips us up, and run with ENDURANCE the race marked out for us, fixing our eyes on JESUS, who endured the cross because of the joy waiting for Him.\n\nThen the writer talks about God's discipline. No discipline feels pleasant at the time — it's painful!\n\nBut just as a loving parent disciplines a child for their good, God disciplines those He loves, so that we might share in His holiness. Discipline produces a harvest of righteousness and peace for those trained by it.",
+        "es": "Imagina un estadio enorme, lleno de todos esos héroes de la fe del capítulo 11 — Abraham, Moisés, Rahab, David — ¡animando desde las gradas! Estamos rodeados de esta gran nube de testigos, así que desechemos todo lo que nos estorba, todo peso, todo pecado que nos hace tropezar, y corramos con PACIENCIA la carrera que tenemos por delante, puestos los ojos en JESÚS, quien soportó la cruz por causa del gozo que le esperaba.\n\nLuego el escritor habla sobre la disciplina de Dios. Ninguna disciplina se siente agradable en el momento — ¡es dolorosa!\n\nPero así como un padre amoroso disciplina a un hijo para su bien, Dios disciplina a los que ama, para que podamos participar de Su santidad. La disciplina produce una cosecha de justicia y paz para los que son entrenados por ella.",
+        "fr": "Imagine un immense stade, rempli de tous ces héros de la foi du chapitre 11 — Abraham, Moïse, Rahab, David — encourageant depuis les gradins ! Nous sommes entourés de cette grande nuée de témoins, alors rejetons tout ce qui nous gêne, tout fardeau, tout péché qui nous fait trébucher, et courons avec PERSÉVÉRANCE la course qui nous est ouverte, ayant les regards fixés sur JÉSUS, qui a souffert la croix pour la joie qui lui était réservée.\n\nPuis l'auteur parle de la discipline de Dieu. Aucune discipline ne semble agréable sur le moment — c'est douloureux !\n\nMais tout comme un parent aimant discipline un enfant pour son bien, Dieu discipline ceux qu'Il aime, afin que nous puissions avoir part à Sa sainteté. La discipline produit une récolte de justice et de paix pour ceux qui sont entraînés par elle."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus."
+        "en": "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus.",
+        "es": "Corramos con paciencia la carrera que nos es propuesta, puestos los ojos en Jesús.",
+        "fr": "courons avec persévérance dans la carrière qui nous est ouverte, ayant les regards sur Jésus."
       },
       "ref": {
-        "en": "Hebrews 12:1-2 (NIV)"
+        "en": "Hebrews 12:1-2 (NIV)",
+        "es": "Hebreos 12:1-2 (Valera)",
+        "fr": "Hébreux 12:1-2 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "race",
           "marked",
           "out"
+        ],
+        "es": [
+          "Corramos",
+          "con",
+          "paciencia",
+          "la",
+          "carrera",
+          "que"
+        ],
+        "fr": [
+          "Courons",
+          "avec",
+          "persévérance",
+          "dans",
+          "la",
+          "carrière"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Run the Race!"
+        "en": "A Song for Run the Race!",
+        "es": "Una Canción para ¡Corre la Carrera!",
+        "fr": "Une Chanson pour Cours la Course !"
       },
       "audio_en": "/static/audio/hebrews/lesson17_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "Who does the writer say surrounds believers like a cheering crowd?"
+            "en": "Who does the writer say surrounds believers like a cheering crowd?",
+            "es": "¿Quién dice el escritor que rodea a los creyentes como una multitud animadora?",
+            "fr": "Qui l'auteur dit-il entourer les croyants comme une foule qui encourage ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "A great cloud of faith heroes who went before them",
               "No one",
               "Only angels"
+            ],
+            "es": [
+              "Desconocidos",
+              "Una gran nube de héroes de la fe que fueron antes de ellos",
+              "Nadie",
+              "Solo ángeles"
+            ],
+            "fr": [
+              "Des étrangers",
+              "Une grande nuée de héros de la foi qui les ont précédés",
+              "Personne",
+              "Seulement des anges"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why does God discipline those He loves?"
+            "en": "Why does God discipline those He loves?",
+            "es": "¿Por qué disciplina Dios a los que ama?",
+            "fr": "Pourquoi Dieu discipline-t-Il ceux qu'Il aime ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "So that we might share in His holiness",
               "Because He's unfair",
               "No real reason"
+            ],
+            "es": [
+              "Disfruta causar dolor",
+              "Para que podamos participar de Su santidad",
+              "Porque es injusto",
+              "Sin razón real"
+            ],
+            "fr": [
+              "Il aime causer de la douleur",
+              "Afin que nous puissions avoir part à Sa sainteté",
+              "Parce qu'Il est injuste",
+              "Sans raison réelle"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What should we fix our eyes on while running the race?"
+            "en": "What should we fix our eyes on while running the race?",
+            "es": "¿En qué debemos poner los ojos mientras corremos la carrera?",
+            "fr": "Sur quoi devrions-nous fixer nos regards en courant la course ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Jesus",
               "Our own performance",
               "The crowd"
+            ],
+            "es": [
+              "Otros corredores",
+              "Jesús",
+              "Nuestro propio desempeño",
+              "La multitud"
+            ],
+            "fr": [
+              "D'autres coureurs",
+              "Jésus",
+              "Notre propre performance",
+              "La foule"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Run the Race!"
+            "en": "Activity sheet: Run the Race!",
+            "es": "Hoja de actividad: ¡Corre la Carrera!",
+            "fr": "Fiche d'activité : Cours la Course !"
           },
           "file": "/static/printables/hebrews/lesson17_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: holy living as a goal worth all effort, made vivid through the image of a race run before a great cheering crowd. The teaching on divine discipline (12:5-11) is essential: hardship is purposeful, parental, aimed at producing holiness.\n\nConversation starters: (1) Who are the \"faith heroes\" cheering you on? (2) Can you think of a time discipline actually helped you grow? (3) What does \"fixing your eyes on Jesus\" look like mid-race?\n\nPray for endurance, and for the fruit of holy discipline."
+        "en": "Big idea: holy living as a goal worth all effort, made vivid through the image of a race run before a great cheering crowd. The teaching on divine discipline (12:5-11) is essential: hardship is purposeful, parental, aimed at producing holiness.\n\nConversation starters: (1) Who are the \"faith heroes\" cheering you on? (2) Can you think of a time discipline actually helped you grow? (3) What does \"fixing your eyes on Jesus\" look like mid-race?\n\nPray for endurance, and for the fruit of holy discipline.",
+        "es": "Idea principal: la vida santa como una meta que merece todo esfuerzo, vívidamente representada por la imagen de una carrera corrida ante una gran multitud que anima. La enseñanza sobre la disciplina divina (12:5-11) es esencial: la dificultad tiene propósito, es paternal, dirigida a producir santidad.\n\nPara conversar: (1) ¿Quiénes son los 'héroes de la fe' que te animan? (2) ¿Puedes pensar en un momento en que la disciplina realmente te ayudó a crecer? (3) ¿Cómo se ve 'poner los ojos en Jesús' en medio de la carrera?\n\nOren por perseverancia, y por el fruto de la disciplina santa.",
+        "fr": "Idée principale : la vie saine comme un objectif qui mérite tout effort, rendu vivant par l'image d'une course courue devant une grande foule encourageante. L'enseignement sur la discipline divine (12.5-11) est essentiel : l'épreuve a un but, elle est paternelle, visant à produire la sainteté.\n\nPour la conversation : (1) Qui sont les « héros de la foi » qui t'encouragent ? (2) Peux-tu penser à un moment où la discipline t'a réellement aidé à grandir ? (3) À quoi ressemble le fait de « fixer ses regards sur Jésus » en pleine course ?\n\nPriez pour la persévérance, et pour le fruit d'une discipline sainte."
       }
     }
   ]

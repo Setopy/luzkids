@@ -54,9 +54,9 @@
 </nav>
 
 {% if true %}
-<div class="ai-lang-note">🌍 {{ t({'en':'We know we can make mistakes. Spot something off? We\'d love to know.',
-'es':'Sabemos que podemos equivocarnos. ¿Notas algo extraño? Nos encantaría saberlo.',
-'fr':'Nous savons que nous pouvons nous tromper. Quelque chose vous semble étrange ? Nous aimerions le savoir.'}) }}</div>
+<div class="ai-lang-note">🌍 {{ t({'en':'Arise and shine, for thy light has come, and the glory of the Lord is risen upon thee.',
+'es':'Levántate, resplandece; porque ha venido tu lumbre, y la gloria de Jehová ha nacido sobre ti.',
+'fr':'Lève-toi, sois éclairée, car ta lumière arrive, et la gloire de l\'Éternel se lève sur toi.'}) }}</div>
 {% endif %}
 {% with messages = get_flashed_messages() %}
   {% for m in messages %}<div class="flash">{{ m }}</div>{% endfor %}
@@ -64,6 +64,9 @@
 
 <main>{% block content %}{% endblock %}</main>
 
+<p class="ai-lang-note">🌍 {{ t({'en':'Arise and shine, for thy light has come, and the glory of the Lord is risen upon thee.',
+'es':'Levántate, resplandece; porque ha venido tu lumbre, y la gloria de Jehová ha nacido sobre ti.',
+'fr':'Lève-toi, sois éclairée, car ta lumière arrive, et la gloire de l\'Éternel se lève sur toi.'}) }}</p>
 <details class="report-box">
   <summary>⚑ {{ t({'en':'Report an issue or give us feedback','es':'Reporta un problema o déjanos tu opinión','fr':'Signaler un problème ou laisser un avis'}) }}</summary>
   <form method="post" action="{{ url_for('feedback_submit') }}">

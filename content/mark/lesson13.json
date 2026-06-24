@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Twelve Years, Twelve-Year-Old"
+    "en": "Twelve Years, Twelve-Year-Old",
+    "es": "Doce Años, Doce Años de Edad",
+    "fr": "Douze Ans, Douze Ans"
   },
   "ref": "Mark 5:21-43",
   "section": "Jesus Raises a Dead Girl and Heals a Sick Woman",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A touch in the crowd, a delay that wasn't too late"
+        "en": "A touch in the crowd, a delay that wasn't too late",
+        "es": "Un toque en la multitud, una demora que no fue demasiado tarde",
+        "fr": "Un attouchement dans la foule, un délai qui n'était pas trop tard"
       },
       "body": {
-        "en": "Jairus, a synagogue leader, fell at Jesus' feet, begging Him to come heal his dying daughter. As Jesus went, a large crowd pressed around Him — and in that crowd was a woman who had been bleeding for TWELVE YEARS, who had spent everything on doctors with no improvement. She thought: 'If I just touch his clothes, I will be healed.' She touched His cloak, and immediately her bleeding stopped!\n\nJesus felt power had gone out from Him and asked, 'Who touched my clothes?' Trembling, the woman explained, and Jesus said gently: 'Daughter, your faith has healed you. Go in peace.' Meanwhile, news came that Jairus's daughter had died! People said it was too late.\n\nBut Jesus went to the house anyway, took the girl's hand, and said: 'Talitha koum' — 'Little girl, get up!' Immediately she stood up and walked around — she was twelve years old! Everyone was completely astonished. Jesus told them to give her something to eat.\n\nTwo impossible situations, two acts of faith, and Jesus was never too busy, and never too late, for either one."
+        "en": "Jairus, a synagogue leader, fell at Jesus' feet, begging Him to come heal his dying daughter. As Jesus went, a large crowd pressed around Him — and in that crowd was a woman who had been bleeding for TWELVE YEARS, who had spent everything on doctors with no improvement. She thought: 'If I just touch his clothes, I will be healed.' She touched His cloak, and immediately her bleeding stopped!\n\nJesus felt power had gone out from Him and asked, 'Who touched my clothes?' Trembling, the woman explained, and Jesus said gently: 'Daughter, your faith has healed you. Go in peace.' Meanwhile, news came that Jairus's daughter had died! People said it was too late.\n\nBut Jesus went to the house anyway, took the girl's hand, and said: 'Talitha koum' — 'Little girl, get up!' Immediately she stood up and walked around — she was twelve years old! Everyone was completely astonished. Jesus told them to give her something to eat.\n\nTwo impossible situations, two acts of faith, and Jesus was never too busy, and never too late, for either one.",
+        "es": "Jairo, un líder de la sinagoga, se postró a los pies de Jesús, rogándole que viniera a sanar a su hija moribunda. Mientras Jesús iba, una gran multitud lo apretaba — y en esa multitud había una mujer que había estado sangrando durante DOCE AÑOS, que había gastado todo en médicos sin mejoría. Pensó: \"Si solo toco Su ropa, seré sanada.\" Tocó Su manto, ¡y inmediatamente su sangrado se detuvo!\n\nJesús sintió que había salido poder de Él y preguntó: \"¿Quién tocó mi ropa?\" Temblando, la mujer explicó, y Jesús dijo con ternura: \"Hija, tu fe te ha sanado. Ve en paz.\" Mientras tanto, ¡llegó la noticia de que la hija de Jairo había muerto! La gente decía que era demasiado tarde.\n\nPero Jesús fue a la casa de todos modos, tomó la mano de la niña, y dijo: \"Talita cumi\" — \"¡Niña, levántate!\" Inmediatamente se levantó y caminó — ¡tenía doce años! Todos estaban completamente asombrados. Jesús les dijo que le dieran algo de comer.\n\nDos situaciones imposibles, dos actos de fe, y Jesús nunca estuvo demasiado ocupado, ni demasiado tarde, para ninguna de las dos.",
+        "fr": "Jaïrus, un chef de synagogue, se prosterna aux pieds de Jésus, Le suppliant de venir guérir sa fille mourante. Tandis que Jésus s'y rendait, une grande foule Le pressait — et dans cette foule se trouvait une femme qui souffrait d'hémorragies depuis DOUZE ANS, qui avait dépensé tout son bien chez les médecins sans aucune amélioration. Elle pensa : « Si je touche seulement Son vêtement, je serai guérie. » Elle toucha Son vêtement, et immédiatement son hémorragie s'arrêta !\n\nJésus sentit qu'une force était sortie de Lui et demanda : « Qui a touché mes vêtements ? » Tremblante, la femme expliqua, et Jésus dit avec tendresse : « Ma fille, ta foi t'a guérie. Va en paix. » Pendant ce temps, on vint annoncer que la fille de Jaïrus était morte ! Les gens disaient qu'il était trop tard.\n\nMais Jésus se rendit à la maison quand même, prit la main de la jeune fille, et dit : « Talitha koumi » — « Jeune fille, lève-toi ! » Immédiatement elle se leva et marcha — elle avait douze ans ! Tous furent complètement stupéfaits. Jésus leur dit de lui donner à manger.\n\nDeux situations impossibles, deux actes de foi, et Jésus n'était jamais trop occupé, ni jamais trop en retard, pour aucune des deux."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Talitha koum (which means 'Little girl, I say to you, get up!')."
+        "en": "Talitha koum (which means 'Little girl, I say to you, get up!').",
+        "es": "Y tomando la mano de la muchacha, le dice: Talitha cumi; que es, si lo interpretares: Muchacha, á ti digo, levántate.",
+        "fr": "Il la saisit par la main, et lui dit : Talitha koumi, ce qui signifie : Jeune fille, lève-toi, je te le dis."
       },
       "ref": {
-        "en": "Mark 5:41 (NIV)"
+        "en": "Mark 5:41 (NIV)",
+        "es": "Marcos 5:41 (Valera)",
+        "fr": "Marc 5:41 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "you",
           "get",
           "up"
+        ],
+        "es": [
+          "Y",
+          "tomando",
+          "la",
+          "mano",
+          "de",
+          "la"
+        ],
+        "fr": [
+          "Il",
+          "la",
+          "saisit",
+          "par",
+          "la",
+          "main"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Twelve Years, Twelve-Year-Old"
+        "en": "A Song for Twelve Years, Twelve-Year-Old",
+        "es": "Una Canción para Doce Años, Doce Años de Edad",
+        "fr": "Une Chanson pour Douze Ans, Douze Ans"
       },
       "audio_en": "/static/audio/mark/lesson13_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "How long had the bleeding woman suffered before she touched Jesus' cloak?"
+            "en": "How long had the bleeding woman suffered before she touched Jesus' cloak?",
+            "es": "¿Cuánto tiempo había sufrido la mujer con hemorragia antes de tocar el manto de Jesús?",
+            "fr": "Depuis combien de temps la femme souffrait-elle d'hémorragies avant de toucher le vêtement de Jésus ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Twelve years",
               "A few days",
               "She had never been sick"
+            ],
+            "es": [
+              "Un año",
+              "Doce años",
+              "Unos pocos días",
+              "Nunca había estado enferma"
+            ],
+            "fr": [
+              "Un an",
+              "Douze ans",
+              "Quelques jours",
+              "Elle n'avait jamais été malade"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say to the woman after she touched His cloak?"
+            "en": "What did Jesus say to the woman after she touched His cloak?",
+            "es": "¿Qué le dijo Jesús a la mujer después de que ella tocó Su manto?",
+            "fr": "Qu'a dit Jésus à la femme après qu'elle a touché Son vêtement ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Daughter, your faith has healed you. Go in peace.",
               "Don't ever touch me again",
               "Go home immediately"
+            ],
+            "es": [
+              "Nada en absoluto",
+              "Hija, tu fe te ha sanado. Ve en paz.",
+              "No me toques nunca más",
+              "Vete a casa de inmediato"
+            ],
+            "fr": [
+              "Rien du tout",
+              "Ma fille, ta foi t'a guérie. Va en paix.",
+              "Ne me touche plus jamais",
+              "Va chez toi immédiatement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What happened to Jairus's daughter, even though people said it was too late?"
+            "en": "What happened to Jairus's daughter, even though people said it was too late?",
+            "es": "¿Qué le sucedió a la hija de Jairo, aunque la gente dijo que era demasiado tarde?",
+            "fr": "Qu'est-il arrivé à la fille de Jaïrus, même si les gens ont dit qu'il était trop tard ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Jesus raised her, and she got up and walked around immediately",
               "She woke up days later",
               "Jesus refused to go to the house"
+            ],
+            "es": [
+              "Nada — permaneció muerta",
+              "Jesús la resucitó, y se levantó y caminó inmediatamente",
+              "Despertó días después",
+              "Jesús se negó a ir a la casa"
+            ],
+            "fr": [
+              "Rien — elle est restée morte",
+              "Jésus l'a ressuscitée, et elle s'est levée et a marché immédiatement",
+              "Elle s'est réveillée des jours plus tard",
+              "Jésus a refusé d'aller à la maison"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Twelve Years, Twelve-Year-Old"
+            "en": "Activity sheet: Twelve Years, Twelve-Year-Old",
+            "es": "Hoja de actividad: Doce Años, Doce Años de Edad",
+            "fr": "Fiche d'activité : Douze Ans, Douze Ans"
           },
           "file": "/static/printables/mark/lesson13_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus is never too busy or too late, whether the need is a quiet, desperate touch in a crowd or a situation everyone else has declared hopeless. The pairing of these two stories — twelve years of suffering and a twelve-year-old's death — is no accident in Mark's structure; both find the same compassionate, powerful response.\n\nConversation starters: (1) Why might the woman have been afraid to ask Jesus directly, choosing instead to just touch His cloak? (2) What does it mean that Jesus called her \"Daughter\" — what does that show about how He saw her? (3) What does it teach you that Jesus didn't give up on Jairus's daughter, even after others said it was too late?\n\nPray for situations in your own life that feel hopeless, trusting Jesus is never too late."
+        "en": "Big idea: Jesus is never too busy or too late, whether the need is a quiet, desperate touch in a crowd or a situation everyone else has declared hopeless. The pairing of these two stories — twelve years of suffering and a twelve-year-old's death — is no accident in Mark's structure; both find the same compassionate, powerful response.\n\nConversation starters: (1) Why might the woman have been afraid to ask Jesus directly, choosing instead to just touch His cloak? (2) What does it mean that Jesus called her \"Daughter\" — what does that show about how He saw her? (3) What does it teach you that Jesus didn't give up on Jairus's daughter, even after others said it was too late?\n\nPray for situations in your own life that feel hopeless, trusting Jesus is never too late.",
+        "es": "Idea principal: Jesús nunca está demasiado ocupado ni demasiado tarde, ya sea que la necesidad sea un toque silencioso y desesperado en una multitud o una situación que todos los demás han declarado sin esperanza. El emparejamiento de estas dos historias — doce años de sufrimiento y la muerte de una niña de doce años — no es accidental en la estructura de Marcos; ambas encuentran la misma respuesta compasiva y poderosa.\n\nPara conversar: (1) ¿Por qué podría la mujer haber tenido miedo de pedirle ayuda a Jesús directamente, eligiendo en cambio solo tocar Su manto? (2) ¿Qué significa que Jesús la llamara 'Hija' — qué muestra eso sobre cómo la veía? (3) ¿Qué te enseña que Jesús no se rindió con la hija de Jairo, incluso después de que otros dijeron que era demasiado tarde?\n\nOren por situaciones en su propia vida que se sienten sin esperanza, confiando en que Jesús nunca llega demasiado tarde.",
+        "fr": "Idée principale : Jésus n'est jamais trop occupé ni trop en retard, que le besoin soit un attouchement silencieux et désespéré dans une foule ou une situation que tous les autres ont déclarée sans espoir. Le rapprochement de ces deux histoires — douze ans de souffrance et la mort d'une fillette de douze ans — n'est pas un hasard dans la structure de Marc ; les deux trouvent la même réponse compatissante et puissante.\n\nPour la conversation : (1) Pourquoi la femme aurait-elle pu avoir peur de demander de l'aide à Jésus directement, choisissant plutôt de simplement toucher Son vêtement ? (2) Que signifie le fait que Jésus l'ait appelée « ma fille » — que montre cela sur la façon dont Il la voyait ? (3) Que t'enseigne le fait que Jésus n'ait pas abandonné la fille de Jaïrus, même après que d'autres ont dit qu'il était trop tard ?\n\nPriez pour des situations dans votre propre vie qui semblent sans espoir, en faisant confiance que Jésus n'arrive jamais trop tard."
       }
     }
   ]

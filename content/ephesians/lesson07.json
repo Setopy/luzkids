@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "God's Secret Plan"
+    "en": "God's Secret Plan",
+    "es": "El Plan Secreto de Dios",
+    "fr": "Le Plan Secret de Dieu"
   },
   "ref": "Ephesians 3:1-13",
   "section": "God's Marvelous Plan for the Gentiles",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "The secret God kept — and why He needs YOU to tell it"
+        "en": "The secret God kept — and why He needs YOU to tell it",
+        "es": "El secreto que Dios guardó — y por qué te necesita a TI para contarlo",
+        "fr": "Le secret que Dieu a gardé — et pourquoi Il a besoin de TOI pour le raconter"
       },
       "body": {
-        "en": "Paul says God kept a wonderful secret for ages — a 'mystery' that is now finally revealed! The mystery is this: God's family was never meant for just one nation. People from EVERY country, every language, every skin colour — all equal heirs together in God's family through Jesus Christ.\n\nAnd look at who God chose to tell this secret: Paul, who used to be the greatest enemy of the church! Paul calls himself 'the least of all God's people' — yet God gave him the biggest mission: to preach to the Gentiles the boundless riches of Christ, and to make plain to everyone the administration of this mystery, kept hidden in God for ages.\n\nGod's purpose in this is breathtaking: through the church, the MANIFOLD WISDOM of God would be made known — even to rulers and authorities in the heavenly realms! Paul says he doesn't want the Ephesians to be discouraged because of his sufferings in prison — his sufferings are actually their glory, proof the secret really is spreading.\n\nGod still uses ordinary, once-unlikely people to tell the secret. The question is not whether to tell it — the question is how."
+        "en": "Paul says God kept a wonderful secret for ages — a 'mystery' that is now finally revealed! The mystery is this: God's family was never meant for just one nation. People from EVERY country, every language, every skin colour — all equal heirs together in God's family through Jesus Christ.\n\nAnd look at who God chose to tell this secret: Paul, who used to be the greatest enemy of the church! Paul calls himself 'the least of all God's people' — yet God gave him the biggest mission: to preach to the Gentiles the boundless riches of Christ, and to make plain to everyone the administration of this mystery, kept hidden in God for ages.\n\nGod's purpose in this is breathtaking: through the church, the MANIFOLD WISDOM of God would be made known — even to rulers and authorities in the heavenly realms! Paul says he doesn't want the Ephesians to be discouraged because of his sufferings in prison — his sufferings are actually their glory, proof the secret really is spreading.\n\nGod still uses ordinary, once-unlikely people to tell the secret. The question is not whether to tell it — the question is how.",
+        "es": "Pablo dice que Dios guardó un secreto maravilloso durante siglos — ¡un \"misterio\" que ahora finalmente es revelado! El misterio es este: la familia de Dios nunca fue pensada solo para una nación. Personas de TODO país, todo idioma, todo color de piel — todos herederos iguales juntos en la familia de Dios por medio de Jesucristo.\n\nY miren a quién eligió Dios para contar este secreto: ¡a Pablo, quien antes era el mayor enemigo de la iglesia! Pablo se llama a sí mismo \"el más pequeño de todos los santos\" — y sin embargo Dios le dio la misión más grande: predicar a los gentiles las inagotables riquezas de Cristo, y aclarar a todos la administración de este misterio, escondido en Dios por los siglos.\n\nEl propósito de Dios en esto es asombroso: ¡por medio de la iglesia, la SABIDURÍA MULTIFORME de Dios sería dada a conocer — incluso a los principados y potestades en los lugares celestiales! Pablo dice que no quiere que los efesios se desanimen por sus sufrimientos en la prisión — sus sufrimientos son en realidad su gloria, prueba de que el secreto realmente se está extendiendo.\n\nDios todavía usa a personas comunes, antes improbables, para contar el secreto. La pregunta no es si contarlo — la pregunta es cómo.",
+        "fr": "Paul dit que Dieu a gardé un merveilleux secret pendant des siècles — un « mystère » qui est maintenant enfin révélé ! Le mystère est ceci : la famille de Dieu n'a jamais été destinée à une seule nation. Des gens de TOUS les pays, toutes les langues, toutes les couleurs de peau — tous héritiers égaux ensemble dans la famille de Dieu par Jésus-Christ.\n\nEt regardez qui Dieu a choisi pour raconter ce secret : Paul, qui était autrefois le plus grand ennemi de l'église ! Paul se qualifie lui-même de « le plus petit de tous les saints » — et pourtant Dieu lui a donné la plus grande mission : annoncer aux non-Juifs les richesses insondables de Christ, et mettre en lumière pour tous l'administration de ce mystère, caché en Dieu depuis les siècles.\n\nLe dessein de Dieu en cela est stupéfiant : par l'Église, la SAGESSE INFINIMENT VARIÉE de Dieu serait connue — même des dominations et des autorités dans les lieux célestes ! Paul dit qu'il ne veut pas que les Éphésiens se découragent à cause de ses souffrances en prison — ses souffrances sont en réalité leur gloire, preuve que le secret se répand réellement.\n\nDieu utilise encore des gens ordinaires, autrefois improbables, pour raconter le secret. La question n'est pas de savoir s'il faut le raconter — la question est comment."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "His intent was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms."
+        "en": "His intent was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms.",
+        "es": "Para que la multiforme sabiduría de Dios sea ahora notificada por la iglesia á los principados y potestades en los cielos.",
+        "fr": "afin que les dominations et les autorités dans les lieux célestes connaissent aujourd'hui par l'Église la sagesse infiniment variée de Dieu."
       },
       "ref": {
-        "en": "Ephesians 3:10 (NIV)"
+        "en": "Ephesians 3:10 (NIV)",
+        "es": "Efesios 3:10 (Valera)",
+        "fr": "Éphésiens 3:10 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "wisdom",
           "of",
           "God"
+        ],
+        "es": [
+          "Para",
+          "que",
+          "la",
+          "multiforme",
+          "sabiduría",
+          "de"
+        ],
+        "fr": [
+          "Afin",
+          "que",
+          "les",
+          "dominations",
+          "et",
+          "les"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for God's Secret Plan"
+        "en": "A Song for God's Secret Plan",
+        "es": "Una Canción para El Plan Secreto de Dios",
+        "fr": "Une Chanson pour Le Plan Secret de Dieu"
       },
       "audio_en": "/static/audio/ephesians/lesson07_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What is the 'mystery' Paul says was kept secret for ages?"
+            "en": "What is the 'mystery' Paul says was kept secret for ages?",
+            "es": "¿Cuál es el 'misterio' que Pablo dice que se mantuvo secreto durante siglos?",
+            "fr": "Quel est le « mystère » que Paul dit avoir été gardé secret pendant des siècles ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "That people from every nation are equal heirs together in God's family",
               "A magic spell",
               "A secret location"
+            ],
+            "es": [
+              "Un mapa de un tesoro escondido",
+              "Que las personas de toda nación son herederos iguales juntos en la familia de Dios",
+              "Un hechizo mágico",
+              "Una ubicación secreta"
+            ],
+            "fr": [
+              "Une carte au trésor cachée",
+              "Que les gens de toute nation sont héritiers égaux ensemble dans la famille de Dieu",
+              "Un sortilège magique",
+              "Un lieu secret"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Paul describe himself, even though God gave him such a big mission?"
+            "en": "How does Paul describe himself, even though God gave him such a big mission?",
+            "es": "¿Cómo se describe Pablo a sí mismo, aunque Dios le dio una misión tan grande?",
+            "fr": "Comment Paul se décrit-il lui-même, bien que Dieu lui ait donné une si grande mission ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "The least of all God's people",
               "A king",
               "Someone who deserved it"
+            ],
+            "es": [
+              "El más grande de todos los santos",
+              "El más pequeño de todos los santos",
+              "Un rey",
+              "Alguien que lo merecía"
+            ],
+            "fr": [
+              "Le plus grand de tous les saints",
+              "Le plus petit de tous les saints",
+              "Un roi",
+              "Quelqu'un qui le méritait"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul say his sufferings in prison actually are, for the Ephesians?"
+            "en": "What does Paul say his sufferings in prison actually are, for the Ephesians?",
+            "es": "¿Qué dice Pablo que realmente son sus sufrimientos en la prisión, para los efesios?",
+            "fr": "Que dit Paul que ses souffrances en prison sont réellement, pour les Éphésiens ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Their glory — proof the secret is spreading",
               "A sign God has failed",
               "Something to hide"
+            ],
+            "es": [
+              "Una razón para desanimarse",
+              "Su gloria — prueba de que el secreto se está extendiendo",
+              "Una señal de que Dios ha fallado",
+              "Algo que ocultar"
+            ],
+            "fr": [
+              "Une raison de se décourager",
+              "Leur gloire — preuve que le secret se répand",
+              "Un signe que Dieu a échoué",
+              "Quelque chose à cacher"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: God's Secret Plan"
+            "en": "Activity sheet: God's Secret Plan",
+            "es": "Hoja de actividad: El Plan Secreto de Dios",
+            "fr": "Fiche d'activité : Le Plan Secret de Dieu"
           },
           "file": "/static/printables/ephesians/lesson07_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the mystery of Ephesians 3 and the doctrine of personal evangelism — every nation, every background, equally welcomed into God's family, with God still choosing once-unlikely people (like Paul, like us) to carry that secret further. The phrase \"manifold wisdom of God... made known\" through the church (3:10) gives the church a cosmic significance: even spiritual authorities watch and learn from what God does among ordinary believers.\n\nConversation starters: (1) Why do you think God chose Paul — once the church's biggest enemy — to carry this secret? (2) What does it mean that no nation or background is excluded from God's family? (3) How can YOU be part of telling this secret today?\n\nPray together for boldness to share the gospel, the way Paul did even from prison."
+        "en": "Big idea: the mystery of Ephesians 3 and the doctrine of personal evangelism — every nation, every background, equally welcomed into God's family, with God still choosing once-unlikely people (like Paul, like us) to carry that secret further. The phrase \"manifold wisdom of God... made known\" through the church (3:10) gives the church a cosmic significance: even spiritual authorities watch and learn from what God does among ordinary believers.\n\nConversation starters: (1) Why do you think God chose Paul — once the church's biggest enemy — to carry this secret? (2) What does it mean that no nation or background is excluded from God's family? (3) How can YOU be part of telling this secret today?\n\nPray together for boldness to share the gospel, the way Paul did even from prison.",
+        "es": "Idea principal: el misterio de Efesios 3 y la doctrina de la evangelización personal — toda nación, todo trasfondo, igualmente bienvenido en la familia de Dios, con Dios todavía eligiendo a personas antes improbables (como Pablo, como nosotros) para llevar ese secreto más lejos. La frase \"la sabiduría multiforme de Dios... dada a conocer\" por medio de la iglesia (3:10) le da a la iglesia una importancia cósmica: incluso las autoridades espirituales observan y aprenden de lo que Dios hace entre creyentes comunes.\n\nPara conversar: (1) ¿Por qué crees que Dios eligió a Pablo — antes el mayor enemigo de la iglesia — para llevar este secreto? (2) ¿Qué significa que ninguna nación o trasfondo está excluido de la familia de Dios? (3) ¿Cómo puedes TÚ ser parte de contar este secreto hoy?\n\nOren juntos por valentía para compartir el evangelio, tal como lo hizo Pablo incluso desde la prisión.",
+        "fr": "Idée principale : le mystère d'Éphésiens 3 et la doctrine de l'évangélisation personnelle — toute nation, tout milieu, accueilli également dans la famille de Dieu, Dieu choisissant encore des gens autrefois improbables (comme Paul, comme nous) pour porter ce secret plus loin. L'expression « la sagesse infiniment variée de Dieu... connue » par l'Église (3.10) donne à l'Église une importance cosmique : même les autorités spirituelles observent et apprennent de ce que Dieu fait parmi des croyants ordinaires.\n\nPour la conversation : (1) Pourquoi penses-tu que Dieu a choisi Paul — autrefois le plus grand ennemi de l'église — pour porter ce secret ? (2) Que signifie le fait qu'aucune nation ou milieu ne soit exclu de la famille de Dieu ? (3) Comment peux-TU faire partie de ceux qui racontent ce secret aujourd'hui ?\n\nPriez ensemble pour avoir l'audace de partager l'Évangile, comme Paul l'a fait même depuis la prison."
       }
     }
   ]

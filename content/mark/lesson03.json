@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A Day Full of Miracles"
+    "en": "A Day Full of Miracles",
+    "es": "Un Día Lleno de Milagros",
+    "fr": "Une Journée Pleine de Miracles"
   },
   "ref": "Mark 1:21-34",
   "section": "Jesus Drives Out an Impure Spirit / Jesus Heals Many",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Authority no one had ever seen"
+        "en": "Authority no one had ever seen",
+        "es": "Una autoridad que nadie había visto jamás",
+        "fr": "Une autorité que personne n'avait jamais vue"
       },
       "body": {
-        "en": "Jesus went into the synagogue at Capernaum and began to teach — and the people were amazed, because He taught with AUTHORITY, not like the teachers of the law. Suddenly, a man with an impure spirit cried out, and Jesus commanded: 'Be quiet! Come out of him!' The spirit shook the man violently and came out with a shriek.\n\nThe people were astonished — news about Jesus spread quickly through the whole region of Galilee!\n\nThen Jesus went to Simon's house, where Simon's mother-in-law was in bed with a fever. Jesus took her by the hand and helped her up — the fever left her immediately, and she got up and began to serve them! That evening, after sunset, the whole town gathered at the door, bringing the sick and demon-possessed.\n\nJesus healed many who had various diseases and drove out many demons. One ordinary day in Capernaum, and the whole town had seen, up close, exactly who Jesus was."
+        "en": "Jesus went into the synagogue at Capernaum and began to teach — and the people were amazed, because He taught with AUTHORITY, not like the teachers of the law. Suddenly, a man with an impure spirit cried out, and Jesus commanded: 'Be quiet! Come out of him!' The spirit shook the man violently and came out with a shriek.\n\nThe people were astonished — news about Jesus spread quickly through the whole region of Galilee!\n\nThen Jesus went to Simon's house, where Simon's mother-in-law was in bed with a fever. Jesus took her by the hand and helped her up — the fever left her immediately, and she got up and began to serve them! That evening, after sunset, the whole town gathered at the door, bringing the sick and demon-possessed.\n\nJesus healed many who had various diseases and drove out many demons. One ordinary day in Capernaum, and the whole town had seen, up close, exactly who Jesus was.",
+        "es": "Jesús entró en la sinagoga de Capernaúm y comenzó a enseñar — y la gente estaba asombrada, porque enseñaba con AUTORIDAD, no como los maestros de la ley. De repente, un hombre con un espíritu impuro gritó, y Jesús ordenó: \"¡Cállate! ¡Sal de él!\" El espíritu sacudió violentamente al hombre y salió con un alarido.\n\n¡La gente estaba asombrada — las noticias acerca de Jesús se difundieron rápidamente por toda la región de Galilea!\n\nLuego Jesús fue a la casa de Simón, donde la suegra de Simón estaba en cama con fiebre. Jesús la tomó de la mano y la ayudó a levantarse — ¡la fiebre la dejó inmediatamente, y ella se levantó y comenzó a servirles! Esa tarde, después de la puesta del sol, todo el pueblo se reunió a la puerta, trayendo a los enfermos y poseídos por demonios.\n\nJesús sanó a muchos que tenían diversas enfermedades y expulsó muchos demonios. Un día ordinario en Capernaúm, y todo el pueblo había visto, de cerca, exactamente quién era Jesús.",
+        "fr": "Jésus entra dans la synagogue de Capernaüm et commença à enseigner — et les gens étaient frappés, car Il enseignait avec AUTORITÉ, et non comme les docteurs de la loi. Soudain, un homme avec un esprit impur s'écria, et Jésus ordonna : « Taisez-vous ! Sortez de cet homme ! » L'esprit secoua violemment l'homme et sortit en poussant un grand cri.\n\nLes gens furent stupéfaits — les nouvelles à propos de Jésus se répandirent rapidement dans toute la région de Galilée !\n\nPuis Jésus alla chez Simon, où la belle-mère de Simon était au lit avec de la fièvre. Jésus la prit par la main et l'aida à se lever — la fièvre la quitta immédiatement, et elle se leva et commença à les servir ! Ce soir-là, après le coucher du soleil, toute la ville se rassembla à la porte, amenant les malades et les possédés.\n\nJésus guérit beaucoup de gens atteints de diverses maladies et chassa beaucoup de démons. Une journée ordinaire à Capernaüm, et toute la ville avait vu, de près, exactement qui était Jésus."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The people were amazed at his teaching, because he taught them as one who had authority."
+        "en": "The people were amazed at his teaching, because he taught them as one who had authority.",
+        "es": "Y se admiraban de su doctrina; porque les enseñaba como quien tiene potestad, y no como los escribas.",
+        "fr": "Ils étaient frappés de sa doctrine ; car il enseignait comme ayant autorité, et non pas comme les scribes."
       },
       "ref": {
-        "en": "Mark 1:22 (NIV)"
+        "en": "Mark 1:22 (NIV)",
+        "es": "Marcos 1:22 (Valera)",
+        "fr": "Marc 1:22 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "taught",
           "with",
           "authority"
+        ],
+        "es": [
+          "Y",
+          "se",
+          "admiraban",
+          "de",
+          "su",
+          "doctrina"
+        ],
+        "fr": [
+          "Ils",
+          "étaient",
+          "frappés",
+          "de",
+          "sa",
+          "doctrine"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A Day Full of Miracles"
+        "en": "A Song for A Day Full of Miracles",
+        "es": "Una Canción para Un Día Lleno de Milagros",
+        "fr": "Une Chanson pour Une Journée Pleine de Miracles"
       },
       "audio_en": "/static/audio/mark/lesson03_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why were people amazed at Jesus' teaching in the synagogue?"
+            "en": "Why were people amazed at Jesus' teaching in the synagogue?",
+            "es": "¿Por qué estaba la gente asombrada de la enseñanza de Jesús en la sinagoga?",
+            "fr": "Pourquoi les gens étaient-ils frappés par l'enseignement de Jésus dans la synagogue ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "He taught with authority, unlike the teachers of the law",
               "He taught for a very long time",
               "He used difficult words"
+            ],
+            "es": [
+              "Hablaba muy fuerte",
+              "Enseñaba con autoridad, a diferencia de los maestros de la ley",
+              "Enseñaba por mucho tiempo",
+              "Usaba palabras difíciles"
+            ],
+            "fr": [
+              "Il parlait très fort",
+              "Il enseignait avec autorité, contrairement aux docteurs de la loi",
+              "Il enseignait très longtemps",
+              "Il utilisait des mots difficiles"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What happened to Simon's mother-in-law after Jesus helped her up?"
+            "en": "What happened to Simon's mother-in-law after Jesus helped her up?",
+            "es": "¿Qué le sucedió a la suegra de Simón después de que Jesús la ayudó a levantarse?",
+            "fr": "Qu'est-il arrivé à la belle-mère de Simon après que Jésus l'a aidée à se lever ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "The fever left her immediately and she got up to serve them",
               "Nothing changed",
               "She left the house"
+            ],
+            "es": [
+              "Se quedó en cama",
+              "La fiebre la dejó inmediatamente y se levantó a servirles",
+              "Nada cambió",
+              "Salió de la casa"
+            ],
+            "fr": [
+              "Elle est restée au lit",
+              "La fièvre l'a quittée immédiatement et elle s'est levée pour les servir",
+              "Rien n'a changé",
+              "Elle a quitté la maison"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did the whole town do that evening after sunset?"
+            "en": "What did the whole town do that evening after sunset?",
+            "es": "¿Qué hizo todo el pueblo esa tarde después de la puesta del sol?",
+            "fr": "Qu'a fait toute la ville ce soir-là après le coucher du soleil ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "Gathered at the door, bringing the sick and demon-possessed to Jesus",
               "Ignored Jesus completely",
               "Left Capernaum"
+            ],
+            "es": [
+              "Se fueron a dormir temprano",
+              "Se reunieron a la puerta, trayendo a los enfermos y poseídos por demonios a Jesús",
+              "Ignoraron por completo a Jesús",
+              "Dejaron Capernaúm"
+            ],
+            "fr": [
+              "Ils sont allés se coucher tôt",
+              "Ils se sont rassemblés à la porte, amenant les malades et les possédés à Jésus",
+              "Ils ont complètement ignoré Jésus",
+              "Ils ont quitté Capernaüm"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A Day Full of Miracles"
+            "en": "Activity sheet: A Day Full of Miracles",
+            "es": "Hoja de actividad: Un Día Lleno de Milagros",
+            "fr": "Fiche d'activité : Une Journée Pleine de Miracles"
           },
           "file": "/static/printables/mark/lesson03_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' authority is demonstrated, not just claimed — over teaching, over evil spirits, over sickness, all within a single busy day. Mark moves rapidly through these scenes to build a cumulative impression: this is no ordinary teacher.\n\nConversation starters: (1) What's the difference between authority and just being loud or confident? (2) Why might Simon's mother-in-law's immediate response be to serve, right after being healed? (3) What does it show about Jesus that He kept healing late into the evening, even after a full day?\n\nPray, thanking Jesus for His authority over every kind of need."
+        "en": "Big idea: Jesus' authority is demonstrated, not just claimed — over teaching, over evil spirits, over sickness, all within a single busy day. Mark moves rapidly through these scenes to build a cumulative impression: this is no ordinary teacher.\n\nConversation starters: (1) What's the difference between authority and just being loud or confident? (2) Why might Simon's mother-in-law's immediate response be to serve, right after being healed? (3) What does it show about Jesus that He kept healing late into the evening, even after a full day?\n\nPray, thanking Jesus for His authority over every kind of need.",
+        "es": "Idea principal: la autoridad de Jesús se demuestra, no solo se afirma — sobre la enseñanza, sobre los espíritus malignos, sobre la enfermedad, todo dentro de un solo día ajetreado. Marcos avanza rápidamente por estas escenas para construir una impresión acumulativa: este no es un maestro ordinario.\n\nPara conversar: (1) ¿Cuál es la diferencia entre autoridad y simplemente ser ruidoso o confiado? (2) ¿Por qué podría la respuesta inmediata de la suegra de Simón ser servir, justo después de ser sanada? (3) ¿Qué muestra acerca de Jesús que siguió sanando hasta tarde en la noche, incluso después de un día completo?\n\nOren, agradeciendo a Jesús por Su autoridad sobre toda clase de necesidad.",
+        "fr": "Idée principale : l'autorité de Jésus est démontrée, et non simplement affirmée — sur l'enseignement, sur les esprits mauvais, sur la maladie, tout cela en une seule journée chargée. Marc avance rapidement à travers ces scènes pour construire une impression cumulative : ce n'est pas un enseignant ordinaire.\n\nPour la conversation : (1) Quelle est la différence entre l'autorité et le simple fait d'être bruyant ou confiant ? (2) Pourquoi la réaction immédiate de la belle-mère de Simon pourrait-elle être de servir, juste après avoir été guérie ? (3) Que montre à propos de Jésus le fait qu'Il ait continué à guérir tard dans la soirée, même après une journée complète ?\n\nPriez, en remerciant Jésus pour Son autorité sur toute sorte de besoin."
       }
     }
   ]

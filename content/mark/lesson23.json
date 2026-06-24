@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "I Do Believe — Help My Unbelief!"
+    "en": "I Do Believe — Help My Unbelief!",
+    "es": "¡Creo — Ayuda Mi Incredulidad!",
+    "fr": "Je Crois — Viens au Secours de Mon Incrédulité !"
   },
   "ref": "Mark 9:14-32",
   "section": "Jesus Heals a Boy Possessed by an Impure Spirit / Jesus Predicts His Death a Second Time",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A desperate father, an honest prayer"
+        "en": "A desperate father, an honest prayer",
+        "es": "Un padre desesperado, una oración honesta",
+        "fr": "Un père désespéré, une prière honnête"
       },
       "body": {
-        "en": "Coming down the mountain, Jesus found a large crowd and His other disciples arguing with teachers of the law — they had tried and failed to heal a boy with a severe, violent spirit that threw him into convulsions. The boy's father explained, exhausted, then said: 'If you can do anything, take pity on us!' Jesus replied: 'If you can?! Everything is possible for one who believes.' The father cried out, with raw honesty: 'I do believe; help me overcome my unbelief!' Jesus commanded the spirit to come out, and it did, with a violent convulsion, leaving the boy looking dead — but Jesus took his hand and lifted him up, completely well!\n\nPrivately, the disciples asked why THEY couldn't drive it out. Jesus said: 'This kind can come out only by prayer.' Then Jesus again told them plainly that He would be betrayed, killed, and rise after three days — but they still didn't understand, and were afraid to ask Him about it."
+        "en": "Coming down the mountain, Jesus found a large crowd and His other disciples arguing with teachers of the law — they had tried and failed to heal a boy with a severe, violent spirit that threw him into convulsions. The boy's father explained, exhausted, then said: 'If you can do anything, take pity on us!' Jesus replied: 'If you can?! Everything is possible for one who believes.' The father cried out, with raw honesty: 'I do believe; help me overcome my unbelief!' Jesus commanded the spirit to come out, and it did, with a violent convulsion, leaving the boy looking dead — but Jesus took his hand and lifted him up, completely well!\n\nPrivately, the disciples asked why THEY couldn't drive it out. Jesus said: 'This kind can come out only by prayer.' Then Jesus again told them plainly that He would be betrayed, killed, and rise after three days — but they still didn't understand, and were afraid to ask Him about it.",
+        "es": "Bajando de la montaña, Jesús encontró a una gran multitud y a Sus otros discípulos discutiendo con maestros de la ley — habían intentado y fallado en sanar a un niño con un espíritu severo y violento que lo lanzaba a convulsiones. El padre del niño explicó, agotado, y luego dijo: \"Si puedes hacer algo, ¡ten compasión de nosotros!\" Jesús respondió: \"¿¡Si puedes!? Todo es posible para el que cree.\" El padre clamó, con cruda honestidad: \"¡Creo; ayúdame a superar mi incredulidad!\" Jesús ordenó al espíritu que saliera, y lo hizo, con una convulsión violenta, dejando al niño pareciendo muerto — ¡pero Jesús tomó su mano y lo levantó, completamente sano!\n\nEn privado, los discípulos preguntaron por qué ELLOS no pudieron expulsarlo. Jesús dijo: \"Esta clase no puede salir sino con oración.\" Entonces Jesús de nuevo les dijo claramente que sería traicionado, matado, y resucitaría después de tres días — pero todavía no entendían, y tenían miedo de preguntarle sobre ello.",
+        "fr": "En descendant de la montagne, Jésus trouva une grande foule et Ses autres disciples discutant avec des docteurs de la loi — ils avaient essayé, sans succès, de guérir un enfant ayant un esprit sévère et violent qui le jetait dans des convulsions. Le père de l'enfant expliqua, épuisé, puis dit : « Si tu peux quelque chose, viens à notre secours ! » Jésus répondit : « Si tu peux ! Tout est possible à celui qui croit. » Le père s'écria, avec une franchise crue : « Je crois ! Viens au secours de mon incrédulité ! » Jésus ordonna à l'esprit de sortir, ce qu'il fit, dans une convulsion violente, laissant l'enfant comme mort — mais Jésus le prit par la main et le releva, complètement guéri !\n\nEn privé, les disciples demandèrent pourquoi EUX n'avaient pas pu le chasser. Jésus dit : « Cette espèce-là ne peut sortir que par la prière. » Puis Jésus leur dit de nouveau clairement qu'Il serait livré, tué, et qu'Il ressusciterait après trois jours — mais ils ne comprenaient pas encore, et avaient peur de L'interroger là-dessus."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "I do believe; help me overcome my unbelief!"
+        "en": "I do believe; help me overcome my unbelief!",
+        "es": "Y luego el padre del muchacho dijo clamando: Creo, ayuda mi incredulidad.",
+        "fr": "Aussitôt le père de l'enfant s'écria : Je crois ! viens au secours de mon incrédulité !"
       },
       "ref": {
-        "en": "Mark 9:24 (NIV)"
+        "en": "Mark 9:24 (NIV)",
+        "es": "Marcos 9:24 (Valera)",
+        "fr": "Marc 9:24 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -32,6 +42,22 @@
           "overcome",
           "my",
           "unbelief"
+        ],
+        "es": [
+          "Y",
+          "luego",
+          "el",
+          "padre",
+          "del",
+          "muchacho"
+        ],
+        "fr": [
+          "Aussitôt",
+          "le",
+          "père",
+          "de",
+          "l'enfant",
+          "s'écria"
         ]
       },
       "typing_challenge": true
@@ -39,7 +65,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for I Do Believe — Help My Unbelief!"
+        "en": "A Song for I Do Believe — Help My Unbelief!",
+        "es": "Una Canción para ¡Creo — Ayuda Mi Incredulidad!",
+        "fr": "Une Chanson pour Je Crois — Viens au Secours de Mon Incrédulité !"
       },
       "audio_en": "/static/audio/mark/lesson23_en.mp3"
     },
@@ -48,7 +76,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why had the disciples been unable to heal the boy themselves?"
+            "en": "Why had the disciples been unable to heal the boy themselves?",
+            "es": "¿Por qué no habían podido los discípulos sanar al niño ellos mismos?",
+            "fr": "Pourquoi les disciples n'avaient-ils pas pu guérir l'enfant eux-mêmes ?"
           },
           "options": {
             "en": [
@@ -56,13 +86,27 @@
               "They lacked enough prayer-dependent faith for this situation",
               "Jesus forbade them",
               "No reason given"
+            ],
+            "es": [
+              "No lo intentaron en absoluto",
+              "Les faltaba suficiente fe dependiente de la oración para esta situación",
+              "Jesús se lo prohibió",
+              "No se da ninguna razón"
+            ],
+            "fr": [
+              "Ils n'ont pas du tout essayé",
+              "Il leur manquait assez de foi dépendante de la prière pour cette situation",
+              "Jésus le leur a interdit",
+              "Aucune raison n'est donnée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What honest, mixed cry did the boy's father give Jesus?"
+            "en": "What honest, mixed cry did the boy's father give Jesus?",
+            "es": "¿Qué clamor honesto y mixto dio el padre del niño a Jesús?",
+            "fr": "Quel cri honnête et mêlé le père de l'enfant a-t-il lancé à Jésus ?"
           },
           "options": {
             "en": [
@@ -70,13 +114,27 @@
               "I do believe; help me overcome my unbelief!",
               "He refused to ask for help",
               "He gave up immediately"
+            ],
+            "es": [
+              "No tenía ninguna duda en absoluto",
+              "¡Creo; ayúdame a superar mi incredulidad!",
+              "Se negó a pedir ayuda",
+              "Se rindió inmediatamente"
+            ],
+            "fr": [
+              "Il n'avait aucun doute du tout",
+              "Je crois ! Viens au secours de mon incrédulité !",
+              "Il a refusé de demander de l'aide",
+              "Il a abandonné immédiatement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say was needed to drive out 'this kind' of spirit?"
+            "en": "What did Jesus say was needed to drive out 'this kind' of spirit?",
+            "es": "¿Qué dijo Jesús que se necesitaba para expulsar a 'esta clase' de espíritu?",
+            "fr": "Qu'a dit Jésus être nécessaire pour chasser « cette espèce » d'esprit ?"
           },
           "options": {
             "en": [
@@ -84,6 +142,18 @@
               "Prayer",
               "Money",
               "Nothing special"
+            ],
+            "es": [
+              "Gritar fuerte",
+              "Oración",
+              "Dinero",
+              "Nada especial"
+            ],
+            "fr": [
+              "Crier fort",
+              "La prière",
+              "De l'argent",
+              "Rien de spécial"
             ]
           },
           "answer": 1
@@ -95,7 +165,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: I Do Believe — Help My Unbelief!"
+            "en": "Activity sheet: I Do Believe — Help My Unbelief!",
+            "es": "Hoja de actividad: ¡Creo — Ayuda Mi Incredulidad!",
+            "fr": "Fiche d'activité : Je Crois — Viens au Secours de Mon Incrédulité !"
           },
           "file": "/static/printables/mark/lesson23_sheet.pdf"
         }
@@ -104,7 +176,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: honest, even mixed faith — \"I believe, help my unbelief\" — is exactly the kind of faith Jesus welcomes and answers, not a perfectly confident, doubt-free faith that few actually possess. This father's prayer has become one of the most relatable, comforting lines in the Gospels for anyone who genuinely believes yet still struggles with doubt.\n\nConversation starters: (1) Why might the father's honest mix of belief and doubt actually be a model prayer, not a failure of faith? (2) What does Jesus mean that \"this kind\" of need requires prayer specifically? (3) Have you ever felt like this father — believing, but wanting help with your doubts?\n\nPray honestly, like this father did, bringing both your faith and your doubts to God."
+        "en": "Big idea: honest, even mixed faith — \"I believe, help my unbelief\" — is exactly the kind of faith Jesus welcomes and answers, not a perfectly confident, doubt-free faith that few actually possess. This father's prayer has become one of the most relatable, comforting lines in the Gospels for anyone who genuinely believes yet still struggles with doubt.\n\nConversation starters: (1) Why might the father's honest mix of belief and doubt actually be a model prayer, not a failure of faith? (2) What does Jesus mean that \"this kind\" of need requires prayer specifically? (3) Have you ever felt like this father — believing, but wanting help with your doubts?\n\nPray honestly, like this father did, bringing both your faith and your doubts to God.",
+        "es": "Idea principal: la fe honesta, incluso mixta — 'creo, ayuda mi incredulidad' — es exactamente el tipo de fe que Jesús acoge y responde, no una fe perfectamente confiada y libre de dudas que pocos realmente poseen. La oración de este padre se ha convertido en una de las líneas más identificables y reconfortantes de los Evangelios para cualquiera que genuinamente cree pero todavía lucha con la duda.\n\nPara conversar: (1) ¿Por qué podría la mezcla honesta de creencia y duda del padre ser realmente una oración modelo, no un fracaso de fe? (2) ¿Qué quiere decir Jesús cuando dice que 'esta clase' de necesidad requiere oración específicamente? (3) ¿Te has sentido alguna vez como este padre — creyendo, pero queriendo ayuda con tus dudas?\n\nOren honestamente, como hizo este padre, trayendo tanto su fe como sus dudas a Dios.",
+        "fr": "Idée principale : une foi honnête, même mêlée — « je crois, viens au secours de mon incrédulité » — est exactement le genre de foi que Jésus accueille et à laquelle Il répond, et non une foi parfaitement confiante et sans doute que peu de gens possèdent réellement. La prière de ce père est devenue l'une des lignes les plus identifiables et réconfortantes des Évangiles pour quiconque croit véritablement mais lutte encore avec le doute.\n\nPour la conversation : (1) Pourquoi le mélange honnête de croyance et de doute du père pourrait-il être en réalité une prière modèle, et non un échec de la foi ? (2) Que veut dire Jésus quand Il dit que « cette espèce » de besoin nécessite la prière spécifiquement ? (3) T'es-tu déjà senti comme ce père — croyant, mais voulant de l'aide avec tes doutes ?\n\nPriez honnêtement, comme ce père l'a fait, en apportant à la fois ta foi et tes doutes à Dieu."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Power of the Tongue"
+    "en": "The Power of the Tongue",
+    "es": "El Poder de la Lengua",
+    "fr": "Le Pouvoir de la Langue"
   },
   "ref": "Proverbs 12:18; 15:1; 16:24; 18:21; 25:11",
   "section": "The Power of the Tongue (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Words that heal, words that wound"
+        "en": "Words that heal, words that wound",
+        "es": "Palabras que curan, palabras que herien",
+        "fr": "Des paroles qui guérissent, des paroles qui blessent"
       },
       "body": {
-        "en": "Proverbs returns again and again to the enormous power of the words we choose. 'The tongue has the power of life and death,' one proverb declares plainly — words really can build up or genuinely destroy.\n\n'Reckless words pierce like a sword, but the tongue of the wise brings healing.' Think about that contrast — careless words can wound as deeply as a weapon, while careful words can actually heal pain.\n\n'A gentle answer turns away wrath, but a harsh word stirs up anger.' This tiny proverb has diffused more arguments than almost any other piece of advice in human history — the tone you choose changes everything.\n\n'Gracious words are a honeycomb, sweet to the soul and healing to the bones.' Kind words don't just sound nice — they genuinely nourish the person who receives them.\n\nAnd one beautifully specific image: 'a word fitly spoken is like apples of gold in a setting of silver' — the RIGHT word, at the RIGHT moment, is a genuine treasure, valuable and beautiful."
+        "en": "Proverbs returns again and again to the enormous power of the words we choose. 'The tongue has the power of life and death,' one proverb declares plainly — words really can build up or genuinely destroy.\n\n'Reckless words pierce like a sword, but the tongue of the wise brings healing.' Think about that contrast — careless words can wound as deeply as a weapon, while careful words can actually heal pain.\n\n'A gentle answer turns away wrath, but a harsh word stirs up anger.' This tiny proverb has diffused more arguments than almost any other piece of advice in human history — the tone you choose changes everything.\n\n'Gracious words are a honeycomb, sweet to the soul and healing to the bones.' Kind words don't just sound nice — they genuinely nourish the person who receives them.\n\nAnd one beautifully specific image: 'a word fitly spoken is like apples of gold in a setting of silver' — the RIGHT word, at the RIGHT moment, is a genuine treasure, valuable and beautiful.",
+        "es": "Proverbios regresa de nuevo y de nuevo al enorme poder de las palabras que elegimos. \"La muerte y la vida están en poder de la lengua,\" declara un proverbio sencillamente — las palabras realmente pueden edificar o destruir genuinamente.\n\n\"Hay quien hable palabras parecidas á herida de espada: mas la lengua de los sabios es medicina.\" Piensa en ese contraste — palabras descuidadas pueden herir tan profundamente como un arma, mientras las palabras cuidadosas pueden realmente curar el dolor.\n\n\"La blanda respuesta quita la ira: mas la palabra áspera hace subir el furor.\" Este pequeño proverbio ha disipado más discusiones que casi cualquier otro consejo en la historia humana — el tono que elijas lo cambia todo.\n\n\"Panal de miel son los dichos suaves: suavidad al alma y medicina á los huesos.\" Las palabras amables no solo suenan agradables — realmente nutren a la persona que las recibe.\n\nY una imagen hermosamente específica: \"manzana de oro con figuras de plata es la palabra dicha como conviene.\" La palabra CORRECTA, en el momento CORRECTO, es un tesoro genuino, valioso y hermoso.",
+        "fr": "Les Proverbes reviennent encore et encore sur l'énorme pouvoir des mots que nous choisissons. « La mort et la vie sont au pouvoir de la langue, » déclare simplement un proverbe — les mots peuvent vraiment édifier ou véritablement détruire.\n\n« Il en est qui font une plaie par leurs paroles, mais la langue des sages apporte la guérison. » Réfléchis à ce contraste — des paroles imprudentes peuvent blesser aussi profondément qu'une arme, tandis que des paroles attentives peuvent vraiment guérir une douleur.\n\n« Une réponse douce calme la fureur, mais une parole dure excite la colère. » Ce petit proverbe a désamorcé plus de disputes que presque tout autre conseil dans l'histoire humaine — le ton que tu choisis change tout.\n\n« Les paroles agréables sont un rayon de miel, douces pour l'âme et salutaires pour le corps. » Les paroles aimables ne sont pas seulement agréables à entendre — elles nourrissent véritablement la personne qui les reçoit.\n\nEt une image magnifiquement spécifique : « une parole dite à propos est comme des pommes d'or sur un plateau d'argent. » Le BON mot, au BON moment, est un véritable trésor, précieux et beau."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The tongue has the power of life and death."
+        "en": "The tongue has the power of life and death.",
+        "es": "La muerte y la vida están en poder de la lengua; y el que la ama comerá de sus frutos.",
+        "fr": "La mort et la vie sont au pouvoir de la langue ; Quiconque l'aime en mangera les fruits."
       },
       "ref": {
-        "en": "Proverbs 18:21 (NIV)"
+        "en": "Proverbs 18:21 (NIV)",
+        "es": "Proverbios 18:21 (Valera)",
+        "fr": "Proverbes 18:21 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "life",
           "and",
           "death"
+        ],
+        "es": [
+          "La",
+          "muerte",
+          "y",
+          "la",
+          "vida",
+          "están"
+        ],
+        "fr": [
+          "La",
+          "mort",
+          "et",
+          "la",
+          "vie",
+          "sont"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Power of the Tongue"
+        "en": "A Song for The Power of the Tongue",
+        "es": "Una Canción para El Poder de la Lengua",
+        "fr": "Une Chanson pour Le Pouvoir de la Langue"
       },
       "audio_en": "/static/audio/proverbs/lesson18_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Proverbs 18:21 say the tongue has the power to do?"
+            "en": "What does Proverbs 18:21 say the tongue has the power to do?",
+            "es": "¿Qué dice Proverbios 18:21 que la lengua tiene el poder de hacer?",
+            "fr": "Que dit Proverbes 18:21 que la langue a le pouvoir de faire ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "Bring life and death",
               "Only bring harm, never good",
               "Only bring help, never harm"
+            ],
+            "es": [
+              "Nada significativo",
+              "Traer vida y muerte",
+              "Solo traer daño, nunca bien",
+              "Solo traer ayuda, nunca daño"
+            ],
+            "fr": [
+              "Rien de significatif",
+              "Apporter la vie et la mort",
+              "Seulement apporter du mal, jamais du bien",
+              "Seulement apporter de l'aide, jamais du mal"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Proverbs 15:1, what turns away anger, and what stirs it up?"
+            "en": "According to Proverbs 15:1, what turns away anger, and what stirs it up?",
+            "es": "Según Proverbios 15:1, ¿qué calma la ira, y qué la enciende?",
+            "fr": "Selon Proverbes 15:1, qu'est-ce qui calme la colère, et qu'est-ce qui l'excite ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "Silence always works best",
               "Loud words always calm things down",
               "Nothing affects anger"
+            ],
+            "es": [
+              "La blanda respuesta quita la ira; la palabra áspera hace subir el furor",
+              "El silencio siempre funciona mejor",
+              "Las palabras fuertes siempre calman las cosas",
+              "Nada afecta la ira"
+            ],
+            "fr": [
+              "Une réponse douce calme la fureur ; une parole dure excite la colère",
+              "Le silence fonctionne toujours mieux",
+              "Les paroles fortes calment toujours les choses",
+              "Rien n'affecte la colère"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What are gracious words compared to in Proverbs 16:24?"
+            "en": "What are gracious words compared to in Proverbs 16:24?",
+            "es": "¿Con qué se comparan las palabras suaves en Proverbios 16:24?",
+            "fr": "À quoi sont comparées les paroles agréables dans Proverbes 16:24 ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "A honeycomb, sweet to the soul and healing to the bones",
               "Nothing of value",
               "A heavy weight"
+            ],
+            "es": [
+              "Una medicina amarga",
+              "Un panal de miel, suavidad al alma y medicina á los huesos",
+              "Nada de valor",
+              "Una carga pesada"
+            ],
+            "fr": [
+              "Une médecine amère",
+              "Un rayon de miel, doux pour l'âme et salutaire pour le corps",
+              "Rien de valeur",
+              "Un fardeau pesant"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Power of the Tongue"
+            "en": "Activity sheet: The Power of the Tongue",
+            "es": "Hoja de actividad: El Poder de la Lengua",
+            "fr": "Fiche d'activité : Le Pouvoir de la Langue"
           },
           "file": "/static/printables/proverbs/lesson18_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: few themes recur as often or as urgently in Proverbs as the power of speech — words are treated as genuinely consequential, capable of real healing or real harm, never neutral. This collection of proverbs gives children concrete, memorable language for something they experience daily: the difference between a word that wounds and a word that heals.\n\nConversation starters: (1) Can you remember a time someone's words genuinely helped or healed you? (2) What does \"a gentle answer turns away wrath\" look like practically, in an argument with a sibling or friend? (3) What's one way you could speak more \"gracious,\" honeycomb-like words this week?\n\nPray for tongues that bring healing, not harm — choosing words carefully and kindly."
+        "en": "Big idea: few themes recur as often or as urgently in Proverbs as the power of speech — words are treated as genuinely consequential, capable of real healing or real harm, never neutral. This collection of proverbs gives children concrete, memorable language for something they experience daily: the difference between a word that wounds and a word that heals.\n\nConversation starters: (1) Can you remember a time someone's words genuinely helped or healed you? (2) What does \"a gentle answer turns away wrath\" look like practically, in an argument with a sibling or friend? (3) What's one way you could speak more \"gracious,\" honeycomb-like words this week?\n\nPray for tongues that bring healing, not harm — choosing words carefully and kindly.",
+        "es": "Idea principal: pocos temas se repiten tan a menudo o con tanta urgencia en Proverbios como el poder del habla — las palabras se tratan como genuinamente consecuentes, capaces de curar o dañar realmente, nunca neutrales. Esta colección de proverbios da a los niños un lenguaje concreto y memorable para algo que experimentan diariamente: la diferencia entre una palabra que herie y una palabra que cura.\n\nPara conversar: (1) ¿Puedes recordar un momento en que las palabras de alguien genuinamente te ayudaron o te curaron? (2) ¿Cómo se ve \"la blanda respuesta quita la ira\" prácticamente, en una discusión con un hermano o amigo? (3) ¿Cuál es una forma en que podrías hablar palabras más \"graciosas,\" como panal de miel, esta semana?\n\nOren por lenguas que traigan curación, no daño — eligiendo palabras con cuidado y amabilidad.",
+        "fr": "Idée principale : peu de thèmes reviennent aussi souvent ou avec autant d'urgence dans les Proverbes que le pouvoir de la parole — les mots sont traités comme véritablement lourds de conséquences, capables de vraie guérison ou de vrai mal, jamais neutres. Cette collection de proverbes donne aux enfants un langage concret et mémorable pour quelque chose qu'ils vivent quotidiennement : la différence entre un mot qui blesse et un mot qui guérit.\n\nPour la conversation : (1) Peux-tu te rappeler un moment où les paroles de quelqu'un t'ont véritablement aidé ou guéri ? (2) À quoi ressemble concrètement « une réponse douce calme la fureur » dans une dispute avec un frère, une sœur ou un ami ? (3) Quelle est une façon dont tu pourrais parler des paroles plus « agréables », comme un rayon de miel, cette semaine ?\n\nPriez pour des langues qui apportent la guérison, pas le mal — en choisissant les mots avec soin et bonté."
       }
     }
   ]

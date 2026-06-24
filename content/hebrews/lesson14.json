@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Once For All!"
+    "en": "Once For All!",
+    "es": "¡Una Vez Para Siempre!",
+    "fr": "Une Fois Pour Toutes !"
   },
   "ref": "Hebrews 10:1-18",
   "section": "Christ's Sacrifice Once for All",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A sacrifice that never needs repeating"
+        "en": "A sacrifice that never needs repeating",
+        "es": "Un sacrificio que nunca necesita repetirse",
+        "fr": "Un sacrifice qui n'a jamais besoin d'être répété"
       },
       "body": {
-        "en": "The old sacrifices, the writer explains, could never make people perfect — that's WHY they had to be offered again and again, year after year. If they had truly worked, wouldn't they have stopped?\n\nBut Jesus came and said, 'Here I am, I have come to do your will,' offering His own body ONCE — and by that single offering, He made perfect FOREVER those who are being made holy. Day after day, the old priests stood and performed their repeated duties, but Christ offered ONE sacrifice for sins forever, and then sat down at the right hand of God — His work finished, completely.\n\nWhere sins have truly been forgiven, there is no longer any need for another sacrifice. It is finished."
+        "en": "The old sacrifices, the writer explains, could never make people perfect — that's WHY they had to be offered again and again, year after year. If they had truly worked, wouldn't they have stopped?\n\nBut Jesus came and said, 'Here I am, I have come to do your will,' offering His own body ONCE — and by that single offering, He made perfect FOREVER those who are being made holy. Day after day, the old priests stood and performed their repeated duties, but Christ offered ONE sacrifice for sins forever, and then sat down at the right hand of God — His work finished, completely.\n\nWhere sins have truly been forgiven, there is no longer any need for another sacrifice. It is finished.",
+        "es": "Los antiguos sacrificios, explica el escritor, nunca podían hacer perfectas a las personas — por ESO tenían que ofrecerse una y otra vez, año tras año. Si realmente hubieran funcionado, ¿no habrían cesado?\n\nPero Jesús vino y dijo: \"Aquí estoy, he venido a hacer tu voluntad,\" ofreciendo Su propio cuerpo UNA SOLA VEZ — y por esa única ofrenda, hizo perfectos PARA SIEMPRE a los que están siendo santificados. Día tras día, los antiguos sacerdotes se ponían de pie y realizaban sus deberes repetidos, pero Cristo ofreció UN SOLO sacrificio por los pecados para siempre, y luego se sentó a la diestra de Dios — Su obra terminada, completamente.\n\nDonde los pecados verdaderamente han sido perdonados, ya no hay necesidad de otro sacrificio. Está consumado.",
+        "fr": "Les anciens sacrifices, explique l'auteur, ne pouvaient jamais rendre les hommes parfaits — c'est POURQUOI ils devaient être offerts encore et encore, année après année. S'ils avaient vraiment fonctionné, n'auraient-ils pas cessé ?\n\nMais Jésus est venu et a dit : « Me voici, je suis venu pour faire ta volonté, » offrant Son propre corps UNE SEULE FOIS — et par cette offrande unique, Il a rendu parfaits POUR TOUJOURS ceux qui sont sanctifiés. Jour après jour, les anciens sacrificateurs se tenaient debout et accomplissaient leurs tâches répétées, mais Christ a offert UN SEUL sacrifice pour les péchés pour toujours, et s'est ensuite assis à la droite de Dieu — Son œuvre achevée, complètement.\n\nLà où les péchés ont véritablement été pardonnés, il n'y a plus besoin d'un autre sacrifice. C'est accompli."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "By one sacrifice he has made perfect forever those who are being made holy."
+        "en": "By one sacrifice he has made perfect forever those who are being made holy.",
+        "es": "Porque con una sola ofrenda hizo perfectos para siempre á los santificados.",
+        "fr": "Car, par une seule offrande, il a amené à la perfection pour toujours ceux qui sont sanctifiés."
       },
       "ref": {
-        "en": "Hebrews 10:14 (NIV)"
+        "en": "Hebrews 10:14 (NIV)",
+        "es": "Hebreos 10:14 (Valera)",
+        "fr": "Hébreux 10:14 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -32,6 +42,22 @@
           "made",
           "perfect",
           "forever"
+        ],
+        "es": [
+          "Porque",
+          "con",
+          "una",
+          "sola",
+          "ofrenda",
+          "hizo"
+        ],
+        "fr": [
+          "Car",
+          "par",
+          "une",
+          "seule",
+          "offrande",
+          "il"
         ]
       },
       "typing_challenge": true
@@ -39,7 +65,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Once For All!"
+        "en": "A Song for Once For All!",
+        "es": "Una Canción para ¡Una Vez Para Siempre!",
+        "fr": "Une Chanson pour Une Fois Pour Toutes !"
       },
       "audio_en": "/static/audio/hebrews/lesson14_en.mp3"
     },
@@ -48,7 +76,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why did the old sacrifices have to be repeated again and again?"
+            "en": "Why did the old sacrifices have to be repeated again and again?",
+            "es": "¿Por qué los antiguos sacrificios tenían que repetirse una y otra vez?",
+            "fr": "Pourquoi les anciens sacrifices devaient-ils être répétés encore et encore ?"
           },
           "options": {
             "en": [
@@ -56,13 +86,27 @@
               "They could never actually make people perfect",
               "People enjoyed repeating them",
               "God liked variety"
+            ],
+            "es": [
+              "Funcionaron perfectamente la primera vez",
+              "Nunca podían en realidad hacer perfectas a las personas",
+              "A la gente le gustaba repetirlos",
+              "A Dios le gustaba la variedad"
+            ],
+            "fr": [
+              "Ils ont parfaitement fonctionné la première fois",
+              "Ils ne pouvaient en réalité jamais rendre les hommes parfaits",
+              "Les gens aimaient les répéter",
+              "Dieu aimait la variété"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus offer, instead of repeated animal sacrifices?"
+            "en": "What did Jesus offer, instead of repeated animal sacrifices?",
+            "es": "¿Qué ofreció Jesús, en lugar de sacrificios animales repetidos?",
+            "fr": "Qu'a offert Jésus, au lieu de sacrifices d'animaux répétés ?"
           },
           "options": {
             "en": [
@@ -70,13 +114,27 @@
               "His own body, once, fully sufficient forever",
               "A bigger sacrifice",
               "Many small sacrifices"
+            ],
+            "es": [
+              "Nada diferente",
+              "Su propio cuerpo, una vez, plenamente suficiente para siempre",
+              "Un sacrificio más grande",
+              "Muchos sacrificios pequeños"
+            ],
+            "fr": [
+              "Rien de différent",
+              "Son propre corps, une fois, pleinement suffisant pour toujours",
+              "Un sacrifice plus grand",
+              "De nombreux petits sacrifices"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus do after offering His one sacrifice?"
+            "en": "What did Jesus do after offering His one sacrifice?",
+            "es": "¿Qué hizo Jesús después de ofrecer Su único sacrificio?",
+            "fr": "Qu'a fait Jésus après avoir offert Son unique sacrifice ?"
           },
           "options": {
             "en": [
@@ -84,6 +142,18 @@
               "Sat down at the right hand of God",
               "Started over",
               "Left forever"
+            ],
+            "es": [
+              "Siguió de pie repitiéndolo",
+              "Se sentó a la diestra de Dios",
+              "Comenzó de nuevo",
+              "Se fue para siempre"
+            ],
+            "fr": [
+              "Il est resté debout à le répéter",
+              "Il s'est assis à la droite de Dieu",
+              "Il a recommencé",
+              "Il est parti pour toujours"
             ]
           },
           "answer": 1
@@ -95,7 +165,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Once For All!"
+            "en": "Activity sheet: Once For All!",
+            "es": "Hoja de actividad: ¡Una Vez Para Siempre!",
+            "fr": "Fiche d'activité : Une Fois Pour Toutes !"
           },
           "file": "/static/printables/hebrews/lesson14_sheet.pdf"
         }
@@ -104,7 +176,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the absolute sufficiency of Christ's once-for-all sacrifice. \"Made perfect forever those who are being sanctified\" (10:14) holds together both the finished work of justification AND the ongoing, present-tense work of sanctifying grace without contradiction.\n\nConversation starters: (1) What does \"once\" and never repeated mean for Jesus' sacrifice? (2) Why does Jesus sitting down matter? (3) How does \"it is finished\" change how you carry guilt?\n\nPray, thanking God the work of forgiveness is fully and finally complete."
+        "en": "Big idea: the absolute sufficiency of Christ's once-for-all sacrifice. \"Made perfect forever those who are being sanctified\" (10:14) holds together both the finished work of justification AND the ongoing, present-tense work of sanctifying grace without contradiction.\n\nConversation starters: (1) What does \"once\" and never repeated mean for Jesus' sacrifice? (2) Why does Jesus sitting down matter? (3) How does \"it is finished\" change how you carry guilt?\n\nPray, thanking God the work of forgiveness is fully and finally complete.",
+        "es": "Idea principal: la suficiencia absoluta del sacrificio de Cristo, una vez para siempre. 'Hizo perfectos para siempre a los santificados' (10:14) mantiene unidas tanto la obra terminada de la justificación COMO la obra continua y presente de la gracia santificadora, sin contradicción.\n\nPara conversar: (1) ¿Qué significa 'una vez' y nunca repetido para el sacrificio de Jesús? (2) ¿Por qué importa que Jesús se haya sentado? (3) ¿Cómo cambia 'está consumado' la manera en que cargas con la culpa?\n\nOren, agradeciendo a Dios que la obra del perdón está plena y finalmente completa.",
+        "fr": "Idée principale : la suffisance absolue du sacrifice de Christ, une fois pour toutes. « Rendu parfaits pour toujours ceux qui sont sanctifiés » (10.14) maintient ensemble à la fois l'œuvre achevée de la justification ET l'œuvre continue et présente de la grâce sanctifiante, sans contradiction.\n\nPour la conversation : (1) Que signifie « une fois » et jamais répété pour le sacrifice de Jésus ? (2) Pourquoi est-il important que Jésus se soit assis ? (3) Comment « c'est accompli » change-t-il la façon dont tu portes la culpabilité ?\n\nPriez, en remerciant Dieu que l'œuvre du pardon soit pleinement et définitivement achevée."
       }
     }
   ]

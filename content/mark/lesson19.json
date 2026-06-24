@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Crumbs of Great Faith"
+    "en": "Crumbs of Great Faith",
+    "es": "Migajas de Gran Fe",
+    "fr": "Des Miettes de Grande Foi"
   },
   "ref": "Mark 7:24-37",
   "section": "Jesus Honors a Syrophoenician Woman's Faith / Jesus Heals a Deaf and Mute Man",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A bold mother, and ears opened"
+        "en": "A bold mother, and ears opened",
+        "es": "Una madre audaz, y oídos abiertos",
+        "fr": "Une mère audacieuse, et des oreilles ouvertes"
       },
       "body": {
-        "en": "Jesus went to the region of Tyre, hoping to stay unnoticed, but a Greek woman, born in Syrian Phoenicia, whose daughter had an impure spirit, came and fell at His feet, begging Him to heal her daughter. Jesus said, testing her faith: 'First let the children eat all they want, for it is not right to take the children's bread and toss it to the dogs.' The woman replied with remarkable wit and humility: 'Lord, even the dogs under the table eat the children's crumbs.' Jesus said: 'For such a reply, you may go; the demon has left your daughter.' She went home and found her daughter lying on the bed, the demon gone!\n\nThen a deaf man who could hardly talk was brought to Jesus. Taking him aside privately, Jesus put His fingers in the man's ears, spit, touched his tongue, looked up to heaven and said: 'Ephphatha!' — 'Be opened!' Immediately the man could hear, and his tongue was loosened — he began to speak plainly!\n\nThe people were overwhelmed with amazement: 'He has done everything well.'"
+        "en": "Jesus went to the region of Tyre, hoping to stay unnoticed, but a Greek woman, born in Syrian Phoenicia, whose daughter had an impure spirit, came and fell at His feet, begging Him to heal her daughter. Jesus said, testing her faith: 'First let the children eat all they want, for it is not right to take the children's bread and toss it to the dogs.' The woman replied with remarkable wit and humility: 'Lord, even the dogs under the table eat the children's crumbs.' Jesus said: 'For such a reply, you may go; the demon has left your daughter.' She went home and found her daughter lying on the bed, the demon gone!\n\nThen a deaf man who could hardly talk was brought to Jesus. Taking him aside privately, Jesus put His fingers in the man's ears, spit, touched his tongue, looked up to heaven and said: 'Ephphatha!' — 'Be opened!' Immediately the man could hear, and his tongue was loosened — he began to speak plainly!\n\nThe people were overwhelmed with amazement: 'He has done everything well.'",
+        "es": "Jesús fue a la región de Tiro, esperando pasar desapercibido, pero una mujer griega, nacida en Siro-Fenicia, cuya hija tenía un espíritu impuro, vino y se postró a Sus pies, rogándole que sanara a su hija. Jesús dijo, probando su fe: \"Primero deja que los hijos coman todo lo que quieran, porque no está bien tomar el pan de los hijos y echarlo a los perros.\" La mujer respondió con notable ingenio y humildad: \"Señor, hasta los perros debajo de la mesa comen las migajas de los hijos.\" Jesús dijo: \"Por esta respuesta, puedes ir; el demonio ha salido de tu hija.\" ¡Ella fue a casa y encontró a su hija acostada en la cama, el demonio se había ido!\n\nLuego le trajeron a Jesús un hombre sordo que apenas podía hablar. Llevándolo a un lado en privado, Jesús puso Sus dedos en los oídos del hombre, escupió, tocó su lengua, miró al cielo y dijo: \"¡Efata!\" — \"¡Sé abierto!\" Inmediatamente el hombre pudo oír, y su lengua fue desatada — ¡comenzó a hablar claramente!\n\nLa gente estaba abrumada de asombro: \"Todo lo ha hecho bien.\" ",
+        "fr": "Jésus se rendit dans la région de Tyr, espérant rester inaperçu, mais une femme grecque, originaire de Syrophénicie, dont la fille avait un esprit impur, vint et se prosterna à Ses pieds, Le suppliant de guérir sa fille. Jésus dit, mettant sa foi à l'épreuve : « Laisse d'abord les enfants se rassasier ; car il n'est pas bien de prendre le pain des enfants, et de le jeter aux chiens. » La femme répondit avec une remarquable finesse et humilité : « Seigneur, les chiens, sous la table, mangent les miettes des enfants. » Jésus dit : « À cause de cette parole, va, le démon est sorti de ta fille. » Elle rentra chez elle et trouva sa fille couchée sur le lit, le démon était parti !\n\nPuis on amena à Jésus un homme sourd qui pouvait à peine parler. L'emmenant à part en privé, Jésus mit Ses doigts dans les oreilles de l'homme, cracha, toucha sa langue, leva les yeux vers le ciel et dit : « Ephphatha ! » — « Sois ouvert ! » Immédiatement l'homme put entendre, et sa langue fut déliée — il commença à parler distinctement !\n\nLes gens étaient remplis d'étonnement : « Il fait tout à merveille. »"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "For such a reply, you may go; the demon has left your daughter."
+        "en": "For such a reply, you may go; the demon has left your daughter.",
+        "es": "Entonces le dice: Por esta palabra, ve; el demonio ha salido de tu hija.",
+        "fr": "Alors il lui dit : à cause de cette parole, va, le démon est sorti de ta fille."
       },
       "ref": {
-        "en": "Mark 7:29 (NIV)"
+        "en": "Mark 7:29 (NIV)",
+        "es": "Marcos 7:29 (Valera)",
+        "fr": "Marc 7:29 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "left",
           "your",
           "daughter"
+        ],
+        "es": [
+          "Entonces",
+          "le",
+          "dice",
+          "Por",
+          "esta",
+          "palabra"
+        ],
+        "fr": [
+          "Alors",
+          "il",
+          "lui",
+          "dit",
+          "à",
+          "cause"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Crumbs of Great Faith"
+        "en": "A Song for Crumbs of Great Faith",
+        "es": "Una Canción para Migajas de Gran Fe",
+        "fr": "Une Chanson pour Des Miettes de Grande Foi"
       },
       "audio_en": "/static/audio/mark/lesson19_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "How did the Syrophoenician woman respond when Jesus tested her faith?"
+            "en": "How did the Syrophoenician woman respond when Jesus tested her faith?",
+            "es": "¿Cómo respondió la mujer sirofenicia cuando Jesús puso a prueba su fe?",
+            "fr": "Comment la femme syrophénicienne a-t-elle répondu quand Jésus a mis sa foi à l'épreuve ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "With a witty, humble reply about dogs eating crumbs",
               "She got angry and argued",
               "She said nothing"
+            ],
+            "es": [
+              "Se rindió y se fue",
+              "Con una respuesta ingeniosa y humilde sobre los perros que comen migajas",
+              "Se enojó y discutió",
+              "No dijo nada"
+            ],
+            "fr": [
+              "Elle a abandonné et est partie",
+              "Avec une réponse pleine d'esprit et d'humilité sur les chiens qui mangent des miettes",
+              "Elle s'est fâchée et a discuté",
+              "Elle n'a rien dit"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What word did Jesus say when healing the deaf and mute man?"
+            "en": "What word did Jesus say when healing the deaf and mute man?",
+            "es": "¿Qué palabra dijo Jesús al sanar al hombre sordo y mudo?",
+            "fr": "Quel mot Jésus a-t-il dit en guérissant l'homme sourd et muet ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "'Ephphatha!' — 'Be opened!'",
               "A long prayer",
               "He didn't speak"
+            ],
+            "es": [
+              "Nada en absoluto",
+              "'¡Efata!' — '¡Sé abierto!'",
+              "Una larga oración",
+              "No habló"
+            ],
+            "fr": [
+              "Rien du tout",
+              "« Ephphatha ! » — « Sois ouvert ! »",
+              "Une longue prière",
+              "Il n'a pas parlé"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did the people respond after seeing the deaf man healed?"
+            "en": "How did the people respond after seeing the deaf man healed?",
+            "es": "¿Cómo respondió la gente después de ver sanado al hombre sordo?",
+            "fr": "Comment les gens ont-ils réagi après avoir vu l'homme sourd guéri ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Overwhelmed with amazement: 'He has done everything well'",
               "With anger",
               "They didn't notice"
+            ],
+            "es": [
+              "Con indiferencia",
+              "Abrumados de asombro: 'Todo lo ha hecho bien'",
+              "Con enojo",
+              "No lo notaron"
+            ],
+            "fr": [
+              "Avec indifférence",
+              "Remplis d'étonnement : « Il fait tout à merveille »",
+              "Avec colère",
+              "Ils ne l'ont pas remarqué"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Crumbs of Great Faith"
+            "en": "Activity sheet: Crumbs of Great Faith",
+            "es": "Hoja de actividad: Migajas de Gran Fe",
+            "fr": "Fiche d'activité : Des Miettes de Grande Foi"
           },
           "file": "/static/printables/mark/lesson19_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: persistent, humble, even witty faith from an outsider — a Gentile woman with no claim on Jesus by ethnicity or religion — receives full honour, showing God's mercy extends beyond expected boundaries. Both healings in this passage involve someone reaching beyond an obstacle (ethnic boundary, physical disability) to receive what only Jesus could give.\n\nConversation starters: (1) What does the woman's clever, humble response show about persistent faith? (2) Why might Jesus initially respond the way He did, before honouring her faith? (3) What does \"He has done everything well\" mean as a summary of Jesus' ministry so far?\n\nPray for persistent faith, even when an answer doesn't come immediately."
+        "en": "Big idea: persistent, humble, even witty faith from an outsider — a Gentile woman with no claim on Jesus by ethnicity or religion — receives full honour, showing God's mercy extends beyond expected boundaries. Both healings in this passage involve someone reaching beyond an obstacle (ethnic boundary, physical disability) to receive what only Jesus could give.\n\nConversation starters: (1) What does the woman's clever, humble response show about persistent faith? (2) Why might Jesus initially respond the way He did, before honouring her faith? (3) What does \"He has done everything well\" mean as a summary of Jesus' ministry so far?\n\nPray for persistent faith, even when an answer doesn't come immediately.",
+        "es": "Idea principal: la fe persistente, humilde, e incluso ingeniosa de una extranjera — una mujer gentil sin ningún derecho ante Jesús por etnia o religión — recibe pleno honor, mostrando que la misericordia de Dios se extiende más allá de los límites esperados. Ambas sanidades en este pasaje involucran a alguien que se extiende más allá de un obstáculo (límite étnico, discapacidad física) para recibir lo que solo Jesús podía dar.\n\nPara conversar: (1) ¿Qué muestra la respuesta ingeniosa y humilde de la mujer sobre la fe persistente? (2) ¿Por qué podría Jesús responder inicialmente de esa manera, antes de honrar su fe? (3) ¿Qué significa 'Todo lo ha hecho bien' como resumen del ministerio de Jesús hasta ahora?\n\nOren por fe persistente, incluso cuando una respuesta no llega de inmediato.",
+        "fr": "Idée principale : la foi persistante, humble, et même pleine d'esprit d'une étrangère — une femme non-juive sans aucun droit envers Jésus par ethnie ou religion — reçoit un plein honneur, montrant que la miséricorde de Dieu s'étend au-delà des frontières attendues. Les deux guérisons de ce passage impliquent quelqu'un qui dépasse un obstacle (frontière ethnique, handicap physique) pour recevoir ce que seul Jésus pouvait donner.\n\nPour la conversation : (1) Que montre la réponse pleine d'esprit et humble de la femme sur la foi persistante ? (2) Pourquoi Jésus pourrait-Il répondre initialement de cette façon, avant d'honorer sa foi ? (3) Que signifie « Il fait tout à merveille » comme résumé du ministère de Jésus jusqu'à présent ?\n\nPriez pour une foi persistante, même quand une réponse ne vient pas immédiatement."
       }
     }
   ]

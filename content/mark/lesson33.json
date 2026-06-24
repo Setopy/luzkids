@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Keep Watch!"
+    "en": "Keep Watch!",
+    "es": "¡Mantente Alerta!",
+    "fr": "Veillez !"
   },
   "ref": "Mark 13:1-37",
   "section": "The Destruction of the Temple and Signs of the End Times / The Day and Hour Unknown",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Not one stone left standing"
+        "en": "Not one stone left standing",
+        "es": "Ni una piedra quedará en pie",
+        "fr": "Pas une pierre ne restera debout"
       },
       "body": {
-        "en": "Leaving the temple, a disciple admired its massive stones. Jesus said: 'Not one stone here will be left on another; every one will be thrown down.' Privately, on the Mount of Olives, the disciples asked when this would happen. Jesus warned of false messiahs, wars, earthquakes, famines — 'these are the beginning of birth pains.' Believers would face persecution, but the good news must first be preached to all nations.\n\nJesus described a time of great distress unlike anything before, with false prophets performing signs to deceive even the elect — but He told them not to be alarmed; these things must happen first.\n\nThen He spoke of the Son of Man coming 'in clouds with great glory' to gather His elect from the ends of the earth. Jesus compared this to a fig tree — when you see the signs, you know the time is near.\n\nBut 'about that day or hour no one knows... only the Father.' So Jesus' final command in this teaching: 'Watch! Be on your guard! You do not know when the owner of the house will come back... Therefore keep watch.'"
+        "en": "Leaving the temple, a disciple admired its massive stones. Jesus said: 'Not one stone here will be left on another; every one will be thrown down.' Privately, on the Mount of Olives, the disciples asked when this would happen. Jesus warned of false messiahs, wars, earthquakes, famines — 'these are the beginning of birth pains.' Believers would face persecution, but the good news must first be preached to all nations.\n\nJesus described a time of great distress unlike anything before, with false prophets performing signs to deceive even the elect — but He told them not to be alarmed; these things must happen first.\n\nThen He spoke of the Son of Man coming 'in clouds with great glory' to gather His elect from the ends of the earth. Jesus compared this to a fig tree — when you see the signs, you know the time is near.\n\nBut 'about that day or hour no one knows... only the Father.' So Jesus' final command in this teaching: 'Watch! Be on your guard! You do not know when the owner of the house will come back... Therefore keep watch.'",
+        "es": "Al salir del templo, un discípulo admiró sus enormes piedras. Jesús dijo: \"Ni una piedra aquí quedará sobre otra; todas serán derribadas.\" En privado, en el Monte de los Olivos, los discípulos preguntaron cuándo sucedería esto. Jesús advirtió sobre falsos mesías, guerras, terremotos, hambrunas — \"estos son el principio de los dolores de parto.\" Los creyentes enfrentarían persecución, pero las buenas nuevas primero deben predicarse a todas las naciones.\n\nJesús describió un tiempo de gran angustia, diferente a todo lo anterior, con falsos profetas realizando señales para engañar incluso a los elegidos — pero les dijo que no se alarmaran; estas cosas deben suceder primero.\n\nEntonces habló del Hijo del Hombre viniendo \"en las nubes con gran gloria\" para reunir a Sus elegidos desde los confines de la tierra. Jesús comparó esto con una higuera — cuando ven las señales, saben que el tiempo está cerca.\n\nPero \"de aquel día y hora nadie sabe... solo el Padre.\" Así que el mandato final de Jesús en esta enseñanza: \"¡Velen! ¡Estén alerta! No saben cuándo el dueño de la casa regresará... Por lo tanto, manténganse alerta.\" ",
+        "fr": "En quittant le temple, un disciple admira ses énormes pierres. Jésus dit : « Il ne restera pas pierre sur pierre qui ne soit renversée. » En privé, sur le mont des Oliviers, les disciples demandèrent quand cela arriverait. Jésus avertit de faux messies, de guerres, de tremblements de terre, de famines — « ce ne sont que les premières douleurs. » Les croyants feraient face à la persécution, mais la bonne nouvelle doit d'abord être prêchée à toutes les nations.\n\nJésus décrivit un temps de grande détresse, sans précédent, avec de faux prophètes accomplissant des signes pour tromper même les élus — mais Il leur dit de ne pas s'alarmer ; ces choses doivent arriver d'abord.\n\nPuis Il parla du Fils de l'homme venant « sur les nuées avec une grande gloire » pour rassembler Ses élus des extrémités de la terre. Jésus compara cela à un figuier — quand vous voyez les signes, vous savez que le temps est proche.\n\nMais « quant à ce jour ou à cette heure, personne ne le sait... le Père seul. » Alors le commandement final de Jésus dans cet enseignement : « Prenez garde, veillez ! Vous ne savez pas quand le maître de la maison reviendra... Veillez donc. »"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Watch! Be on your guard! You do not know when that day will come."
+        "en": "Watch! Be on your guard! You do not know when that day will come.",
+        "es": "Mirad, velad y orad: porque no sabéis cuándo será el tiempo.",
+        "fr": "Prenez garde, veillez et priez ; car vous ne savez quand ce temps viendra."
       },
       "ref": {
-        "en": "Mark 13:33 (NIV, paraphrased)"
+        "en": "Mark 13:33 (NIV, paraphrased)",
+        "es": "Marcos 13:33 (Valera)",
+        "fr": "Marc 13:33 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "day",
           "will",
           "come"
+        ],
+        "es": [
+          "Mirad",
+          "velad",
+          "y",
+          "orad",
+          "porque",
+          "no"
+        ],
+        "fr": [
+          "Prenez",
+          "garde",
+          "veillez",
+          "et",
+          "priez",
+          "car"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Keep Watch!"
+        "en": "A Song for Keep Watch!",
+        "es": "Una Canción para ¡Mantente Alerta!",
+        "fr": "Une Chanson pour Veillez !"
       },
       "audio_en": "/static/audio/mark/lesson33_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus predict would happen to the temple's massive stones?"
+            "en": "What did Jesus predict would happen to the temple's massive stones?",
+            "es": "¿Qué predijo Jesús que sucedería con las enormes piedras del templo?",
+            "fr": "Qu'a prédit Jésus qu'il arriverait aux énormes pierres du temple ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "Not one stone would be left standing on another",
               "Nothing would change",
               "They would be made bigger"
+            ],
+            "es": [
+              "Permanecerían para siempre",
+              "Ni una piedra quedaría sobre otra",
+              "Nada cambiaría",
+              "Se harían más grandes"
+            ],
+            "fr": [
+              "Elles resteraient pour toujours",
+              "Pas une pierre ne resterait sur une autre",
+              "Rien ne changerait",
+              "Elles deviendraient plus grandes"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say about false messiahs and signs during the coming distress?"
+            "en": "What did Jesus say about false messiahs and signs during the coming distress?",
+            "es": "¿Qué dijo Jesús sobre los falsos mesías y las señales durante la angustia venidera?",
+            "fr": "Qu'a dit Jésus à propos des faux messies et des signes pendant la détresse à venir ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Even false prophets would perform signs to deceive — don't be alarmed",
               "Nothing significant",
               "They would never appear"
+            ],
+            "es": [
+              "Deberían confiarse inmediatamente",
+              "Incluso falsos profetas harían señales para engañar — no se alarmen",
+              "Nada significativo",
+              "Nunca aparecerían"
+            ],
+            "fr": [
+              "Il faudrait leur faire confiance immédiatement",
+              "Même de faux prophètes feraient des signes pour tromper — ne vous alarmez pas",
+              "Rien de significatif",
+              "Ils n'apparaîtraient jamais"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Who does Jesus say knows the exact day and hour of His return?"
+            "en": "Who does Jesus say knows the exact day and hour of His return?",
+            "es": "¿Quién dice Jesús que conoce el día y la hora exactos de Su regreso?",
+            "fr": "Qui Jésus dit-il connaître le jour et l'heure exacts de Son retour ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "Only the Father",
               "The disciples knew",
               "No one, not even God"
+            ],
+            "es": [
+              "Todos lo saben",
+              "Solo el Padre",
+              "Los discípulos lo sabían",
+              "Nadie, ni siquiera Dios"
+            ],
+            "fr": [
+              "Tout le monde le sait",
+              "Seulement le Père",
+              "Les disciples le savaient",
+              "Personne, pas même Dieu"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Keep Watch!"
+            "en": "Activity sheet: Keep Watch!",
+            "es": "Hoja de actividad: ¡Mantente Alerta!",
+            "fr": "Fiche d'activité : Veillez !"
           },
           "file": "/static/printables/mark/lesson33_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus prepares His disciples for both the coming destruction of the temple (historically fulfilled in 70 AD) and His own future return, with the consistent emphasis being readiness and watchfulness rather than date-calculating speculation. The instruction to \"keep watch\" because \"no one knows\" the exact timing protects against both complacency and unhealthy obsession with predicting specific dates.\n\nConversation starters: (1) Why might Jesus emphasize watchfulness rather than giving an exact timeline? (2) What does it mean that \"the good news must first be preached to all nations\" before the end? (3) What does staying spiritually \"awake\" and \"watching\" look like in ordinary daily life?\n\nPray for hearts that stay watchful and ready, without fear, trusting God's timing completely."
+        "en": "Big idea: Jesus prepares His disciples for both the coming destruction of the temple (historically fulfilled in 70 AD) and His own future return, with the consistent emphasis being readiness and watchfulness rather than date-calculating speculation. The instruction to \"keep watch\" because \"no one knows\" the exact timing protects against both complacency and unhealthy obsession with predicting specific dates.\n\nConversation starters: (1) Why might Jesus emphasize watchfulness rather than giving an exact timeline? (2) What does it mean that \"the good news must first be preached to all nations\" before the end? (3) What does staying spiritually \"awake\" and \"watching\" look like in ordinary daily life?\n\nPray for hearts that stay watchful and ready, without fear, trusting God's timing completely.",
+        "es": "Idea principal: Jesús prepara a Sus discípulos tanto para la destrucción venidera del templo (históricamente cumplida en el año 70 d.C.) como para Su propio regreso futuro, con un énfasis constante en la preparación y la vigilancia en lugar de la especulación de calcular fechas. La instrucción de 'mantenerse alerta' porque 'nadie sabe' el momento exacto protege tanto contra la complacencia como contra la obsesión poco saludable con predecir fechas específicas.\n\nPara conversar: (1) ¿Por qué podría Jesús enfatizar la vigilancia en lugar de dar un cronograma exacto? (2) ¿Qué significa que 'las buenas nuevas deben predicarse primero a todas las naciones' antes del fin? (3) ¿Cómo se ve mantenerse espiritualmente 'despierto' y 'alerta' en la vida diaria ordinaria?\n\nOren por corazones que permanezcan alerta y preparados, sin temor, confiando completamente en el tiempo de Dios.",
+        "fr": "Idée principale : Jésus prépare Ses disciples à la fois à la destruction à venir du temple (historiquement accomplie en l'an 70) et à Son propre retour futur, avec un accent constant mis sur la préparation et la vigilance plutôt que sur la spéculation de calcul de dates. L'instruction de « veiller » parce que « personne ne sait » le moment exact protège à la fois contre la complaisance et contre une obsession malsaine de prédire des dates précises.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il mettre l'accent sur la vigilance plutôt que de donner un calendrier exact ? (2) Que signifie le fait que « la bonne nouvelle doit d'abord être prêchée à toutes les nations » avant la fin ? (3) À quoi ressemble le fait de rester spirituellement « éveillé » et « vigilant » dans la vie quotidienne ordinaire ?\n\nPriez pour des cœurs qui restent vigilants et prêts, sans crainte, faisant entièrement confiance au moment choisi par Dieu."
       }
     }
   ]

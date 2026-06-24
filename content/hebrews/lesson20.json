@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Final Blessing"
+    "en": "The Final Blessing",
+    "es": "La Bendición Final",
+    "fr": "La Bénédiction Finale"
   },
   "ref": "Hebrews 13:20-25",
   "section": "Benediction",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Equipped for everything good"
+        "en": "Equipped for everything good",
+        "es": "Equipados para todo lo bueno",
+        "fr": "Équipés pour tout ce qui est bon"
       },
       "body": {
-        "en": "And so the letter closes with one of the most beautiful blessings in the entire Bible. 'Now to him who through the eternal covenant is able to equip you with everything good for doing his will, working in you that which is pleasing to him, through Jesus Christ, to whom be glory forever and ever. Amen.' The writer adds a final, personal word: he has written only briefly, and urges them to bear with his message of encouragement.\n\nHe mentions Timothy has been released, and hopes to visit soon together with him. Greetings are sent to all the leaders and God's people. And the very last words of this remarkable letter, after thirteen chapters of the supremacy of Christ, sobering warnings, faith heroes, and practical love: 'Grace be with you all.' A letter that opened with God speaking through His Son closes with grace resting on every reader."
+        "en": "And so the letter closes with one of the most beautiful blessings in the entire Bible. 'Now to him who through the eternal covenant is able to equip you with everything good for doing his will, working in you that which is pleasing to him, through Jesus Christ, to whom be glory forever and ever. Amen.' The writer adds a final, personal word: he has written only briefly, and urges them to bear with his message of encouragement.\n\nHe mentions Timothy has been released, and hopes to visit soon together with him. Greetings are sent to all the leaders and God's people. And the very last words of this remarkable letter, after thirteen chapters of the supremacy of Christ, sobering warnings, faith heroes, and practical love: 'Grace be with you all.' A letter that opened with God speaking through His Son closes with grace resting on every reader.",
+        "es": "Y así la carta cierra con una de las bendiciones más hermosas de toda la Biblia. \"Ahora, Aquel que mediante el pacto eterno puede equiparlos con todo lo bueno para hacer Su voluntad, obrando en ustedes lo que es agradable delante de Él, por medio de Jesucristo, a quien sea la gloria por los siglos de los siglos. Amén.\" El escritor añade una palabra final y personal: ha escrito solo brevemente, y les insta a soportar su mensaje de ánimo.\n\nMenciona que Timoteo ha sido liberado, y espera visitarlos pronto junto con él. Se envían saludos a todos los líderes y al pueblo de Dios. Y las palabras finales de esta carta extraordinaria, después de trece capítulos sobre la supremacía de Cristo, advertencias serias, héroes de la fe, y amor práctico: \"La gracia sea con todos ustedes.\" Una carta que comenzó con Dios hablando por medio de Su Hijo cierra con gracia reposando sobre cada lector.",
+        "fr": "Et ainsi la lettre se termine par l'une des plus belles bénédictions de toute la Bible. « Que le Dieu de paix, qui par l'alliance éternelle peut vous équiper de tout ce qui est bon pour faire Sa volonté, opérant en vous ce qui Lui est agréable, par Jésus-Christ, à qui soit la gloire aux siècles des siècles ! Amen. » L'auteur ajoute un dernier mot personnel : il n'a écrit que brièvement, et les exhorte à supporter son message d'encouragement.\n\nIl mentionne que Timothée a été libéré, et espère leur rendre visite bientôt avec lui. Des salutations sont envoyées à tous les dirigeants et au peuple de Dieu. Et les tout derniers mots de cette lettre remarquable, après treize chapitres sur la suprématie de Christ, des avertissements sérieux, des héros de la foi, et l'amour pratique : « Que la grâce soit avec vous tous. » Une lettre qui a commencé par Dieu parlant par Son Fils se termine par la grâce reposant sur chaque lecteur."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Now to him who is able to equip you with everything good for doing his will, working in you that which is pleasing to him, through Jesus Christ."
+        "en": "Now to him who is able to equip you with everything good for doing his will, working in you that which is pleasing to him, through Jesus Christ.",
+        "es": "Y el Dios de paz que sacó de los muertos á nuestro Señor Jesucristo, el gran pastor de las ovejas, por la sangre del testamento eterno, Os haga aptos en toda obra buena para que hagáis su voluntad, haciendo él en vosotros lo que es agradable delante de él por Jesucristo.",
+        "fr": "Que le Dieu de paix, qui a ramené d'entre les morts le grand pasteur des brebis, par le sang d'une alliance éternelle, notre Seigneur Jésus, vous rende capables de toute bonne œuvre pour l'accomplissement de sa volonté, et fasse en vous ce qui lui est agréable, par Jésus-Christ."
       },
       "ref": {
-        "en": "Hebrews 13:20-21 (NIV)"
+        "en": "Hebrews 13:20-21 (NIV)",
+        "es": "Hebreos 13:20-21 (Valera)",
+        "fr": "Hébreux 13:20-21 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "with",
           "everything",
           "good"
+        ],
+        "es": [
+          "Y",
+          "el",
+          "Dios",
+          "de",
+          "paz",
+          "que"
+        ],
+        "fr": [
+          "Que",
+          "le",
+          "Dieu",
+          "de",
+          "paix",
+          "qui"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Final Blessing"
+        "en": "A Song for The Final Blessing",
+        "es": "Una Canción para La Bendición Final",
+        "fr": "Une Chanson pour La Bénédiction Finale"
       },
       "audio_en": "/static/audio/hebrews/lesson20_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does the closing blessing ask God to do for believers?"
+            "en": "What does the closing blessing ask God to do for believers?",
+            "es": "¿Qué pide la bendición final que Dios haga por los creyentes?",
+            "fr": "Que demande la bénédiction finale à Dieu de faire pour les croyants ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "Equip them with everything good for doing His will",
               "Test them harshly",
               "Nothing specific"
+            ],
+            "es": [
+              "Dejarlos solos",
+              "Equiparlos con todo lo bueno para hacer Su voluntad",
+              "Probarlos con dureza",
+              "Nada específico"
+            ],
+            "fr": [
+              "Les laisser seuls",
+              "Les équiper de tout ce qui est bon pour faire Sa volonté",
+              "Les éprouver durement",
+              "Rien de spécifique"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Who does the writer mention has been released, hoping to visit soon?"
+            "en": "Who does the writer mention has been released, hoping to visit soon?",
+            "es": "¿Quién menciona el escritor que ha sido liberado, esperando visitarlos pronto?",
+            "fr": "Qui l'auteur mentionne-t-il avoir été libéré, espérant venir bientôt ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "Timothy",
               "Moses",
               "Peter"
+            ],
+            "es": [
+              "Pablo",
+              "Timoteo",
+              "Moisés",
+              "Pedro"
+            ],
+            "fr": [
+              "Paul",
+              "Timothée",
+              "Moïse",
+              "Pierre"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What are the very last words of the letter of Hebrews?"
+            "en": "What are the very last words of the letter of Hebrews?",
+            "es": "¿Cuáles son las últimas palabras de la carta a los Hebreos?",
+            "fr": "Quels sont les tout derniers mots de la lettre aux Hébreux ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "Grace be with you all",
               "The end",
               "Remember me"
+            ],
+            "es": [
+              "Adiós para siempre",
+              "La gracia sea con todos ustedes",
+              "El fin",
+              "Recuérdenme"
+            ],
+            "fr": [
+              "Adieu pour toujours",
+              "Que la grâce soit avec vous tous",
+              "La fin",
+              "Souvenez-vous de moi"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Final Blessing"
+            "en": "Activity sheet: The Final Blessing",
+            "es": "Hoja de actividad: La Bendición Final",
+            "fr": "Fiche d'activité : La Bénédiction Finale"
           },
           "file": "/static/printables/hebrews/lesson20_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the closing benediction is a model prayer — not for comfort, but for God to actively equip and work within believers \"everything good for doing his will.\" This final blessing, prayed over the whole community, is a fitting summary of everything Hebrews has taught: a Christ-centered, grace-filled, transformative faith meant to be lived, not merely believed.\n\nConversation starters: (1) What stands out to you most, looking back over the whole book of Hebrews? (2) What does it mean for God to \"work in you\" what's pleasing to Him, not just leave it to your own effort? (3) How would you summarize Hebrews in one sentence to a friend?\n\nPray the closing blessing of Hebrews together as a family, right now, by name."
+        "en": "Big idea: the closing benediction is a model prayer — not for comfort, but for God to actively equip and work within believers \"everything good for doing his will.\" This final blessing, prayed over the whole community, is a fitting summary of everything Hebrews has taught: a Christ-centered, grace-filled, transformative faith meant to be lived, not merely believed.\n\nConversation starters: (1) What stands out to you most, looking back over the whole book of Hebrews? (2) What does it mean for God to \"work in you\" what's pleasing to Him, not just leave it to your own effort? (3) How would you summarize Hebrews in one sentence to a friend?\n\nPray the closing blessing of Hebrews together as a family, right now, by name.",
+        "es": "Idea principal: la bendición final es una oración modelo — no por comodidad, sino para que Dios equipe y obre activamente en los creyentes 'todo lo bueno para hacer Su voluntad'. Esta bendición final, orada sobre toda la comunidad, es un resumen apropiado de todo lo que Hebreos ha enseñado: una fe centrada en Cristo, llena de gracia, transformadora, que está hecha para ser vivida, no solo creída.\n\nPara conversar: (1) ¿Qué te llama más la atención, mirando hacia atrás sobre todo el libro de Hebreos? (2) ¿Qué significa que Dios 'obre en ti' lo que es agradable delante de Él, y no que se deje solo a tu propio esfuerzo? (3) ¿Cómo resumirías Hebreos en una sola frase para un amigo?\n\nOren la bendición final de Hebreos juntos en familia, ahora mismo, por nombre.",
+        "fr": "Idée principale : la bénédiction finale est une prière modèle — non pour le confort, mais pour que Dieu équipe et œuvre activement chez les croyants « tout ce qui est bon pour faire Sa volonté ». Cette bénédiction finale, priée sur toute la communauté, est un résumé approprié de tout ce qu'Hébreux a enseigné : une foi centrée sur Christ, remplie de grâce, transformatrice, destinée à être vécue, et non simplement crue.\n\nPour la conversation : (1) Qu'est-ce qui te marque le plus, en regardant en arrière sur tout le livre des Hébreux ? (2) Que signifie le fait que Dieu « œuvre en toi » ce qui Lui est agréable, et non que cela soit laissé seulement à ton propre effort ? (3) Comment résumerais-tu Hébreux en une seule phrase à un ami ?\n\nPriez la bénédiction finale d'Hébreux ensemble en famille, dès maintenant, par son nom."
       }
     }
   ]

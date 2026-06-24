@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Standing Firm Together"
+    "en": "Standing Firm Together",
+    "es": "Firmes Juntos",
+    "fr": "Fermes Ensemble"
   },
   "ref": "Galatians 2:1-10",
   "section": "Paul Accepted by the Apostles",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Agreement among the apostles"
+        "en": "Agreement among the apostles",
+        "es": "Acuerdo entre los apóstoles",
+        "fr": "Un accord entre les apôtres"
       },
       "body": {
-        "en": "Fourteen years later, Paul went up to Jerusalem with Barnabas and Titus, to meet privately with the leaders there — Peter, James, and John — to make sure everyone agreed on the true gospel he had been preaching among the Gentiles. This mattered enormously: if these recognized leaders had disagreed with Paul's gospel, it could have split the church entirely.\n\nBut here's what happened: even though some false believers had snuck in trying to demand that Titus be circumcised (following the old Jewish law) before he could be accepted, Paul did not give in for even a moment, so that the truth of the gospel would remain intact for the Galatians.\n\nAnd when James, Peter and John saw the evidence of God's grace at work in Paul's ministry, they recognized it, gave Paul and Barnabas the right hand of fellowship, and agreed: Paul would go to the Gentiles, they would go to the Jews — but it was the SAME gospel, the same grace, for everyone.\n\nThe only thing they asked was to remember the poor, which Paul was already eager to do. The apostles stood united: salvation is by grace through faith, full stop — for everyone, everywhere."
+        "en": "Fourteen years later, Paul went up to Jerusalem with Barnabas and Titus, to meet privately with the leaders there — Peter, James, and John — to make sure everyone agreed on the true gospel he had been preaching among the Gentiles. This mattered enormously: if these recognized leaders had disagreed with Paul's gospel, it could have split the church entirely.\n\nBut here's what happened: even though some false believers had snuck in trying to demand that Titus be circumcised (following the old Jewish law) before he could be accepted, Paul did not give in for even a moment, so that the truth of the gospel would remain intact for the Galatians.\n\nAnd when James, Peter and John saw the evidence of God's grace at work in Paul's ministry, they recognized it, gave Paul and Barnabas the right hand of fellowship, and agreed: Paul would go to the Gentiles, they would go to the Jews — but it was the SAME gospel, the same grace, for everyone.\n\nThe only thing they asked was to remember the poor, which Paul was already eager to do. The apostles stood united: salvation is by grace through faith, full stop — for everyone, everywhere.",
+        "es": "Catorce años después, Pablo subió a Jerusalén con Bernabé y Tito, para reunirse en privado con los líderes de allí — Pedro, Jacobo y Juan — para asegurarse de que todos estuvieran de acuerdo con el verdadero evangelio que él había estado predicando entre los gentiles. Esto importaba enormemente: si estos líderes reconocidos hubieran estado en desacuerdo con el evangelio de Pablo, podría haber dividido a la iglesia por completo.\n\nPero esto es lo que sucedió: aunque algunos falsos creyentes se habían infiltrado tratando de exigir que Tito fuera circuncidado (siguiendo la antigua ley judía) antes de ser aceptado, Pablo no cedió ni por un momento, para que la verdad del evangelio permaneciera intacta para los gálatas.\n\nY cuando Jacobo, Pedro y Juan vieron la evidencia de la gracia de Dios obrando en el ministerio de Pablo, la reconocieron, dieron a Pablo y a Bernabé la mano derecha de compañerismo, y acordaron: Pablo iría a los gentiles, ellos irían a los judíos — pero era el MISMO evangelio, la misma gracia, para todos.\n\nLo único que pidieron fue que se acordaran de los pobres, cosa que Pablo ya estaba ansioso por hacer. Los apóstoles permanecieron unidos: la salvación es por gracia mediante la fe, punto — para todos, en todas partes.",
+        "fr": "Quatorze ans plus tard, Paul monta à Jérusalem avec Barnabas et Tite, pour rencontrer en privé les dirigeants là-bas — Pierre, Jacques et Jean — afin de s'assurer que tous s'accordaient sur le véritable Évangile qu'il avait prêché parmi les non-Juifs. Cela importait énormément : si ces dirigeants reconnus avaient été en désaccord avec l'Évangile de Paul, cela aurait pu diviser complètement l'église.\n\nMais voici ce qui s'est passé : bien que de faux croyants se soient infiltrés en essayant d'exiger que Tite soit circoncis (selon l'ancienne loi juive) avant d'être accepté, Paul n'a pas cédé un seul instant, afin que la vérité de l'Évangile demeure intacte pour les Galates.\n\nEt quand Jacques, Pierre et Jean virent la preuve de la grâce de Dieu à l'œuvre dans le ministère de Paul, ils la reconnurent, donnèrent à Paul et à Barnabas la main droite d'association, et convinrent : Paul irait vers les non-Juifs, eux iraient vers les Juifs — mais c'était le MÊME Évangile, la même grâce, pour tous.\n\nLa seule chose qu'ils demandèrent fut de se souvenir des pauvres, ce que Paul était déjà impatient de faire. Les apôtres restèrent unis : le salut est par grâce au moyen de la foi, point final — pour tous, partout."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "They recognized that I had been entrusted with the task of preaching the gospel to the Gentiles, just as Peter had been to the Jews."
+        "en": "They recognized that I had been entrusted with the task of preaching the gospel to the Gentiles, just as Peter had been to the Jews.",
+        "es": "Antes por el contrario, como vieron que el evangelio de la incircuncisión me era encargado, como á Pedro el de la circuncisión.",
+        "fr": "Au contraire, voyant que l'Évangile m'avait été confié pour les incirconcis, comme à Pierre pour les circoncis."
       },
       "ref": {
-        "en": "Galatians 2:7 (NIV)"
+        "en": "Galatians 2:7 (NIV)",
+        "es": "Gálatas 2:7 (Valera)",
+        "fr": "Galates 2:7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -31,6 +41,22 @@
           "had",
           "been",
           "entrusted"
+        ],
+        "es": [
+          "Antes",
+          "por",
+          "el",
+          "contrario",
+          "como",
+          "vieron"
+        ],
+        "fr": [
+          "Au",
+          "contraire",
+          "voyant",
+          "que",
+          "l'Évangile",
+          "m'avait"
         ]
       },
       "typing_challenge": true
@@ -38,7 +64,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Standing Firm Together"
+        "en": "A Song for Standing Firm Together",
+        "es": "Una Canción para Firmes Juntos",
+        "fr": "Une Chanson pour Fermes Ensemble"
       },
       "audio_en": "/static/audio/galatians/lesson03_en.mp3"
     },
@@ -47,7 +75,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why did Paul meet privately with the Jerusalem apostles?"
+            "en": "Why did Paul meet privately with the Jerusalem apostles?",
+            "es": "¿Por qué se reunió Pablo en privado con los apóstoles de Jerusalén?",
+            "fr": "Pourquoi Paul s'est-il réuni en privé avec les apôtres de Jérusalem ?"
           },
           "options": {
             "en": [
@@ -55,13 +85,27 @@
               "To make sure everyone agreed on the true gospel he preached",
               "To ask for money",
               "To resign as an apostle"
+            ],
+            "es": [
+              "Para discutir con ellos",
+              "Para asegurarse de que todos estuvieran de acuerdo con el verdadero evangelio que predicaba",
+              "Para pedir dinero",
+              "Para renunciar como apóstol"
+            ],
+            "fr": [
+              "Pour se disputer avec eux",
+              "Pour s'assurer que tous s'accordaient sur le véritable Évangile qu'il prêchait",
+              "Pour demander de l'argent",
+              "Pour démissionner de l'apostolat"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Paul refuse to do, even under pressure?"
+            "en": "What did Paul refuse to do, even under pressure?",
+            "es": "¿Qué se negó a hacer Pablo, aun bajo presión?",
+            "fr": "Que Paul a-t-il refusé de faire, même sous pression ?"
           },
           "options": {
             "en": [
@@ -69,13 +113,27 @@
               "Have Titus circumcised just to satisfy false believers",
               "Meet with Peter",
               "Travel to Jerusalem"
+            ],
+            "es": [
+              "Predicar a los gentiles",
+              "Hacer circuncidar a Tito solo para satisfacer a falsos creyentes",
+              "Reunirse con Pedro",
+              "Viajar a Jerusalén"
+            ],
+            "fr": [
+              "Prêcher aux non-Juifs",
+              "Faire circoncire Tite juste pour satisfaire de faux croyants",
+              "Rencontrer Pierre",
+              "Voyager à Jérusalem"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did the apostles agree about the gospel Paul preached to the Gentiles?"
+            "en": "What did the apostles agree about the gospel Paul preached to the Gentiles?",
+            "es": "¿Qué acordaron los apóstoles sobre el evangelio que Pablo predicaba a los gentiles?",
+            "fr": "Qu'ont convenu les apôtres à propos de l'Évangile que Paul prêchait aux non-Juifs ?"
           },
           "options": {
             "en": [
@@ -83,6 +141,18 @@
               "It was the same gospel, the same grace, for everyone",
               "It needed extra rules added",
               "It was unnecessary"
+            ],
+            "es": [
+              "Era un evangelio diferente e inferior",
+              "Era el mismo evangelio, la misma gracia, para todos",
+              "Necesitaba reglas adicionales",
+              "Era innecesario"
+            ],
+            "fr": [
+              "C'était un évangile différent et inférieur",
+              "C'était le même Évangile, la même grâce, pour tous",
+              "Il fallait y ajouter des règles",
+              "C'était inutile"
             ]
           },
           "answer": 1
@@ -94,7 +164,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Standing Firm Together"
+            "en": "Activity sheet: Standing Firm Together",
+            "es": "Hoja de actividad: Firmes Juntos",
+            "fr": "Fiche d'activité : Fermes Ensemble"
           },
           "file": "/static/printables/galatians/lesson03_sheet.pdf"
         }
@@ -103,7 +175,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: unity among genuine gospel ministers, even across different mission fields (Jew and Gentile), because the gospel of grace through faith is one and the same for everyone — there is no \"Gentile gospel\" and a separate \"Jewish gospel.\" Paul's refusal to compromise even slightly on Titus's circumcision (2:3-5) shows that some gospel-essentials are worth standing firm on absolutely, even under real pressure.\n\nConversation starters: (1) Why did the question of Titus's circumcision matter so much to Paul? (2) What does it mean that the SAME gospel applies to every nation and background? (3) When is firm refusal to compromise the right and loving response?\n\nPray for unity among genuine believers around the one true gospel."
+        "en": "Big idea: unity among genuine gospel ministers, even across different mission fields (Jew and Gentile), because the gospel of grace through faith is one and the same for everyone — there is no \"Gentile gospel\" and a separate \"Jewish gospel.\" Paul's refusal to compromise even slightly on Titus's circumcision (2:3-5) shows that some gospel-essentials are worth standing firm on absolutely, even under real pressure.\n\nConversation starters: (1) Why did the question of Titus's circumcision matter so much to Paul? (2) What does it mean that the SAME gospel applies to every nation and background? (3) When is firm refusal to compromise the right and loving response?\n\nPray for unity among genuine believers around the one true gospel.",
+        "es": "Idea principal: la unidad entre verdaderos ministros del evangelio, incluso en diferentes campos misioneros (judíos y gentiles), porque el evangelio de la gracia mediante la fe es uno solo y el mismo para todos — no existe un \"evangelio para gentiles\" y un \"evangelio judío\" por separado. La negativa de Pablo a comprometerse ni siquiera ligeramente en la circuncisión de Tito (2:3-5) muestra que algunos elementos esenciales del evangelio merecen que se permanezca firme en ellos de manera absoluta, incluso bajo presión real.\n\nPara conversar: (1) ¿Por qué importaba tanto a Pablo la cuestión de la circuncisión de Tito? (2) ¿Qué significa que el MISMO evangelio se aplique a toda nación y trasfondo? (3) ¿Cuándo es la negativa firme a comprometerse la respuesta correcta y amorosa?\n\nOren por unidad entre los verdaderos creyentes alrededor del único evangelio verdadero.",
+        "fr": "Idée principale : l'unité entre de véritables ministres de l'Évangile, même à travers différents champs missionnaires (Juifs et non-Juifs), car l'Évangile de la grâce par la foi est un seul et même Évangile pour tous — il n'existe pas un « évangile pour les non-Juifs » et un « évangile juif » distinct. Le refus de Paul de céder même légèrement sur la circoncision de Tite (2.3-5) montre que certains éléments essentiels de l'Évangile méritent qu'on y tienne fermement et absolument, même sous une pression réelle.\n\nPour la conversation : (1) Pourquoi la question de la circoncision de Tite importait-elle autant à Paul ? (2) Que signifie le fait que le MÊME Évangile s'applique à toute nation et tout milieu ? (3) Quand le refus ferme de céder est-il la réponse juste et aimante ?\n\nPriez pour l'unité entre les vrais croyants autour du seul et véritable Évangile."
       }
     }
   ]

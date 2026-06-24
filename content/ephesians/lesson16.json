@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The First Promise"
+    "en": "The First Promise",
+    "es": "La Primera Promesa",
+    "fr": "La Première Promesse"
   },
   "ref": "Ephesians 6:1-9",
   "section": "Instructions for Christian Households",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Children, parents, and a fair Master in heaven"
+        "en": "Children, parents, and a fair Master in heaven",
+        "es": "Hijos, padres, y un Maestro justo en el cielo",
+        "fr": "Enfants, parents, et un Maître juste dans le ciel"
       },
       "body": {
-        "en": "Did you know there is a part of the Bible addressed directly to CHILDREN? Paul writes: 'Children, obey your parents in the Lord — for this is right.' And there is a PROMISE attached: 'Honour your father and mother, that it may go well with you and you may enjoy long life on the earth.' This is the FIRST commandment with a promise — obedience brings blessing!\n\nBut Paul also speaks to PARENTS: do not exasperate your children, but bring them up in the training and instruction of the Lord. In God's family, everyone has instructions, not just children!\n\nThen Paul speaks to servants and masters of his day: obey your earthly masters with respect and sincerity of heart, just as you would obey Christ — not to win favour when being watched, but like slaves of Christ, doing the will of God from the heart, serving wholeheartedly as though serving the Lord, not people.\n\nAnd masters: treat your servants in the same way — do not threaten them, since you know that He who is both their Master and yours is in heaven, and there is no favouritism with Him. Whatever your role, work as if Jesus Himself is watching, because He is."
+        "en": "Did you know there is a part of the Bible addressed directly to CHILDREN? Paul writes: 'Children, obey your parents in the Lord — for this is right.' And there is a PROMISE attached: 'Honour your father and mother, that it may go well with you and you may enjoy long life on the earth.' This is the FIRST commandment with a promise — obedience brings blessing!\n\nBut Paul also speaks to PARENTS: do not exasperate your children, but bring them up in the training and instruction of the Lord. In God's family, everyone has instructions, not just children!\n\nThen Paul speaks to servants and masters of his day: obey your earthly masters with respect and sincerity of heart, just as you would obey Christ — not to win favour when being watched, but like slaves of Christ, doing the will of God from the heart, serving wholeheartedly as though serving the Lord, not people.\n\nAnd masters: treat your servants in the same way — do not threaten them, since you know that He who is both their Master and yours is in heaven, and there is no favouritism with Him. Whatever your role, work as if Jesus Himself is watching, because He is.",
+        "es": "¿Sabías que hay una parte de la Biblia dirigida directamente a los NIÑOS? Pablo escribe: \"Hijos, obedeced en el Señor a vuestros padres — porque esto es justo.\" Y hay una PROMESA adjunta: \"Honra a tu padre y a tu madre, para que te vaya bien y disfrutes de larga vida sobre la tierra.\" ¡Este es el PRIMER mandamiento con una promesa — la obediencia trae bendición!\n\nPero Pablo también habla a los PADRES: no exasperen a sus hijos, sino críenlos en la disciplina e instrucción del Señor. ¡En la familia de Dios, todos tienen instrucciones, no solo los hijos!\n\nLuego Pablo habla a los siervos y amos de su tiempo: obedezcan a sus amos terrenales con respeto y sinceridad de corazón, tal como obedecerían a Cristo — no para ganar favor cuando los están observando, sino como siervos de Cristo, haciendo la voluntad de Dios de corazón, sirviendo de buena gana como quien sirve al Señor, y no a las personas.\n\nY los amos: traten a sus siervos de la misma manera — no los amenacen, ya que saben que Aquel que es Amo de ellos y de ustedes está en el cielo, y no hay favoritismo con Él. Cualquiera que sea tu papel, trabaja como si Jesús mismo te estuviera observando, porque lo está.",
+        "fr": "Savais-tu qu'il y a une partie de la Bible adressée directement aux ENFANTS ? Paul écrit : « Enfants, obéissez à vos parents, selon le Seigneur, car cela est juste. » Et il y a une PROMESSE attachée : « Honore ton père et ta mère, afin que tu sois heureux et que tu vives longtemps sur la terre. » C'est le PREMIER commandement avec une promesse — l'obéissance apporte la bénédiction !\n\nMais Paul parle aussi aux PARENTS : n'irritez pas vos enfants, mais élevez-les en les corrigeant et en les instruisant selon le Seigneur. Dans la famille de Dieu, tout le monde a des instructions, pas seulement les enfants !\n\nPuis Paul s'adresse aux serviteurs et aux maîtres de son époque : obéissez à vos maîtres terrestres avec respect et sincérité de cœur, comme vous obéiriez à Christ — non pour gagner faveur seulement quand on vous observe, mais comme des serviteurs de Christ, faisant la volonté de Dieu de tout votre cœur, servant de bon gré comme servant le Seigneur, et non des hommes.\n\nEt maîtres : traitez vos serviteurs de la même manière — ne les menacez pas, car vous savez que Celui qui est leur Maître et le vôtre est dans les cieux, et qu'il n'y a pas de favoritisme devant Lui. Quel que soit ton rôle, travaille comme si Jésus Lui-même t'observait, car c'est le cas."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Children, obey your parents in the Lord, for this is right."
+        "en": "Children, obey your parents in the Lord, for this is right.",
+        "es": "HIJOS, obedeced en el Señor á vuestros padres; porque esto es justo.",
+        "fr": "Enfants, obéissez à vos parents, selon le Seigneur, car cela est juste."
       },
       "ref": {
-        "en": "Ephesians 6:1 (NIV)"
+        "en": "Ephesians 6:1 (NIV)",
+        "es": "Efesios 6:1 (Valera)",
+        "fr": "Éphésiens 6:1 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "this",
           "is",
           "right"
+        ],
+        "es": [
+          "Hijos",
+          "obedeced",
+          "en",
+          "el",
+          "Señor",
+          "á"
+        ],
+        "fr": [
+          "Enfants",
+          "obéissez",
+          "à",
+          "vos",
+          "parents",
+          "selon"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The First Promise"
+        "en": "A Song for The First Promise",
+        "es": "Una Canción para La Primera Promesa",
+        "fr": "Une Chanson pour La Première Promesse"
       },
       "audio_en": "/static/audio/ephesians/lesson16_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What makes 'honour your father and mother' unique among the commandments?"
+            "en": "What makes 'honour your father and mother' unique among the commandments?",
+            "es": "¿Qué hace único a 'honra a tu padre y a tu madre' entre los mandamientos?",
+            "fr": "Qu'est-ce qui rend « honore ton père et ta mère » unique parmi les commandements ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "It is the first commandment with a promise attached",
               "It only applies to small children",
               "It was added by Paul, not Moses"
+            ],
+            "es": [
+              "Es el más largo",
+              "Es el primer mandamiento con una promesa adjunta",
+              "Solo aplica a niños pequeños",
+              "Fue añadido por Pablo, no por Moisés"
+            ],
+            "fr": [
+              "C'est le plus long",
+              "C'est le premier commandement avec une promesse attachée",
+              "Il ne s'applique qu'aux petits enfants",
+              "Il a été ajouté par Paul, et non par Moïse"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul tell parents not to do to their children?"
+            "en": "What does Paul tell parents not to do to their children?",
+            "es": "¿Qué les dice Pablo a los padres que no hagan a sus hijos?",
+            "fr": "Que dit Paul aux parents de ne pas faire à leurs enfants ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Exasperate them",
               "Teach them the Bible",
               "Pray for them"
+            ],
+            "es": [
+              "Pasar tiempo con ellos",
+              "Exasperarlos",
+              "Enseñarles la Biblia",
+              "Orar por ellos"
+            ],
+            "fr": [
+              "Passer du temps avec eux",
+              "Les irriter",
+              "Leur enseigner la Bible",
+              "Prier pour eux"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Paul say work should be done, whatever your earthly role?"
+            "en": "How does Paul say work should be done, whatever your earthly role?",
+            "es": "¿Cómo dice Pablo que debe hacerse el trabajo, cualquiera que sea tu papel terrenal?",
+            "fr": "Comment Paul dit-il que le travail devrait être fait, quel que soit ton rôle terrestre ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Wholeheartedly, as though serving the Lord, not just people",
               "Only when being watched",
               "With resentment"
+            ],
+            "es": [
+              "De la manera más fácil",
+              "De buena gana, como quien sirve al Señor, y no solo a las personas",
+              "Solo cuando te estén observando",
+              "Con resentimiento"
+            ],
+            "fr": [
+              "De la manière la plus facile",
+              "De bon gré, comme servant le Seigneur, et non seulement des hommes",
+              "Seulement quand on est observé",
+              "Avec ressentiment"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The First Promise"
+            "en": "Activity sheet: The First Promise",
+            "es": "Hoja de actividad: La Primera Promesa",
+            "fr": "Fiche d'activité : La Première Promesse"
           },
           "file": "/static/printables/ephesians/lesson16_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: obedience and honour flowing through every household relationship, all anchored to the same reality — a fair Master in heaven who shows no favouritism, and who is honoured when ordinary daily roles (parenting, working) are done wholeheartedly. The phrase \"as though serving the Lord, not people\" (6:7) transforms even the most ordinary task into worship.\n\nConversation starters: (1) Why do you think this is the only commandment with a specific promise attached? (2) What does it mean to do your daily tasks \"as though serving the Lord\"? (3) Why does Paul remind masters that they too have a Master in heaven who shows no favouritism?\n\nPray together for honour and faithfulness in every household relationship and daily task."
+        "en": "Big idea: obedience and honour flowing through every household relationship, all anchored to the same reality — a fair Master in heaven who shows no favouritism, and who is honoured when ordinary daily roles (parenting, working) are done wholeheartedly. The phrase \"as though serving the Lord, not people\" (6:7) transforms even the most ordinary task into worship.\n\nConversation starters: (1) Why do you think this is the only commandment with a specific promise attached? (2) What does it mean to do your daily tasks \"as though serving the Lord\"? (3) Why does Paul remind masters that they too have a Master in heaven who shows no favouritism?\n\nPray together for honour and faithfulness in every household relationship and daily task.",
+        "es": "Idea principal: la obediencia y el honor que fluyen a través de cada relación familiar, todos anclados en la misma realidad — un Maestro justo en el cielo que no muestra favoritismo, y que es honrado cuando los roles cotidianos comunes (criar hijos, trabajar) se hacen de corazón. La frase \"como quien sirve al Señor, y no a las personas\" (6:7) transforma incluso la tarea más ordinaria en adoración.\n\nPara conversar: (1) ¿Por qué crees que este es el único mandamiento con una promesa específica adjunta? (2) ¿Qué significa hacer tus tareas diarias \"como quien sirve al Señor\"? (3) ¿Por qué les recuerda Pablo a los amos que ellos también tienen un Maestro en el cielo que no muestra favoritismo?\n\nOren juntos por honor y fidelidad en cada relación familiar y tarea diaria.",
+        "fr": "Idée principale : l'obéissance et l'honneur traversant chaque relation familiale, tous ancrés dans la même réalité — un Maître juste dans le ciel qui ne montre aucun favoritisme, et qui est honoré quand les rôles quotidiens ordinaires (élever des enfants, travailler) sont accomplis de tout cœur. L'expression « comme servant le Seigneur, et non des hommes » (6.7) transforme même la tâche la plus ordinaire en adoration.\n\nPour la conversation : (1) Pourquoi penses-tu que c'est le seul commandement avec une promesse spécifique attachée ? (2) Que signifie accomplir tes tâches quotidiennes « comme servant le Seigneur » ? (3) Pourquoi Paul rappelle-t-il aux maîtres qu'ils ont eux aussi un Maître dans le ciel qui ne montre aucun favoritisme ?\n\nPriez ensemble pour l'honneur et la fidélité dans chaque relation familiale et tâche quotidienne."
       }
     }
   ]

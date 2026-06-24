@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "You Foolish Galatians!"
+    "en": "You Foolish Galatians!",
+    "es": "¡Insensatos Gálatas!",
+    "fr": "Galates Insensés !"
   },
   "ref": "Galatians 3:1-14",
   "section": "Faith or Observance of the Law",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Bewitched by the wrong question"
+        "en": "Bewitched by the wrong question",
+        "es": "Hechizados por la pregunta equivocada",
+        "fr": "Ensorcelés par la mauvaise question"
       },
       "body": {
-        "en": "Paul doesn't hold back: 'You foolish Galatians! Who has bewitched you?' He reminds them: Jesus Christ was clearly portrayed before their very eyes as crucified — how could they now think something else, beyond faith, was needed? Paul asks a piercing question: did they receive the Holy Spirit by observing the law, or by believing what they heard?\n\nOf course it was by faith!\n\nSo why would they now try to finish by human effort what only began by the Spirit? Paul points back to Abraham — the very father of the Jewish nation — and reminds them: Abraham believed God, and it was credited to him as righteousness, long before any law was even given! Those who rely on faith are blessed along with Abraham, the man of faith.\n\nBut anyone who relies on observing the law is actually under a CURSE, because the law demands perfect, continuous obedience — and no one can keep it perfectly. Christ redeemed us from that curse by becoming a curse for us, hanging on a cross, so that the blessing given to Abraham might come to everyone — Jew and Gentile alike — through faith."
+        "en": "Paul doesn't hold back: 'You foolish Galatians! Who has bewitched you?' He reminds them: Jesus Christ was clearly portrayed before their very eyes as crucified — how could they now think something else, beyond faith, was needed? Paul asks a piercing question: did they receive the Holy Spirit by observing the law, or by believing what they heard?\n\nOf course it was by faith!\n\nSo why would they now try to finish by human effort what only began by the Spirit? Paul points back to Abraham — the very father of the Jewish nation — and reminds them: Abraham believed God, and it was credited to him as righteousness, long before any law was even given! Those who rely on faith are blessed along with Abraham, the man of faith.\n\nBut anyone who relies on observing the law is actually under a CURSE, because the law demands perfect, continuous obedience — and no one can keep it perfectly. Christ redeemed us from that curse by becoming a curse for us, hanging on a cross, so that the blessing given to Abraham might come to everyone — Jew and Gentile alike — through faith.",
+        "es": "Pablo no se contiene: \"¡Oh gálatas insensatos! ¿Quién os fascinó?\" Les recuerda: Jesucristo fue claramente presentado ante sus propios ojos como crucificado — ¿cómo podían ahora pensar que se necesitaba algo más, además de la fe? Pablo hace una pregunta penetrante: ¿recibieron el Espíritu Santo por cumplir la ley, o por creer lo que oyeron?\n\n¡Por supuesto que fue por fe!\n\nEntonces, ¿por qué intentarían ahora terminar por esfuerzo humano lo que solo comenzó por el Espíritu? Pablo señala de vuelta a Abraham — el mismo padre de la nación judía — y les recuerda: ¡Abraham creyó a Dios, y le fue contado por justicia, mucho antes de que se diera ninguna ley! Los que se apoyan en la fe son bendecidos junto con Abraham, el hombre de fe.\n\nPero cualquiera que se apoye en cumplir la ley está en realidad bajo MALDICIÓN, porque la ley exige obediencia perfecta y continua — y nadie puede cumplirla perfectamente. Cristo nos redimió de esa maldición haciéndose maldición por nosotros, colgado en una cruz, para que la bendición dada a Abraham llegara a todos — judíos y gentiles por igual — mediante la fe.",
+        "fr": "Paul ne se retient pas : « Ô Galates insensés ! Qui vous a ensorcelés ? » Il leur rappelle : Jésus-Christ a été clairement représenté devant leurs yeux mêmes comme crucifié — comment pouvaient-ils maintenant penser qu'autre chose, au-delà de la foi, était nécessaire ? Paul pose une question perçante : ont-ils reçu l'Esprit par les œuvres de la loi, ou en croyant ce qu'ils ont entendu ?\n\nC'était bien sûr par la foi !\n\nAlors pourquoi essaieraient-ils maintenant d'achever par l'effort humain ce qui n'a commencé que par l'Esprit ? Paul renvoie à Abraham — le père même de la nation juive — et leur rappelle : Abraham crut à Dieu, et cela lui fut compté comme justice, bien avant que la loi ne soit même donnée ! Ceux qui s'appuient sur la foi sont bénis avec Abraham, l'homme de foi.\n\nMais quiconque s'appuie sur les œuvres de la loi est en réalité sous une MALÉDICTION, car la loi exige une obéissance parfaite et continue — et personne ne peut la garder parfaitement. Christ nous a racheté de cette malédiction en devenant malédiction pour nous, suspendu à une croix, afin que la bénédiction donnée à Abraham parvienne à tous — Juifs et non-Juifs pareillement — par la foi."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "So those who rely on faith are blessed along with Abraham, the man of faith."
+        "en": "So those who rely on faith are blessed along with Abraham, the man of faith.",
+        "es": "Luego los de la fe son benditos con el creyente Abraham.",
+        "fr": "De sorte que ceux qui croient sont bénis avec Abraham le croyant."
       },
       "ref": {
-        "en": "Galatians 3:9 (NIV)"
+        "en": "Galatians 3:9 (NIV)",
+        "es": "Gálatas 3:9 (Valera)",
+        "fr": "Galates 3:9 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "along",
           "with",
           "Abraham"
+        ],
+        "es": [
+          "Luego",
+          "los",
+          "de",
+          "la",
+          "fe",
+          "son"
+        ],
+        "fr": [
+          "De",
+          "sorte",
+          "que",
+          "ceux",
+          "qui",
+          "croient"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for You Foolish Galatians!"
+        "en": "A Song for You Foolish Galatians!",
+        "es": "Una Canción para ¡Insensatos Gálatas!",
+        "fr": "Une Chanson pour Galates Insensés !"
       },
       "audio_en": "/static/audio/galatians/lesson05_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "How did the Galatians first receive the Holy Spirit, according to Paul's question?"
+            "en": "How did the Galatians first receive the Holy Spirit, according to Paul's question?",
+            "es": "Según la pregunta de Pablo, ¿cómo recibieron primero los gálatas al Espíritu Santo?",
+            "fr": "Selon la question de Paul, comment les Galates ont-ils d'abord reçu le Saint-Esprit ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "By believing what they heard — by faith",
               "By being born Jewish",
               "By performing rituals"
+            ],
+            "es": [
+              "Cumpliendo la ley",
+              "Creyendo lo que oyeron — por fe",
+              "Naciendo judíos",
+              "Realizando rituales"
+            ],
+            "fr": [
+              "En observant la loi",
+              "En croyant ce qu'ils ont entendu — par la foi",
+              "En étant nés juifs",
+              "En accomplissant des rituels"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul say about Abraham and righteousness?"
+            "en": "What does Paul say about Abraham and righteousness?",
+            "es": "¿Qué dice Pablo sobre Abraham y la justicia?",
+            "fr": "Que dit Paul à propos d'Abraham et de la justice ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Abraham believed God, and it was credited to him as righteousness, before any law existed",
               "Abraham followed the law perfectly",
               "Abraham never had faith"
+            ],
+            "es": [
+              "Abraham ganó la justicia mediante buenas obras",
+              "Abraham creyó a Dios, y le fue contado por justicia, antes de que existiera ninguna ley",
+              "Abraham cumplió la ley perfectamente",
+              "Abraham nunca tuvo fe"
+            ],
+            "fr": [
+              "Abraham a gagné la justice par de bonnes œuvres",
+              "Abraham a cru Dieu, et cela lui a été compté comme justice, avant l'existence de toute loi",
+              "Abraham a observé la loi parfaitement",
+              "Abraham n'a jamais eu la foi"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why does Paul say relying on the law actually puts a person under a curse?"
+            "en": "Why does Paul say relying on the law actually puts a person under a curse?",
+            "es": "¿Por qué dice Pablo que apoyarse en la ley en realidad pone a una persona bajo maldición?",
+            "fr": "Pourquoi Paul dit-il que s'appuyer sur la loi met en réalité une personne sous une malédiction ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "The law demands perfect obedience, which no one can keep",
               "There is no real reason",
               "Because Paul disliked rules"
+            ],
+            "es": [
+              "La ley es mala",
+              "La ley exige obediencia perfecta, la cual nadie puede cumplir",
+              "No hay una razón real",
+              "Porque a Pablo no le gustaban las reglas"
+            ],
+            "fr": [
+              "La loi est mauvaise",
+              "La loi exige une obéissance parfaite, que personne ne peut garder",
+              "Il n'y a pas de raison réelle",
+              "Parce que Paul n'aimait pas les règles"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: You Foolish Galatians!"
+            "en": "Activity sheet: You Foolish Galatians!",
+            "es": "Hoja de actividad: ¡Insensatos Gálatas!",
+            "fr": "Fiche d'activité : Galates Insensés !"
           },
           "file": "/static/printables/galatians/lesson05_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: justification has always been by faith, even before the law existed — proven directly from Abraham's example, the very founder of the Jewish nation the Galatians' opponents were appealing to. This is the heart of the doctrine of justification by grace through faith, central to the entire letter and to the doctrinal framework taught throughout this platform: the law could expose sin but never produce righteousness; only faith in Christ's redemptive work, becoming a curse in our place (3:13), accomplishes that.\n\nConversation starters: (1) Why does Paul ask whether they received the Spirit by the law or by faith — what's he proving? (2) What does it mean Abraham was credited righteousness through faith, before any law? (3) Why is trying to earn righteousness by keeping rules actually described as a \"curse\"?\n\nPray, thanking God that righteousness comes by faith in Christ, not by perfect rule-keeping we could never achieve."
+        "en": "Big idea: justification has always been by faith, even before the law existed — proven directly from Abraham's example, the very founder of the Jewish nation the Galatians' opponents were appealing to. This is the heart of the doctrine of justification by grace through faith, central to the entire letter and to the doctrinal framework taught throughout this platform: the law could expose sin but never produce righteousness; only faith in Christ's redemptive work, becoming a curse in our place (3:13), accomplishes that.\n\nConversation starters: (1) Why does Paul ask whether they received the Spirit by the law or by faith — what's he proving? (2) What does it mean Abraham was credited righteousness through faith, before any law? (3) Why is trying to earn righteousness by keeping rules actually described as a \"curse\"?\n\nPray, thanking God that righteousness comes by faith in Christ, not by perfect rule-keeping we could never achieve.",
+        "es": "Idea principal: la justificación siempre ha sido por fe, incluso antes de que existiera la ley — demostrado directamente con el ejemplo de Abraham, el mismo fundador de la nación judía a quien los opositores de los gálatas apelaban. Este es el corazón de la doctrina de la justificación por gracia mediante la fe, central para toda la carta y para el marco doctrinal enseñado en toda esta plataforma: la ley podía exponer el pecado pero nunca producir justicia; solo la fe en la obra redentora de Cristo, convirtiéndose en maldición en nuestro lugar (3:13), logra eso.\n\nPara conversar: (1) ¿Por qué pregunta Pablo si recibieron el Espíritu por la ley o por la fe — qué está demostrando? (2) ¿Qué significa que a Abraham se le contara la justicia por fe, antes de que existiera ninguna ley? (3) ¿Por qué se describe el intento de ganar la justicia cumpliendo reglas como una \"maldición\"?\n\nOren, agradeciendo a Dios que la justicia viene por la fe en Cristo, no por el cumplimiento perfecto de reglas que nunca podríamos lograr.",
+        "fr": "Idée principale : la justification a toujours été par la foi, même avant l'existence de la loi — prouvé directement par l'exemple d'Abraham, le fondateur même de la nation juive à laquelle les opposants des Galates faisaient appel. C'est le cœur de la doctrine de la justification par grâce au moyen de la foi, centrale pour toute la lettre et pour le cadre doctrinal enseigné sur toute cette plateforme : la loi pouvait exposer le péché mais jamais produire la justice ; seule la foi dans l'œuvre rédemptrice de Christ, devenant malédiction à notre place (3.13), accomplit cela.\n\nPour la conversation : (1) Pourquoi Paul demande-t-il s'ils ont reçu l'Esprit par la loi ou par la foi — que prouve-t-il ? (2) Que signifie le fait qu'Abraham ait reçu la justice par la foi, avant toute loi ? (3) Pourquoi le fait d'essayer de gagner la justice en gardant des règles est-il décrit comme une « malédiction » ?\n\nPriez, en remerciant Dieu que la justice vienne par la foi en Christ, et non par une observance parfaite des règles que nous ne pourrions jamais atteindre."
       }
     }
   ]

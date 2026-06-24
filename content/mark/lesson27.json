@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Not to Be Served, But to Serve"
+    "en": "Not to Be Served, But to Serve",
+    "es": "No Para Ser Servido, Sino Para Servir",
+    "fr": "Pas Pour Être Servi, Mais Pour Servir"
   },
   "ref": "Mark 10:32-45",
   "section": "Jesus Predicts His Death a Third Time / The Request of James and John",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A third warning, a bold request"
+        "en": "A third warning, a bold request",
+        "es": "Una tercera advertencia, una petición audaz",
+        "fr": "Un troisième avertissement, une demande audacieuse"
       },
       "body": {
-        "en": "On the way to Jerusalem, Jesus told the disciples plainly, a THIRD time, exactly what would happen: He would be betrayed to the chief priests, condemned, mocked, spit on, flogged, and killed — and after three days He would rise! James and John came to Jesus privately with a bold request: 'Let one of us sit at your right and the other at your left in your glory.' Jesus asked if they could drink the cup He would drink — they said yes, not fully understanding what they were agreeing to.\n\nWhen the other ten heard about it, they were indignant! Jesus called them together: 'You know that those who are regarded as rulers lord it over their people... not so with you. Whoever wants to become great among you must be your servant, and whoever wants to be first must be slave of all. For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.' The path to true greatness, Jesus kept insisting, runs directly through serving others, not over them."
+        "en": "On the way to Jerusalem, Jesus told the disciples plainly, a THIRD time, exactly what would happen: He would be betrayed to the chief priests, condemned, mocked, spit on, flogged, and killed — and after three days He would rise! James and John came to Jesus privately with a bold request: 'Let one of us sit at your right and the other at your left in your glory.' Jesus asked if they could drink the cup He would drink — they said yes, not fully understanding what they were agreeing to.\n\nWhen the other ten heard about it, they were indignant! Jesus called them together: 'You know that those who are regarded as rulers lord it over their people... not so with you. Whoever wants to become great among you must be your servant, and whoever wants to be first must be slave of all. For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.' The path to true greatness, Jesus kept insisting, runs directly through serving others, not over them.",
+        "es": "En el camino a Jerusalén, Jesús dijo claramente a los discípulos, por TERCERA vez, exactamente lo que sucedería: sería entregado a los principales sacerdotes, condenado, burlado, escupido, azotado, y muerto — ¡y después de tres días resucitaría! Jacobo y Juan vinieron a Jesús en privado con una petición audaz: \"Permite que uno de nosotros se siente a tu derecha y el otro a tu izquierda en tu gloria.\" Jesús preguntó si podían beber la copa que Él bebería — dijeron que sí, sin entender completamente lo que estaban aceptando.\n\nCuando los otros diez oyeron sobre esto, ¡se indignaron! Jesús los reunió: \"Saben que los que son considerados gobernantes ejercen señorío sobre su pueblo... no es así entre ustedes. Cualquiera que quiera hacerse grande entre ustedes debe ser su servidor, y cualquiera que quiera ser el primero debe ser esclavo de todos. Porque ni aun el Hijo del Hombre vino para ser servido, sino para servir, y para dar su vida en rescate por muchos.\" El camino a la verdadera grandeza, seguía insistiendo Jesús, pasa directamente por servir a otros, no por dominarlos.",
+        "fr": "En chemin vers Jérusalem, Jésus dit clairement aux disciples, pour la TROISIÈME fois, exactement ce qui allait se passer : Il serait livré aux principaux sacrificateurs, condamné, raillé, on Lui cracherait dessus, on Le flagellerait, et on Le tuerait — et après trois jours Il ressusciterait ! Jacques et Jean vinrent voir Jésus en privé avec une demande audacieuse : « Permets que l'un de nous soit assis à ta droite et l'autre à ta gauche, dans ta gloire. » Jésus demanda s'ils pouvaient boire la coupe qu'Il boirait — ils dirent oui, sans pleinement comprendre ce qu'ils acceptaient.\n\nQuand les dix autres l'apprirent, ils furent indignés ! Jésus les réunit : « Vous savez que ceux qu'on regarde comme les chefs des nations les dominent... il n'en est pas de même parmi vous. Quiconque veut devenir grand parmi vous doit être votre serviteur, et quiconque veut être le premier doit être l'esclave de tous. Car le Fils de l'homme est venu, non pour être servi, mais pour servir et donner sa vie comme la rançon de plusieurs. » Le chemin vers la vraie grandeur, continuait à insister Jésus, passe directement par le service des autres, et non par la domination sur eux."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."
+        "en": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.",
+        "es": "Porque el Hijo del hombre tampoco vino para ser servido, mas para servir, y dar su vida en rescate por muchos.",
+        "fr": "Car le Fils de l'homme est venu, non pour être servi, mais pour servir et donner sa vie comme la rançon de plusieurs."
       },
       "ref": {
-        "en": "Mark 10:45 (NIV)"
+        "en": "Mark 10:45 (NIV)",
+        "es": "Marcos 10:45 (Valera)",
+        "fr": "Marc 10:45 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "but",
           "to",
           "serve"
+        ],
+        "es": [
+          "Porque",
+          "el",
+          "Hijo",
+          "del",
+          "hombre",
+          "tampoco"
+        ],
+        "fr": [
+          "Car",
+          "le",
+          "Fils",
+          "de",
+          "l'homme",
+          "est"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Not to Be Served, But to Serve"
+        "en": "A Song for Not to Be Served, But to Serve",
+        "es": "Una Canción para No Para Ser Servido, Sino Para Servir",
+        "fr": "Une Chanson pour Pas Pour Être Servi, Mais Pour Servir"
       },
       "audio_en": "/static/audio/mark/lesson27_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did James and John ask Jesus for, privately?"
+            "en": "What did James and John ask Jesus for, privately?",
+            "es": "¿Qué pidieron Jacobo y Juan a Jesús, en privado?",
+            "fr": "Qu'ont demandé Jacques et Jean à Jésus, en privé ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "To sit at His right and left in His glory",
               "More food",
               "Nothing in particular"
+            ],
+            "es": [
+              "Perdón por sus pecados",
+              "Sentarse a Su derecha e izquierda en Su gloria",
+              "Más comida",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Le pardon de leurs péchés",
+              "S'asseoir à Sa droite et à Sa gauche dans Sa gloire",
+              "Plus de nourriture",
+              "Rien en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did the other ten disciples react when they heard about the request?"
+            "en": "How did the other ten disciples react when they heard about the request?",
+            "es": "¿Cómo reaccionaron los otros diez discípulos cuando oyeron sobre la petición?",
+            "fr": "Comment les dix autres disciples ont-ils réagi en apprenant la demande ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "They were indignant",
               "They didn't care",
               "They left immediately"
+            ],
+            "es": [
+              "Estuvieron completamente de acuerdo",
+              "Se indignaron",
+              "No les importó",
+              "Se fueron de inmediato"
+            ],
+            "fr": [
+              "Ils étaient complètement d'accord",
+              "Ils furent indignés",
+              "Cela ne les intéressait pas",
+              "Ils sont partis immédiatement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say about His own purpose in coming?"
+            "en": "What did Jesus say about His own purpose in coming?",
+            "es": "¿Qué dijo Jesús sobre Su propio propósito al venir?",
+            "fr": "Qu'a dit Jésus à propos de Son propre but en venant ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "To serve, and give His life as a ransom for many",
               "To rule over others",
               "Nothing specific"
+            ],
+            "es": [
+              "Ser servido por todos",
+              "Servir, y dar Su vida en rescate por muchos",
+              "Gobernar sobre otros",
+              "Nada específico"
+            ],
+            "fr": [
+              "Être servi par tous",
+              "Servir, et donner Sa vie comme rançon pour plusieurs",
+              "Régner sur les autres",
+              "Rien de spécifique"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Not to Be Served, But to Serve"
+            "en": "Activity sheet: Not to Be Served, But to Serve",
+            "es": "Hoja de actividad: No Para Ser Servido, Sino Para Servir",
+            "fr": "Fiche d'activité : Pas Pour Être Servi, Mais Pour Servir"
           },
           "file": "/static/printables/mark/lesson27_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: even James and John, having heard Jesus predict His suffering for the third time, still misunderstood, asking for positions of honour — and Jesus uses their request to teach the deepest principle of kingdom leadership: greatness through service, modeled by His own coming sacrifice as \"a ransom for many,\" language directly connected to atonement and substitutionary sacrifice.\n\nConversation starters: (1) Why might James and John ask for honour, even right after Jesus described suffering and death? (2) What does it mean that the world's idea of greatness (ruling over people) is reversed in God's kingdom? (3) What does \"ransom for many\" teach about why Jesus came?\n\nPray for hearts that genuinely want to serve, not just be served or honoured."
+        "en": "Big idea: even James and John, having heard Jesus predict His suffering for the third time, still misunderstood, asking for positions of honour — and Jesus uses their request to teach the deepest principle of kingdom leadership: greatness through service, modeled by His own coming sacrifice as \"a ransom for many,\" language directly connected to atonement and substitutionary sacrifice.\n\nConversation starters: (1) Why might James and John ask for honour, even right after Jesus described suffering and death? (2) What does it mean that the world's idea of greatness (ruling over people) is reversed in God's kingdom? (3) What does \"ransom for many\" teach about why Jesus came?\n\nPray for hearts that genuinely want to serve, not just be served or honoured.",
+        "es": "Idea principal: incluso Jacobo y Juan, habiendo oído a Jesús predecir Su sufrimiento por tercera vez, todavía malinterpretaron, pidiendo posiciones de honor — y Jesús usa su petición para enseñar el principio más profundo del liderazgo del reino: grandeza a través del servicio, modelado por Su propio sacrificio venidero como 'rescate por muchos', lenguaje directamente conectado con la expiación y el sacrificio sustitutivo.\n\nPara conversar: (1) ¿Por qué podrían Jacobo y Juan pedir honor, justo después de que Jesús describiera sufrimiento y muerte? (2) ¿Qué significa que la idea del mundo sobre la grandeza (gobernar sobre las personas) se invierta en el reino de Dios? (3) ¿Qué enseña 'rescate por muchos' sobre por qué vino Jesús?\n\nOren por corazones que genuinamente quieran servir, no solo ser servidos u honrados.",
+        "fr": "Idée principale : même Jacques et Jean, ayant entendu Jésus prédire Sa souffrance pour la troisième fois, malcomprirent encore, demandant des positions d'honneur — et Jésus utilise leur demande pour enseigner le principe le plus profond du leadership dans le royaume : la grandeur par le service, modelée par Son propre sacrifice à venir comme « rançon pour plusieurs », un langage directement lié à l'expiation et au sacrifice substitutif.\n\nPour la conversation : (1) Pourquoi Jacques et Jean pourraient-ils demander l'honneur, juste après que Jésus ait décrit la souffrance et la mort ? (2) Que signifie le fait que l'idée du monde sur la grandeur (dominer les gens) soit inversée dans le royaume de Dieu ? (3) Qu'enseigne « rançon pour plusieurs » sur la raison de la venue de Jésus ?\n\nPriez pour des cœurs qui veulent véritablement servir, et non seulement être servis ou honorés."
       }
     }
   ]

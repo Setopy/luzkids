@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "It Is Finished"
+    "en": "It Is Finished",
+    "es": "Está Consumado",
+    "fr": "Tout Est Accompli"
   },
   "ref": "Mark 15:21-47",
   "section": "The Crucifixion of Jesus / The Death of Jesus / The Burial of Jesus",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Darkness at noon, a torn curtain, a borrowed tomb"
+        "en": "Darkness at noon, a torn curtain, a borrowed tomb",
+        "es": "Oscuridad al mediodía, una cortina rasgada, una tumba prestada",
+        "fr": "Ténèbres à midi, un rideau déchiré, un tombeau emprunté"
       },
       "body": {
-        "en": "A man named Simon was forced to carry Jesus' cross. They crucified Jesus at a place called Golgotha, between two robbers, with a sign reading 'King of the Jews' above Him. People passing by hurled insults.\n\nAt noon, darkness came over the whole land until three in the afternoon.\n\nThen Jesus cried out with a loud voice: 'Eloi, Eloi, lama sabachthani?' — 'My God, my God, why have you forsaken me?' With a loud cry, Jesus breathed His last. At that moment, the curtain of the temple — the very curtain separating people from God's presence — was torn in two, from top to bottom!\n\nA Roman centurion, watching how Jesus died, said: 'Surely this man was the Son of God!' That evening, Joseph of Arimathea, a respected council member who was himself looking for the kingdom of God, boldly asked Pilate for Jesus' body. He wrapped it in linen and placed it in a tomb cut out of rock, rolling a stone against the entrance.\n\nThe women watched where He was laid. The most painful day in history ended in a borrowed tomb — but the curtain was already torn."
+        "en": "A man named Simon was forced to carry Jesus' cross. They crucified Jesus at a place called Golgotha, between two robbers, with a sign reading 'King of the Jews' above Him. People passing by hurled insults.\n\nAt noon, darkness came over the whole land until three in the afternoon.\n\nThen Jesus cried out with a loud voice: 'Eloi, Eloi, lama sabachthani?' — 'My God, my God, why have you forsaken me?' With a loud cry, Jesus breathed His last. At that moment, the curtain of the temple — the very curtain separating people from God's presence — was torn in two, from top to bottom!\n\nA Roman centurion, watching how Jesus died, said: 'Surely this man was the Son of God!' That evening, Joseph of Arimathea, a respected council member who was himself looking for the kingdom of God, boldly asked Pilate for Jesus' body. He wrapped it in linen and placed it in a tomb cut out of rock, rolling a stone against the entrance.\n\nThe women watched where He was laid. The most painful day in history ended in a borrowed tomb — but the curtain was already torn.",
+        "es": "Un hombre llamado Simón fue obligado a llevar la cruz de Jesús. Crucificaron a Jesús en un lugar llamado Gólgota, entre dos ladrones, con un letrero que decía \"Rey de los judíos\" sobre Él. La gente que pasaba lanzaba insultos.\n\nAl mediodía, descendió oscuridad sobre toda la tierra hasta las tres de la tarde.\n\nEntonces Jesús clamó con fuerte voz: \"Eloi, Eloi, ¿lama sabactani?\" — \"¡Dios mío, Dios mío, ¿por qué me has abandonado?\" Con un fuerte grito, Jesús exhaló Su último aliento. En ese momento, ¡la cortina del templo — la misma cortina que separaba a las personas de la presencia de Dios — se rasgó en dos, de arriba abajo!\n\nUn centurión romano, observando cómo murió Jesús, dijo: \"¡Verdaderamente este hombre era el Hijo de Dios!\" Esa tarde, José de Arimatea, un respetado miembro del concilio que él mismo buscaba el reino de Dios, audazmente pidió a Pilato el cuerpo de Jesús. Lo envolvió en lino y lo puso en una tumba excavada en roca, haciendo rodar una piedra contra la entrada.\n\nLas mujeres observaron dónde lo habían puesto. El día más doloroso de la historia terminó en una tumba prestada — pero la cortina ya estaba rasgada.",
+        "fr": "Un homme nommé Simon fut forcé de porter la croix de Jésus. Ils crucifièrent Jésus en un lieu appelé Golgotha, entre deux brigands, avec un écriteau portant « Roi des Juifs » au-dessus de Lui. Les gens qui passaient L'insultaient.\n\nÀ midi, les ténèbres couvrirent toute la terre jusqu'à trois heures de l'après-midi.\n\nPuis Jésus cria d'une voix forte : « Éloï, Éloï, lama sabachthani ? » — « Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ? » Poussant un grand cri, Jésus rendit le dernier soupir. À ce moment-là, le voile du temple — le voile même qui séparait les hommes de la présence de Dieu — se déchira en deux, depuis le haut jusqu'en bas !\n\nUn centurion romain, observant comment Jésus était mort, dit : « Assurément, cet homme était Fils de Dieu ! » Ce soir-là, Joseph d'Arimathée, un membre respecté du conseil qui lui-même attendait le royaume de Dieu, demanda hardiment à Pilate le corps de Jésus. Il l'enveloppa dans un linceul et le déposa dans un tombeau taillé dans le roc, roulant une pierre contre l'entrée.\n\nLes femmes regardèrent où Il avait été déposé. Le jour le plus douloureux de l'histoire se termina dans un tombeau emprunté — mais le voile était déjà déchiré."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "And the curtain of the temple was torn in two from top to bottom."
+        "en": "And the curtain of the temple was torn in two from top to bottom.",
+        "es": "Entonces el velo del templo se rasgó en dos, de alto á bajo.",
+        "fr": "Le voile du temple se déchira en deux, depuis le haut jusqu'en bas."
       },
       "ref": {
-        "en": "Mark 15:38 (NIV)"
+        "en": "Mark 15:38 (NIV)",
+        "es": "Marcos 15:38 (Valera)",
+        "fr": "Marc 15:38 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "top",
           "to",
           "bottom"
+        ],
+        "es": [
+          "Entonces",
+          "el",
+          "velo",
+          "del",
+          "templo",
+          "se"
+        ],
+        "fr": [
+          "Le",
+          "voile",
+          "du",
+          "temple",
+          "se",
+          "déchira"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for It Is Finished"
+        "en": "A Song for It Is Finished",
+        "es": "Una Canción para Está Consumado",
+        "fr": "Une Chanson pour Tout Est Accompli"
       },
       "audio_en": "/static/audio/mark/lesson38_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What happened to the land at noon, while Jesus hung on the cross?"
+            "en": "What happened to the land at noon, while Jesus hung on the cross?",
+            "es": "¿Qué le sucedió a la tierra al mediodía, mientras Jesús estaba en la cruz?",
+            "fr": "Qu'est-il arrivé à la terre à midi, tandis que Jésus était sur la croix ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "Darkness came over the whole land",
               "It became very hot",
               "Everything was quiet"
+            ],
+            "es": [
+              "Nada inusual",
+              "Descendió oscuridad sobre toda la tierra",
+              "Hizo mucho calor",
+              "Todo estaba en silencio"
+            ],
+            "fr": [
+              "Rien d'inhabituel",
+              "Les ténèbres couvrirent toute la terre",
+              "Il a fait très chaud",
+              "Tout était silencieux"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What significant thing happened to the temple curtain the moment Jesus died?"
+            "en": "What significant thing happened to the temple curtain the moment Jesus died?",
+            "es": "¿Qué le sucedió significativamente a la cortina del templo en el momento en que Jesús murió?",
+            "fr": "Qu'est-il arrivé de significatif au voile du temple au moment où Jésus est mort ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "It was torn in two, from top to bottom",
               "It was removed by priests",
               "It stayed exactly the same"
+            ],
+            "es": [
+              "No le sucedió nada",
+              "Se rasgó en dos, de arriba abajo",
+              "Fue removida por sacerdotes",
+              "Permaneció exactamente igual"
+            ],
+            "fr": [
+              "Rien ne lui est arrivé",
+              "Il s'est déchiré en deux, de haut en bas",
+              "Il a été retiré par des prêtres",
+              "Il est resté exactement le même"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did the Roman centurion say after watching how Jesus died?"
+            "en": "What did the Roman centurion say after watching how Jesus died?",
+            "es": "¿Qué dijo el centurión romano después de observar cómo murió Jesús?",
+            "fr": "Qu'a dit le centurion romain après avoir observé comment Jésus est mort ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Surely this man was the Son of God!",
               "This man deserved this",
               "He was confused"
+            ],
+            "es": [
+              "Nada en absoluto",
+              "¡Verdaderamente este hombre era el Hijo de Dios!",
+              "Este hombre lo merecía",
+              "Estaba confundido"
+            ],
+            "fr": [
+              "Rien du tout",
+              "Assurément, cet homme était Fils de Dieu !",
+              "Cet homme le méritait",
+              "Il était confus"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: It Is Finished"
+            "en": "Activity sheet: It Is Finished",
+            "es": "Hoja de actividad: Está Consumado",
+            "fr": "Fiche d'activité : Tout Est Accompli"
           },
           "file": "/static/printables/mark/lesson38_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the torn temple curtain at the precise moment of Jesus' death is one of Mark's most theologically loaded details — the barrier separating humanity from God's presence is decisively, visibly removed, fulfilling everything the old tabernacle system pointed toward (a theme this platform has taught extensively through Hebrews). Even a Roman centurion, an outsider with no religious stake, recognizes the truth the religious leaders had rejected.\n\nThis is the most solemn moment in the whole Bible for children to encounter — handle it with quiet reverence rather than dwelling on graphic detail; the focus is what Jesus' death accomplished, not the mechanics of suffering.\n\nConversation starters: (1) What does the torn curtain mean about our access to God now? (2) Why might a Roman centurion recognize the truth about Jesus when religious leaders didn't? (3) How does it feel to sit with the weight of this moment before moving to the resurrection?\n\nPray quietly, thanking Jesus for what His death accomplished — full, open access to God."
+        "en": "Big idea: the torn temple curtain at the precise moment of Jesus' death is one of Mark's most theologically loaded details — the barrier separating humanity from God's presence is decisively, visibly removed, fulfilling everything the old tabernacle system pointed toward (a theme this platform has taught extensively through Hebrews). Even a Roman centurion, an outsider with no religious stake, recognizes the truth the religious leaders had rejected.\n\nThis is the most solemn moment in the whole Bible for children to encounter — handle it with quiet reverence rather than dwelling on graphic detail; the focus is what Jesus' death accomplished, not the mechanics of suffering.\n\nConversation starters: (1) What does the torn curtain mean about our access to God now? (2) Why might a Roman centurion recognize the truth about Jesus when religious leaders didn't? (3) How does it feel to sit with the weight of this moment before moving to the resurrection?\n\nPray quietly, thanking Jesus for what His death accomplished — full, open access to God.",
+        "es": "Idea principal: la cortina del templo rasgada en el momento preciso de la muerte de Jesús es uno de los detalles teológicamente más cargados de Marcos — la barrera que separaba a la humanidad de la presencia de Dios es decisiva y visiblemente removida, cumpliendo todo lo que el antiguo sistema del tabernáculo señalaba (un tema que esta plataforma ha enseñado extensamente a través de Hebreos). Incluso un centurión romano, un forastero sin ningún interés religioso, reconoce la verdad que los líderes religiosos habían rechazado.\n\nEste es el momento más solemne de toda la Biblia para que los niños lo encuentren — manéjenlo con quieta reverencia en lugar de detenerse en detalles gráficos; el enfoque es lo que la muerte de Jesús logró, no la mecánica del sufrimiento.\n\nPara conversar: (1) ¿Qué significa la cortina rasgada sobre nuestro acceso a Dios ahora? (2) ¿Por qué podría un centurión romano reconocer la verdad sobre Jesús cuando los líderes religiosos no lo hicieron? (3) ¿Cómo se siente sentarse con el peso de este momento antes de pasar a la resurrección?\n\nOren tranquilamente, agradeciendo a Jesús por lo que Su muerte logró — acceso pleno y abierto a Dios.",
+        "fr": "Idée principale : le voile du temple déchiré au moment précis de la mort de Jésus est l'un des détails les plus chargés théologiquement de Marc — la barrière séparant l'humanité de la présence de Dieu est décisivement et visiblement supprimée, accomplissant tout ce vers quoi l'ancien système du tabernacle pointait (un thème que cette plateforme a enseigné de manière approfondie à travers Hébreux). Même un centurion romain, un étranger sans aucun enjeu religieux, reconnaît la vérité que les chefs religieux avaient rejetée.\n\nC'est le moment le plus solennel de toute la Bible pour les enfants à rencontrer — traitez-le avec une révérence tranquille plutôt que de s'attarder sur des détails graphiques ; l'accent est mis sur ce que la mort de Jésus a accompli, et non sur la mécanique de la souffrance.\n\nPour la conversation : (1) Que signifie le voile déchiré pour notre accès à Dieu maintenant ? (2) Pourquoi un centurion romain pourrait-il reconnaître la vérité sur Jésus alors que les chefs religieux ne l'ont pas fait ? (3) Que ressent-on en s'arrêtant sur le poids de ce moment avant de passer à la résurrection ?\n\nPriez tranquillement, en remerciant Jésus pour ce que Sa mort a accompli — un accès plein et ouvert à Dieu."
       }
     }
   ]

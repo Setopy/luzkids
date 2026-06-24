@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Two Faithful Friends"
+    "en": "Two Faithful Friends",
+    "es": "Dos Amigos Fieles",
+    "fr": "Deux Amis Fidèles"
   },
   "ref": "Philippians 2:19-30",
   "section": "Timothy and Epaphroditus",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Genuine concern, risked life"
+        "en": "Genuine concern, risked life",
+        "es": "Preocupación genuina, vida arriesgada",
+        "fr": "Un souci sincère, une vie risquée"
       },
       "body": {
-        "en": "Paul now talks about two people he loves and trusts deeply. First, Timothy — Paul says he has no one else like him, who shows GENUINE concern for the Philippians' welfare, because everyone else seems to look out for their own interests, not those of Jesus Christ. Timothy had proved himself, serving alongside Paul like a son with his father, in the work of the gospel.\n\nPaul hopes to send him soon, and trusts the Lord he himself will visit too.\n\nThen Paul speaks of Epaphroditus — his brother, co-worker, and fellow soldier, who the Philippians had sent to help Paul, and who became desperately ill, even near death, while serving him! God had mercy and Epaphroditus recovered, but Paul says Epaphroditus risked his very life for the work of Christ, to make up for the help the Philippians themselves couldn't give in person.\n\nPaul urges them to welcome him back with great joy and honor people like him highly — because faithful, sacrificial service, even when it isn't glamorous or famous, deserves real honor in the church."
+        "en": "Paul now talks about two people he loves and trusts deeply. First, Timothy — Paul says he has no one else like him, who shows GENUINE concern for the Philippians' welfare, because everyone else seems to look out for their own interests, not those of Jesus Christ. Timothy had proved himself, serving alongside Paul like a son with his father, in the work of the gospel.\n\nPaul hopes to send him soon, and trusts the Lord he himself will visit too.\n\nThen Paul speaks of Epaphroditus — his brother, co-worker, and fellow soldier, who the Philippians had sent to help Paul, and who became desperately ill, even near death, while serving him! God had mercy and Epaphroditus recovered, but Paul says Epaphroditus risked his very life for the work of Christ, to make up for the help the Philippians themselves couldn't give in person.\n\nPaul urges them to welcome him back with great joy and honor people like him highly — because faithful, sacrificial service, even when it isn't glamorous or famous, deserves real honor in the church.",
+        "es": "Pablo habla ahora de dos personas a quienes ama y en quienes confía profundamente. Primero, Timoteo — Pablo dice que no tiene a nadie más como él, que muestra una preocupación GENUINA por el bienestar de los filipenses, porque todos los demás parecen buscar sus propios intereses, no los de Jesucristo. Timoteo se había probado a sí mismo, sirviendo junto a Pablo como un hijo con su padre, en la obra del evangelio.\n\nPablo espera enviarlo pronto, y confía en el Señor que él mismo también los visitará.\n\nLuego Pablo habla de Epafrodito — su hermano, colaborador y compañero de milicia, a quien los filipenses habían enviado para ayudar a Pablo, ¡y quien se enfermó gravemente, casi hasta la muerte, mientras lo servía! Dios tuvo misericordia y Epafrodito se recuperó, pero Pablo dice que Epafrodito arriesgó su propia vida por la obra de Cristo, para suplir la ayuda que los filipenses mismos no podían darle en persona.\n\nPablo les insta a recibirlo de vuelta con gran gozo y a honrar mucho a personas como él — porque el servicio fiel y sacrificado, aunque no sea glamoroso ni famoso, merece verdadero honor en la iglesia.",
+        "fr": "Paul parle maintenant de deux personnes qu'il aime et en qui il a une grande confiance. D'abord, Timothée — Paul dit qu'il n'a personne d'autre comme lui, qui montre un souci SINCÈRE pour le bien-être des Philippiens, car tous les autres semblent rechercher leurs propres intérêts, et non ceux de Jésus-Christ. Timothée avait fait ses preuves, servant aux côtés de Paul comme un fils avec son père, dans l'œuvre de l'Évangile.\n\nPaul espère l'envoyer bientôt, et fait confiance au Seigneur qu'il viendra lui-même aussi.\n\nPuis Paul parle d'Épaphrodite — son frère, son compagnon de travail et son compagnon d'armes, que les Philippiens avaient envoyé pour aider Paul, et qui est tombé gravement malade, presque jusqu'à la mort, en le servant ! Dieu eut pitié et Épaphrodite se rétablit, mais Paul dit qu'Épaphrodite a risqué sa propre vie pour l'œuvre de Christ, afin de compenser l'aide que les Philippiens eux-mêmes ne pouvaient pas lui apporter en personne.\n\nPaul les exhorte à l'accueillir avec une grande joie et à honorer hautement des gens comme lui — car un service fidèle et sacrifié, même lorsqu'il n'est ni glorieux ni célèbre, mérite un honneur véritable dans l'église."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "He almost died for the work of Christ, risking his life to make up for the help you could not give me."
+        "en": "He almost died for the work of Christ, risking his life to make up for the help you could not give me.",
+        "es": "Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio.",
+        "fr": "Car c'est pour l'œuvre de Christ qu'il a été près de la mort, ayant exposé sa vie afin de suppléer à votre absence dans le service que vous me rendiez."
       },
       "ref": {
-        "en": "Philippians 2:30 (NIV)"
+        "en": "Philippians 2:30 (NIV)",
+        "es": "Filipenses 2:30 (Valera)",
+        "fr": "Philippiens 2:30 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "risking",
           "his",
           "life"
+        ],
+        "es": [
+          "Porque",
+          "por",
+          "la",
+          "obra",
+          "de",
+          "Cristo"
+        ],
+        "fr": [
+          "Car",
+          "c'est",
+          "pour",
+          "l'œuvre",
+          "de",
+          "Christ"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Two Faithful Friends"
+        "en": "A Song for Two Faithful Friends",
+        "es": "Una Canción para Dos Amigos Fieles",
+        "fr": "Une Chanson pour Deux Amis Fidèles"
       },
       "audio_en": "/static/audio/philippians/lesson06_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Paul say makes Timothy unusual, compared to most people?"
+            "en": "What does Paul say makes Timothy unusual, compared to most people?",
+            "es": "¿Qué dice Pablo que hace a Timoteo diferente, comparado con la mayoría de las personas?",
+            "fr": "Que dit Paul qui rend Timothée différent, comparé à la plupart des gens ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "His genuine concern for others' welfare, not just his own interests",
               "His fame",
               "His age"
+            ],
+            "es": [
+              "Su riqueza",
+              "Su preocupación genuina por el bienestar de los demás, no solo sus propios intereses",
+              "Su fama",
+              "Su edad"
+            ],
+            "fr": [
+              "Sa richesse",
+              "Son souci sincère pour le bien-être des autres, et non seulement ses propres intérêts",
+              "Sa célébrité",
+              "Son âge"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What happened to Epaphroditus while he was serving Paul?"
+            "en": "What happened to Epaphroditus while he was serving Paul?",
+            "es": "¿Qué le sucedió a Epafrodito mientras servía a Pablo?",
+            "fr": "Qu'est-il arrivé à Épaphrodite alors qu'il servait Paul ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "He became desperately ill, nearly dying, while serving Paul",
               "He abandoned his mission",
               "He became wealthy"
+            ],
+            "es": [
+              "Nada notable",
+              "Se enfermó gravemente, casi hasta la muerte, mientras servía a Pablo",
+              "Abandonó su misión",
+              "Se hizo rico"
+            ],
+            "fr": [
+              "Rien de notable",
+              "Il est tombé gravement malade, presque jusqu'à mourir, en servant Paul",
+              "Il a abandonné sa mission",
+              "Il est devenu riche"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Paul ask the Philippians to treat Epaphroditus when he returns?"
+            "en": "How does Paul ask the Philippians to treat Epaphroditus when he returns?",
+            "es": "¿Cómo pide Pablo a los filipenses que traten a Epafrodito cuando regrese?",
+            "fr": "Comment Paul demande-t-il aux Philippiens de traiter Épaphrodite à son retour ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "With great joy and high honor",
               "Indifferently",
               "With criticism"
+            ],
+            "es": [
+              "Con sospecha",
+              "Con gran gozo y mucho honor",
+              "Con indiferencia",
+              "Con crítica"
+            ],
+            "fr": [
+              "Avec suspicion",
+              "Avec une grande joie et un grand honneur",
+              "Avec indifférence",
+              "Avec critique"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Two Faithful Friends"
+            "en": "Activity sheet: Two Faithful Friends",
+            "es": "Hoja de actividad: Dos Amigos Fieles",
+            "fr": "Fiche d'activité : Deux Amis Fidèles"
           },
           "file": "/static/printables/philippians/lesson06_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: genuine, sacrificial service — embodied in two real, named people — deserves real honor in the church, not just admiration for famous leaders. Timothy's \"genuine concern,\" contrasted with those who \"look out for their own interests\" (2:20-21), and Epaphroditus's near-fatal risk taken in ordinary service, model the kind of others-centered love chapter 2 has just described in Christ Himself (2:5-8) — doctrine made visible in real lives.\n\nConversation starters: (1) What made Timothy different from people who only look out for themselves? (2) Why might Paul make a point of publicly honoring Epaphroditus's risk and sacrifice? (3) Who in your life serves faithfully without much recognition, and how could you honor them?\n\nPray for faithful friends like Timothy and Epaphroditus, and for grace to be that kind of friend to others."
+        "en": "Big idea: genuine, sacrificial service — embodied in two real, named people — deserves real honor in the church, not just admiration for famous leaders. Timothy's \"genuine concern,\" contrasted with those who \"look out for their own interests\" (2:20-21), and Epaphroditus's near-fatal risk taken in ordinary service, model the kind of others-centered love chapter 2 has just described in Christ Himself (2:5-8) — doctrine made visible in real lives.\n\nConversation starters: (1) What made Timothy different from people who only look out for themselves? (2) Why might Paul make a point of publicly honoring Epaphroditus's risk and sacrifice? (3) Who in your life serves faithfully without much recognition, and how could you honor them?\n\nPray for faithful friends like Timothy and Epaphroditus, and for grace to be that kind of friend to others.",
+        "es": "Idea principal: el servicio genuino y sacrificado — encarnado en dos personas reales y nombradas — merece verdadero honor en la iglesia, no solo admiración por líderes famosos. La \"preocupación genuina\" de Timoteo, contrastada con quienes \"buscan sus propios intereses\" (2:20-21), y el riesgo casi fatal que tomó Epafrodito en un servicio ordinario, modelan el tipo de amor centrado en los demás que el capítulo 2 acaba de describir en Cristo mismo (2:5-8) — doctrina hecha visible en vidas reales.\n\nPara conversar: (1) ¿Qué hizo diferente a Timoteo de las personas que solo buscan sus propios intereses? (2) ¿Por qué Pablo podría querer honrar públicamente el riesgo y el sacrificio de Epafrodito? (3) ¿Quién en tu vida sirve fielmente sin mucho reconocimiento, y cómo podrías honrarlo?\n\nOren por amigos fieles como Timoteo y Epafrodito, y por gracia para ser ese tipo de amigo para los demás.",
+        "fr": "Idée principale : un service authentique et sacrifié — incarné par deux personnes réelles et nommées — mérite un honneur véritable dans l'église, et non seulement de l'admiration pour des leaders célèbres. Le « souci sincère » de Timothée, contrasté avec ceux qui « recherchent leurs propres intérêts » (2.20-21), et le risque presque fatal pris par Épaphrodite dans un service ordinaire, illustrent le genre d'amour centré sur les autres que le chapitre 2 vient de décrire en Christ Lui-même (2.5-8) — une doctrine rendue visible dans des vies réelles.\n\nPour la conversation : (1) Qu'est-ce qui rendait Timothée différent des gens qui ne pensent qu'à eux-mêmes ? (2) Pourquoi Paul tient-il à honorer publiquement le risque et le sacrifice d'Épaphrodite ? (3) Qui, dans ta vie, sert fidèlement sans grande reconnaissance, et comment pourrais-tu l'honorer ?\n\nPriez pour des amis fidèles comme Timothée et Épaphrodite, et pour la grâce d'être ce genre d'ami pour les autres."
       }
     }
   ]

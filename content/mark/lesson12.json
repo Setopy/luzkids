@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Legion Set Free"
+    "en": "Legion Set Free",
+    "es": "Legión Liberado",
+    "fr": "Légion Libéré"
   },
   "ref": "Mark 5:1-20",
   "section": "Jesus Restores a Demon-Possessed Man",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Chains he broke, a name he didn't choose"
+        "en": "Chains he broke, a name he didn't choose",
+        "es": "Cadenas que rompió, un nombre que no eligió",
+        "fr": "Des chaînes qu'il a brisées, un nom qu'il n'a pas choisi"
       },
       "body": {
-        "en": "Jesus and His disciples arrived at the region of the Gerasenes, and a man with an impure spirit met Him, coming from the tombs where he lived. No one could bind him anymore, even with chains — he had broken every chain, and night and day he cried out among the tombs, cutting himself with stones.\n\nSeeing Jesus, he ran and fell at His feet! Jesus asked, 'What is your name?' He replied, 'My name is Legion' — for he was filled with many demons. They begged Jesus to send them into a nearby herd of about two thousand pigs instead of casting them out into nothing.\n\nJesus gave permission — and the demons went into the pigs, which rushed down a steep bank into the lake and drowned! Those who saw it told everyone, and people came to see for themselves: the man who had been demon-possessed, now sitting there, CLOTHED and in his right mind! They were afraid.\n\nThe man begged to go with Jesus, but Jesus told him instead: 'Go home to your own people and tell them how much the Lord has done for you.' So he went and told everyone in the region — and they were amazed."
+        "en": "Jesus and His disciples arrived at the region of the Gerasenes, and a man with an impure spirit met Him, coming from the tombs where he lived. No one could bind him anymore, even with chains — he had broken every chain, and night and day he cried out among the tombs, cutting himself with stones.\n\nSeeing Jesus, he ran and fell at His feet! Jesus asked, 'What is your name?' He replied, 'My name is Legion' — for he was filled with many demons. They begged Jesus to send them into a nearby herd of about two thousand pigs instead of casting them out into nothing.\n\nJesus gave permission — and the demons went into the pigs, which rushed down a steep bank into the lake and drowned! Those who saw it told everyone, and people came to see for themselves: the man who had been demon-possessed, now sitting there, CLOTHED and in his right mind! They were afraid.\n\nThe man begged to go with Jesus, but Jesus told him instead: 'Go home to your own people and tell them how much the Lord has done for you.' So he went and told everyone in the region — and they were amazed.",
+        "es": "Jesús y Sus discípulos llegaron a la región de los gerasenos, y un hombre con un espíritu impuro lo encontró, viniendo de los sepulcros donde vivía. Ya nadie podía atarlo, ni siquiera con cadenas — había roto todas las cadenas, y de noche y de día gritaba entre los sepulcros, cortándose con piedras.\n\n¡Al ver a Jesús, corrió y se postró a Sus pies! Jesús preguntó: \"¿Cuál es tu nombre?\" Respondió: \"Mi nombre es Legión\" — porque estaba lleno de muchos demonios. Le rogaron a Jesús que los enviara a una manada cercana de unos dos mil cerdos en lugar de echarlos fuera a la nada.\n\nJesús dio permiso — ¡y los demonios entraron en los cerdos, que se precipitaron por un despeñadero hacia el lago y se ahogaron! Los que lo vieron se lo contaron a todos, y la gente vino a ver por sí misma: el hombre que había estado poseído por demonios, ahora sentado allí, ¡VESTIDO y en su sano juicio! Tuvieron miedo.\n\nEl hombre rogó ir con Jesús, pero Jesús le dijo en cambio: \"Ve a tu casa, a los tuyos, y cuéntales cuánto ha hecho el Señor por ti.\" Así que fue y le contó a todos en la región — y se maravillaron.",
+        "fr": "Jésus et Ses disciples arrivèrent dans la région des Geraséniens, et un homme avec un esprit impur vint à Sa rencontre, venant des tombeaux où il vivait. Personne ne pouvait plus le lier, même avec des chaînes — il avait brisé toutes les chaînes, et nuit et jour il criait parmi les tombeaux, se meurtrissant avec des pierres.\n\nEn voyant Jésus, il courut et se prosterna à Ses pieds ! Jésus demanda : « Quel est ton nom ? » Il répondit : « Mon nom est Légion » — car il était rempli de nombreux démons. Ils supplièrent Jésus de les envoyer dans un troupeau voisin d'environ deux mille porcs au lieu de les chasser dans le néant.\n\nJésus donna la permission — et les démons entrèrent dans les porcs, qui se précipitèrent du haut d'un escarpement dans le lac et se noyèrent ! Ceux qui virent cela le racontèrent à tous, et les gens vinrent voir par eux-mêmes : l'homme qui avait été possédé, maintenant assis là, HABILLÉ et dans son bon sens ! Ils eurent peur.\n\nL'homme supplia d'aller avec Jésus, mais Jésus lui dit plutôt : « Va dans ta maison, vers les tiens, et raconte-leur tout ce que le Seigneur t'a fait. » Il s'en alla donc, et raconta à tous dans la région — et ils furent dans l'étonnement."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Go home to your own people and tell them how much the Lord has done for you."
+        "en": "Go home to your own people and tell them how much the Lord has done for you.",
+        "es": "Vete á tu casa, á los tuyos, y cuéntales cuán grandes cosas el Señor ha hecho contigo.",
+        "fr": "Va dans ta maison, vers les tiens, et raconte-leur tout ce que le Seigneur t'a fait."
       },
       "ref": {
-        "en": "Mark 5:19 (NIV)"
+        "en": "Mark 5:19 (NIV)",
+        "es": "Marcos 5:19 (Valera)",
+        "fr": "Marc 5:19 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -39,6 +49,22 @@
           "Lord",
           "has",
           "done"
+        ],
+        "es": [
+          "Vete",
+          "á",
+          "tu",
+          "casa",
+          "á",
+          "los"
+        ],
+        "fr": [
+          "Va",
+          "dans",
+          "ta",
+          "maison",
+          "vers",
+          "les"
         ]
       },
       "typing_challenge": true
@@ -46,7 +72,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Legion Set Free"
+        "en": "A Song for Legion Set Free",
+        "es": "Una Canción para Legión Liberado",
+        "fr": "Une Chanson pour Légion Libéré"
       },
       "audio_en": "/static/audio/mark/lesson12_en.mp3"
     },
@@ -55,7 +83,9 @@
       "questions": [
         {
           "q": {
-            "en": "Where was the demon-possessed man living before Jesus met him?"
+            "en": "Where was the demon-possessed man living before Jesus met him?",
+            "es": "¿Dónde vivía el hombre poseído por demonios antes de que Jesús lo encontrara?",
+            "fr": "Où vivait l'homme possédé avant que Jésus ne le rencontre ?"
           },
           "options": {
             "en": [
@@ -63,13 +93,27 @@
               "Among the tombs",
               "In a comfortable house",
               "In the synagogue"
+            ],
+            "es": [
+              "En un palacio",
+              "Entre los sepulcros",
+              "En una casa cómoda",
+              "En la sinagoga"
+            ],
+            "fr": [
+              "Dans un palais",
+              "Parmi les tombeaux",
+              "Dans une maison confortable",
+              "Dans la synagogue"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What happened to the herd of pigs after the demons entered them?"
+            "en": "What happened to the herd of pigs after the demons entered them?",
+            "es": "¿Qué le sucedió a la manada de cerdos después de que los demonios entraron en ellos?",
+            "fr": "Qu'est-il arrivé au troupeau de porcs après que les démons soient entrés en eux ?"
           },
           "options": {
             "en": [
@@ -77,13 +121,27 @@
               "They rushed down a steep bank into the lake and drowned",
               "Nothing changed",
               "They ran away peacefully"
+            ],
+            "es": [
+              "Se calmaron",
+              "Se precipitaron por un despeñadero hacia el lago y se ahogaron",
+              "Nada cambió",
+              "Huyeron tranquilamente"
+            ],
+            "fr": [
+              "Ils se sont calmés",
+              "Ils se sont précipités du haut d'un escarpement dans le lac et se sont noyés",
+              "Rien n'a changé",
+              "Ils se sont enfuis tranquillement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus tell the healed man to do, instead of letting him come along?"
+            "en": "What did Jesus tell the healed man to do, instead of letting him come along?",
+            "es": "¿Qué le dijo Jesús al hombre sanado que hiciera, en lugar de dejarlo ir con Él?",
+            "fr": "Qu'a dit Jésus à l'homme guéri de faire, au lieu de le laisser l'accompagner ?"
           },
           "options": {
             "en": [
@@ -91,6 +149,18 @@
               "Go home and tell his own people how much the Lord had done for him",
               "Hide from everyone",
               "Leave the region completely"
+            ],
+            "es": [
+              "Permanecer en silencio para siempre",
+              "Ir a casa y contarle a su propia gente cuánto había hecho el Señor por él",
+              "Esconderse de todos",
+              "Dejar la región por completo"
+            ],
+            "fr": [
+              "Rester silencieux pour toujours",
+              "Rentrer chez lui et raconter à son propre peuple tout ce que le Seigneur avait fait pour lui",
+              "Se cacher de tous",
+              "Quitter complètement la région"
             ]
           },
           "answer": 1
@@ -102,7 +172,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Legion Set Free"
+            "en": "Activity sheet: Legion Set Free",
+            "es": "Hoja de actividad: Legión Liberado",
+            "fr": "Fiche d'activité : Légion Libéré"
           },
           "file": "/static/printables/mark/lesson12_sheet.pdf"
         }
@@ -111,7 +183,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' authority extends even over an overwhelming, seemingly unmanageable spiritual bondage — restoring full dignity (clothed, in his right mind) to a man everyone else had given up on. The instruction to go tell his own people, rather than follow Jesus directly, models that not every calling looks the same — sometimes the mission field is exactly where you already are.\n\nConversation starters: (1) What does the change from \"chains, cutting himself, living among tombs\" to \"clothed and in his right mind\" show about Jesus' power? (2) Why might Jesus send the man back home, instead of letting him travel with the disciples? (3) Who in your own life could you tell about what God has done for you?\n\nPray for those who feel trapped or hopeless, that they would encounter the same freedom this man found."
+        "en": "Big idea: Jesus' authority extends even over an overwhelming, seemingly unmanageable spiritual bondage — restoring full dignity (clothed, in his right mind) to a man everyone else had given up on. The instruction to go tell his own people, rather than follow Jesus directly, models that not every calling looks the same — sometimes the mission field is exactly where you already are.\n\nConversation starters: (1) What does the change from \"chains, cutting himself, living among tombs\" to \"clothed and in his right mind\" show about Jesus' power? (2) Why might Jesus send the man back home, instead of letting him travel with the disciples? (3) Who in your own life could you tell about what God has done for you?\n\nPray for those who feel trapped or hopeless, that they would encounter the same freedom this man found.",
+        "es": "Idea principal: la autoridad de Jesús se extiende incluso sobre una esclavitud espiritual abrumadora y aparentemente inmanejable — restaurando la dignidad completa (vestido, en su sano juicio) a un hombre que todos los demás habían dado por perdido. La instrucción de ir a contarle a su propia gente, en lugar de seguir a Jesús directamente, modela que no todo llamado se ve igual — a veces el campo misionero es exactamente donde ya estás.\n\nPara conversar: (1) ¿Qué muestra el cambio de 'cadenas, cortándose, viviendo entre sepulcros' a 'vestido y en su sano juicio' sobre el poder de Jesús? (2) ¿Por qué podría Jesús enviar al hombre de vuelta a casa, en lugar de dejarlo viajar con los discípulos? (3) ¿A quién en tu propia vida podrías contarle lo que Dios ha hecho por ti?\n\nOren por quienes se sienten atrapados o desesperanzados, para que encuentren la misma libertad que este hombre encontró.",
+        "fr": "Idée principale : l'autorité de Jésus s'étend même sur un esclavage spirituel accablant et apparemment ingérable — restaurant une pleine dignité (habillé, dans son bon sens) à un homme que tous les autres avaient abandonné. L'instruction d'aller raconter à son propre peuple, plutôt que de suivre Jésus directement, montre que tout appel ne se ressemble pas — parfois le champ de mission est exactement là où tu te trouves déjà.\n\nPour la conversation : (1) Que montre le changement de « chaînes, se meurtrissant, vivant parmi les tombeaux » à « habillé et dans son bon sens » sur le pouvoir de Jésus ? (2) Pourquoi Jésus pourrait-Il renvoyer l'homme chez lui, plutôt que de le laisser voyager avec les disciples ? (3) À qui dans ta propre vie pourrais-tu raconter ce que Dieu a fait pour toi ?\n\nPriez pour ceux qui se sentent piégés ou désespérés, afin qu'ils trouvent la même liberté que cet homme a trouvée."
       }
     }
   ]

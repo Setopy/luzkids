@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Great Mystery of Love"
+    "en": "The Great Mystery of Love",
+    "es": "El Gran Misterio del Amor",
+    "fr": "Le Grand Mystère de l'Amour"
   },
   "ref": "Ephesians 5:22-33",
   "section": "Instructions for Christian Households",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A picture of Christ and His church"
+        "en": "A picture of Christ and His church",
+        "es": "Una imagen de Cristo y Su iglesia",
+        "fr": "Une image de Christ et de Son Église"
       },
       "body": {
-        "en": "Paul now speaks to husbands and wives. Wives are called to submit to their husbands as to the Lord — within the same spirit of mutual submission Paul just described. Husbands are commanded to love their wives the same way Christ loved the church — which means SACRIFICIAL love, giving everything, holding nothing back for himself.\n\nThis is not soft or easy; this is the strongest love command in the whole Bible. Christ loved the church and gave Himself up for her, to make her holy, cleansing her, to present her to Himself in glorious splendour, without stain or wrinkle! Husbands ought to love their wives as their own bodies — after all, no one hates their own body, but feeds and cares for it, just as Christ does the church.\n\nThen Paul reveals the secret: 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.' This is a profound MYSTERY — but Paul is talking about Christ and the church! Every faithful, sacrificial marriage preaches the gospel, showing the world what Jesus' love for His people looks like."
+        "en": "Paul now speaks to husbands and wives. Wives are called to submit to their husbands as to the Lord — within the same spirit of mutual submission Paul just described. Husbands are commanded to love their wives the same way Christ loved the church — which means SACRIFICIAL love, giving everything, holding nothing back for himself.\n\nThis is not soft or easy; this is the strongest love command in the whole Bible. Christ loved the church and gave Himself up for her, to make her holy, cleansing her, to present her to Himself in glorious splendour, without stain or wrinkle! Husbands ought to love their wives as their own bodies — after all, no one hates their own body, but feeds and cares for it, just as Christ does the church.\n\nThen Paul reveals the secret: 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.' This is a profound MYSTERY — but Paul is talking about Christ and the church! Every faithful, sacrificial marriage preaches the gospel, showing the world what Jesus' love for His people looks like.",
+        "es": "Pablo habla ahora a esposos y esposas. Las esposas son llamadas a someterse a sus esposos como al Señor — dentro del mismo espíritu de sumisión mutua que Pablo acaba de describir. A los esposos se les manda amar a sus esposas de la misma manera en que Cristo amó a la iglesia — lo cual significa amor SACRIFICIAL, dándolo todo, sin guardar nada para sí mismo.\n\nEsto no es suave ni fácil; este es el mandamiento de amor más fuerte de toda la Biblia. ¡Cristo amó a la iglesia y se entregó a sí mismo por ella, para santificarla, limpiándola, para presentarla a sí mismo en gloriosa esplendidez, sin mancha ni arruga! Los esposos deben amar a sus esposas como a sus propios cuerpos — al fin y al cabo, nadie odia su propio cuerpo, sino que lo alimenta y lo cuida, así como Cristo hace con la iglesia.\n\nLuego Pablo revela el secreto: \"Por esta causa dejará el hombre a su padre y a su madre, y se unirá a su mujer, y los dos serán una sola carne.\" ¡Este es un MISTERIO profundo — pero Pablo está hablando de Cristo y la iglesia! Cada matrimonio fiel y sacrificial predica el evangelio, mostrando al mundo cómo es el amor de Jesús por Su pueblo.",
+        "fr": "Paul s'adresse maintenant aux maris et aux femmes. Les femmes sont appelées à se soumettre à leurs maris comme au Seigneur — dans le même esprit de soumission mutuelle que Paul vient de décrire. Les maris reçoivent l'ordre d'aimer leurs femmes de la même manière que Christ a aimé l'Église — ce qui signifie un amour SACRIFICIEL, donnant tout, ne gardant rien pour lui-même.\n\nCe n'est ni doux ni facile ; c'est le commandement d'amour le plus fort de toute la Bible. Christ a aimé l'Église et s'est livré Lui-même pour elle, pour la sanctifier, la purifiant, pour se la présenter à Lui-même dans une splendeur glorieuse, sans tache ni ride ! Les maris doivent aimer leurs femmes comme leur propre corps — après tout, personne ne hait son propre corps, mais le nourrit et en prend soin, comme Christ le fait pour l'Église.\n\nPuis Paul révèle le secret : « C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et les deux deviendront une seule chair. » C'est un profond MYSTÈRE — mais Paul parle de Christ et de l'Église ! Chaque mariage fidèle et sacrificiel prêche l'Évangile, montrant au monde à quoi ressemble l'amour de Jésus pour Son peuple."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Husbands, love your wives, just as Christ loved the church and gave himself up for her."
+        "en": "Husbands, love your wives, just as Christ loved the church and gave himself up for her.",
+        "es": "Maridos, amad á vuestras mujeres, así como Cristo amó á la iglesia, y se entregó á sí mismo por ella.",
+        "fr": "Maris, aimez vos femmes, comme Christ a aimé l'Église, et s'est livré lui-même pour elle."
       },
       "ref": {
-        "en": "Ephesians 5:25 (NIV)"
+        "en": "Ephesians 5:25 (NIV)",
+        "es": "Efesios 5:25 (Valera)",
+        "fr": "Éphésiens 5:25 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "loved",
           "the",
           "church"
+        ],
+        "es": [
+          "Maridos",
+          "amad",
+          "á",
+          "vuestras",
+          "mujeres",
+          "así"
+        ],
+        "fr": [
+          "Maris",
+          "aimez",
+          "vos",
+          "femmes",
+          "comme",
+          "Christ"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Great Mystery of Love"
+        "en": "A Song for The Great Mystery of Love",
+        "es": "Una Canción para El Gran Misterio del Amor",
+        "fr": "Une Chanson pour Le Grand Mystère de l'Amour"
       },
       "audio_en": "/static/audio/ephesians/lesson15_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "How are husbands commanded to love their wives?"
+            "en": "How are husbands commanded to love their wives?",
+            "es": "¿Cómo se les manda a los esposos amar a sus esposas?",
+            "fr": "Comment les maris reçoivent-ils l'ordre d'aimer leurs femmes ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Just as Christ loved the church, sacrificially",
               "Without any real effort",
               "Only when convenient"
+            ],
+            "es": [
+              "De la manera que les sea más fácil",
+              "Tal como Cristo amó a la iglesia, sacrificialmente",
+              "Sin ningún esfuerzo real",
+              "Solo cuando sea conveniente"
+            ],
+            "fr": [
+              "De la manière la plus facile pour eux",
+              "Tout comme Christ a aimé l'Église, sacrificiellement",
+              "Sans aucun effort réel",
+              "Seulement quand c'est pratique"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Christ do for the church, according to this passage?"
+            "en": "What did Christ do for the church, according to this passage?",
+            "es": "¿Qué hizo Cristo por la iglesia, según este pasaje?",
+            "fr": "Qu'a fait Christ pour l'Église, selon ce passage ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Gave Himself up for her, to make her holy and present her in splendour",
               "Ignored her needs",
               "Demanded service from her"
+            ],
+            "es": [
+              "Nada en particular",
+              "Se entregó a sí mismo por ella, para santificarla y presentarla con esplendidez",
+              "Ignoró sus necesidades",
+              "Le exigió servicio"
+            ],
+            "fr": [
+              "Rien de particulier",
+              "Il s'est livré Lui-même pour elle, pour la sanctifier et la présenter dans la splendeur",
+              "Il a ignoré ses besoins",
+              "Il lui a exigé du service"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul say marriage is ultimately a picture of?"
+            "en": "What does Paul say marriage is ultimately a picture of?",
+            "es": "¿De qué dice Pablo que el matrimonio es, en última instancia, una imagen?",
+            "fr": "De quoi Paul dit-il que le mariage est, en fin de compte, une image ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "A profound mystery — Christ and the church",
               "Only a legal agreement",
               "A business partnership"
+            ],
+            "es": [
+              "Nada significativo",
+              "Un misterio profundo — Cristo y la iglesia",
+              "Solo un acuerdo legal",
+              "Una sociedad comercial"
+            ],
+            "fr": [
+              "Rien de significatif",
+              "Un mystère profond — Christ et l'Église",
+              "Seulement un accord juridique",
+              "Un partenariat commercial"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Great Mystery of Love"
+            "en": "Activity sheet: The Great Mystery of Love",
+            "es": "Hoja de actividad: El Gran Misterio del Amor",
+            "fr": "Fiche d'activité : Le Grand Mystère de l'Amour"
           },
           "file": "/static/printables/ephesians/lesson15_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: marriage as a living gospel illustration — every faithful, sacrificial marriage preaches the relationship between Christ and His church. The husband's specific command is not headship as authority but headship as sacrificial servanthood (5:25, \"gave himself up for her\"), grounded in the same mutual submission already established in 5:21.\n\nConversation starters: (1) What does it mean that a marriage is a \"living sermon\" — a picture of Christ and the church? (2) Why is the command to husbands described as \"the strongest love command in the whole Bible\"? (3) How can our family show the world what Jesus' love looks like, even outside marriage?\n\nPray together for marriages in your family and church — that they would be holy, faithful pictures of Christ's covenant love."
+        "en": "Big idea: marriage as a living gospel illustration — every faithful, sacrificial marriage preaches the relationship between Christ and His church. The husband's specific command is not headship as authority but headship as sacrificial servanthood (5:25, \"gave himself up for her\"), grounded in the same mutual submission already established in 5:21.\n\nConversation starters: (1) What does it mean that a marriage is a \"living sermon\" — a picture of Christ and the church? (2) Why is the command to husbands described as \"the strongest love command in the whole Bible\"? (3) How can our family show the world what Jesus' love looks like, even outside marriage?\n\nPray together for marriages in your family and church — that they would be holy, faithful pictures of Christ's covenant love.",
+        "es": "Idea principal: el matrimonio como una ilustración viva del evangelio — cada matrimonio fiel y sacrificial predica la relación entre Cristo y Su iglesia. El mandamiento específico al esposo no es liderazgo como autoridad sino liderazgo como servicio sacrificial (5:25, \"se entregó a sí mismo por ella\"), fundamentado en la misma sumisión mutua ya establecida en 5:21.\n\nPara conversar: (1) ¿Qué significa que un matrimonio es un \"sermón viviente\" — una imagen de Cristo y la iglesia? (2) ¿Por qué se describe el mandamiento a los esposos como \"el mandamiento de amor más fuerte de toda la Biblia\"? (3) ¿Cómo puede nuestra familia mostrar al mundo cómo es el amor de Jesús, incluso fuera del matrimonio?\n\nOren juntos por los matrimonios en su familia e iglesia — para que sean imágenes santas y fieles del amor de pacto de Cristo.",
+        "fr": "Idée principale : le mariage comme illustration vivante de l'Évangile — chaque mariage fidèle et sacrificiel prêche la relation entre Christ et Son Église. Le commandement spécifique au mari n'est pas une autorité de chef mais un service sacrificiel de chef (5.25, « s'est livré lui-même pour elle »), fondé sur la même soumission mutuelle déjà établie en 5.21.\n\nPour la conversation : (1) Que signifie le fait qu'un mariage est un « sermon vivant » — une image de Christ et de l'Église ? (2) Pourquoi le commandement aux maris est-il décrit comme « le commandement d'amour le plus fort de toute la Bible » ? (3) Comment notre famille peut-elle montrer au monde à quoi ressemble l'amour de Jésus, même en dehors du mariage ?\n\nPriez ensemble pour les mariages dans votre famille et votre église — afin qu'ils soient des images saintes et fidèles de l'amour d'alliance de Christ."
       }
     }
   ]

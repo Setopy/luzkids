@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Don't Be Anxious — Pray!"
+    "en": "Don't Be Anxious — Pray!",
+    "es": "No Te Angusties — ¡Ora!",
+    "fr": "Ne Sois Pas Anxieux — Prie !"
   },
   "ref": "Philippians 4:2-9",
   "section": "Final Exhortations",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "The peace that guards your heart"
+        "en": "The peace that guards your heart",
+        "es": "La paz que guarda tu corazón",
+        "fr": "La paix qui garde ton cœur"
       },
       "body": {
-        "en": "Paul gives quick, practical final instructions. First, he personally appeals to two women, Euodia and Syntyche, to agree with each other in the Lord — even naming them, showing how seriously he took unity between real people, not just unity in theory.\n\nThen comes one of the most beloved passages in the whole Bible: 'Rejoice in the Lord always. I will say it again: Rejoice! Let your gentleness be evident to all. The Lord is near. Do not be anxious about anything, but in EVERY situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will GUARD your hearts and minds in Christ Jesus.' Picture a soldier standing guard at a gate, protecting what's inside — that's what God's peace does for your heart and mind, when anxiety tries to break in!\n\nFinally, Paul says: whatever is true, noble, right, pure, lovely, admirable, excellent, or praiseworthy — think about such things. Whatever you've learned from Paul, put it into practice, and the God of peace will be with you."
+        "en": "Paul gives quick, practical final instructions. First, he personally appeals to two women, Euodia and Syntyche, to agree with each other in the Lord — even naming them, showing how seriously he took unity between real people, not just unity in theory.\n\nThen comes one of the most beloved passages in the whole Bible: 'Rejoice in the Lord always. I will say it again: Rejoice! Let your gentleness be evident to all. The Lord is near. Do not be anxious about anything, but in EVERY situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will GUARD your hearts and minds in Christ Jesus.' Picture a soldier standing guard at a gate, protecting what's inside — that's what God's peace does for your heart and mind, when anxiety tries to break in!\n\nFinally, Paul says: whatever is true, noble, right, pure, lovely, admirable, excellent, or praiseworthy — think about such things. Whatever you've learned from Paul, put it into practice, and the God of peace will be with you.",
+        "es": "Pablo da instrucciones finales rápidas y prácticas. Primero, apela personalmente a dos mujeres, Evodia y Síntique, para que se pongan de acuerdo en el Señor — incluso las nombra, mostrando cuán en serio tomaba la unidad entre personas reales, no solo la unidad en teoría.\n\nLuego viene uno de los pasajes más amados de toda la Biblia: \"Regocijaos en el Señor siempre. Otra vez digo: ¡Regocijaos! Que vuestra gentileza sea conocida por todos. El Señor está cerca. No os afanéis por nada, sino sean conocidas vuestras peticiones delante de Dios en TODA oración y ruego, con acción de gracias. Y la paz de Dios, que sobrepasa todo entendimiento, GUARDARÁ vuestros corazones y vuestras mentes en Cristo Jesús.\" Imagina a un soldado de guardia en una puerta, protegiendo lo que está dentro — ¡eso es lo que la paz de Dios hace por tu corazón y tu mente, cuando la ansiedad intenta entrar!\n\nFinalmente, Pablo dice: todo lo que es verdadero, honesto, justo, puro, amable, de buen nombre, todo lo que es virtud y digno de alabanza — piensen en estas cosas. Lo que han aprendido de Pablo, pónganlo en práctica, y el Dios de paz estará con ustedes.",
+        "fr": "Paul donne des instructions finales rapides et pratiques. D'abord, il fait personnellement appel à deux femmes, Évodie et Syntyche, pour qu'elles s'accordent dans le Seigneur — il les nomme même, montrant à quel point il prenait au sérieux l'unité entre des personnes réelles, et non seulement l'unité en théorie.\n\nPuis vient l'un des passages les plus chéris de toute la Bible : « Réjouissez-vous toujours dans le Seigneur ; je le répète, réjouissez-vous. Que votre douceur soit connue de tous les hommes. Le Seigneur est proche. Ne vous inquiétez de rien ; mais en toute chose faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâces. Et la paix de Dieu, qui surpasse toute intelligence, GARDERA vos cœurs et vos pensées en Jésus-Christ. » Imagine un soldat qui garde une porte, protégeant ce qui est à l'intérieur — voilà ce que la paix de Dieu fait pour ton cœur et ton esprit, quand l'inquiétude essaie d'entrer !\n\nEnfin, Paul dit : tout ce qui est vrai, honorable, juste, pur, aimable, de bonne réputation, tout ce qui est vertueux et digne de louange — pensez à ces choses. Ce que vous avez appris de Paul, mettez-le en pratique, et le Dieu de paix sera avec vous."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+        "en": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "es": "Y la paz de Dios, que sobrepuja todo entendimiento, guardará vuestros corazones y vuestros entendimientos en Cristo Jesús.",
+        "fr": "Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ."
       },
       "ref": {
-        "en": "Philippians 4:7 (NIV)"
+        "en": "Philippians 4:7 (NIV)",
+        "es": "Filipenses 4:7 (Valera)",
+        "fr": "Philippiens 4:7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "and",
           "your",
           "minds"
+        ],
+        "es": [
+          "Y",
+          "la",
+          "paz",
+          "de",
+          "Dios",
+          "que"
+        ],
+        "fr": [
+          "Et",
+          "la",
+          "paix",
+          "de",
+          "Dieu",
+          "qui"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Don't Be Anxious — Pray!"
+        "en": "A Song for Don't Be Anxious — Pray!",
+        "es": "Una Canción para No Te Angusties — ¡Ora!",
+        "fr": "Une Chanson pour Ne Sois Pas Anxieux — Prie !"
       },
       "audio_en": "/static/audio/philippians/lesson09_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Paul say to do instead of being anxious about anything?"
+            "en": "What does Paul say to do instead of being anxious about anything?",
+            "es": "¿Qué dice Pablo que hagan en lugar de angustiarse por algo?",
+            "fr": "Que dit Paul de faire au lieu de s'inquiéter de quoi que ce soit ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "Pray about everything, with thanksgiving, presenting requests to God",
               "Ignore the problem",
               "Complain to others"
+            ],
+            "es": [
+              "Preocuparse más",
+              "Orar por todo, con acción de gracias, presentando peticiones a Dios",
+              "Ignorar el problema",
+              "Quejarse a los demás"
+            ],
+            "fr": [
+              "S'inquiéter encore plus",
+              "Prier pour tout, avec actions de grâces, en présentant ses demandes à Dieu",
+              "Ignorer le problème",
+              "Se plaindre aux autres"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What picture does God's peace do for our hearts and minds, according to verse 7?"
+            "en": "What picture does God's peace do for our hearts and minds, according to verse 7?",
+            "es": "¿Qué imagen describe lo que la paz de Dios hace por nuestros corazones y mentes, según el versículo 7?",
+            "fr": "Quelle image décrit ce que la paix de Dieu fait pour nos cœurs et nos pensées, selon le verset 7 ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "It guards them, like a soldier standing watch",
               "It confuses them further",
               "It ignores them"
+            ],
+            "es": [
+              "No hace nada en particular",
+              "Los guarda, como un soldado de guardia",
+              "Los confunde aún más",
+              "Los ignora"
+            ],
+            "fr": [
+              "Elle ne fait rien de particulier",
+              "Elle les garde, comme un soldat en sentinelle",
+              "Elle les trouble davantage",
+              "Elle les ignore"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What kinds of things does Paul say to think about, in verse 8?"
+            "en": "What kinds of things does Paul say to think about, in verse 8?",
+            "es": "¿En qué tipo de cosas dice Pablo que debemos pensar, en el versículo 8?",
+            "fr": "À quel genre de choses Paul dit-il de penser, au verset 8 ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Only negative things",
               "Whatever feels easiest",
               "Nothing in particular"
+            ],
+            "es": [
+              "Todo lo que es verdadero, honesto, justo, puro, amable",
+              "Solo cosas negativas",
+              "Lo que se sienta más fácil",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Tout ce qui est vrai, honorable, juste, pur, aimable",
+              "Seulement des choses négatives",
+              "Ce qui semble le plus facile",
+              "Rien de particulier"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Don't Be Anxious — Pray!"
+            "en": "Activity sheet: Don't Be Anxious — Pray!",
+            "es": "Hoja de actividad: No Te Angusties — ¡Ora!",
+            "fr": "Fiche d'activité : Ne Sois Pas Anxieux — Prie !"
           },
           "file": "/static/printables/philippians/lesson09_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: practical, prayer-soaked peace as the antidote to anxiety, paired with deliberate, disciplined thinking about what is genuinely good. Note Paul doesn't say \"don't feel anxious\" as a command to suppress emotion — he gives a concrete action (prayer, with thanksgiving) that genuinely produces supernatural peace \"which transcends all understanding\" (4:7), a peace that GUARDS rather than merely soothes.\n\nConversation starters: (1) What's the difference between worrying about something and bringing it to God in prayer with thanksgiving? (2) What does it mean for peace to \"guard\" your heart, like a soldier at a gate? (3) What is one true, noble, or lovely thing you could deliberately think about today?\n\nPray together right now about whatever is making anyone anxious, with thanksgiving."
+        "en": "Big idea: practical, prayer-soaked peace as the antidote to anxiety, paired with deliberate, disciplined thinking about what is genuinely good. Note Paul doesn't say \"don't feel anxious\" as a command to suppress emotion — he gives a concrete action (prayer, with thanksgiving) that genuinely produces supernatural peace \"which transcends all understanding\" (4:7), a peace that GUARDS rather than merely soothes.\n\nConversation starters: (1) What's the difference between worrying about something and bringing it to God in prayer with thanksgiving? (2) What does it mean for peace to \"guard\" your heart, like a soldier at a gate? (3) What is one true, noble, or lovely thing you could deliberately think about today?\n\nPray together right now about whatever is making anyone anxious, with thanksgiving.",
+        "es": "Idea principal: una paz práctica e impregnada de oración como antídoto contra la ansiedad, junto con un pensamiento deliberado y disciplinado sobre lo que es genuinamente bueno. Nota que Pablo no dice \"no sientas ansiedad\" como una orden para suprimir la emoción — da una acción concreta (oración, con acción de gracias) que produce genuinamente una paz sobrenatural \"que sobrepasa todo entendimiento\" (4:7), una paz que GUARDA en lugar de solo calmar.\n\nPara conversar: (1) ¿Cuál es la diferencia entre preocuparse por algo y llevarlo a Dios en oración con acción de gracias? (2) ¿Qué significa que la paz \"guarde\" tu corazón, como un soldado en una puerta? (3) ¿Cuál es una cosa verdadera, honesta o amable en la que podrías pensar deliberadamente hoy?\n\nOren juntos ahora mismo por lo que esté causando ansiedad a alguien, con acción de gracias.",
+        "fr": "Idée principale : une paix pratique et imprégnée de prière comme antidote à l'anxiété, associée à une pensée délibérée et disciplinée sur ce qui est véritablement bon. Remarque que Paul ne dit pas « ne ressentez pas d'anxiété » comme un ordre de réprimer l'émotion — il donne une action concrète (la prière, avec des actions de grâces) qui produit véritablement une paix surnaturelle « qui surpasse toute intelligence » (4.7), une paix qui GARDE plutôt que de simplement apaiser.\n\nPour la conversation : (1) Quelle est la différence entre s'inquiéter de quelque chose et l'apporter à Dieu en prière avec des actions de grâces ? (2) Que signifie le fait que la paix « garde » ton cœur, comme un soldat à une porte ? (3) Quelle chose vraie, honorable ou aimable pourrais-tu délibérément méditer aujourd'hui ?\n\nPriez ensemble dès maintenant pour ce qui rend quelqu'un anxieux, avec des actions de grâces."
       }
     }
   ]

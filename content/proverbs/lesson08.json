@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Get Wisdom, Whatever It Costs"
+    "en": "Get Wisdom, Whatever It Costs",
+    "es": "Adquiere Sabiduría, Cueste Lo Que Cueste",
+    "fr": "Acquiers la Sagesse, Quoi Qu'il en Coûte"
   },
   "ref": "Proverbs 4:1-9",
   "section": "Get Wisdom at Any Cost",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A grandfather's advice, passed down"
+        "en": "A grandfather's advice, passed down",
+        "es": "El consejo de un abuelo, transmitido",
+        "fr": "Le conseil d'un grand-père, transmis"
       },
       "body": {
-        "en": "Listen, my sons, to a father's instruction, the chapter begins — and then something touching happens: the father reveals he's passing along advice HE received from his own father when he was just a boy.\n\nHis father had told him: 'Lay hold of my words with all your heart; keep my commands and you will live. Get wisdom, get understanding; do not forget my words or turn away from them.'\n\n'The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.' This is one of the boldest statements in the whole book — wisdom is worth literally everything you own.\n\n'Esteem her, and she will exalt you; embrace her, and she will honour you. She will give you a garland of grace and present you with a crown of splendour.'\n\nThis passage is a beautiful picture of generational wisdom — grandfather to father to son — each generation passing down the same core conviction: nothing is more important to pursue than wisdom itself."
+        "en": "Listen, my sons, to a father's instruction, the chapter begins — and then something touching happens: the father reveals he's passing along advice HE received from his own father when he was just a boy.\n\nHis father had told him: 'Lay hold of my words with all your heart; keep my commands and you will live. Get wisdom, get understanding; do not forget my words or turn away from them.'\n\n'The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.' This is one of the boldest statements in the whole book — wisdom is worth literally everything you own.\n\n'Esteem her, and she will exalt you; embrace her, and she will honour you. She will give you a garland of grace and present you with a crown of splendour.'\n\nThis passage is a beautiful picture of generational wisdom — grandfather to father to son — each generation passing down the same core conviction: nothing is more important to pursue than wisdom itself.",
+        "es": "Escuchad, hijos, la enseñanza de un padre, comienza el capítulo — y entonces sucede algo conmovedor: el padre revela que está transmitiendo el consejo que ÉL recibió de su propio padre cuando era solo un niño.\n\nSu padre le había dicho: \"Tenga tu corazón mis razones, guarda mis mandamientos, y vivirás. Adquiere sabiduría, adquiere inteligencia: no te olvides ni te apartes de las razones de mi boca.\"\n\n\"Sabiduría ante todo: adquiere sabiduría: y ante toda tu posesión adquiere inteligencia.\" Esta es una de las declaraciones más audaces de todo el libro — la sabiduría vale literalmente todo lo que posees.\n\n\"Engrandécela, y ella te engrandecerá: ella te honrará, cuando tú la hubieres abrazado. Dará á tu cabeza aumento de gracia: corona de hermosura te entregará.\"\n\nEste pasaje es una hermosa imagen de la sabiduría generacional — del abuelo al padre al hijo — cada generación transmitiendo la misma convicción central: nada es más importante de buscar que la sabiduría misma.",
+        "fr": "Écoutez, mes fils, l'enseignement d'un père, commence le chapitre — et puis quelque chose de touchant arrive : le père révèle qu'il transmet le conseil que LUI a reçu de son propre père quand il n'était qu'un enfant.\n\nSon père lui avait dit : « Que ton cœur retienne mes paroles ; garde mes préceptes, et tu vivras. Acquiers la sagesse, acquiers l'intelligence ; n'oublie pas, ne t'écarte pas des paroles de ma bouche. »\n\n« Voici le commencement de la sagesse : Acquiers la sagesse, et avec tout ce que tu possèdes acquiers l'intelligence. » C'est l'une des déclarations les plus audacieuses de tout le livre — la sagesse vaut littéralement tout ce que l'on possède.\n\n« Estime-la, et elle t'élèvera ; elle fera ta gloire, si tu l'embrasses ; elle mettra sur ta tête une couronne de grâce, elle t'ornera d'un magnifique diadème. »\n\nCe passage est une belle image de la sagesse générationnelle — du grand-père au père au fils — chaque génération transmettant la même conviction centrale : rien n'est plus important à poursuivre que la sagesse elle-même."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding."
+        "en": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.",
+        "es": "Sabiduría ante todo: adquiere sabiduría: y ante toda tu posesión adquiere inteligencia.",
+        "fr": "Voici le commencement de la sagesse : Acquiers la sagesse, Et avec tout ce que tu possèdes acquiers l'intelligence."
       },
       "ref": {
-        "en": "Proverbs 4:7 (NIV)"
+        "en": "Proverbs 4:7 (NIV)",
+        "es": "Proverbios 4:7 (Valera)",
+        "fr": "Proverbes 4:7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "all",
           "you",
           "have"
+        ],
+        "es": [
+          "Sabiduría",
+          "ante",
+          "todo",
+          "adquiere",
+          "sabiduría",
+          "y"
+        ],
+        "fr": [
+          "Voici",
+          "le",
+          "commencement",
+          "de",
+          "la",
+          "sagesse"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Get Wisdom, Whatever It Costs"
+        "en": "A Song for Get Wisdom, Whatever It Costs",
+        "es": "Una Canción para Adquiere Sabiduría, Cueste Lo Que Cueste",
+        "fr": "Une Chanson pour Acquiers la Sagesse, Quoi Qu'il en Coûte"
       },
       "audio_en": "/static/audio/proverbs/lesson08_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "Where did the father's advice in this chapter originally come from?"
+            "en": "Where did the father's advice in this chapter originally come from?",
+            "es": "¿De dónde vino originalmente el consejo del padre en este capítulo?",
+            "fr": "D'où venait à l'origine le conseil du père dans ce chapitre ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "His own father, passed down from grandfather to father to son",
               "A stranger he met",
               "Nowhere in particular"
+            ],
+            "es": [
+              "Él lo inventó",
+              "De su propio padre, transmitido de abuelo a padre a hijo",
+              "De un extraño que conoció",
+              "De ningún lugar en particular"
+            ],
+            "fr": [
+              "Il l'a inventé lui-même",
+              "De son propre père, transmis de grand-père à père à fils",
+              "D'un étranger qu'il a rencontré",
+              "De nulle part en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How costly does Proverbs say it's worth being, to get wisdom?"
+            "en": "How costly does Proverbs say it's worth being, to get wisdom?",
+            "es": "¿Cuán costoso dice Proverbios que vale la pena ser, para adquirir sabiduría?",
+            "fr": "À quel point Proverbes dit-il que cela vaut la peine d'être coûteux, pour acquérir la sagesse ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Worth literally everything you have",
               "Only a small effort",
               "Not worth pursuing at all"
+            ],
+            "es": [
+              "No vale mucho esfuerzo",
+              "Vale literalmente todo lo que tienes",
+              "Solo un pequeño esfuerzo",
+              "No vale la pena buscarla en absoluto"
+            ],
+            "fr": [
+              "Cela ne vaut pas beaucoup d'effort",
+              "Cela vaut littéralement tout ce que tu as",
+              "Seulement un petit effort",
+              "Cela ne vaut pas la peine d'être recherché"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the chapter say wisdom will give to those who embrace her?"
+            "en": "What does the chapter say wisdom will give to those who embrace her?",
+            "es": "¿Qué dice el capítulo que la sabiduría dará a quienes la abrazan?",
+            "fr": "Que dit le chapitre que la sagesse donnera à ceux qui l'embrassent ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "A garland of grace and a crown of splendour",
               "Only hardship",
               "Confusion"
+            ],
+            "es": [
+              "Nada de valor",
+              "Aumento de gracia y una corona de hermosura",
+              "Solo dificultades",
+              "Confusión"
+            ],
+            "fr": [
+              "Rien de valeur",
+              "Une couronne de grâce et un magnifique diadème",
+              "Seulement des difficultés",
+              "De la confusion"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Get Wisdom, Whatever It Costs"
+            "en": "Activity sheet: Get Wisdom, Whatever It Costs",
+            "es": "Hoja de actividad: Adquiere Sabiduría, Cueste Lo Que Cueste",
+            "fr": "Fiche d'activité : Acquiers la Sagesse, Quoi Qu'il en Coûte"
           },
           "file": "/static/printables/proverbs/lesson08_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: wisdom is meant to be passed down generationally, modeled here explicitly as grandfather to father to son, and its value is framed in the boldest possible terms — worth literally everything a person owns. This models exactly the kind of intentional, multi-generational discipleship this platform's parent guides have consistently encouraged throughout every series.\n\nConversation starters: (1) What wisdom has been passed down to you from parents or grandparents? (2) Why might Proverbs say wisdom is worth \"all you have\" to obtain? (3) What's one piece of wisdom you'd want to pass down to someone younger someday?\n\nPray, thanking God for the wisdom passed down in your own family, and asking for grace to pass it on faithfully."
+        "en": "Big idea: wisdom is meant to be passed down generationally, modeled here explicitly as grandfather to father to son, and its value is framed in the boldest possible terms — worth literally everything a person owns. This models exactly the kind of intentional, multi-generational discipleship this platform's parent guides have consistently encouraged throughout every series.\n\nConversation starters: (1) What wisdom has been passed down to you from parents or grandparents? (2) Why might Proverbs say wisdom is worth \"all you have\" to obtain? (3) What's one piece of wisdom you'd want to pass down to someone younger someday?\n\nPray, thanking God for the wisdom passed down in your own family, and asking for grace to pass it on faithfully.",
+        "es": "Idea principal: la sabiduría está destinada a transmitirse generacionalmente, modelada aquí explícitamente de abuelo a padre a hijo, y su valor se enmarca en los términos más audaces posibles — vale literalmente todo lo que una persona posee. Esto modela exactamente el tipo de discipulado intencional y multigeneracional que las guías para padres de esta plataforma han alentado consistentemente en cada serie.\n\nPara conversar: (1) ¿Qué sabiduría te ha sido transmitida por padres o abuelos? (2) ¿Por qué podría Proverbios decir que la sabiduría vale \"todo lo que tienes\" para obtenerla? (3) ¿Cuál es una pieza de sabiduría que te gustaría transmitir a alguien más joven algún día?\n\nOren, agradeciendo a Dios por la sabiduría transmitida en tu propia familia, y pidiendo gracia para transmitirla fielmente.",
+        "fr": "Idée principale : la sagesse est destinée à être transmise de génération en génération, modélisée ici explicitement du grand-père au père au fils, et sa valeur est présentée dans les termes les plus audacieux possibles — elle vaut littéralement tout ce qu'une personne possède. Cela modélise exactement le genre de discipulat intentionnel et multigénérationnel que les guides parentaux de cette plateforme ont constamment encouragé à travers chaque série.\n\nPour la conversation : (1) Quelle sagesse t'a été transmise par tes parents ou grands-parents ? (2) Pourquoi Proverbes pourrait-il dire que la sagesse vaut « tout ce que tu as » pour l'obtenir ? (3) Quelle est une sagesse que tu voudrais transmettre à quelqu'un de plus jeune un jour ?\n\nPriez, en remerciant Dieu pour la sagesse transmise dans votre propre famille, et en demandant la grâce de la transmettre fidèlement."
       }
     }
   ]

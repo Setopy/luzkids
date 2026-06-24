@@ -1,12 +1,18 @@
 {
   "title": {
-    "en": "Galatians for Kids"
+    "en": "Galatians for Kids",
+    "es": "Gálatas para Niños",
+    "fr": "Galates pour les Enfants"
   },
   "subtitle": {
-    "en": "All 6 chapters, mapped to the standard sections of the book — saved by grace, free to love!"
+    "en": "All 6 chapters, mapped to the standard sections of the book — saved by grace, free to love!",
+    "es": "Los 6 capítulos completos, mapeados a las secciones estándar del libro — ¡salvados por gracia, libres para amar!",
+    "fr": "Les 6 chapitres complets, alignés sur les sections standard du livre — sauvés par grâce, libres d'aimer !"
   },
   "description": {
-    "en": "A passionate, urgent letter defending one truth: we are made right with God by faith in Jesus, not by earning it through rules. Thirteen adventures through all six chapters of Galatians, following the same section divisions found in standard study Bibles — discovering true freedom, the fruit of the Spirit, and what it means to be a brand new creation in Christ."
+    "en": "A passionate, urgent letter defending one truth: we are made right with God by faith in Jesus, not by earning it through rules. Thirteen adventures through all six chapters of Galatians, following the same section divisions found in standard study Bibles — discovering true freedom, the fruit of the Spirit, and what it means to be a brand new creation in Christ.",
+    "es": "Una carta apasionada y urgente que defiende una verdad: somos justificados ante Dios por la fe en Jesús, no ganándolo mediante reglas. Trece aventuras a través de los seis capítulos de Gálatas, siguiendo las mismas divisiones de sección que se encuentran en las Biblias de estudio estándar — descubriendo la verdadera libertad, el fruto del Espíritu, y lo que significa ser una nueva creación en Cristo.",
+    "fr": "Une lettre passionnée et urgente défendant une vérité : nous sommes rendus justes devant Dieu par la foi en Jésus, et non en la gagnant par des règles. Treize aventures à travers les six chapitres de Galates, suivant les mêmes divisions de section que l'on trouve dans les Bibles d'étude standard — découvrant la vraie liberté, le fruit de l'Esprit, et ce que signifie être une toute nouvelle création en Christ."
   },
   "age_range": "6-12",
   "free": true,
@@ -17,7 +23,9 @@
     {
       "id": "lesson01",
       "title": {
-        "en": "Astonished and Alarmed"
+        "en": "Astonished and Alarmed",
+        "es": "Asombrado y Alarmado",
+        "fr": "Stupéfait et Alarmé"
       },
       "ref": "Galatians 1:1-10",
       "section": "No Other Gospel"
@@ -25,7 +33,9 @@
     {
       "id": "lesson02",
       "title": {
-        "en": "From Persecutor to Preacher"
+        "en": "From Persecutor to Preacher",
+        "es": "De Perseguidor a Predicador",
+        "fr": "De Persécuteur à Prédicateur"
       },
       "ref": "Galatians 1:11-24",
       "section": "Paul Called by God"
@@ -33,7 +43,9 @@
     {
       "id": "lesson03",
       "title": {
-        "en": "Standing Firm Together"
+        "en": "Standing Firm Together",
+        "es": "Firmes Juntos",
+        "fr": "Fermes Ensemble"
       },
       "ref": "Galatians 2:1-10",
       "section": "Paul Accepted by the Apostles"
@@ -41,7 +53,9 @@
     {
       "id": "lesson04",
       "title": {
-        "en": "Even Peter Got It Wrong"
+        "en": "Even Peter Got It Wrong",
+        "es": "Hasta Pedro Se Equivocó",
+        "fr": "Même Pierre S'est Trompé"
       },
       "ref": "Galatians 2:11-21",
       "section": "Paul Opposes Peter"
@@ -49,7 +63,9 @@
     {
       "id": "lesson05",
       "title": {
-        "en": "You Foolish Galatians!"
+        "en": "You Foolish Galatians!",
+        "es": "¡Insensatos Gálatas!",
+        "fr": "Galates Insensés !"
       },
       "ref": "Galatians 3:1-14",
       "section": "Faith or Observance of the Law"
@@ -57,7 +73,9 @@
     {
       "id": "lesson06",
       "title": {
-        "en": "Why the Law, Then?"
+        "en": "Why the Law, Then?",
+        "es": "¿Entonces, Para Qué la Ley?",
+        "fr": "Alors, Pourquoi la Loi ?"
       },
       "ref": "Galatians 3:15-25",
       "section": "The Law and the Promise"
@@ -65,7 +83,9 @@
     {
       "id": "lesson07",
       "title": {
-        "en": "No Longer Slaves, But Sons and Daughters"
+        "en": "No Longer Slaves, But Sons and Daughters",
+        "es": "Ya No Esclavos, Sino Hijos e Hijas",
+        "fr": "Plus Esclaves, Mais Fils et Filles"
       },
       "ref": "Galatians 3:26-4:7",
       "section": "Children of God"
@@ -73,7 +93,9 @@
     {
       "id": "lesson08",
       "title": {
-        "en": "Paul's Heartbreak"
+        "en": "Paul's Heartbreak",
+        "es": "El Dolor de Pablo",
+        "fr": "Le Chagrin de Paul"
       },
       "ref": "Galatians 4:8-20",
       "section": "Paul's Concern for the Galatians"
@@ -81,7 +103,9 @@
     {
       "id": "lesson09",
       "title": {
-        "en": "Two Sons, Two Mothers, Two Ways"
+        "en": "Two Sons, Two Mothers, Two Ways",
+        "es": "Dos Hijos, Dos Madres, Dos Caminos",
+        "fr": "Deux Fils, Deux Mères, Deux Chemins"
       },
       "ref": "Galatians 4:21-31",
       "section": "Hagar and Sarah"
@@ -89,7 +113,9 @@
     {
       "id": "lesson10",
       "title": {
-        "en": "Stand Firm in Freedom!"
+        "en": "Stand Firm in Freedom!",
+        "es": "¡Permanece Firme en la Libertad!",
+        "fr": "Tiens Ferme dans la Liberté !"
       },
       "ref": "Galatians 5:1-15",
       "section": "Freedom in Christ"
@@ -97,7 +123,9 @@
     {
       "id": "lesson11",
       "title": {
-        "en": "Walk by the Spirit"
+        "en": "Walk by the Spirit",
+        "es": "Anda en el Espíritu",
+        "fr": "Marche par l'Esprit"
       },
       "ref": "Galatians 5:16-26",
       "section": "Life by the Spirit"
@@ -105,7 +133,9 @@
     {
       "id": "lesson12",
       "title": {
-        "en": "Carry Each Other's Burdens"
+        "en": "Carry Each Other's Burdens",
+        "es": "Lleven las Cargas los Unos de los Otros",
+        "fr": "Portez les Fardeaux les Uns des Autres"
       },
       "ref": "Galatians 6:1-10",
       "section": "Doing Good to All"
@@ -113,7 +143,9 @@
     {
       "id": "lesson13",
       "title": {
-        "en": "A New Creation Is What Counts"
+        "en": "A New Creation Is What Counts",
+        "es": "Lo Que Cuenta Es la Nueva Creación",
+        "fr": "Ce Qui Compte, C'est la Nouvelle Création"
       },
       "ref": "Galatians 6:11-18",
       "section": "Not Circumcision but a New Creation"

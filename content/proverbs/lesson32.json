@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "What Makes a Good Leader"
+    "en": "What Makes a Good Leader",
+    "es": "Lo Que Hace a un Buen Líder",
+    "fr": "Ce Qui Fait un Bon Dirigeant"
   },
   "ref": "Proverbs 16:10-15; 20:8,26,28; 25:2-7; 29:2,4,12,14",
   "section": "Wisdom for Rulers and Leaders (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A throne established by righteousness"
+        "en": "A throne established by righteousness",
+        "es": "Un trono establecido por justicia",
+        "fr": "Un trône établi par la justice"
       },
       "body": {
-        "en": "Many of Solomon's proverbs were written specifically with kings and rulers in mind — but the lessons apply to anyone with any kind of authority or leadership, even leading a small group, a team, or a family.\n\n'It is not for kings to drink wine, not for rulers to crave beer, lest they drink and forget what the law decrees, and deprive all the oppressed of their rights.' A leader's self-control directly affects the people depending on their clear judgment.\n\n'A king's wrath is like a lion's roar; whoever incurs it risks their life.' Proverbs is honest about how much power a leader's mood and temper carries — which is exactly why leaders need extra self-control, not less.\n\n'Love and faithfulness keep a king safe; through love his throne is made secure.' Real security in leadership doesn't come from force or fear — it comes from genuine love and faithfulness toward the people being led.\n\n'If a ruler listens to lies, all his officials become wicked.' What a leader is willing to listen to shapes the whole culture underneath them. And one of the clearest warnings of all: 'when the righteous thrive, the people rejoice; when the wicked rule, the people groan.' Leadership, for better or worse, ripples out into everyone it touches."
+        "en": "Many of Solomon's proverbs were written specifically with kings and rulers in mind — but the lessons apply to anyone with any kind of authority or leadership, even leading a small group, a team, or a family.\n\n'It is not for kings to drink wine, not for rulers to crave beer, lest they drink and forget what the law decrees, and deprive all the oppressed of their rights.' A leader's self-control directly affects the people depending on their clear judgment.\n\n'A king's wrath is like a lion's roar; whoever incurs it risks their life.' Proverbs is honest about how much power a leader's mood and temper carries — which is exactly why leaders need extra self-control, not less.\n\n'Love and faithfulness keep a king safe; through love his throne is made secure.' Real security in leadership doesn't come from force or fear — it comes from genuine love and faithfulness toward the people being led.\n\n'If a ruler listens to lies, all his officials become wicked.' What a leader is willing to listen to shapes the whole culture underneath them. And one of the clearest warnings of all: 'when the righteous thrive, the people rejoice; when the wicked rule, the people groan.' Leadership, for better or worse, ripples out into everyone it touches.",
+        "es": "Muchos de los proverbios de Salomón fueron escritos específicamente pensando en reyes y gobernantes — pero las lecciones se aplican a cualquiera con cualquier tipo de autoridad o liderazgo, incluso liderando un pequeño grupo, un equipo, o una familia.\n\n\"No es de los reyes beber vino, ni de los príncipes la cerveza; no sea que bebiendo olviden la ley, y perviertan el derecho de todos los hijos afligidos.\" El autocontrol de un líder afecta directamente a la gente que depende de su juicio claro.\n\n\"Como bramido de cachorro de león es la ira del rey: y el que lo irrita peca contra su vida.\" Proverbios es honesto sobre cuánto poder lleva el humor y el temperamento de un líder — exactamente por eso los líderes necesitan más autocontrol, no menos.\n\n\"Misericordia y verdad guardan al rey; y con clemencia sustenta su trono.\" La verdadera seguridad en el liderazgo no viene de la fuerza ni del miedo — viene del amor genuino y la fidelidad hacia el pueblo que se lidera.\n\n\"Si un príncipe escuchare la palabra mentirosa, todos sus servidores serán impíos.\" Lo que un líder está dispuesto a escuchar moldea toda la cultura debajo de él. Y una de las advertencias más claras de todas: \"cuando los justos son muchos, el pueblo se alegra: mas cuando domina el impío, el pueblo gime.\" El liderazgo, para bien o para mal, se extiende hacia todos a quienes toca.",
+        "fr": "Beaucoup des proverbes de Salomon ont été écrits spécifiquement en pensant aux rois et aux dirigeants — mais les leçons s'appliquent à quiconque détient une forme d'autorité ou de leadership, même diriger un petit groupe, une équipe, ou une famille.\n\n« Ce n'est point aux rois, ô Lemuel, ce n'est point aux rois de boire du vin, ni aux princes de boire des liqueurs fortes ; de peur qu'en buvant ils n'oublient la loi, et ne méconnaissent les droits de tous les malheureux. » La maîtrise de soi d'un dirigeant affecte directement les personnes qui dépendent de son jugement clair.\n\n« La colère du roi est comme le rugissement d'un lion ; celui qui l'irrite pèche contre lui-même. » Les Proverbes sont honnêtes sur la quantité de pouvoir que portent l'humeur et le tempérament d'un dirigeant — c'est exactement pour cela que les dirigeants ont besoin de plus de maîtrise de soi, pas moins.\n\n« La bonté et la fidélité gardent le roi, et il soutient son trône par la bonté. » La véritable sécurité dans le leadership ne vient pas de la force ni de la peur — elle vient d'un amour authentique et d'une fidélité envers le peuple dirigé.\n\n« Si un roi écoute les mensonges, tous ses serviteurs sont des méchants. » Ce qu'un dirigeant est disposé à écouter façonne toute la culture en dessous de lui. Et l'un des avertissements les plus clairs de tous : « quand les justes sont nombreux, le peuple est dans la joie ; quand le méchant domine, le peuple gémit. » Le leadership, pour le meilleur ou pour le pire, se répand sur tous ceux qu'il touche."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Love and faithfulness keep a king safe; through love his throne is made secure."
+        "en": "Love and faithfulness keep a king safe; through love his throne is made secure.",
+        "es": "Misericordia y verdad guardan al rey; y con clemencia sustenta su trono.",
+        "fr": "La bonté et la fidélité gardent le roi, Et il soutient son trône par la bonté."
       },
       "ref": {
-        "en": "Proverbs 20:28 (NIV)"
+        "en": "Proverbs 20:28 (NIV)",
+        "es": "Proverbios 20:28 (Valera)",
+        "fr": "Proverbes 20:28 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "is",
           "made",
           "secure"
+        ],
+        "es": [
+          "Misericordia",
+          "y",
+          "verdad",
+          "guardan",
+          "al",
+          "rey"
+        ],
+        "fr": [
+          "La",
+          "bonté",
+          "et",
+          "la",
+          "fidélité",
+          "gardent"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for What Makes a Good Leader"
+        "en": "A Song for What Makes a Good Leader",
+        "es": "Una Canción para Lo Que Hace a un Buen Líder",
+        "fr": "Une Chanson pour Ce Qui Fait un Bon Dirigeant"
       },
       "audio_en": "/static/audio/proverbs/lesson32_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why does Proverbs say it's dangerous for kings or rulers to drink too much?"
+            "en": "Why does Proverbs say it's dangerous for kings or rulers to drink too much?",
+            "es": "¿Por qué dice Proverbios que es peligroso que los reyes o gobernantes beban demasiado?",
+            "fr": "Pourquoi Proverbes dit-il qu'il est dangereux que les rois ou dirigeants boivent trop ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "They might forget the law and deprive the oppressed of their rights",
               "It makes them stronger leaders",
               "No reason is given"
+            ],
+            "es": [
+              "No es realmente peligroso",
+              "Podrían olvidar la ley y privar de derechos a los afligidos",
+              "Los hace mejores líderes",
+              "No se da ninguna razón"
+            ],
+            "fr": [
+              "Ce n'est pas vraiment dangereux",
+              "Ils pourraient oublier la loi et priver les malheureux de leurs droits",
+              "Cela les rend meilleurs dirigeants",
+              "Aucune raison n'est donnée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Proverbs 20:28, what keeps a king's throne genuinely secure?"
+            "en": "According to Proverbs 20:28, what keeps a king's throne genuinely secure?",
+            "es": "Según Proverbios 20:28, ¿qué mantiene genuinamente seguro el trono de un rey?",
+            "fr": "Selon Proverbes 20:28, qu'est-ce qui garde véritablement le trône d'un roi en sécurité ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Love and faithfulness",
               "Wealth alone",
               "Nothing can make a throne secure"
+            ],
+            "es": [
+              "La fuerza y el miedo",
+              "La misericordia y la verdad",
+              "Solo la riqueza",
+              "Nada puede hacer seguro un trono"
+            ],
+            "fr": [
+              "La force et la peur",
+              "La bonté et la fidélité",
+              "Seulement la richesse",
+              "Rien ne peut rendre un trône sûr"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 29:2 say happens when the wicked rule, versus when the righteous thrive?"
+            "en": "What does Proverbs 29:2 say happens when the wicked rule, versus when the righteous thrive?",
+            "es": "¿Qué dice Proverbios 29:2 que sucede cuando gobierna el impío, versus cuando los justos prosperan?",
+            "fr": "Que dit Proverbes 29:2 qu'il arrive quand le méchant domine, comparé à quand les justes sont nombreux ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "When the righteous thrive the people rejoice; when the wicked rule the people groan",
               "The wicked ruling always makes people happy",
               "Leadership has no real effect on people"
+            ],
+            "es": [
+              "El pueblo se siente igual de cualquier manera",
+              "Cuando los justos son muchos el pueblo se alegra; cuando domina el impío el pueblo gime",
+              "El gobierno del impío siempre hace feliz al pueblo",
+              "El liderazgo no tiene efecto real en la gente"
+            ],
+            "fr": [
+              "Le peuple se sent pareil de toute façon",
+              "Quand les justes sont nombreux le peuple est dans la joie ; quand le méchant domine le peuple gémit",
+              "Le règne du méchant rend toujours le peuple heureux",
+              "Le leadership n'a pas d'effet réel sur les gens"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: What Makes a Good Leader"
+            "en": "Activity sheet: What Makes a Good Leader",
+            "es": "Hoja de actividad: Lo Que Hace a un Buen Líder",
+            "fr": "Fiche d'activité : Ce Qui Fait un Bon Dirigeant"
           },
           "file": "/static/printables/proverbs/lesson32_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: a significant, often-overlooked thread runs through Proverbs addressing how rulers and leaders should govern — self-control, listening to truth rather than flattery, ruling through love rather than fear — material originally aimed at kings but directly transferable to any position of leadership or influence a child might one day hold (team captain, older sibling, future parent, workplace leader).\n\nConversation starters: (1) Why might a leader's self-control matter even more than an ordinary person's? (2) What does it mean that a throne is made secure through \"love and faithfulness,\" not force? (3) Even without a throne, where do you already have some leadership or influence — over younger siblings, in a group project, on a team?\n\nPray for the leaders in your own life, and for wisdom in any leadership responsibility you already carry, however small."
+        "en": "Big idea: a significant, often-overlooked thread runs through Proverbs addressing how rulers and leaders should govern — self-control, listening to truth rather than flattery, ruling through love rather than fear — material originally aimed at kings but directly transferable to any position of leadership or influence a child might one day hold (team captain, older sibling, future parent, workplace leader).\n\nConversation starters: (1) Why might a leader's self-control matter even more than an ordinary person's? (2) What does it mean that a throne is made secure through \"love and faithfulness,\" not force? (3) Even without a throne, where do you already have some leadership or influence — over younger siblings, in a group project, on a team?\n\nPray for the leaders in your own life, and for wisdom in any leadership responsibility you already carry, however small.",
+        "es": "Idea principal: un hilo significativo, a menudo pasado por alto, recorre Proverbios abordando cómo deben gobernar los reyes y líderes — autocontrol, escuchar la verdad en lugar de la adulación, gobernar a través del amor en lugar del miedo — material originalmente dirigido a reyes pero directamente transferible a cualquier posición de liderazgo o influencia que un niño pueda tener algún día (capitán de equipo, hermano mayor, futuro padre, líder en el trabajo).\n\nPara conversar: (1) ¿Por qué podría el autocontrol de un líder importar incluso más que el de una persona común? (2) ¿Qué significa que un trono se hace seguro a través de \"la misericordia y la verdad,\" no por la fuerza? (3) Incluso sin un trono, ¿dónde ya tienes algo de liderazgo o influencia — sobre hermanos menores, en un proyecto de grupo, en un equipo?\n\nOren por los líderes en tu propia vida, y por sabiduría en cualquier responsabilidad de liderazgo que ya tengas, sin importar cuán pequeña sea.",
+        "fr": "Idée principale : un fil significatif, souvent négligé, traverse les Proverbes abordant comment les rois et dirigeants devraient gouverner — maîtrise de soi, écouter la vérité plutôt que la flatterie, diriger par l'amour plutôt que par la peur — un matériau initialement destiné aux rois mais directement transférable à toute position de leadership ou d'influence qu'un enfant pourrait un jour détenir (capitaine d'équipe, frère ou sœur aîné, futur parent, dirigeant au travail).\n\nPour la conversation : (1) Pourquoi la maîtrise de soi d'un dirigeant pourrait-elle importer encore plus que celle d'une personne ordinaire ? (2) Que signifie le fait qu'un trône est rendu sûr par « la bonté et la fidélité », pas par la force ? (3) Même sans trône, où as-tu déjà un peu de leadership ou d'influence — sur de jeunes frères et sœurs, dans un projet de groupe, dans une équipe ?\n\nPriez pour les dirigeants dans votre propre vie, et pour la sagesse dans toute responsabilité de leadership que tu as déjà, quelle que soit sa petitesse."
       }
     }
   ]

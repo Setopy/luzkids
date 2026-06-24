@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Blood That Truly Cleanses"
+    "en": "The Blood That Truly Cleanses",
+    "es": "La Sangre Que Verdaderamente Limpia",
+    "fr": "Le Sang Qui Purifie Vraiment"
   },
   "ref": "Hebrews 9:11-28",
   "section": "The Blood of Christ",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A curtain opened for good"
+        "en": "A curtain opened for good",
+        "es": "Una cortina abierta para siempre",
+        "fr": "Un rideau ouvert pour de bon"
       },
       "body": {
-        "en": "But when Christ came, He entered the TRUE, heavenly sanctuary — not made by human hands — by His OWN blood, securing eternal redemption, ONCE, for all time! The blood of animals could only cleanse the outside, ceremonially, and had to be repeated every year because it could never truly take away sin.\n\nBut the blood of Christ cleanses the CONSCIENCE itself, washing away real guilt, so we can serve the living God with a clean heart. Just as a person dies once and then faces judgment, so Christ was sacrificed ONCE to take away the sins of many — and He will appear a second time, not to deal with sin again, but to bring full and final salvation to those waiting for Him.\n\nThe curtain that once separated humanity from God's presence has been opened — for good."
+        "en": "But when Christ came, He entered the TRUE, heavenly sanctuary — not made by human hands — by His OWN blood, securing eternal redemption, ONCE, for all time! The blood of animals could only cleanse the outside, ceremonially, and had to be repeated every year because it could never truly take away sin.\n\nBut the blood of Christ cleanses the CONSCIENCE itself, washing away real guilt, so we can serve the living God with a clean heart. Just as a person dies once and then faces judgment, so Christ was sacrificed ONCE to take away the sins of many — and He will appear a second time, not to deal with sin again, but to bring full and final salvation to those waiting for Him.\n\nThe curtain that once separated humanity from God's presence has been opened — for good.",
+        "es": "Pero cuando Cristo vino, entró en el santuario VERDADERO, celestial — no hecho por manos humanas — por Su PROPIA sangre, ¡asegurando redención eterna, UNA SOLA VEZ, para siempre! La sangre de los animales solo podía limpiar lo exterior, ceremonialmente, y tenía que repetirse cada año porque nunca podía realmente quitar el pecado.\n\nPero la sangre de Cristo limpia la CONCIENCIA misma, lavando la culpa real, para que podamos servir al Dios viviente con un corazón limpio. Así como una persona muere una vez y luego enfrenta el juicio, así Cristo fue sacrificado UNA SOLA VEZ para quitar los pecados de muchos — y aparecerá una segunda vez, no para tratar con el pecado de nuevo, sino para traer salvación plena y final a los que le esperan.\n\nLa cortina que una vez separaba a la humanidad de la presencia de Dios ha sido abierta — para siempre.",
+        "fr": "Mais quand Christ vint, Il entra dans le sanctuaire VÉRITABLE, céleste — non fait de mains humaines — par Son PROPRE sang, sécurisant une rédemption éternelle, UNE SEULE FOIS, pour toujours ! Le sang des animaux ne pouvait purifier que l'extérieur, cérémoniellement, et devait être répété chaque année parce qu'il ne pouvait jamais réellement enlever le péché.\n\nMais le sang de Christ purifie la CONSCIENCE elle-même, lavant la culpabilité réelle, afin que nous puissions servir le Dieu vivant avec un cœur pur. Tout comme une personne meurt une fois puis fait face au jugement, ainsi Christ a été sacrifié UNE SEULE FOIS pour enlever les péchés de plusieurs — et Il apparaîtra une seconde fois, non pour traiter le péché à nouveau, mais pour apporter un salut plein et final à ceux qui L'attendent.\n\nLe rideau qui séparait autrefois l'humanité de la présence de Dieu a été ouvert — pour de bon."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "By means of his own blood, he entered the Most Holy Place once for all, having obtained eternal redemption."
+        "en": "By means of his own blood, he entered the Most Holy Place once for all, having obtained eternal redemption.",
+        "es": "Y no por sangre de machos cabríos ni de becerros, mas por su propia sangre, entró una sola vez en el santuario, habiendo obtenido eterna redención.",
+        "fr": "et il est entré une fois pour toutes dans le lieu très saint, non avec le sang des boucs et des veaux, mais avec son propre sang, ayant obtenu une rédemption éternelle."
       },
       "ref": {
-        "en": "Hebrews 9:12 (NIV)"
+        "en": "Hebrews 9:12 (NIV)",
+        "es": "Hebreos 9:12 (Valera)",
+        "fr": "Hébreux 9:12 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "once",
           "for",
           "all"
+        ],
+        "es": [
+          "Y",
+          "no",
+          "por",
+          "sangre",
+          "de",
+          "machos"
+        ],
+        "fr": [
+          "Et",
+          "il",
+          "est",
+          "entré",
+          "une",
+          "fois"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Blood That Truly Cleanses"
+        "en": "A Song for The Blood That Truly Cleanses",
+        "es": "Una Canción para La Sangre Que Verdaderamente Limpia",
+        "fr": "Une Chanson pour Le Sang Qui Purifie Vraiment"
       },
       "audio_en": "/static/audio/hebrews/lesson13_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why did the old animal sacrifices have to be repeated every year?"
+            "en": "Why did the old animal sacrifices have to be repeated every year?",
+            "es": "¿Por qué los antiguos sacrificios de animales tenían que repetirse cada año?",
+            "fr": "Pourquoi les anciens sacrifices d'animaux devaient-ils être répétés chaque année ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "Animal blood could never truly take away sin completely",
               "God forgot",
               "People demanded it"
+            ],
+            "es": [
+              "A los sacerdotes les gustaba la variedad",
+              "La sangre animal nunca podía quitar verdaderamente el pecado por completo",
+              "Dios se olvidó",
+              "El pueblo lo exigía"
+            ],
+            "fr": [
+              "Les sacrificateurs aimaient la variété",
+              "Le sang animal ne pouvait jamais vraiment enlever complètement le péché",
+              "Dieu a oublié",
+              "Le peuple l'exigeait"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Christ's blood cleanse, that animal blood never could?"
+            "en": "What does Christ's blood cleanse, that animal blood never could?",
+            "es": "¿Qué limpia la sangre de Cristo, que la sangre animal nunca pudo?",
+            "fr": "Que purifie le sang de Christ, que le sang animal n'a jamais pu purifier ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "The conscience itself, washing away real guilt",
               "Nothing different",
               "Only some hearts"
+            ],
+            "es": [
+              "Solo lo exterior",
+              "La conciencia misma, lavando la culpa real",
+              "Nada diferente",
+              "Solo algunos corazones"
+            ],
+            "fr": [
+              "Seulement l'extérieur",
+              "La conscience elle-même, lavant la culpabilité réelle",
+              "Rien de différent",
+              "Seulement certains cœurs"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why will Christ appear a second time?"
+            "en": "Why will Christ appear a second time?",
+            "es": "¿Por qué aparecerá Cristo una segunda vez?",
+            "fr": "Pourquoi Christ apparaîtra-t-Il une seconde fois ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "To bring full and final salvation to those waiting",
               "To start a new sacrifice",
               "No reason given"
+            ],
+            "es": [
+              "Para tratar con el pecado todo de nuevo",
+              "Para traer salvación plena y final a los que esperan",
+              "Para comenzar un nuevo sacrificio",
+              "No se da ninguna razón"
+            ],
+            "fr": [
+              "Pour traiter le péché tout à nouveau",
+              "Pour apporter un salut plein et final à ceux qui attendent",
+              "Pour commencer un nouveau sacrifice",
+              "Aucune raison n'est donnée"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Blood That Truly Cleanses"
+            "en": "Activity sheet: The Blood That Truly Cleanses",
+            "es": "Hoja de actividad: La Sangre Que Verdaderamente Limpia",
+            "fr": "Fiche d'activité : Le Sang Qui Purifie Vraiment"
           },
           "file": "/static/printables/hebrews/lesson13_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Christ's once-for-all entry into the TRUE heavenly sanctuary, by His own blood, decisively fulfills and surpasses everything the previous lesson's earthly tabernacle could only point toward. \"Cleanse your conscience\" (9:14) is real, inward cleansing, not merely positional forgiveness.\n\nConversation starters: (1) What does the opened curtain represent now? (2) Why couldn't animal blood ever fully take away guilt? (3) What does a truly \"clean conscience\" feel like?\n\nPray, thanking God for hearts cleansed within, not just outwardly."
+        "en": "Big idea: Christ's once-for-all entry into the TRUE heavenly sanctuary, by His own blood, decisively fulfills and surpasses everything the previous lesson's earthly tabernacle could only point toward. \"Cleanse your conscience\" (9:14) is real, inward cleansing, not merely positional forgiveness.\n\nConversation starters: (1) What does the opened curtain represent now? (2) Why couldn't animal blood ever fully take away guilt? (3) What does a truly \"clean conscience\" feel like?\n\nPray, thanking God for hearts cleansed within, not just outwardly.",
+        "es": "Idea principal: la entrada de Cristo, de una vez para siempre, en el santuario celestial VERDADERO, por Su propia sangre, cumple decisivamente y supera todo lo que el tabernáculo terrenal de la lección anterior solo podía señalar. 'Limpiar tu conciencia' (9:14) es una limpieza real e interior, no meramente un perdón posicional.\n\nPara conversar: (1) ¿Qué representa ahora la cortina abierta? (2) ¿Por qué la sangre animal nunca pudo quitar completamente la culpa? (3) ¿Cómo se siente una 'conciencia limpia' verdadera?\n\nOren, agradeciendo a Dios por corazones limpios por dentro, no solo por fuera.",
+        "fr": "Idée principale : l'entrée de Christ, une fois pour toutes, dans le sanctuaire céleste VÉRITABLE, par Son propre sang, accomplit décisivement et surpasse tout ce que le tabernacle terrestre de la leçon précédente ne pouvait que désigner. « Purifier votre conscience » (9.14) est une purification réelle et intérieure, et non simplement un pardon de position.\n\nPour la conversation : (1) Que représente maintenant le rideau ouvert ? (2) Pourquoi le sang animal ne pouvait-il jamais enlever complètement la culpabilité ? (3) Que ressent-on avec une véritable « conscience pure » ?\n\nPriez, en remerciant Dieu pour des cœurs purifiés intérieurement, et non seulement extérieurement."
       }
     }
   ]

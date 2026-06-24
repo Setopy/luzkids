@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Faith Hall of Fame"
+    "en": "The Faith Hall of Fame",
+    "es": "El Salón de la Fama de la Fe",
+    "fr": "Le Temple de la Renommée de la Foi"
   },
   "ref": "Hebrews 11:1-40",
   "section": "By Faith",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Heroes who trusted without seeing"
+        "en": "Heroes who trusted without seeing",
+        "es": "Héroes que confiaron sin ver",
+        "fr": "Des héros qui ont fait confiance sans voir"
       },
       "body": {
-        "en": "Now the writer takes us on a thrilling tour through the greatest heroes of faith in history! Faith, he explains, is being SURE of what we hope for and CERTAIN of what we do not see. By faith, Abel offered a better sacrifice than Cain.\n\nBy faith, Noah built a giant boat on dry land, warned of a flood no one had seen, and saved his family. By faith, Abraham left his home, not knowing where he was going, simply because God said go. By faith, Moses chose to suffer with God's people rather than enjoy Egypt's treasures, leading them through the Red Sea on dry ground.\n\nBy faith, the walls of Jericho fell after the people marched and shouted as God commanded. By faith, Rahab — a foreigner who hid Israel's spies — was not killed with the disobedient. The writer keeps going: Gideon, Samson, David, the prophets, who conquered kingdoms, shut the mouths of lions, escaped the sword.\n\nBut others were tortured, refusing release, so they might gain a better resurrection — the world was not worthy of them! They were looking for something better: a heavenly country. All these were commended for their faith, yet none received the complete promise in their lifetime, because God had something even BETTER planned — including YOU — so that together, their faith would finally be made complete."
+        "en": "Now the writer takes us on a thrilling tour through the greatest heroes of faith in history! Faith, he explains, is being SURE of what we hope for and CERTAIN of what we do not see. By faith, Abel offered a better sacrifice than Cain.\n\nBy faith, Noah built a giant boat on dry land, warned of a flood no one had seen, and saved his family. By faith, Abraham left his home, not knowing where he was going, simply because God said go. By faith, Moses chose to suffer with God's people rather than enjoy Egypt's treasures, leading them through the Red Sea on dry ground.\n\nBy faith, the walls of Jericho fell after the people marched and shouted as God commanded. By faith, Rahab — a foreigner who hid Israel's spies — was not killed with the disobedient. The writer keeps going: Gideon, Samson, David, the prophets, who conquered kingdoms, shut the mouths of lions, escaped the sword.\n\nBut others were tortured, refusing release, so they might gain a better resurrection — the world was not worthy of them! They were looking for something better: a heavenly country. All these were commended for their faith, yet none received the complete promise in their lifetime, because God had something even BETTER planned — including YOU — so that together, their faith would finally be made complete.",
+        "es": "¡Ahora el escritor nos lleva en un emocionante recorrido por los héroes más grandes de la fe en la historia! La fe, explica, es estar SEGUROS de lo que esperamos y CIERTOS de lo que no vemos. Por fe, Abel ofreció un sacrificio mejor que el de Caín.\n\nPor fe, Noé construyó un barco gigante en tierra seca, advertido de un diluvio que nadie había visto, y salvó a su familia. Por fe, Abraham dejó su hogar, sin saber a dónde iba, simplemente porque Dios dijo ve. Por fe, Moisés eligió sufrir con el pueblo de Dios en lugar de disfrutar los tesoros de Egipto, guiándolos a través del Mar Rojo en tierra seca.\n\nPor fe, los muros de Jericó cayeron después de que el pueblo marchó y gritó como Dios mandó. Por fe, Rahab — una extranjera que escondió a los espías de Israel — no fue muerta con los desobedientes. El escritor sigue: Gedeón, Sansón, David, los profetas, que conquistaron reinos, cerraron bocas de leones, escaparon de la espada.\n\nPero otros fueron torturados, rehusando la liberación, para alcanzar una mejor resurrección — ¡el mundo no era digno de ellos! Buscaban algo mejor: una patria celestial. Todos estos fueron alabados por su fe, sin embargo ninguno recibió la promesa completa en su vida, porque Dios tenía algo aún MEJOR planeado — incluyéndote a TI — para que juntos, su fe finalmente fuera hecha completa.",
+        "fr": "Maintenant l'auteur nous emmène dans un parcours passionnant à travers les plus grands héros de la foi de l'histoire ! La foi, explique-t-il, c'est être SÛR de ce que nous espérons et CERTAIN de ce que nous ne voyons pas. Par la foi, Abel offrit un meilleur sacrifice que Caïn.\n\nPar la foi, Noé construisit un bateau géant sur la terre sèche, averti d'un déluge que personne n'avait vu, et sauva sa famille. Par la foi, Abraham quitta sa maison, ne sachant où il allait, simplement parce que Dieu avait dit d'aller. Par la foi, Moïse choisit de souffrir avec le peuple de Dieu plutôt que de profiter des trésors d'Égypte, les conduisant à travers la mer Rouge sur la terre sèche.\n\nPar la foi, les murs de Jéricho s'écroulèrent après que le peuple eut marché et crié comme Dieu l'avait ordonné. Par la foi, Rahab — une étrangère qui cacha les espions d'Israël — ne fut pas tuée avec les désobéissants. L'auteur continue : Gédéon, Samson, David, les prophètes, qui conquirent des royaumes, fermèrent la gueule des lions, échappèrent à l'épée.\n\nMais d'autres furent torturés, refusant d'être délivrés, afin d'obtenir une meilleure résurrection — le monde n'était pas digne d'eux ! Ils cherchaient quelque chose de meilleur : une patrie céleste. Tous ceux-là furent approuvés pour leur foi, et pourtant aucun ne reçut la promesse complète durant sa vie, car Dieu avait quelque chose d'encore MEILLEUR prévu — TOI inclus — afin que, ensemble, leur foi soit enfin rendue complète."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Now faith is confidence in what we hope for and assurance about what we do not see."
+        "en": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+        "es": "ES pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven.",
+        "fr": "Or la foi est une ferme assurance des choses qu'on espère, une démonstration de celles qu'on ne voit pas."
       },
       "ref": {
-        "en": "Hebrews 11:1 (NIV)"
+        "en": "Hebrews 11:1 (NIV)",
+        "es": "Hebreos 11:1 (Valera)",
+        "fr": "Hébreux 11:1 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "we",
           "hope",
           "for"
+        ],
+        "es": [
+          "Es",
+          "pues",
+          "la",
+          "fe",
+          "la",
+          "sustancia"
+        ],
+        "fr": [
+          "Or",
+          "la",
+          "foi",
+          "est",
+          "une",
+          "ferme"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Faith Hall of Fame"
+        "en": "A Song for The Faith Hall of Fame",
+        "es": "Una Canción para El Salón de la Fama de la Fe",
+        "fr": "Une Chanson pour Le Temple de la Renommée de la Foi"
       },
       "audio_en": "/static/audio/hebrews/lesson16_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "How does Hebrews 11:1 define faith?"
+            "en": "How does Hebrews 11:1 define faith?",
+            "es": "¿Cómo define Hebreos 11:1 la fe?",
+            "fr": "Comment Hébreux 11.1 définit-il la foi ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "Confidence in what we hope for, assurance about what we don't see",
               "Guessing",
               "Following rules blindly"
+            ],
+            "es": [
+              "Creer solo lo que puedes ver",
+              "Confianza en lo que esperamos, certeza de lo que no vemos",
+              "Adivinar",
+              "Seguir reglas ciegamente"
+            ],
+            "fr": [
+              "Croire seulement ce que l'on peut voir",
+              "Confiance en ce que nous espérons, certitude de ce que nous ne voyons pas",
+              "Deviner",
+              "Suivre des règles à l'aveugle"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did Abraham leave his home?"
+            "en": "Why did Abraham leave his home?",
+            "es": "¿Por qué dejó Abraham su hogar?",
+            "fr": "Pourquoi Abraham a-t-il quitté sa maison ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "By faith, simply because God told him to go",
               "Adventure",
               "Family forced him"
+            ],
+            "es": [
+              "Sin otra opción",
+              "Por fe, simplemente porque Dios le dijo que fuera",
+              "Por aventura",
+              "Su familia lo obligó"
+            ],
+            "fr": [
+              "Sans autre choix",
+              "Par la foi, simplement parce que Dieu lui a dit d'aller",
+              "Par aventure",
+              "Sa famille l'y a obligé"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What were the faith heroes ultimately looking for, even without receiving every promise in this life?"
+            "en": "What were the faith heroes ultimately looking for, even without receiving every promise in this life?",
+            "es": "¿Qué buscaban en última instancia los héroes de la fe, incluso sin recibir cada promesa en esta vida?",
+            "fr": "Que recherchaient ultimement les héros de la foi, même sans recevoir chaque promesse dans cette vie ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "A better country — a heavenly one",
               "More wealth",
               "Nothing in particular"
+            ],
+            "es": [
+              "Una casa más grande en la tierra",
+              "Una patria mejor — una celestial",
+              "Más riqueza",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Une plus grande maison sur terre",
+              "Une meilleure patrie — une céleste",
+              "Plus de richesse",
+              "Rien de particulier"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Faith Hall of Fame"
+            "en": "Activity sheet: The Faith Hall of Fame",
+            "es": "Hoja de actividad: El Salón de la Fama de la Fe",
+            "fr": "Fiche d'activité : Le Temple de la Renommée de la Foi"
           },
           "file": "/static/printables/hebrews/lesson16_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: faith demonstrated through real, costly action by ordinary, flawed people — not mere mental belief — answering, after several sharp warnings, what faithful endurance actually looks like in practice. The chapter deliberately spans both faith that acts in triumph (11:1-31) and faith that endures suffering without seeing the promise fulfilled (11:32-40) — read as one continuous testimony, not two separate ideas.\n\nConversation starters: (1) Which hero here is most exciting to you, and why? (2) What does faith in something unseen mean practically? (3) Why does the chapter honour, not pity, those who suffered greatly?\n\nPray for the same kind of confident, enduring faith shown by these heroes."
+        "en": "Big idea: faith demonstrated through real, costly action by ordinary, flawed people — not mere mental belief — answering, after several sharp warnings, what faithful endurance actually looks like in practice. The chapter deliberately spans both faith that acts in triumph (11:1-31) and faith that endures suffering without seeing the promise fulfilled (11:32-40) — read as one continuous testimony, not two separate ideas.\n\nConversation starters: (1) Which hero here is most exciting to you, and why? (2) What does faith in something unseen mean practically? (3) Why does the chapter honour, not pity, those who suffered greatly?\n\nPray for the same kind of confident, enduring faith shown by these heroes.",
+        "es": "Idea principal: la fe demostrada por medio de acción real y costosa, hecha por personas comunes e imperfectas — no mera creencia mental — respondiendo, después de varias advertencias agudas, a cómo se ve realmente la perseverancia fiel en la práctica. El capítulo abarca deliberadamente tanto la fe que actúa en triunfo (11:1-31) como la fe que soporta el sufrimiento sin ver la promesa cumplida (11:32-40) — leído como un solo testimonio continuo, no dos ideas separadas.\n\nPara conversar: (1) ¿Cuál héroe aquí te emociona más, y por qué? (2) ¿Qué significa en la práctica la fe en algo que no se ve? (3) ¿Por qué el capítulo honra, en lugar de compadecer, a quienes sufrieron grandemente?\n\nOren por el mismo tipo de fe confiada y perseverante que mostraron estos héroes.",
+        "fr": "Idée principale : la foi démontrée par une action réelle et coûteuse, accomplie par des personnes ordinaires et imparfaites — et non une simple croyance mentale — répondant, après plusieurs avertissements aigus, à ce à quoi ressemble réellement la persévérance fidèle en pratique. Le chapitre couvre délibérément à la fois la foi qui agit en triomphe (11.1-31) et la foi qui endure la souffrance sans voir la promesse accomplie (11.32-40) — lu comme un seul témoignage continu, et non deux idées séparées.\n\nPour la conversation : (1) Quel héros ici t'enthousiasme le plus, et pourquoi ? (2) Que signifie concrètement la foi en quelque chose d'invisible ? (3) Pourquoi le chapitre honore-t-il, plutôt que de plaindre, ceux qui ont grandement souffert ?\n\nPriez pour le même genre de foi confiante et persévérante que ces héros ont montrée."
       }
     }
   ]

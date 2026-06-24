@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Plans Succeed With Many Advisers"
+    "en": "Plans Succeed With Many Advisers",
+    "es": "Los Planes Se Afirman Con Muchos Consejeros",
+    "fr": "Les Projets Réussissent Avec de Nombreux Conseillers"
   },
   "ref": "Proverbs 11:14; 12:15; 15:22; 19:20; 24:6",
   "section": "The Value of Good Counsel (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Why wise people ask for help"
+        "en": "Why wise people ask for help",
+        "es": "Por qué la gente sabia pide ayuda",
+        "fr": "Pourquoi les sages demandent de l'aide"
       },
       "body": {
-        "en": "'For lack of guidance a nation falls, but victory is won through many advisers.' Proverbs treats seeking counsel from others, not just relying on your own judgment, as essential — even for something as significant as an entire nation.\n\n'Plans fail for lack of counsel, but with many advisers they succeed.' This proverb appears more than once in different forms throughout the book, which itself is a signal of how important this theme is — good plans need more than one mind working on them.\n\n'Listen to advice and accept instruction, and at the end you will be counted among the wise.' Notice the order — listening to advice comes FIRST, and being counted wise is the result that follows, not the other way around.\n\n'Surely you need guidance to wage war, and victory is won through many advisers.' Even in something as high-stakes as conflict or competition, Proverbs insists that one mind alone, however confident, isn't enough.\n\nThis theme connects directly back to chapter 12: 'the way of fools seems right to them, but the wise listen to advice.' Throughout the whole book, one of the clearest, most repeated marks of genuine wisdom is simply this: being willing to ask for help and actually listen when it's given."
+        "en": "'For lack of guidance a nation falls, but victory is won through many advisers.' Proverbs treats seeking counsel from others, not just relying on your own judgment, as essential — even for something as significant as an entire nation.\n\n'Plans fail for lack of counsel, but with many advisers they succeed.' This proverb appears more than once in different forms throughout the book, which itself is a signal of how important this theme is — good plans need more than one mind working on them.\n\n'Listen to advice and accept instruction, and at the end you will be counted among the wise.' Notice the order — listening to advice comes FIRST, and being counted wise is the result that follows, not the other way around.\n\n'Surely you need guidance to wage war, and victory is won through many advisers.' Even in something as high-stakes as conflict or competition, Proverbs insists that one mind alone, however confident, isn't enough.\n\nThis theme connects directly back to chapter 12: 'the way of fools seems right to them, but the wise listen to advice.' Throughout the whole book, one of the clearest, most repeated marks of genuine wisdom is simply this: being willing to ask for help and actually listen when it's given.",
+        "es": "\"Por falta de consejo el pueblo cae: mas en la multitud de consejeros hay salud.\" Proverbios trata el buscar consejo de otros, no solo confiar en tu propio juicio, como esencial — incluso para algo tan significativo como una nación entera.\n\n\"Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman.\" Este proverbio aparece más de una vez en diferentes formas a lo largo del libro, lo cual en sí mismo es una señal de cuán importante es este tema — los buenos planes necesitan más de una mente trabajando en ellos.\n\n\"El oído que escucha la reprensión de vida, entre los sabios morará.\" Nota el orden — escuchar el consejo viene PRIMERO, y ser contado entre los sabios es el resultado que sigue, no al revés.\n\n\"Porque con consejo harás la guerra: y la victoria está en la multitud de los consejeros.\" Incluso en algo tan de alto riesgo como el conflicto o la competencia, Proverbios insiste en que una sola mente, sin importar cuán confiada, no es suficiente.\n\nEste tema se conecta directamente de vuelta al capítulo 12: \"el camino del necio es derecho en su opinión: mas el que obedece al consejo es sabio.\" A través de todo el libro, una de las marcas más claras y repetidas de la sabiduría genuina es simplemente esto: estar dispuesto a pedir ayuda y realmente escuchar cuando se da.",
+        "fr": "« Faute de prudence, le peuple tombe ; et le salut est dans le grand nombre des conseillers. » Les Proverbes traitent le fait de chercher conseil auprès d'autres, pas seulement de se fier à son propre jugement, comme essentiel — même pour quelque chose d'aussi important qu'une nation entière.\n\n« Les projets échouent, faute d'une assemblée qui délibère ; mais ils réussissent quand il y a de nombreux conseillers. » Ce proverbe apparaît plus d'une fois sous différentes formes tout au long du livre, ce qui est en soi un signe de l'importance de ce thème — les bons projets ont besoin de plus d'un esprit qui y travaille.\n\n« Écoute les conseils, et reçois l'instruction, afin que tu sois sage dans la suite de ta vie. » Remarque l'ordre — écouter les conseils vient D'ABORD, et être compté parmi les sages est le résultat qui suit, pas l'inverse.\n\n« Mais on fait la guerre avec de sages conseils ; et le salut est dans le nombre des conseillers. » Même dans quelque chose d'aussi risqué que le conflit ou la compétition, les Proverbes insistent qu'un seul esprit, quelle que soit sa confiance, ne suffit pas.\n\nCe thème se rattache directement au chapitre 12 : « la voie de l'insensé est droite à ses yeux, mais celui qui écoute les conseils est sage. » Partout dans le livre, l'une des marques les plus claires et les plus répétées de la sagesse authentique est simplement ceci : être disposé à demander de l'aide et réellement écouter quand elle est donnée."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Plans fail for lack of counsel, but with many advisers they succeed."
+        "en": "Plans fail for lack of counsel, but with many advisers they succeed.",
+        "es": "Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman.",
+        "fr": "Les projets échouent, faute d'une assemblée qui délibère ; Mais ils réussissent quand il y a de nombreux conseillers."
       },
       "ref": {
-        "en": "Proverbs 15:22 (NIV)"
+        "en": "Proverbs 15:22 (NIV)",
+        "es": "Proverbios 15:22 (Valera)",
+        "fr": "Proverbes 15:22 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "advisers",
           "they",
           "succeed"
+        ],
+        "es": [
+          "Los",
+          "pensamientos",
+          "son",
+          "frustrados",
+          "donde",
+          "no"
+        ],
+        "fr": [
+          "Les",
+          "projets",
+          "échouent",
+          "faute",
+          "d'une",
+          "assemblée"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Plans Succeed With Many Advisers"
+        "en": "A Song for Plans Succeed With Many Advisers",
+        "es": "Una Canción para Los Planes Se Afirman Con Muchos Consejeros",
+        "fr": "Une Chanson pour Les Projets Réussissent Avec de Nombreux Conseillers"
       },
       "audio_en": "/static/audio/proverbs/lesson35_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 15:22, why do plans fail?"
+            "en": "According to Proverbs 15:22, why do plans fail?",
+            "es": "Según Proverbios 15:22, ¿por qué fallan los planes?",
+            "fr": "Selon Proverbes 15:22, pourquoi les projets échouent-ils ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "For lack of counsel — they succeed with many advisers",
               "Plans never actually fail",
               "Only bad plans fail"
+            ],
+            "es": [
+              "Siempre debido a la mala suerte",
+              "Por falta de consejo — se afirman con muchos consejeros",
+              "Los planes nunca realmente fallan",
+              "Solo los malos planes fallan"
+            ],
+            "fr": [
+              "Toujours en raison de la malchance",
+              "Faute d'une assemblée qui délibère — ils réussissent avec de nombreux conseillers",
+              "Les projets n'échouent jamais vraiment",
+              "Seuls les mauvais projets échouent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What order does Proverbs 19:20 give for becoming wise?"
+            "en": "What order does Proverbs 19:20 give for becoming wise?",
+            "es": "¿Qué orden da Proverbios 19:20 para volverse sabio?",
+            "fr": "Quel ordre donne Proverbes 19:20 pour devenir sage ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "Listen to advice and accept instruction first; being counted wise follows",
               "It doesn't matter which comes first",
               "Wisdom requires no listening at all"
+            ],
+            "es": [
+              "Vuélvete sabio primero, luego escucha el consejo",
+              "Escucha el consejo y recibe instrucción primero; ser contado sabio sigue",
+              "No importa cuál venga primero",
+              "La sabiduría no requiere escuchar nada"
+            ],
+            "fr": [
+              "Deviens sage d'abord, puis écoute les conseils",
+              "Écoute les conseils et reçois l'instruction d'abord ; être compté sage suit",
+              "Cela n'a pas d'importance lequel vient en premier",
+              "La sagesse ne nécessite aucune écoute"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Proverbs describe the value of 'many advisers,' even for something as serious as a nation or a war?"
+            "en": "How does Proverbs describe the value of 'many advisers,' even for something as serious as a nation or a war?",
+            "es": "¿Cómo describe Proverbios el valor de 'muchos consejeros,' incluso para algo tan serio como una nación o una guerra?",
+            "fr": "Comment Proverbes décrit-il la valeur de « nombreux conseillers », même pour quelque chose d'aussi sérieux qu'une nation ou une guerre ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "Victory and success come through having many advisers, not relying on one mind alone",
               "Advisers are unnecessary distractions",
               "Nothing is said about advisers"
+            ],
+            "es": [
+              "Un líder confiado siempre es suficiente",
+              "La victoria y el éxito vienen a través de tener muchos consejeros, no de confiar en una sola mente",
+              "Los consejeros son distracciones innecesarias",
+              "No se dice nada sobre los consejeros"
+            ],
+            "fr": [
+              "Un dirigeant confiant suffit toujours",
+              "La victoire et le succès viennent en ayant de nombreux conseillers, pas en se fiant à un seul esprit",
+              "Les conseillers sont des distractions inutiles",
+              "Rien n'est dit sur les conseillers"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Plans Succeed With Many Advisers"
+            "en": "Activity sheet: Plans Succeed With Many Advisers",
+            "es": "Hoja de actividad: Los Planes Se Afirman Con Muchos Consejeros",
+            "fr": "Fiche d'activité : Les Projets Réussissent Avec de Nombreux Conseillers"
           },
           "file": "/static/printables/proverbs/lesson35_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs repeatedly and deliberately undercuts the idea that wisdom means having all the answers yourself — genuine wisdom actively seeks counsel from others, recognizing the real limits of any single perspective, however confident or capable. This is a needed corrective for children (and adults) inclined toward self-reliant pride, connecting directly back to the earlier theme of humility versus pride.\n\nConversation starters: (1) Why might even a confident, capable person still need other people's advice? (2) Can you think of a time someone else's counsel helped you make a better decision than you would have alone? (3) Who are the \"many advisers\" in your own life you could go to for guidance?\n\nPray for humility to seek good counsel, and for wise people in your life willing to give it honestly."
+        "en": "Big idea: Proverbs repeatedly and deliberately undercuts the idea that wisdom means having all the answers yourself — genuine wisdom actively seeks counsel from others, recognizing the real limits of any single perspective, however confident or capable. This is a needed corrective for children (and adults) inclined toward self-reliant pride, connecting directly back to the earlier theme of humility versus pride.\n\nConversation starters: (1) Why might even a confident, capable person still need other people's advice? (2) Can you think of a time someone else's counsel helped you make a better decision than you would have alone? (3) Who are the \"many advisers\" in your own life you could go to for guidance?\n\nPray for humility to seek good counsel, and for wise people in your life willing to give it honestly.",
+        "es": "Idea principal: Proverbios repetida y deliberadamente contradice la idea de que la sabiduría significa tener todas las respuestas tú mismo — la sabiduría genuina busca activamente consejo de otros, reconociendo los límites reales de cualquier perspectiva individual, sin importar cuán confiada o capaz sea. Esta es una corrección necesaria para los niños (y adultos) inclinados hacia el orgullo autosuficiente, conectando directamente con el tema anterior de humildad versus orgullo.\n\nPara conversar: (1) ¿Por qué podría incluso una persona confiada y capaz seguir necesitando el consejo de otros? (2) ¿Puedes pensar en un momento en que el consejo de otra persona te ayudó a tomar una mejor decisión de la que habrías tomado solo? (3) ¿Quiénes son los \"muchos consejeros\" en tu propia vida a quienes podrías acudir por guía?\n\nOren por humildad para buscar buen consejo, y por gente sabia en tu vida dispuesta a darlo honestamente.",
+        "fr": "Idée principale : les Proverbes contredisent à plusieurs reprises et délibérément l'idée que la sagesse signifie avoir toutes les réponses soi-même — la sagesse authentique recherche activement le conseil des autres, reconnaissant les vraies limites de toute perspective individuelle, quelle que soit sa confiance ou sa capacité. C'est une correction nécessaire pour les enfants (et les adultes) enclins à un orgueil autosuffisant, se rattachant directement au thème précédent de l'humilité versus l'orgueil.\n\nPour la conversation : (1) Pourquoi même une personne confiante et capable pourrait-elle encore avoir besoin du conseil des autres ? (2) Peux-tu penser à un moment où le conseil de quelqu'un d'autre t'a aidé à prendre une meilleure décision que tu n'aurais prise seul ? (3) Qui sont les « nombreux conseillers » dans ta propre vie vers qui tu pourrais te tourner pour obtenir des conseils ?\n\nPriez pour l'humilité de chercher un bon conseil, et pour des personnes sages dans ta vie disposées à le donner honnêtement."
       }
     }
   ]

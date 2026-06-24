@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Why the Law, Then?"
+    "en": "Why the Law, Then?",
+    "es": "¿Entonces, Para Qué la Ley?",
+    "fr": "Alors, Pourquoi la Loi ?"
   },
   "ref": "Galatians 3:15-25",
   "section": "The Law and the Promise",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A guard, not the goal"
+        "en": "A guard, not the goal",
+        "es": "Un guardián, no la meta",
+        "fr": "Un gardien, pas le but"
       },
       "body": {
-        "en": "If righteousness comes by faith, not by the law, then why did God give the law in the first place? Paul anticipates this question directly. He explains that God's promise to Abraham came FIRST, 430 years before the law was even given through Moses — and a promise, once made, cannot be changed or added to later.\n\nSo the law wasn't given to replace the promise. It served a different, important purpose: the law was given because of sin, to show people clearly what sin actually is, acting almost like a guard, watching over us, holding us in protective custody, UNTIL the promised faith in Christ was revealed.\n\nPaul uses a beautiful, simple picture: imagine a chaperone or guardian who watches over a child, keeping them safe and disciplined, until the child grows up and the guardian's job is finished. That's exactly the law's purpose — not the final goal, but the careful guard leading us toward faith in Christ, who alone could finally bring true freedom and righteousness.\n\nOnce faith came, the law's guarding role was complete."
+        "en": "If righteousness comes by faith, not by the law, then why did God give the law in the first place? Paul anticipates this question directly. He explains that God's promise to Abraham came FIRST, 430 years before the law was even given through Moses — and a promise, once made, cannot be changed or added to later.\n\nSo the law wasn't given to replace the promise. It served a different, important purpose: the law was given because of sin, to show people clearly what sin actually is, acting almost like a guard, watching over us, holding us in protective custody, UNTIL the promised faith in Christ was revealed.\n\nPaul uses a beautiful, simple picture: imagine a chaperone or guardian who watches over a child, keeping them safe and disciplined, until the child grows up and the guardian's job is finished. That's exactly the law's purpose — not the final goal, but the careful guard leading us toward faith in Christ, who alone could finally bring true freedom and righteousness.\n\nOnce faith came, the law's guarding role was complete.",
+        "es": "Si la justicia viene por la fe, no por la ley, entonces ¿por qué dio Dios la ley en primer lugar? Pablo anticipa esta pregunta directamente. Explica que la promesa de Dios a Abraham llegó PRIMERO, 430 años antes de que se diera la ley por medio de Moisés — y una promesa, una vez hecha, no puede ser cambiada ni añadida después.\n\nAsí que la ley no fue dada para reemplazar la promesa. Sirvió un propósito diferente e importante: la ley fue dada por causa del pecado, para mostrar claramente a la gente lo que el pecado realmente es, actuando casi como un guardián, velando sobre nosotros, manteniéndonos bajo custodia protectora, HASTA que se revelara la fe prometida en Cristo.\n\nPablo usa una imagen hermosa y sencilla: imagina a un tutor o guardián que vela por un niño, manteniéndolo seguro y disciplinado, hasta que el niño crece y el trabajo del guardián termina. Ese es exactamente el propósito de la ley — no la meta final, sino el cuidadoso guardián que nos lleva hacia la fe en Cristo, quien solo Él podía finalmente traer verdadera libertad y justicia.\n\nUna vez que llegó la fe, el papel de guardián de la ley se completó.",
+        "fr": "Si la justice vient par la foi, et non par la loi, alors pourquoi Dieu a-t-il donné la loi en premier lieu ? Paul anticipe directement cette question. Il explique que la promesse de Dieu à Abraham est venue D'ABORD, 430 ans avant même que la loi ne soit donnée par Moïse — et une promesse, une fois faite, ne peut être changée ni complétée plus tard.\n\nAinsi, la loi n'a pas été donnée pour remplacer la promesse. Elle a servi un but différent et important : la loi a été donnée à cause du péché, pour montrer clairement aux gens ce qu'est réellement le péché, agissant presque comme un gardien, veillant sur nous, nous gardant sous protection, JUSQU'À ce que la foi promise en Christ soit révélée.\n\nPaul utilise une image belle et simple : imagine un tuteur ou un gardien qui veille sur un enfant, le gardant en sécurité et discipliné, jusqu'à ce que l'enfant grandisse et que le travail du gardien soit terminé. C'est exactement le but de la loi — pas le but final, mais le gardien attentif qui nous conduit vers la foi en Christ, qui seul pouvait enfin apporter la vraie liberté et la justice.\n\nUne fois la foi venue, le rôle de gardien de la loi était achevé."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "So the law was our guardian until Christ came, that we might be justified by faith."
+        "en": "So the law was our guardian until Christ came, that we might be justified by faith.",
+        "es": "De manera que la ley nuestro ayo fué para llevarnos á Cristo, para que fuésemos justificados por la fe.",
+        "fr": "Ainsi la loi a été comme un pédagogue pour nous conduire à Christ, afin que nous fussions justifiés par la foi."
       },
       "ref": {
-        "en": "Galatians 3:24 (NIV)"
+        "en": "Galatians 3:24 (NIV)",
+        "es": "Gálatas 3:24 (Valera)",
+        "fr": "Galates 3:24 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "until",
           "Christ",
           "came"
+        ],
+        "es": [
+          "De",
+          "manera",
+          "que",
+          "la",
+          "ley",
+          "nuestro"
+        ],
+        "fr": [
+          "Ainsi",
+          "la",
+          "loi",
+          "a",
+          "été",
+          "comme"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Why the Law, Then?"
+        "en": "A Song for Why the Law, Then?",
+        "es": "Una Canción para ¿Entonces, Para Qué la Ley?",
+        "fr": "Une Chanson pour Alors, Pourquoi la Loi ?"
       },
       "audio_en": "/static/audio/galatians/lesson06_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "What came first, according to Paul: God's promise to Abraham, or the law given through Moses?"
+            "en": "What came first, according to Paul: God's promise to Abraham, or the law given through Moses?",
+            "es": "Según Pablo, ¿qué vino primero: la promesa de Dios a Abraham, o la ley dada por medio de Moisés?",
+            "fr": "Selon Paul, qu'est-ce qui est venu en premier : la promesse de Dieu à Abraham, ou la loi donnée par Moïse ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "God's promise to Abraham came first, 430 years before the law",
               "They came at exactly the same time",
               "Neither came first"
+            ],
+            "es": [
+              "La ley vino primero",
+              "La promesa de Dios a Abraham vino primero, 430 años antes de la ley",
+              "Llegaron exactamente al mismo tiempo",
+              "Ninguna vino primero"
+            ],
+            "fr": [
+              "La loi est venue en premier",
+              "La promesse de Dieu à Abraham est venue en premier, 430 ans avant la loi",
+              "Elles sont venues exactement au même moment",
+              "Aucune n'est venue en premier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What purpose did the law actually serve, according to this chapter?"
+            "en": "What purpose did the law actually serve, according to this chapter?",
+            "es": "¿Qué propósito sirvió realmente la ley, según este capítulo?",
+            "fr": "Quel but la loi a-t-elle réellement servi, selon ce chapitre ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "To show clearly what sin is, like a guard watching over us until faith came",
               "To make people perfect on their own",
               "No real purpose"
+            ],
+            "es": [
+              "Reemplazar por completo la promesa de Dios",
+              "Mostrar claramente lo que es el pecado, como un guardián velando sobre nosotros hasta que llegó la fe",
+              "Hacer perfectas a las personas por sí mismas",
+              "Ningún propósito real"
+            ],
+            "fr": [
+              "Remplacer entièrement la promesse de Dieu",
+              "Montrer clairement ce qu'est le péché, comme un gardien veillant sur nous jusqu'à ce que la foi vienne",
+              "Rendre les gens parfaits par eux-mêmes",
+              "Aucun but réel"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What picture does Paul use to describe the law's role?"
+            "en": "What picture does Paul use to describe the law's role?",
+            "es": "¿Qué imagen usa Pablo para describir el papel de la ley?",
+            "fr": "Quelle image Paul utilise-t-il pour décrire le rôle de la loi ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "A guardian or chaperone watching over a child until they grow up",
               "A prison with no escape",
               "A reward for good behavior"
+            ],
+            "es": [
+              "Un rey que reina para siempre",
+              "Un guardián o tutor que vela por un niño hasta que crece",
+              "Una prisión sin escape",
+              "Una recompensa por buen comportamiento"
+            ],
+            "fr": [
+              "Un roi qui règne pour toujours",
+              "Un gardien ou tuteur qui veille sur un enfant jusqu'à ce qu'il grandisse",
+              "Une prison sans issue",
+              "Une récompense pour bonne conduite"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Why the Law, Then?"
+            "en": "Activity sheet: Why the Law, Then?",
+            "es": "Hoja de actividad: ¿Entonces, Para Qué la Ley?",
+            "fr": "Fiche d'activité : Alors, Pourquoi la Loi ?"
           },
           "file": "/static/printables/galatians/lesson06_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the law's purpose was always temporary and protective — a \"guardian\" (3:24) preparing the way for faith in Christ, never meant to be the final basis of righteousness, and never in competition with God's earlier promise to Abraham. This resolves a question children naturally ask: if faith saves, why did God bother giving all those Old Testament laws? The answer: to reveal sin clearly and guard God's people until the fuller revelation in Christ arrived.\n\nConversation starters: (1) Why couldn't the law replace God's earlier promise to Abraham? (2) What does the \"guardian\" picture teach about the law's real purpose? (3) How does understanding the law's temporary role change how you read the Old Testament?\n\nPray, thanking God for the wisdom of His plan, given in the right order, at the right time."
+        "en": "Big idea: the law's purpose was always temporary and protective — a \"guardian\" (3:24) preparing the way for faith in Christ, never meant to be the final basis of righteousness, and never in competition with God's earlier promise to Abraham. This resolves a question children naturally ask: if faith saves, why did God bother giving all those Old Testament laws? The answer: to reveal sin clearly and guard God's people until the fuller revelation in Christ arrived.\n\nConversation starters: (1) Why couldn't the law replace God's earlier promise to Abraham? (2) What does the \"guardian\" picture teach about the law's real purpose? (3) How does understanding the law's temporary role change how you read the Old Testament?\n\nPray, thanking God for the wisdom of His plan, given in the right order, at the right time.",
+        "es": "Idea principal: el propósito de la ley siempre fue temporal y protector — un \"guardián\" (3:24) que preparaba el camino para la fe en Cristo, nunca pensado como el fundamento final de la justicia, y nunca en competencia con la promesa anterior de Dios a Abraham. Esto resuelve una pregunta que los niños naturalmente hacen: si la fe salva, ¿por qué se molestó Dios en dar todas esas leyes del Antiguo Testamento? La respuesta: para revelar claramente el pecado y guardar al pueblo de Dios hasta que llegara la revelación más completa en Cristo.\n\nPara conversar: (1) ¿Por qué no podía la ley reemplazar la promesa anterior de Dios a Abraham? (2) ¿Qué enseña la imagen del \"guardián\" sobre el verdadero propósito de la ley? (3) ¿Cómo cambia entender el papel temporal de la ley la manera en que lees el Antiguo Testamento?\n\nOren, agradeciendo a Dios por la sabiduría de Su plan, dado en el orden correcto, en el momento correcto.",
+        "fr": "Idée principale : le but de la loi a toujours été temporaire et protecteur — un « gardien » (3.24) préparant le chemin pour la foi en Christ, jamais destiné à être le fondement final de la justice, et jamais en concurrence avec la promesse antérieure de Dieu à Abraham. Cela résout une question que les enfants se posent naturellement : si la foi sauve, pourquoi Dieu s'est-il donné la peine de donner toutes ces lois de l'Ancien Testament ? La réponse : pour révéler clairement le péché et garder le peuple de Dieu jusqu'à ce que la révélation plus complète en Christ arrive.\n\nPour la conversation : (1) Pourquoi la loi ne pouvait-elle pas remplacer la promesse antérieure de Dieu à Abraham ? (2) Qu'enseigne l'image du « gardien » sur le véritable but de la loi ? (3) Comment le fait de comprendre le rôle temporaire de la loi change-t-il ta façon de lire l'Ancien Testament ?\n\nPriez, en remerciant Dieu pour la sagesse de Son plan, donné dans le bon ordre, au bon moment."
       }
     }
   ]

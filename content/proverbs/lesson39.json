@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Worth More Than Rubies"
+    "en": "Worth More Than Rubies",
+    "es": "Vale Más Que las Piedras Preciosas",
+    "fr": "Vaut Plus Que les Perles"
   },
   "ref": "Proverbs 31:10-31",
   "section": "The Wife of Noble Character",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A portrait of excellent character"
+        "en": "A portrait of excellent character",
+        "es": "Un retrato de carácter excelente",
+        "fr": "Un portrait d'un caractère excellent"
       },
       "body": {
-        "en": "The book of Proverbs closes with one of the most beautiful poems in the whole Bible — a vivid, detailed portrait of a person of truly excellent character. In the original Hebrew, each line begins with a successive letter of the alphabet, like a carefully crafted acrostic.\n\n'A wife of noble character who can find? She is worth far more than rubies.' This person is industrious — she works with eager hands, considers a field and buys it, plants a vineyard with her own earnings.\n\nShe is strong and dignified: 'she is clothed with strength and dignity.' She speaks with wisdom and faithful instruction is on her tongue. She watches over the affairs of her household and does not eat the bread of idleness.\n\nShe is generous too: 'she opens her arms to the poor and extends her hands to the needy.' Her family, and her whole community, genuinely benefit from her wisdom, care, and hard work.\n\nThe poem ends with words that echo the very first chapter of the book: 'charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.' After thirty-one chapters of seeking wisdom, the book's closing image is a real, living picture of exactly what wisdom looks like, lived out faithfully, day after day, in an ordinary life."
+        "en": "The book of Proverbs closes with one of the most beautiful poems in the whole Bible — a vivid, detailed portrait of a person of truly excellent character. In the original Hebrew, each line begins with a successive letter of the alphabet, like a carefully crafted acrostic.\n\n'A wife of noble character who can find? She is worth far more than rubies.' This person is industrious — she works with eager hands, considers a field and buys it, plants a vineyard with her own earnings.\n\nShe is strong and dignified: 'she is clothed with strength and dignity.' She speaks with wisdom and faithful instruction is on her tongue. She watches over the affairs of her household and does not eat the bread of idleness.\n\nShe is generous too: 'she opens her arms to the poor and extends her hands to the needy.' Her family, and her whole community, genuinely benefit from her wisdom, care, and hard work.\n\nThe poem ends with words that echo the very first chapter of the book: 'charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.' After thirty-one chapters of seeking wisdom, the book's closing image is a real, living picture of exactly what wisdom looks like, lived out faithfully, day after day, in an ordinary life.",
+        "es": "El libro de Proverbios cierra con uno de los poemas más hermosos de toda la Biblia — un retrato vívido y detallado de una persona de carácter verdaderamente excelente. En el hebreo original, cada línea comienza con una letra sucesiva del alfabeto, como un acróstico cuidadosamente elaborado.\n\n\"Mujer fuerte, ¿quién la hallará? porque su estima sobrepuja largamente á la de piedras preciosas.\" Esta persona es trabajadora — busca lana y lino, y trabaja según el gusto de sus manos. Considera la heredad, y la compra; y planta viña del fruto de sus manos.\n\nEs fuerte y digna: \"ciñe sus lomos de fortaleza, y esfuerza sus brazos.\" Habla con sabiduría y la ley de clemencia está en su lengua. Considera los caminos de su casa, y no come el pan de balde.\n\nTambién es generosa: \"alarga su mano al pobre, y extiende sus manos al menesteroso.\" Su familia, y toda su comunidad, genuinamente se benefician de su sabiduría, cuidado y trabajo duro.\n\nEl poema termina con palabras que se hacen eco del primer capítulo mismo del libro: \"engañosa es la gracia, y vana la hermosura: la mujer que teme á Jehová, ésa será alabada.\" Después de treinta y un capítulos buscando sabiduría, la imagen de cierre del libro es un cuadro real y viviente de exactamente cómo se ve la sabiduría, vivida fielmente, día tras día, en una vida ordinaria.",
+        "fr": "Le livre des Proverbes se termine par l'un des poèmes les plus beaux de toute la Bible — un portrait vif et détaillé d'une personne d'un caractère véritablement excellent. Dans l'hébreu original, chaque ligne commence par une lettre successive de l'alphabet, comme un acrostiche soigneusement élaboré.\n\n« Qui peut trouver une femme vertueuse ? Elle a bien plus de valeur que les perles. » Cette personne est laborieuse — elle se procure de la laine et du lin, et travaille de ses mains avec joie. Elle pense à un champ, et elle l'acquiert ; du produit de son travail elle plante une vigne.\n\nElle est forte et digne : « elle ceint de force ses reins, et elle affermit ses bras. » Elle ouvre la bouche avec sagesse, et des instructions aimables sont sur sa langue. Elle veille sur la marche de sa maison, et elle ne mange pas le pain de l'oisiveté.\n\nElle est généreuse aussi : « elle tend la main au malheureux, elle tend la main à l'indigent. » Sa famille, et toute sa communauté, bénéficient véritablement de sa sagesse, de son soin et de son travail acharné.\n\nLe poème se termine par des mots qui font écho au tout premier chapitre du livre : « la grâce est trompeuse, et la beauté est vaine ; la femme qui craint l'Éternel est celle qui sera louée. » Après trente et un chapitres de quête de sagesse, l'image de clôture du livre est un tableau réel et vivant de ce à quoi ressemble exactement la sagesse, vécue fidèlement, jour après jour, dans une vie ordinaire."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised."
+        "en": "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.",
+        "es": "Engañosa es la gracia, y vana la hermosura: la mujer que teme á Jehová, ésa será alabada.",
+        "fr": "La grâce est trompeuse, et la beauté est vaine ; La femme qui craint l'Éternel est celle qui sera louée."
       },
       "ref": {
-        "en": "Proverbs 31:30 (NIV)"
+        "en": "Proverbs 31:30 (NIV)",
+        "es": "Proverbios 31:30 (Valera)",
+        "fr": "Proverbes 31:30 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "fears",
           "the",
           "Lord"
+        ],
+        "es": [
+          "Engañosa",
+          "es",
+          "la",
+          "gracia",
+          "y",
+          "vana"
+        ],
+        "fr": [
+          "La",
+          "grâce",
+          "est",
+          "trompeuse",
+          "et",
+          "la"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Worth More Than Rubies"
+        "en": "A Song for Worth More Than Rubies",
+        "es": "Una Canción para Vale Más Que las Piedras Preciosas",
+        "fr": "Une Chanson pour Vaut Plus Que les Perles"
       },
       "audio_en": "/static/audio/proverbs/lesson39_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "How is the woman in this final chapter described, in terms of her value?"
+            "en": "How is the woman in this final chapter described, in terms of her value?",
+            "es": "¿Cómo se describe a la mujer en este capítulo final, en términos de su valor?",
+            "fr": "Comment la femme de ce dernier chapitre est-elle décrite, en termes de sa valeur ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "Worth far more than rubies",
               "Average and unremarkable",
               "Worthless"
+            ],
+            "es": [
+              "De muy poco valor",
+              "Su estima sobrepuja largamente á la de las piedras preciosas",
+              "Promedio y poco notable",
+              "Sin valor"
+            ],
+            "fr": [
+              "De très peu de valeur",
+              "Elle a bien plus de valeur que les perles",
+              "Moyenne et peu remarquable",
+              "Sans valeur"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does this chapter say she does for the poor and needy?"
+            "en": "What does this chapter say she does for the poor and needy?",
+            "es": "¿Qué dice este capítulo que ella hace por los pobres y necesitados?",
+            "fr": "Que dit ce chapitre qu'elle fait pour les pauvres et les nécessiteux ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Opens her arms and extends her hands to them",
               "Avoids them entirely",
               "Nothing is said about generosity"
+            ],
+            "es": [
+              "Los ignora",
+              "Alarga su mano y extiende sus manos hacia ellos",
+              "Los evita por completo",
+              "No se dice nada sobre generosidad"
+            ],
+            "fr": [
+              "Elle les ignore",
+              "Elle tend la main au malheureux et à l'indigent",
+              "Elle les évite complètement",
+              "Rien n'est dit sur la générosité"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Proverbs 31:30, what truly deserves praise, more than charm or beauty?"
+            "en": "According to Proverbs 31:30, what truly deserves praise, more than charm or beauty?",
+            "es": "Según Proverbios 31:30, ¿qué merece verdaderamente alabanza, más que la gracia o la hermosura?",
+            "fr": "Selon Proverbes 31:30, qu'est-ce qui mérite véritablement la louange, plus que la grâce ou la beauté ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "A woman (or person) who fears the Lord",
               "Fame",
               "Physical appearance alone"
+            ],
+            "es": [
+              "Solo la riqueza",
+              "Una mujer (o persona) que teme á Jehová",
+              "La fama",
+              "Solo la apariencia física"
+            ],
+            "fr": [
+              "Seulement la richesse",
+              "Une femme (ou personne) qui craint l'Éternel",
+              "La célébrité",
+              "Seulement l'apparence physique"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Worth More Than Rubies"
+            "en": "Activity sheet: Worth More Than Rubies",
+            "es": "Hoja de actividad: Vale Más Que las Piedras Preciosas",
+            "fr": "Fiche d'activité : Vaut Plus Que les Perles"
           },
           "file": "/static/printables/proverbs/lesson39_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the book of Proverbs closes by returning to its opening theme — \"the fear of the Lord\" (1:7; 31:30) — bookending the entire book, and presenting a vivid, concrete picture of wisdom actually lived out: industrious, strong, wise in speech, generous, and ultimately defined by reverence for God rather than outward charm or beauty. Many commentators also see this closing portrait as circling back to chapter 9's image of Lady Wisdom — wisdom, embodied in an ordinary, faithful life, is the final and most compelling argument the whole book makes for itself.\n\nConversation starters: (1) Looking back over the whole book of Proverbs, what stands out to you most about what real wisdom actually looks like, lived out day to day? (2) Why might the book end on \"the fear of the Lord,\" the very same phrase it opened with? (3) What's one quality from this closing portrait — hard work, generosity, wise speech — you want to grow in?\n\nPray, asking God to help your family genuinely live out the wisdom this whole book has been teaching, day after day, in ordinary life."
+        "en": "Big idea: the book of Proverbs closes by returning to its opening theme — \"the fear of the Lord\" (1:7; 31:30) — bookending the entire book, and presenting a vivid, concrete picture of wisdom actually lived out: industrious, strong, wise in speech, generous, and ultimately defined by reverence for God rather than outward charm or beauty. Many commentators also see this closing portrait as circling back to chapter 9's image of Lady Wisdom — wisdom, embodied in an ordinary, faithful life, is the final and most compelling argument the whole book makes for itself.\n\nConversation starters: (1) Looking back over the whole book of Proverbs, what stands out to you most about what real wisdom actually looks like, lived out day to day? (2) Why might the book end on \"the fear of the Lord,\" the very same phrase it opened with? (3) What's one quality from this closing portrait — hard work, generosity, wise speech — you want to grow in?\n\nPray, asking God to help your family genuinely live out the wisdom this whole book has been teaching, day after day, in ordinary life.",
+        "es": "Idea principal: el libro de Proverbios cierra regresando a su tema de apertura — \"el temor de Jehová\" (1:7; 31:30) — encerrando todo el libro entre paréntesis, y presentando una imagen vívida y concreta de la sabiduría realmente vivida: laboriosa, fuerte, sabia en el habla, generosa, y finalmente definida por la reverencia a Dios en lugar de la gracia o belleza externas. Muchos comentaristas también ven este retrato final como un retorno a la imagen de la Dama Sabiduría del capítulo 9 — la sabiduría, encarnada en una vida ordinaria y fiel, es el argumento final y más convincente que todo el libro hace por sí mismo.\n\nPara conversar: (1) Mirando atrás sobre todo el libro de Proverbios, ¿qué te llama más la atención sobre cómo se ve realmente la sabiduría verdadera, vivida día a día? (2) ¿Por qué podría el libro terminar en \"el temor de Jehová,\" la misma frase con la que comenzó? (3) ¿Cuál es una cualidad de este retrato final — trabajo duro, generosidad, habla sabia — en la que quieres crecer?\n\nOren, pidiendo a Dios que ayude a tu familia a vivir genuinamente la sabiduría que todo este libro ha estado enseñando, día tras día, en la vida ordinaria.",
+        "fr": "Idée principale : le livre des Proverbes se termine en revenant à son thème d'ouverture — « la crainte de l'Éternel » (1:7 ; 31:30) — encadrant tout le livre, et présentant une image vive et concrète de la sagesse réellement vécue : laborieuse, forte, sage dans la parole, généreuse, et finalement définie par la révérence pour Dieu plutôt que par la grâce ou la beauté extérieures. De nombreux commentateurs voient aussi ce portrait final comme un retour à l'image de Dame Sagesse du chapitre 9 — la sagesse, incarnée dans une vie ordinaire et fidèle, est l'argument final et le plus convaincant que tout le livre fait pour lui-même.\n\nPour la conversation : (1) En regardant en arrière sur tout le livre des Proverbes, qu'est-ce qui te frappe le plus sur ce à quoi ressemble réellement la vraie sagesse, vécue jour après jour ? (2) Pourquoi le livre pourrait-il se terminer sur « la crainte de l'Éternel », la même expression par laquelle il a commencé ? (3) Quelle est une qualité de ce portrait final — travail acharné, générosité, parole sage — dans laquelle tu veux grandir ?\n\nPriez, en demandant à Dieu d'aider votre famille à vivre véritablement la sagesse que tout ce livre a enseignée, jour après jour, dans la vie ordinaire."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Three Times Before the Rooster Crowed"
+    "en": "Three Times Before the Rooster Crowed",
+    "es": "Tres Veces Antes de Que Cantara el Gallo",
+    "fr": "Trois Fois Avant Que le Coq Chante"
   },
   "ref": "Mark 14:53-72",
   "section": "Jesus Before the Sanhedrin / Peter Denies Jesus",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A trial of lies, a courtyard of fear"
+        "en": "A trial of lies, a courtyard of fear",
+        "es": "Un juicio de mentiras, un patio de temor",
+        "fr": "Un procès de mensonges, une cour de peur"
       },
       "body": {
-        "en": "Jesus was brought before the Sanhedrin, the high council, where the chief priests sought testimony to put Him to death — but the false witnesses contradicted each other.\n\nFinally the high priest asked directly: 'Are you the Messiah, the Son of the Blessed One?' Jesus answered: 'I am... and you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.' The high priest tore his clothes, calling it blasphemy, and they all condemned Him to death, spitting on Him and striking Him.\n\nMeanwhile, Peter was in the courtyard below. A servant girl recognised him: 'You were with Jesus.' Peter denied it. It happened again.\n\nThen a third time, others insisted he was a Galilean, one of Jesus' followers — Peter denied it strongly, even calling down curses on himself! Immediately the rooster crowed a second time. Peter remembered Jesus' words exactly — three denials, before the rooster crowed twice — and broke down and WEPT.\n\nThe man who had promised he'd never fall away had failed completely, exactly as Jesus had said."
+        "en": "Jesus was brought before the Sanhedrin, the high council, where the chief priests sought testimony to put Him to death — but the false witnesses contradicted each other.\n\nFinally the high priest asked directly: 'Are you the Messiah, the Son of the Blessed One?' Jesus answered: 'I am... and you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.' The high priest tore his clothes, calling it blasphemy, and they all condemned Him to death, spitting on Him and striking Him.\n\nMeanwhile, Peter was in the courtyard below. A servant girl recognised him: 'You were with Jesus.' Peter denied it. It happened again.\n\nThen a third time, others insisted he was a Galilean, one of Jesus' followers — Peter denied it strongly, even calling down curses on himself! Immediately the rooster crowed a second time. Peter remembered Jesus' words exactly — three denials, before the rooster crowed twice — and broke down and WEPT.\n\nThe man who had promised he'd never fall away had failed completely, exactly as Jesus had said.",
+        "es": "Jesús fue llevado ante el Sanedrín, el alto concilio, donde los principales sacerdotes buscaban testimonio para condenarlo a muerte — pero los falsos testigos se contradecían entre sí.\n\nFinalmente el sumo sacerdote preguntó directamente: \"¿Eres tú el Mesías, el Hijo del Bendito?\" Jesús respondió: \"Yo soy... y verán al Hijo del Hombre sentado a la diestra del Poderoso y viniendo en las nubes del cielo.\" El sumo sacerdote rasgó sus vestiduras, llamándolo blasfemia, y todos lo condenaron a muerte, escupiéndolo y golpeándolo.\n\nMientras tanto, Pedro estaba en el patio abajo. Una criada lo reconoció: \"Tú estabas con Jesús.\" Pedro lo negó. Sucedió de nuevo.\n\nEntonces una tercera vez, otros insistieron en que era galileo, uno de los seguidores de Jesús — Pedro lo negó con fuerza, ¡incluso invocando maldiciones sobre sí mismo! Inmediatamente el gallo cantó por segunda vez. Pedro recordó exactamente las palabras de Jesús — tres negaciones, antes de que el gallo cantara dos veces — y se quebrantó y LLORÓ.\n\nEl hombre que había prometido que nunca se apartaría había fallado completamente, exactamente como Jesús había dicho.",
+        "fr": "Jésus fut conduit devant le Sanhédrin, le grand conseil, où les principaux sacrificateurs cherchaient un témoignage pour Le condamner à mort — mais les faux témoins se contredisaient entre eux.\n\nFinalement le grand sacrificateur demanda directement : « Es-tu le Christ, le Fils du Dieu béni ? » Jésus répondit : « Je le suis... et vous verrez le Fils de l'homme assis à la droite de la puissance de Dieu, et venant sur les nuées du ciel. » Le grand sacrificateur déchira ses vêtements, criant au blasphème, et tous Le condamnèrent à mort, en crachant sur Lui et en Le frappant.\n\nPendant ce temps, Pierre était dans la cour en bas. Une servante le reconnut : « Tu étais avec Jésus. » Pierre le nia. Cela se reproduisit.\n\nPuis une troisième fois, d'autres insistèrent qu'il était galiléen, l'un des disciples de Jésus — Pierre le nia avec force, allant même jusqu'à faire des serments ! Immédiatement, pour la seconde fois, le coq chanta. Pierre se souvint exactement des paroles de Jésus — trois reniements, avant que le coq ne chante deux fois — et en y réfléchissant, il PLEURA.\n\nL'homme qui avait promis qu'il ne se détournerait jamais avait complètement échoué, exactement comme Jésus l'avait dit."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him... And he broke down and wept."
+        "en": "Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him... And he broke down and wept.",
+        "es": "Y el gallo cantó la segunda vez: y Pedro se acordó de las palabras que Jesús le había dicho: Antes que el gallo cante dos veces, me negarás tres veces. Y pensando en esto, lloraba.",
+        "fr": "Aussitôt, pour la seconde fois, le coq chanta. Et Pierre se souvint de la parole que Jésus lui avait dite : Avant que le coq chante deux fois, tu me renieras trois fois. Et en y réfléchissant, il pleurait."
       },
       "ref": {
-        "en": "Mark 14:72 (NIV)"
+        "en": "Mark 14:72 (NIV)",
+        "es": "Marcos 14:72 (Valera)",
+        "fr": "Marc 14:72 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "and",
           "he",
           "wept"
+        ],
+        "es": [
+          "Y",
+          "el",
+          "gallo",
+          "cantó",
+          "la",
+          "segunda"
+        ],
+        "fr": [
+          "Aussitôt",
+          "pour",
+          "la",
+          "seconde",
+          "fois",
+          "le"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Three Times Before the Rooster Crowed"
+        "en": "A Song for Three Times Before the Rooster Crowed",
+        "es": "Una Canción para Tres Veces Antes de Que Cantara el Gallo",
+        "fr": "Une Chanson pour Trois Fois Avant Que le Coq Chante"
       },
       "audio_en": "/static/audio/mark/lesson36_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "How did Jesus answer when the high priest asked if He was the Messiah?"
+            "en": "How did Jesus answer when the high priest asked if He was the Messiah?",
+            "es": "¿Cómo respondió Jesús cuando el sumo sacerdote le preguntó si era el Mesías?",
+            "fr": "Comment Jésus a-t-il répondu quand le grand sacrificateur Lui a demandé s'Il était le Christ ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "I am — and described the Son of Man coming on the clouds of heaven",
               "He refused to answer",
               "He laughed it off"
+            ],
+            "es": [
+              "Lo negó por completo",
+              "Yo soy — y describió al Hijo del Hombre viniendo en las nubes del cielo",
+              "Se negó a responder",
+              "Se rió de eso"
+            ],
+            "fr": [
+              "Il l'a complètement nié",
+              "Je le suis — et a décrit le Fils de l'homme venant sur les nuées du ciel",
+              "Il a refusé de répondre",
+              "Il en a ri"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How many times did Peter deny knowing Jesus, exactly as predicted?"
+            "en": "How many times did Peter deny knowing Jesus, exactly as predicted?",
+            "es": "¿Cuántas veces negó Pedro conocer a Jesús, exactamente como se predijo?",
+            "fr": "Combien de fois Pierre a-t-il nié connaître Jésus, exactement comme prédit ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Three times",
               "Ten times",
               "He never denied Him"
+            ],
+            "es": [
+              "Una vez",
+              "Tres veces",
+              "Diez veces",
+              "Nunca lo negó"
+            ],
+            "fr": [
+              "Une fois",
+              "Trois fois",
+              "Dix fois",
+              "Il ne L'a jamais nié"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Peter do immediately after the rooster crowed the second time?"
+            "en": "What did Peter do immediately after the rooster crowed the second time?",
+            "es": "¿Qué hizo Pedro inmediatamente después de que el gallo cantó por segunda vez?",
+            "fr": "Qu'a fait Pierre immédiatement après que le coq a chanté pour la seconde fois ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "He remembered Jesus' words and broke down weeping",
               "He defended Jesus boldly",
               "He ran away laughing"
+            ],
+            "es": [
+              "No pasó nada",
+              "Recordó las palabras de Jesús y se quebrantó llorando",
+              "Defendió a Jesús valientemente",
+              "Huyó riendo"
+            ],
+            "fr": [
+              "Rien ne s'est passé",
+              "Il s'est souvenu des paroles de Jésus et a éclaté en pleurs",
+              "Il a défendu Jésus vaillamment",
+              "Il s'est enfui en riant"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Three Times Before the Rooster Crowed"
+            "en": "Activity sheet: Three Times Before the Rooster Crowed",
+            "es": "Hoja de actividad: Tres Veces Antes de Que Cantara el Gallo",
+            "fr": "Fiche d'activité : Trois Fois Avant Que le Coq Chante"
           },
           "file": "/static/printables/mark/lesson36_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' bold, truthful confession before the council — knowing it would seal His death sentence — stands in painful contrast to Peter's fearful denials in the courtyard below, happening at nearly the same moment. Peter's bitter weeping, rather than excusing or hiding his failure, models genuine, broken-hearted repentance, which Mark's later resurrection account will show was not the end of Peter's story.\n\nConversation starters: (1) Why might Jesus answer truthfully, knowing it would lead to His condemnation? (2) What does Peter's reaction — weeping, not making excuses — show about genuine repentance? (3) Have you ever failed at something you were confident you'd never do, the way Peter did?\n\nPray for courage to stand firm under pressure, and grace for the moments when we fail like Peter did."
+        "en": "Big idea: Jesus' bold, truthful confession before the council — knowing it would seal His death sentence — stands in painful contrast to Peter's fearful denials in the courtyard below, happening at nearly the same moment. Peter's bitter weeping, rather than excusing or hiding his failure, models genuine, broken-hearted repentance, which Mark's later resurrection account will show was not the end of Peter's story.\n\nConversation starters: (1) Why might Jesus answer truthfully, knowing it would lead to His condemnation? (2) What does Peter's reaction — weeping, not making excuses — show about genuine repentance? (3) Have you ever failed at something you were confident you'd never do, the way Peter did?\n\nPray for courage to stand firm under pressure, and grace for the moments when we fail like Peter did.",
+        "es": "Idea principal: la confesión audaz y veraz de Jesús ante el concilio — sabiendo que sellaría Su sentencia de muerte — contrasta dolorosamente con las negaciones temerosas de Pedro en el patio abajo, sucediendo casi en el mismo momento. El llanto amargo de Pedro, en lugar de excusar u ocultar su fracaso, modela un arrepentimiento genuino y quebrantado, que el relato posterior de la resurrección de Marcos mostrará que no fue el final de la historia de Pedro.\n\nPara conversar: (1) ¿Por qué podría Jesús responder con sinceridad, sabiendo que llevaría a Su condena? (2) ¿Qué muestra la reacción de Pedro — llorar, sin dar excusas — sobre el arrepentimiento genuino? (3) ¿Alguna vez has fallado en algo que estabas seguro de que nunca harías, como le pasó a Pedro?\n\nOren por valor para mantenerse firme bajo presión, y por gracia para los momentos en que fallamos como Pedro.",
+        "fr": "Idée principale : la confession audacieuse et véridique de Jésus devant le conseil — sachant qu'elle scellerait Sa condamnation à mort — contraste douloureusement avec les reniements craintifs de Pierre dans la cour en bas, se produisant presque au même moment. Les larmes amères de Pierre, plutôt que d'excuser ou de cacher son échec, modèlent une repentance authentique et brisée, ce que le récit ultérieur de la résurrection de Marc montrera n'était pas la fin de l'histoire de Pierre.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il répondre avec sincérité, sachant que cela mènerait à Sa condamnation ? (2) Que montre la réaction de Pierre — pleurer, sans excuses — sur la repentance authentique ? (3) As-tu déjà échoué à quelque chose dont tu étais sûr de ne jamais le faire, comme c'est arrivé à Pierre ?\n\nPriez pour le courage de rester ferme sous pression, et pour la grâce dans les moments où nous échouons comme Pierre."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Wise and the Foolish"
+    "en": "The Wise and the Foolish",
+    "es": "El Sabio y el Necio",
+    "fr": "Le Sage et l'Insensé"
   },
   "ref": "Proverbs 10:1; 10:8; 12:15; 13:20; 28:26",
   "section": "The Wise and the Foolish (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Two kinds of people, all through the book"
+        "en": "Two kinds of people, all through the book",
+        "es": "Dos tipos de personas, en todo el libro",
+        "fr": "Deux sortes de personnes, partout dans le livre"
       },
       "body": {
-        "en": "Starting in chapter 10, the book changes shape — instead of long speeches, it becomes hundreds of short, two-line sayings, packed full of wisdom about everyday life. We'll explore these collected proverbs by theme, gathering related sayings from across many chapters.\n\nThe very first theme that runs through nearly every page: the contrast between the WISE and the FOOLISH. 'A wise son brings joy to his father, but a foolish son brings grief to his mother,' the book begins its new section.\n\n'The wise in heart accept commands, but a chattering fool comes to ruin.' Wisdom listens; foolishness talks over everyone without ever really hearing.\n\n'The way of fools seems right to them, but the wise listen to advice.' This might be the most important difference of all — fools think they're already right, while the wise stay open to correction.\n\n'Whoever trusts in their own heart is a fool, but whoever walks in wisdom is kept safe.' Walk with the wise and become wise, the book promises — but the companions of fools suffer harm."
+        "en": "Starting in chapter 10, the book changes shape — instead of long speeches, it becomes hundreds of short, two-line sayings, packed full of wisdom about everyday life. We'll explore these collected proverbs by theme, gathering related sayings from across many chapters.\n\nThe very first theme that runs through nearly every page: the contrast between the WISE and the FOOLISH. 'A wise son brings joy to his father, but a foolish son brings grief to his mother,' the book begins its new section.\n\n'The wise in heart accept commands, but a chattering fool comes to ruin.' Wisdom listens; foolishness talks over everyone without ever really hearing.\n\n'The way of fools seems right to them, but the wise listen to advice.' This might be the most important difference of all — fools think they're already right, while the wise stay open to correction.\n\n'Whoever trusts in their own heart is a fool, but whoever walks in wisdom is kept safe.' Walk with the wise and become wise, the book promises — but the companions of fools suffer harm.",
+        "es": "Comenzando en el capítulo 10, el libro cambia de forma — en lugar de largos discursos, se convierte en cientos de dichos cortos de dos líneas, llenos de sabiduría sobre la vida cotidiana. Exploraremos estos proverbios reunidos por tema, agrupando dichos relacionados de muchos capítulos.\n\nEl primer tema que recorre casi cada página: el contraste entre el SABIO y el NECIO. \"El hijo sabio alegra al padre: mas el hijo necio es tristeza de su madre,\" comienza esta nueva sección del libro.\n\n\"El sabio de corazón recibirá los mandamientos: mas el necio de labios caerá.\" La sabiduría escucha; la necedad habla por encima de todos sin nunca realmente oír.\n\n\"El camino del necio es derecho en su opinión: mas el que obedece al consejo es sabio.\" Esta podría ser la diferencia más importante de todas — los necios piensan que ya tienen razón, mientras los sabios permanecen abiertos a la corrección.\n\n\"El que confía en su propio corazón es necio: mas el que camina en sabiduría será salvo.\" Anda con los sabios y serás sabio, promete el libro — pero el compañero de necios será quebrantado.",
+        "fr": "À partir du chapitre 10, le livre change de forme — au lieu de longs discours, il devient des centaines de courts dictons de deux lignes, remplis de sagesse sur la vie quotidienne. Nous explorerons ces proverbes regroupés par thème, réunissant des dictons liés provenant de nombreux chapitres.\n\nLe tout premier thème qui parcourt presque chaque page : le contraste entre le SAGE et l'INSENSÉ. « Un fils sage réjouit son père, et un fils insensé fait le chagrin de sa mère, » commence cette nouvelle section du livre.\n\n« Celui qui est sage de cœur accueille les préceptes, mais celui qui est insensé des lèvres court à sa ruine. » La sagesse écoute ; l'insensé parle par-dessus tous sans jamais vraiment entendre.\n\n« La voie de l'insensé est droite à ses yeux, mais celui qui écoute les conseils est sage. » Ceci pourrait être la différence la plus importante de toutes — les insensés pensent qu'ils ont déjà raison, tandis que les sages restent ouverts à la correction.\n\n« Celui qui se confie en son propre cœur est un insensé, mais celui qui marche dans la sagesse sera sauvé. » Marche avec les sages et deviens sage, promet le livre — mais celui qui fréquente les insensés en éprouve du mal."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The way of fools seems right to them, but the wise listen to advice."
+        "en": "The way of fools seems right to them, but the wise listen to advice.",
+        "es": "El camino del necio es derecho en su opinión: mas el que obedece al consejo es sabio.",
+        "fr": "La voie de l'insensé est droite à ses yeux, Mais celui qui écoute les conseils est sage."
       },
       "ref": {
-        "en": "Proverbs 12:15 (NIV)"
+        "en": "Proverbs 12:15 (NIV)",
+        "es": "Proverbios 12:15 (Valera)",
+        "fr": "Proverbes 12:15 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "listen",
           "to",
           "advice"
+        ],
+        "es": [
+          "El",
+          "camino",
+          "del",
+          "necio",
+          "es",
+          "derecho"
+        ],
+        "fr": [
+          "La",
+          "voie",
+          "de",
+          "l'insensé",
+          "est",
+          "droite"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Wise and the Foolish"
+        "en": "A Song for The Wise and the Foolish",
+        "es": "Una Canción para El Sabio y el Necio",
+        "fr": "Une Chanson pour Le Sage et l'Insensé"
       },
       "audio_en": "/static/audio/proverbs/lesson17_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What is the key difference between the wise and fools, according to Proverbs 12:15?"
+            "en": "What is the key difference between the wise and fools, according to Proverbs 12:15?",
+            "es": "¿Cuál es la diferencia clave entre el sabio y los necios, según Proverbios 12:15?",
+            "fr": "Quelle est la différence clé entre le sage et l'insensé, selon Proverbes 12:15 ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "Fools think their own way is right; the wise listen to advice",
               "There's no real difference",
               "Fools are wealthier"
+            ],
+            "es": [
+              "Los necios son siempre callados, los sabios son ruidosos",
+              "Los necios piensan que su propio camino es correcto; el sabio escucha el consejo",
+              "No hay diferencia real",
+              "Los necios son más ricos"
+            ],
+            "fr": [
+              "Les insensés sont toujours silencieux, les sages sont bruyants",
+              "Les insensés pensent que leur propre voie est juste ; le sage écoute les conseils",
+              "Il n'y a pas de réelle différence",
+              "Les insensés sont plus riches"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs say happens to someone who 'walks with the wise'?"
+            "en": "What does Proverbs say happens to someone who 'walks with the wise'?",
+            "es": "¿Qué dice Proverbios que le sucede a alguien que 'anda con los sabios'?",
+            "fr": "Que dit Proverbes qu'il arrive à quelqu'un qui « marche avec les sages » ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "They become wise themselves",
               "They become foolish instead",
               "It doesn't matter who you walk with"
+            ],
+            "es": [
+              "Nada cambia",
+              "Se vuelve sabio él mismo",
+              "Se vuelve necio en cambio",
+              "No importa con quién andes"
+            ],
+            "fr": [
+              "Rien ne change",
+              "Il devient sage lui-même",
+              "Il devient insensé à la place",
+              "Cela n'a pas d'importance avec qui on marche"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 28:26 say about trusting in your own heart?"
+            "en": "What does Proverbs 28:26 say about trusting in your own heart?",
+            "es": "¿Qué dice Proverbios 28:26 sobre confiar en tu propio corazón?",
+            "fr": "Que dit Proverbes 28:26 sur le fait de se confier en son propre cœur ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "Whoever does so is a fool; walking in wisdom keeps you safe",
               "It's the wisest path",
               "Nothing is said about it"
+            ],
+            "es": [
+              "Siempre es una opción segura",
+              "Quien lo hace es necio; caminar en sabiduría te guarda seguro",
+              "Es el camino más sabio",
+              "No se dice nada sobre eso"
+            ],
+            "fr": [
+              "C'est toujours un choix sûr",
+              "Celui qui le fait est insensé ; marcher dans la sagesse garde en sécurité",
+              "C'est la voie la plus sage",
+              "Rien n'est dit à ce sujet"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Wise and the Foolish"
+            "en": "Activity sheet: The Wise and the Foolish",
+            "es": "Hoja de actividad: El Sabio y el Necio",
+            "fr": "Fiche d'activité : Le Sage et l'Insensé"
           },
           "file": "/static/printables/proverbs/lesson17_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: from chapter 10 onward, Proverbs becomes a collection of largely independent two-line sayings rather than continuous discourse — a deliberate, well-recognized feature of Hebrew wisdom literature, not a structural gap. Rather than forcing an artificial sequential reading, this and the following lessons gather related proverbs by theme, a long-established and effective approach to teaching this part of the book. The wise/foolish contrast is the most pervasive theme in the whole collection, distinguished above all by a willingness to receive correction.\n\nConversation starters: (1) What's the real difference between someone who thinks they're already right and someone who listens to advice? (2) Why might \"walking with the wise\" actually make you wiser yourself? (3) Can you think of a time you trusted your own judgment instead of listening to good advice?\n\nPray for hearts that stay humble and open to correction, rather than assuming we're always right."
+        "en": "Big idea: from chapter 10 onward, Proverbs becomes a collection of largely independent two-line sayings rather than continuous discourse — a deliberate, well-recognized feature of Hebrew wisdom literature, not a structural gap. Rather than forcing an artificial sequential reading, this and the following lessons gather related proverbs by theme, a long-established and effective approach to teaching this part of the book. The wise/foolish contrast is the most pervasive theme in the whole collection, distinguished above all by a willingness to receive correction.\n\nConversation starters: (1) What's the real difference between someone who thinks they're already right and someone who listens to advice? (2) Why might \"walking with the wise\" actually make you wiser yourself? (3) Can you think of a time you trusted your own judgment instead of listening to good advice?\n\nPray for hearts that stay humble and open to correction, rather than assuming we're always right.",
+        "es": "Idea principal: a partir del capítulo 10, Proverbios se convierte en una colección de dichos de dos líneas en gran parte independientes en lugar de un discurso continuo — una característica deliberada y bien reconocida de la literatura sapiencial hebrea, no un vacío estructural. En lugar de forzar una lectura secuencial artificial, esta lección y las siguientes agrupan proverbios relacionados por tema, un enfoque bien establecido y eficaz para enseñar esta parte del libro. El contraste sabio/necio es el tema más persistente de toda la colección, distinguido sobre todo por la disposición a recibir corrección.\n\nPara conversar: (1) ¿Cuál es la diferencia real entre alguien que piensa que ya tiene razón y alguien que escucha el consejo? (2) ¿Por qué podría \"andar con los sabios\" realmente hacerte más sabio a ti mismo? (3) ¿Puedes pensar en un momento en que confiaste en tu propio juicio en lugar de escuchar un buen consejo?\n\nOren por corazones que permanezcan humildes y abiertos a la corrección, en lugar de asumir que siempre tenemos razón.",
+        "fr": "Idée principale : à partir du chapitre 10, les Proverbes deviennent une collection de dictons de deux lignes largement indépendants plutôt qu'un discours continu — une caractéristique délibérée et bien reconnue de la littérature de sagesse hébraïque, pas un vide structurel. Plutôt que de forcer une lecture séquentielle artificielle, cette leçon et celles qui suivent regroupent les proverbes liés par thème, une approche bien établie et efficace pour enseigner cette partie du livre. Le contraste sage/insensé est le thème le plus omniprésent de toute la collection, distingué surtout par la volonté de recevoir la correction.\n\nPour la conversation : (1) Quelle est la vraie différence entre quelqu'un qui pense avoir déjà raison et quelqu'un qui écoute les conseils ? (2) Pourquoi « marcher avec les sages » pourrait-il réellement te rendre plus sage toi-même ? (3) Peux-tu penser à un moment où tu as fait confiance à ton propre jugement plutôt que d'écouter un bon conseil ?\n\nPriez pour des cœurs qui restent humbles et ouverts à la correction, plutôt que de supposer que nous avons toujours raison."
       }
     }
   ]

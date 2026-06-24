@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Small Things, Big Kingdom"
+    "en": "Small Things, Big Kingdom",
+    "es": "Cosas Pequeñas, Reino Grande",
+    "fr": "Petites Choses, Grand Royaume"
   },
   "ref": "Mark 4:21-34",
   "section": "A Lamp on a Stand / The Parable of the Growing Seed / The Parable of the Mustard Seed",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A lamp, a sleeping farmer, and the tiniest seed"
+        "en": "A lamp, a sleeping farmer, and the tiniest seed",
+        "es": "Una lámpara, un agricultor que duerme, y la semilla más pequeña",
+        "fr": "Une lampe, un semeur qui dort, et la plus petite des graines"
       },
       "body": {
-        "en": "Jesus asked: would anyone hide a lamp under a bowl, or under a bed? Of course not — you put it on a stand, so it gives light! Whatever is hidden will eventually be disclosed, so consider carefully how you listen.\n\nThen He told another parable: a farmer scatters seed, and whether he's awake or asleep, night and day, the seed sprouts and grows — he doesn't fully understand how, but the soil produces grain by itself, until the harvest is ready. The kingdom of God grows this way too — not by human effort forcing it, but by a mysterious, God-given growth.\n\nThen Jesus described the kingdom as a MUSTARD SEED — the smallest of all seeds on earth!\n\nBut when it's planted, it grows into the largest of garden plants, with such big branches that birds can perch in its shade. Jesus used many such parables, as much as the people could understand, though He explained everything privately to His disciples. The kingdom starts small, even invisible — but it grows into something enormous."
+        "en": "Jesus asked: would anyone hide a lamp under a bowl, or under a bed? Of course not — you put it on a stand, so it gives light! Whatever is hidden will eventually be disclosed, so consider carefully how you listen.\n\nThen He told another parable: a farmer scatters seed, and whether he's awake or asleep, night and day, the seed sprouts and grows — he doesn't fully understand how, but the soil produces grain by itself, until the harvest is ready. The kingdom of God grows this way too — not by human effort forcing it, but by a mysterious, God-given growth.\n\nThen Jesus described the kingdom as a MUSTARD SEED — the smallest of all seeds on earth!\n\nBut when it's planted, it grows into the largest of garden plants, with such big branches that birds can perch in its shade. Jesus used many such parables, as much as the people could understand, though He explained everything privately to His disciples. The kingdom starts small, even invisible — but it grows into something enormous.",
+        "es": "Jesús preguntó: ¿alguien escondería una lámpara debajo de un tazón, o debajo de una cama? ¡Claro que no — la pones en un candelero, para que dé luz! Todo lo escondido eventualmente será revelado, así que consideren cuidadosamente cómo escuchan.\n\nLuego contó otra parábola: un agricultor esparce semilla, y ya sea que esté despierto o dormido, de noche y de día, la semilla brota y crece — él no entiende del todo cómo, pero la tierra produce grano por sí misma, hasta que la cosecha está lista. El reino de Dios crece de esta manera también — no por esfuerzo humano que lo fuerza, sino por un crecimiento misterioso, dado por Dios.\n\nEntonces Jesús describió el reino como una SEMILLA DE MOSTAZA — ¡la más pequeña de todas las semillas en la tierra!\n\nPero cuando se planta, crece hasta convertirse en la más grande de las plantas de jardín, con ramas tan grandes que las aves pueden posarse bajo su sombra. Jesús usó muchas parábolas como esta, tanto como la gente podía entender, aunque les explicaba todo en privado a Sus discípulos. El reino comienza pequeño, incluso invisible — pero crece hasta convertirse en algo enorme.",
+        "fr": "Jésus demanda : quelqu'un cacherait-il une lampe sous un boisseau, ou sous un lit ? Bien sûr que non — on la met sur un support, pour qu'elle donne de la lumière ! Tout ce qui est caché sera finalement révélé, alors faites bien attention à la façon dont vous écoutez.\n\nPuis Il raconta une autre parabole : un homme répand de la semence, et qu'il soit éveillé ou endormi, nuit et jour, la semence germe et grandit — il ne comprend pas entièrement comment, mais la terre produit du grain d'elle-même, jusqu'à ce que la moisson soit prête. Le royaume de Dieu grandit ainsi aussi — non par l'effort humain qui le force, mais par une croissance mystérieuse, donnée par Dieu.\n\nPuis Jésus décrivit le royaume comme un GRAIN DE SÉNEVÉ — la plus petite de toutes les semences sur la terre !\n\nMais quand on le sème, il grandit et devient la plus grande de toutes les plantes du jardin, avec des branches si grandes que les oiseaux peuvent se percher dans son ombre. Jésus utilisait beaucoup de telles paraboles, autant que les gens pouvaient comprendre, bien qu'Il expliquait tout en privé à Ses disciples. Le royaume commence petit, même invisible — mais il grandit pour devenir quelque chose d'énorme."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Though it is the smallest of all seeds on earth, yet when planted, it grows... it becomes the largest of all garden plants."
+        "en": "Though it is the smallest of all seeds on earth, yet when planted, it grows... it becomes the largest of all garden plants.",
+        "es": "Es como el grano de mostaza, que, cuando se siembra en tierra, es la más pequeña de todas las simientes que hay en la tierra; Mas después de sembrado, sube, y se hace la mayor de todas las legumbres.",
+        "fr": "Il est semblable à un grain de sénevé, qui, lorsqu'on le sème en terre, est la plus petite de toutes les semences qui sont sur la terre ; mais, lorsqu'il a été semé, il monte, devient plus grand que tous les légumes."
       },
       "ref": {
-        "en": "Mark 4:31-32 (NIV)"
+        "en": "Mark 4:31-32 (NIV)",
+        "es": "Marcos 4:31-32 (Valera)",
+        "fr": "Marc 4:31-32 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "seeds",
           "it",
           "grows"
+        ],
+        "es": [
+          "Es",
+          "como",
+          "el",
+          "grano",
+          "de",
+          "mostaza"
+        ],
+        "fr": [
+          "Il",
+          "est",
+          "semblable",
+          "à",
+          "un",
+          "grain"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Small Things, Big Kingdom"
+        "en": "A Song for Small Things, Big Kingdom",
+        "es": "Una Canción para Cosas Pequeñas, Reino Grande",
+        "fr": "Une Chanson pour Petites Choses, Grand Royaume"
       },
       "audio_en": "/static/audio/mark/lesson10_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Jesus say you should do with a lamp, not hide it under a bowl?"
+            "en": "What does Jesus say you should do with a lamp, not hide it under a bowl?",
+            "es": "¿Qué dice Jesús que deberías hacer con una lámpara, no esconderla debajo de un tazón?",
+            "fr": "Que dit Jésus de faire avec une lampe, et non la cacher sous un boisseau ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Hide it forever",
               "Throw it away",
               "Keep it in a box"
+            ],
+            "es": [
+              "Ponla en un candelero, para que dé luz",
+              "Escóndela para siempre",
+              "Tírala",
+              "Guárdala en una caja"
+            ],
+            "fr": [
+              "La mettre sur un support, pour qu'elle donne de la lumière",
+              "La cacher pour toujours",
+              "La jeter",
+              "La garder dans une boîte"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "In the parable of the growing seed, who actually makes the seed grow?"
+            "en": "In the parable of the growing seed, who actually makes the seed grow?",
+            "es": "En la parábola de la semilla que crece, ¿quién realmente hace crecer la semilla?",
+            "fr": "Dans la parabole de la semence qui pousse, qui fait réellement croître la semence ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "The soil produces grain by itself — a mysterious, God-given growth",
               "No one — it doesn't really grow",
               "Birds make it grow"
+            ],
+            "es": [
+              "Solo el esfuerzo duro del agricultor",
+              "La tierra produce grano por sí misma — un crecimiento misterioso, dado por Dios",
+              "Nadie — en realidad no crece",
+              "Las aves la hacen crecer"
+            ],
+            "fr": [
+              "Seulement l'effort acharné du semeur",
+              "La terre produit du grain d'elle-même — une croissance mystérieuse, donnée par Dieu",
+              "Personne — elle ne pousse pas vraiment",
+              "Les oiseaux la font pousser"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Jesus compare God's kingdom to, that starts tiny but grows enormous?"
+            "en": "What does Jesus compare God's kingdom to, that starts tiny but grows enormous?",
+            "es": "¿Con qué compara Jesús el reino de Dios, que comienza diminuto pero crece enorme?",
+            "fr": "À quoi Jésus compare-t-Il le royaume de Dieu, qui commence minuscule mais devient énorme ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "A mustard seed — smallest of all seeds, but grows into the largest plant",
               "A river",
               "Nothing in particular"
+            ],
+            "es": [
+              "Un roble gigante desde el principio",
+              "Una semilla de mostaza — la más pequeña de todas las semillas, pero crece hasta ser la planta más grande",
+              "Un río",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Un chêne géant dès le départ",
+              "Un grain de sénevé — la plus petite de toutes les semences, mais qui devient la plus grande plante",
+              "Une rivière",
+              "Rien de particulier"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Small Things, Big Kingdom"
+            "en": "Activity sheet: Small Things, Big Kingdom",
+            "es": "Hoja de actividad: Cosas Pequeñas, Reino Grande",
+            "fr": "Fiche d'activité : Petites Choses, Grand Royaume"
           },
           "file": "/static/printables/mark/lesson10_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: God's kingdom grows mysteriously and inevitably, often from the smallest, least impressive beginnings — encouraging both patience (the seed grows on its own timeline) and hope (even tiny faithfulness can produce enormous results). These short parables work together to reframe expectations about how God's work actually unfolds.\n\nConversation starters: (1) Why might Jesus compare the kingdom of God to something as small as a mustard seed? (2) What does the growing-seed parable teach about things we can't fully control or understand? (3) What's a \"lamp\" in your own life that shouldn't stay hidden?\n\nPray for patient faith, trusting God's kingdom to grow even when progress feels small or invisible."
+        "en": "Big idea: God's kingdom grows mysteriously and inevitably, often from the smallest, least impressive beginnings — encouraging both patience (the seed grows on its own timeline) and hope (even tiny faithfulness can produce enormous results). These short parables work together to reframe expectations about how God's work actually unfolds.\n\nConversation starters: (1) Why might Jesus compare the kingdom of God to something as small as a mustard seed? (2) What does the growing-seed parable teach about things we can't fully control or understand? (3) What's a \"lamp\" in your own life that shouldn't stay hidden?\n\nPray for patient faith, trusting God's kingdom to grow even when progress feels small or invisible.",
+        "es": "Idea principal: el reino de Dios crece misteriosa e inevitablemente, a menudo desde los comienzos más pequeños y menos impresionantes — animando tanto la paciencia (la semilla crece en su propio tiempo) como la esperanza (incluso la fidelidad diminuta puede producir resultados enormes). Estas breves parábolas trabajan juntas para replantear las expectativas sobre cómo realmente se desarrolla la obra de Dios.\n\nPara conversar: (1) ¿Por qué podría Jesús comparar el reino de Dios con algo tan pequeño como una semilla de mostaza? (2) ¿Qué enseña la parábola de la semilla que crece sobre cosas que no podemos controlar o entender completamente? (3) ¿Cuál es una 'lámpara' en tu propia vida que no debería permanecer escondida?\n\nOren por fe paciente, confiando en que el reino de Dios crecerá incluso cuando el progreso se sienta pequeño o invisible.",
+        "fr": "Idée principale : le royaume de Dieu grandit mystérieusement et inévitablement, souvent à partir des débuts les plus petits et les moins impressionnants — encourageant à la fois la patience (la graine grandit selon son propre rythme) et l'espérance (même une fidélité minuscule peut produire des résultats énormes). Ces courtes paraboles travaillent ensemble pour redéfinir les attentes sur la façon dont l'œuvre de Dieu se déploie réellement.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il comparer le royaume de Dieu à quelque chose d'aussi petit qu'un grain de sénevé ? (2) Qu'enseigne la parabole de la semence qui pousse sur les choses que nous ne pouvons pas entièrement contrôler ou comprendre ? (3) Quelle est une « lampe » dans ta propre vie qui ne devrait pas rester cachée ?\n\nPriez pour une foi patiente, faisant confiance que le royaume de Dieu grandira même quand le progrès semble petit ou invisible."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "New Wine, New Wineskins"
+    "en": "New Wine, New Wineskins",
+    "es": "Vino Nuevo, Odres Nuevos",
+    "fr": "Vin Nouveau, Outres Neuves"
   },
   "ref": "Mark 2:13-28",
   "section": "Jesus Calls Levi / Jesus Questioned About Fasting / Jesus Is Lord of the Sabbath",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Eating with the wrong crowd, on purpose"
+        "en": "Eating with the wrong crowd, on purpose",
+        "es": "Comiendo con la multitud equivocada, a propósito",
+        "fr": "Manger avec les mauvaises personnes, à dessein"
       },
       "body": {
-        "en": "Jesus saw Levi, a tax collector — one of the most despised jobs, since tax collectors often cheated people and worked for Rome — sitting at his tax booth, and said: 'Follow me.' Levi got up and followed Him! Later, eating at Levi's house, many tax collectors and sinners were eating with Jesus too.\n\nThe Pharisees were scandalised: 'Why does he eat with tax collectors and sinners?' Jesus answered: 'It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.' Then people questioned why Jesus' disciples didn't fast like John's disciples did.\n\nJesus said new wine needs new wineskins — something fresh had arrived, not just an old tradition with patches added. Finally, when His disciples picked grain on the Sabbath to eat, the Pharisees objected — but Jesus said: 'The Sabbath was made for man, not man for the Sabbath... the Son of Man is Lord even of the Sabbath.' Jesus kept breaking expectations, on purpose, to show something genuinely new had come."
+        "en": "Jesus saw Levi, a tax collector — one of the most despised jobs, since tax collectors often cheated people and worked for Rome — sitting at his tax booth, and said: 'Follow me.' Levi got up and followed Him! Later, eating at Levi's house, many tax collectors and sinners were eating with Jesus too.\n\nThe Pharisees were scandalised: 'Why does he eat with tax collectors and sinners?' Jesus answered: 'It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.' Then people questioned why Jesus' disciples didn't fast like John's disciples did.\n\nJesus said new wine needs new wineskins — something fresh had arrived, not just an old tradition with patches added. Finally, when His disciples picked grain on the Sabbath to eat, the Pharisees objected — but Jesus said: 'The Sabbath was made for man, not man for the Sabbath... the Son of Man is Lord even of the Sabbath.' Jesus kept breaking expectations, on purpose, to show something genuinely new had come.",
+        "es": "Jesús vio a Leví, un recaudador de impuestos — uno de los trabajos más despreciados, ya que los recaudadores de impuestos a menudo engañaban a la gente y trabajaban para Roma — sentado en su mesa de cobranza, y dijo: \"Sígueme.\" ¡Leví se levantó y lo siguió! Después, comiendo en la casa de Leví, muchos recaudadores de impuestos y pecadores comían también con Jesús.\n\nLos fariseos se escandalizaron: \"¿Por qué come con recaudadores de impuestos y pecadores?\" Jesús respondió: \"No son los sanos los que necesitan médico, sino los enfermos. No he venido a llamar a justos, sino a pecadores.\" Luego la gente preguntó por qué los discípulos de Jesús no ayunaban como los discípulos de Juan.\n\nJesús dijo que el vino nuevo necesita odres nuevos — algo fresco había llegado, no solo una tradición vieja con parches añadidos. Finalmente, cuando Sus discípulos recogieron grano en el día de reposo para comer, los fariseos objetaron — pero Jesús dijo: \"El día de reposo fue hecho para el hombre, no el hombre para el día de reposo... el Hijo del Hombre es Señor aun del día de reposo.\" Jesús seguía rompiendo expectativas, a propósito, para mostrar que algo genuinamente nuevo había llegado.",
+        "fr": "Jésus vit Lévi, un collecteur d'impôts — l'un des emplois les plus méprisés, puisque les collecteurs d'impôts trompaient souvent les gens et travaillaient pour Rome — assis à son bureau de péage, et dit : « Suis-moi. » Lévi se leva et le suivit ! Plus tard, en mangeant chez Lévi, beaucoup de collecteurs d'impôts et de pécheurs mangeaient aussi avec Jésus.\n\nLes pharisiens furent scandalisés : « Pourquoi mange-t-il avec les collecteurs d'impôts et les pécheurs ? » Jésus répondit : « Ce ne sont pas les bien portants qui ont besoin de médecin, mais les malades. Je ne suis pas venu appeler des justes, mais des pécheurs. » Puis les gens demandèrent pourquoi les disciples de Jésus ne jeûnaient pas comme ceux de Jean.\n\nJésus dit que le vin nouveau a besoin d'outres neuves — quelque chose de frais était arrivé, et non simplement une vieille tradition rapiécée. Enfin, quand Ses disciples cueillirent du grain le jour du sabbat pour manger, les pharisiens protestèrent — mais Jésus dit : « Le sabbat a été fait pour l'homme, et non l'homme pour le sabbat... le Fils de l'homme est maître même du sabbat. » Jésus continuait à briser les attentes, à dessein, pour montrer que quelque chose de véritablement nouveau était arrivé."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The Sabbath was made for man, not man for the Sabbath."
+        "en": "The Sabbath was made for man, not man for the Sabbath.",
+        "es": "También les dijo: El sábado por causa del hombre es hecho; no el hombre por causa del sábado.",
+        "fr": "Puis il leur dit : Le sabbat a été fait pour l'homme, et non l'homme pour le sabbat."
       },
       "ref": {
-        "en": "Mark 2:27 (NIV)"
+        "en": "Mark 2:27 (NIV)",
+        "es": "Marcos 2:27 (Valera)",
+        "fr": "Marc 2:27 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "for",
           "the",
           "Sabbath"
+        ],
+        "es": [
+          "También",
+          "les",
+          "dijo",
+          "El",
+          "sábado",
+          "por"
+        ],
+        "fr": [
+          "Puis",
+          "il",
+          "leur",
+          "dit",
+          "Le",
+          "sabbat"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for New Wine, New Wineskins"
+        "en": "A Song for New Wine, New Wineskins",
+        "es": "Una Canción para Vino Nuevo, Odres Nuevos",
+        "fr": "Une Chanson pour Vin Nouveau, Outres Neuves"
       },
       "audio_en": "/static/audio/mark/lesson06_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why was it shocking that Jesus called Levi, a tax collector, to follow Him?"
+            "en": "Why was it shocking that Jesus called Levi, a tax collector, to follow Him?",
+            "es": "¿Por qué fue impactante que Jesús llamara a Leví, un recaudador de impuestos, a seguirlo?",
+            "fr": "Pourquoi était-il choquant que Jésus appelle Lévi, un collecteur d'impôts, à le suivre ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "Tax collectors were despised, often seen as dishonest",
               "It wasn't shocking at all",
               "Levi refused to follow"
+            ],
+            "es": [
+              "Los recaudadores de impuestos eran muy respetados",
+              "Los recaudadores de impuestos eran despreciados, a menudo vistos como deshonestos",
+              "No fue impactante en absoluto",
+              "Leví se negó a seguirlo"
+            ],
+            "fr": [
+              "Les collecteurs d'impôts étaient très respectés",
+              "Les collecteurs d'impôts étaient méprisés, souvent vus comme malhonnêtes",
+              "Ce n'était pas choquant du tout",
+              "Lévi a refusé de le suivre"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did Jesus say He came to eat with sinners and tax collectors?"
+            "en": "Why did Jesus say He came to eat with sinners and tax collectors?",
+            "es": "¿Por qué dijo Jesús que vino a comer con pecadores y recaudadores de impuestos?",
+            "fr": "Pourquoi Jésus a-t-il dit qu'il était venu manger avec des pécheurs et des collecteurs d'impôts ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "It is the sick who need a doctor, not the healthy",
               "He had no other friends",
               "He was forced to"
+            ],
+            "es": [
+              "En realidad no le importaba nadie",
+              "Son los enfermos los que necesitan médico, no los sanos",
+              "No tenía otros amigos",
+              "Fue forzado a hacerlo"
+            ],
+            "fr": [
+              "En réalité, il ne se souciait de personne",
+              "Ce sont les malades qui ont besoin de médecin, pas les bien portants",
+              "Il n'avait pas d'autres amis",
+              "Il y a été forcé"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say about the Sabbath?"
+            "en": "What did Jesus say about the Sabbath?",
+            "es": "¿Qué dijo Jesús sobre el día de reposo?",
+            "fr": "Qu'a dit Jésus à propos du sabbat ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "No one should ever rest",
               "The Sabbath doesn't matter at all",
               "Only priests could keep it"
+            ],
+            "es": [
+              "Fue hecho para el hombre, no el hombre para el día de reposo",
+              "Nadie debería jamás descansar",
+              "El día de reposo no importa en absoluto",
+              "Solo los sacerdotes podían guardarlo"
+            ],
+            "fr": [
+              "Il a été fait pour l'homme, et non l'homme pour le sabbat",
+              "Personne ne devrait jamais se reposer",
+              "Le sabbat n'a aucune importance",
+              "Seuls les prêtres pouvaient l'observer"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: New Wine, New Wineskins"
+            "en": "Activity sheet: New Wine, New Wineskins",
+            "es": "Hoja de actividad: Vino Nuevo, Odres Nuevos",
+            "fr": "Fiche d'activité : Vin Nouveau, Outres Neuves"
           },
           "file": "/static/printables/mark/lesson06_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus repeatedly breaks religious expectations on purpose, revealing that genuine righteousness was never about exclusion or rigid tradition, but about mercy reaching exactly those who know they need it. The \"new wine, new wineskins\" image signals that Jesus brought something fundamentally new, not merely a reform of the old system.\n\nConversation starters: (1) Why might Jesus deliberately choose to eat with people others avoided? (2) What does \"the sick need a doctor, not the healthy\" teach about why Jesus came? (3) What does \"the Sabbath was made for man\" mean about how God designed rest?\n\nPray for hearts willing to reach out to people others might avoid, the way Jesus did."
+        "en": "Big idea: Jesus repeatedly breaks religious expectations on purpose, revealing that genuine righteousness was never about exclusion or rigid tradition, but about mercy reaching exactly those who know they need it. The \"new wine, new wineskins\" image signals that Jesus brought something fundamentally new, not merely a reform of the old system.\n\nConversation starters: (1) Why might Jesus deliberately choose to eat with people others avoided? (2) What does \"the sick need a doctor, not the healthy\" teach about why Jesus came? (3) What does \"the Sabbath was made for man\" mean about how God designed rest?\n\nPray for hearts willing to reach out to people others might avoid, the way Jesus did.",
+        "es": "Idea principal: Jesús rompe repetidamente las expectativas religiosas a propósito, revelando que la verdadera justicia nunca fue acerca de exclusión o tradición rígida, sino de misericordia alcanzando exactamente a quienes saben que la necesitan. La imagen de 'vino nuevo, odres nuevos' señala que Jesús trajo algo fundamentalmente nuevo, no meramente una reforma del sistema antiguo.\n\nPara conversar: (1) ¿Por qué podría Jesús elegir deliberadamente comer con personas que otros evitaban? (2) ¿Qué enseña 'los enfermos necesitan médico, no los sanos' sobre por qué vino Jesús? (3) ¿Qué significa 'el día de reposo fue hecho para el hombre' sobre cómo diseñó Dios el descanso?\n\nOren por corazones dispuestos a alcanzar a personas que otros podrían evitar, tal como lo hizo Jesús.",
+        "fr": "Idée principale : Jésus brise délibérément et à plusieurs reprises les attentes religieuses, révélant que la vraie justice n'a jamais consisté en exclusion ou tradition rigide, mais en miséricorde atteignant précisément ceux qui savent qu'ils en ont besoin. L'image du « vin nouveau, outres neuves » signale que Jésus a apporté quelque chose de fondamentalement nouveau, et non simplement une réforme de l'ancien système.\n\nPour la conversation : (1) Pourquoi Jésus choisirait-Il délibérément de manger avec des gens que d'autres évitaient ? (2) Qu'enseigne « les malades ont besoin de médecin, pas les bien portants » sur la raison de la venue de Jésus ? (3) Que signifie « le sabbat a été fait pour l'homme » sur la façon dont Dieu a conçu le repos ?\n\nPriez pour des cœurs disposés à atteindre des personnes que d'autres pourraient éviter, comme l'a fait Jésus."
       }
     }
   ]

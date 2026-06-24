@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Two Small Coins, Everything She Had"
+    "en": "Two Small Coins, Everything She Had",
+    "es": "Dos Monedas Pequeñas, Todo Lo Que Tenía",
+    "fr": "Deux Petites Pièces, Tout Ce Qu'elle Avait"
   },
   "ref": "Mark 12:35-44",
   "section": "Whose Son Is the Messiah? / Warning Against the Teachers of the Law / The Widow's Offering",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A poor widow's enormous gift"
+        "en": "A poor widow's enormous gift",
+        "es": "El regalo enorme de una viuda pobre",
+        "fr": "Le don immense d'une pauvre veuve"
       },
       "body": {
-        "en": "Jesus posed a puzzling question about how the Messiah could be both David's son and David's Lord, quoting David's own psalm — the large crowd listened with delight!\n\nThen Jesus warned about the teachers of the law, who loved walking around in flowing robes, being greeted with respect, having the best seats — yet who devoured widows' houses while making lengthy prayers for show. 'Such men will be punished most severely,' Jesus said. Then, sitting opposite the temple treasury, Jesus watched people putting in their gifts — many rich people gave large amounts.\n\nBut a poor widow came and put in just TWO small copper coins, worth very little. Jesus called His disciples and said: 'Truly I tell you, this poor widow has put more into the treasury than all the others. They gave out of their wealth; but she, out of her poverty, put in everything — all she had to live on.' The size of the gift wasn't what mattered to Jesus — it was the size of the sacrifice behind it."
+        "en": "Jesus posed a puzzling question about how the Messiah could be both David's son and David's Lord, quoting David's own psalm — the large crowd listened with delight!\n\nThen Jesus warned about the teachers of the law, who loved walking around in flowing robes, being greeted with respect, having the best seats — yet who devoured widows' houses while making lengthy prayers for show. 'Such men will be punished most severely,' Jesus said. Then, sitting opposite the temple treasury, Jesus watched people putting in their gifts — many rich people gave large amounts.\n\nBut a poor widow came and put in just TWO small copper coins, worth very little. Jesus called His disciples and said: 'Truly I tell you, this poor widow has put more into the treasury than all the others. They gave out of their wealth; but she, out of her poverty, put in everything — all she had to live on.' The size of the gift wasn't what mattered to Jesus — it was the size of the sacrifice behind it.",
+        "es": "Jesús planteó una pregunta intrigante sobre cómo el Mesías podía ser tanto hijo de David como Señor de David, citando el propio salmo de David — ¡la gran multitud escuchaba con deleite!\n\nLuego Jesús advirtió sobre los maestros de la ley, a quienes les encantaba andar con ropas largas, ser saludados con respeto, tener los mejores asientos — pero que devoraban las casas de las viudas mientras hacían largas oraciones para aparentar. \"Tales hombres recibirán un castigo más severo,\" dijo Jesús. Luego, sentado frente al tesoro del templo, Jesús observaba a la gente poniendo sus ofrendas — muchas personas ricas daban grandes cantidades.\n\nPero una viuda pobre vino y puso solo DOS pequeñas monedas de cobre, de muy poco valor. Jesús llamó a Sus discípulos y dijo: \"De verdad les digo, esta viuda pobre ha puesto más en el tesoro que todos los demás. Ellos dieron de su abundancia; pero ella, de su pobreza, puso todo lo que tenía — todo su sustento.\" El tamaño del regalo no era lo que le importaba a Jesús — era el tamaño del sacrificio detrás de él.",
+        "fr": "Jésus posa une question intrigante sur la façon dont le Messie pouvait être à la fois fils de David et Seigneur de David, citant le propre psaume de David — la grande foule écoutait avec délice !\n\nPuis Jésus avertit à propos des docteurs de la loi, qui aimaient se promener en longues robes, être salués avec respect, avoir les meilleures places — mais qui dévoraient les maisons des veuves tout en faisant de longues prières pour l'apparence. « De tels hommes seront punis plus sévèrement, » dit Jésus. Puis, assis en face du trésor du temple, Jésus regardait les gens y mettre leurs offrandes — beaucoup de riches donnaient de grandes sommes.\n\nMais une pauvre veuve vint et y mit seulement DEUX petites pièces de monnaie, de très peu de valeur. Jésus appela Ses disciples et dit : « Je vous le dis en vérité, cette pauvre veuve a mis plus que tous ceux qui ont mis dans le trésor. Car tous ont mis de leur superflu, mais elle a mis de son nécessaire, tout ce qu'elle possédait, tout ce qu'elle avait pour vivre. » Ce n'était pas la taille du don qui importait à Jésus — c'était la taille du sacrifice derrière lui."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "She, out of her poverty, put in everything—all she had to live on."
+        "en": "She, out of her poverty, put in everything—all she had to live on.",
+        "es": "Porque todos han echado de lo que les sobra; mas ésta, de su pobreza echó todo lo que tenía, todo su alimento.",
+        "fr": "car tous ont mis de leur superflu, mais elle a mis de son nécessaire, tout ce qu'elle possédait, tout ce qu'elle avait pour vivre."
       },
       "ref": {
-        "en": "Mark 12:44 (NIV)"
+        "en": "Mark 12:44 (NIV)",
+        "es": "Marcos 12:44 (Valera)",
+        "fr": "Marc 12:44 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "to",
           "live",
           "on"
+        ],
+        "es": [
+          "Porque",
+          "todos",
+          "han",
+          "echado",
+          "de",
+          "lo"
+        ],
+        "fr": [
+          "car",
+          "tous",
+          "ont",
+          "mis",
+          "de",
+          "leur"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Two Small Coins, Everything She Had"
+        "en": "A Song for Two Small Coins, Everything She Had",
+        "es": "Una Canción para Dos Monedas Pequeñas, Todo Lo Que Tenía",
+        "fr": "Une Chanson pour Deux Petites Pièces, Tout Ce Qu'elle Avait"
       },
       "audio_en": "/static/audio/mark/lesson32_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus warn about the teachers of the law who loved flowing robes and respect?"
+            "en": "What did Jesus warn about the teachers of the law who loved flowing robes and respect?",
+            "es": "¿Qué advirtió Jesús sobre los maestros de la ley que amaban las ropas largas y el respeto?",
+            "fr": "Qu'a averti Jésus à propos des docteurs de la loi qui aimaient les longues robes et le respect ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "They devoured widows' houses while praying for show, and would be punished severely",
               "They were ideal models to follow",
               "They deserved more honour"
+            ],
+            "es": [
+              "Nada — eran ejemplos perfectos",
+              "Devoraban las casas de las viudas mientras oraban para aparentar, y serían castigados severamente",
+              "Eran modelos ideales a seguir",
+              "Merecían más honor"
+            ],
+            "fr": [
+              "Rien — c'étaient des exemples parfaits",
+              "Ils dévoraient les maisons des veuves tout en priant pour l'apparence, et seraient punis sévèrement",
+              "C'étaient des modèles idéaux à suivre",
+              "Ils méritaient plus d'honneur"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How much did the poor widow put into the temple treasury?"
+            "en": "How much did the poor widow put into the temple treasury?",
+            "es": "¿Cuánto puso la viuda pobre en el tesoro del templo?",
+            "fr": "Combien la pauvre veuve a-t-elle mis dans le trésor du temple ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Two small copper coins",
               "Nothing at all",
               "More than everyone else combined"
+            ],
+            "es": [
+              "Una gran cantidad de oro",
+              "Dos pequeñas monedas de cobre",
+              "Nada en absoluto",
+              "Más que todos los demás combinados"
+            ],
+            "fr": [
+              "Une grande quantité d'or",
+              "Deux petites pièces de monnaie",
+              "Rien du tout",
+              "Plus que tous les autres réunis"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did Jesus say the widow gave MORE than the wealthy givers, even though her amount was tiny?"
+            "en": "Why did Jesus say the widow gave MORE than the wealthy givers, even though her amount was tiny?",
+            "es": "¿Por qué dijo Jesús que la viuda dio MÁS que los donantes ricos, aunque su cantidad era diminuta?",
+            "fr": "Pourquoi Jésus a-t-il dit que la veuve avait donné PLUS que les riches donateurs, même si son montant était minuscule ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "She gave out of her poverty, everything she had, while others gave from their excess",
               "Jesus made a mistake",
               "It wasn't actually more"
+            ],
+            "es": [
+              "En realidad no dio más",
+              "Ella dio de su pobreza, todo lo que tenía, mientras otros dieron de su excedente",
+              "Jesús se equivocó",
+              "No fue en realidad más"
+            ],
+            "fr": [
+              "Elle n'a en réalité pas donné plus",
+              "Elle a donné de sa pauvreté, tout ce qu'elle avait, tandis que d'autres ont donné de leur superflu",
+              "Jésus s'est trompé",
+              "Ce n'était pas vraiment plus"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Two Small Coins, Everything She Had"
+            "en": "Activity sheet: Two Small Coins, Everything She Had",
+            "es": "Hoja de actividad: Dos Monedas Pequeñas, Todo Lo Que Tenía",
+            "fr": "Fiche d'activité : Deux Petites Pièces, Tout Ce Qu'elle Avait"
           },
           "file": "/static/printables/mark/lesson32_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: God measures giving not by the absolute amount but by the sacrifice and trust behind it — the widow's two tiny coins represented far greater faith and generosity than the wealthy givers' larger but comparatively painless contributions. This directly follows Jesus' warning against showy, self-serving religiosity, contrasting hollow public piety with quiet, costly, genuine devotion.\n\nConversation starters: (1) Why does Jesus value the widow's tiny gift more than the wealthy people's larger gifts? (2) What's the difference between giving out of \"wealth\" versus giving out of genuine sacrifice? (3) What would it look like for you to give sacrificially, not just give what's easy?\n\nPray for hearts of genuine, sacrificial generosity, regardless of how much or little you have."
+        "en": "Big idea: God measures giving not by the absolute amount but by the sacrifice and trust behind it — the widow's two tiny coins represented far greater faith and generosity than the wealthy givers' larger but comparatively painless contributions. This directly follows Jesus' warning against showy, self-serving religiosity, contrasting hollow public piety with quiet, costly, genuine devotion.\n\nConversation starters: (1) Why does Jesus value the widow's tiny gift more than the wealthy people's larger gifts? (2) What's the difference between giving out of \"wealth\" versus giving out of genuine sacrifice? (3) What would it look like for you to give sacrificially, not just give what's easy?\n\nPray for hearts of genuine, sacrificial generosity, regardless of how much or little you have.",
+        "es": "Idea principal: Dios mide el dar no por la cantidad absoluta sino por el sacrificio y la confianza detrás de ella — las dos pequeñas monedas de la viuda representaban una fe y generosidad mucho mayores que las contribuciones más grandes pero comparativamente indoloras de los donantes ricos. Esto sigue directamente la advertencia de Jesús contra la religiosidad ostentosa y egocéntrica, contrastando la piedad pública hueca con la devoción genuina, costosa y silenciosa.\n\nPara conversar: (1) ¿Por qué valora Jesús el pequeño regalo de la viuda más que los regalos más grandes de las personas ricas? (2) ¿Cuál es la diferencia entre dar de la 'abundancia' y dar por sacrificio genuino? (3) ¿Cómo sería para ti dar sacrificialmente, no solo dar lo que es fácil?\n\nOren por corazones de generosidad genuina y sacrificial, sin importar cuánto o cuán poco tengan.",
+        "fr": "Idée principale : Dieu mesure le don non pas par la quantité absolue mais par le sacrifice et la confiance derrière lui — les deux petites pièces de la veuve représentaient une foi et une générosité bien plus grandes que les contributions plus importantes mais relativement indolores des riches donateurs. Cela suit directement l'avertissement de Jésus contre la religiosité ostentatoire et égocentrique, contrastant la piété publique creuse avec une dévotion authentique, coûteuse et silencieuse.\n\nPour la conversation : (1) Pourquoi Jésus valorise-t-Il le petit don de la veuve plus que les dons plus importants des riches ? (2) Quelle est la différence entre donner de son « superflu » et donner par sacrifice véritable ? (3) À quoi ressemblerait pour toi le fait de donner sacrificiellement, et non simplement donner ce qui est facile ?\n\nPriez pour des cœurs d'une générosité authentique et sacrificielle, peu importe combien ou peu vous avez."
       }
     }
   ]

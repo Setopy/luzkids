@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A Good Name Is Better Than Riches"
+    "en": "A Good Name Is Better Than Riches",
+    "es": "Un Buen Nombre Es Mejor Que las Riquezas",
+    "fr": "Une Bonne Réputation Vaut Mieux Que de Grandes Richesses"
   },
   "ref": "Proverbs 11:28; 16:8; 22:1; 22:7; 23:4-5",
   "section": "Money and Riches (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Wealth that grows wings and flies away"
+        "en": "Wealth that grows wings and flies away",
+        "es": "Riqueza que le salen alas y vuela",
+        "fr": "Des richesses qui prennent des ailes et s'envolent"
       },
       "body": {
-        "en": "'Those who trust in their riches will fall, but the righteous will thrive like a green leaf.' Proverbs is honest about the danger of putting too much confidence in money — it simply isn't sturdy enough to lean on fully.\n\n'Better a little with righteousness than much gain with injustice.' Quantity isn't the point — Proverbs consistently cares more about HOW wealth is gained than how much of it exists.\n\nOne of the most countercultural verses in the whole book: 'a good name is more desirable than great riches; to be esteemed is better than silver or gold.' Character and reputation, Proverbs insists, outweigh wealth itself.\n\n'The rich rule over the poor, and the borrower is servant to the lender.' Proverbs is realistic about how money creates power dynamics, encouraging wisdom about debt and financial dependence.\n\nA vivid warning closes this theme: 'do not wear yourself out to get rich; do not trust your own cleverness. Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off, like an eagle, into the sky.' Wealth, Proverbs warns, is far less permanent than it appears."
+        "en": "'Those who trust in their riches will fall, but the righteous will thrive like a green leaf.' Proverbs is honest about the danger of putting too much confidence in money — it simply isn't sturdy enough to lean on fully.\n\n'Better a little with righteousness than much gain with injustice.' Quantity isn't the point — Proverbs consistently cares more about HOW wealth is gained than how much of it exists.\n\nOne of the most countercultural verses in the whole book: 'a good name is more desirable than great riches; to be esteemed is better than silver or gold.' Character and reputation, Proverbs insists, outweigh wealth itself.\n\n'The rich rule over the poor, and the borrower is servant to the lender.' Proverbs is realistic about how money creates power dynamics, encouraging wisdom about debt and financial dependence.\n\nA vivid warning closes this theme: 'do not wear yourself out to get rich; do not trust your own cleverness. Cast but a glance at riches, and they are gone, for they will surely sprout wings and fly off, like an eagle, into the sky.' Wealth, Proverbs warns, is far less permanent than it appears.",
+        "es": "\"Los que confían en sus riquezas caerán: mas los justos reverdecerán como ramos.\" Proverbios es honesto sobre el peligro de poner demasiada confianza en el dinero — simplemente no es suficientemente firme para apoyarse en él completamente.\n\n\"Mejor es lo poco con justicia, que la muchedumbre de frutos sin derecho.\" La cantidad no es lo importante — Proverbios se preocupa consistentemente más por CÓMO se gana la riqueza que por cuánta existe.\n\nUno de los versículos más contraculturales de todo el libro: \"de más estima es la buena fama que las muchas riquezas; y la buena gracia más que la plata y el oro.\" El carácter y la reputación, insiste Proverbios, pesan más que la riqueza misma.\n\n\"El rico se enseñorea de los pobres, y el que toma prestado es siervo del que presta.\" Proverbios es realista sobre cómo el dinero crea dinámicas de poder, animando a la sabiduría sobre la deuda y la dependencia financiera.\n\nUna advertencia vívida cierra este tema: \"no trabajes por ser rico; pon coto á tu prudencia. ¿Has de poner tus ojos en las riquezas, siendo ningunas? Porque hacerse han alas, como alas de águila, y volarán al cielo.\" La riqueza, advierte Proverbios, es mucho menos permanente de lo que parece.",
+        "fr": "« Ceux qui se confient dans leurs richesses tombent, mais les justes verdiront comme le feuillage. » Les Proverbes sont honnêtes sur le danger de mettre trop confiance dans l'argent — il n'est simplement pas assez solide pour s'y appuyer entièrement.\n\n« Mieux vaut peu, avec la justice, que de grands revenus, avec l'injustice. » La quantité n'est pas le point — les Proverbes se préoccupent constamment plus de COMMENT la richesse est acquise que de combien il y en a.\n\nL'un des versets les plus contre-culturels de tout le livre : « la réputation est préférable à de grandes richesses, et la grâce vaut mieux que l'argent et que l'or. » Le caractère et la réputation, insistent les Proverbes, pèsent plus que la richesse elle-même.\n\n« Le riche domine sur les pauvres, et celui qui emprunte est l'esclave de celui qui prête. » Les Proverbes sont réalistes sur la façon dont l'argent crée des dynamiques de pouvoir, encourageant la sagesse sur la dette et la dépendance financière.\n\nUn avertissement vif clôt ce thème : « ne te tourmente pas pour t'enrichir, n'y applique pas ton intelligence. Veux-tu poursuivre du regard ce qui va disparaître ? Car la richesse se fait des ailes, et comme l'aigle, elle prend son vol vers les cieux. » La richesse, avertissent les Proverbes, est bien moins permanente qu'elle ne le paraît."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "A good name is more desirable than great riches; to be esteemed is better than silver or gold."
+        "en": "A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+        "es": "De más estima es la buena fama que las muchas riquezas; y la buena gracia más que la plata y el oro.",
+        "fr": "La réputation est préférable à de grandes richesses, Et la grâce vaut mieux que l'argent et que l'or."
       },
       "ref": {
-        "en": "Proverbs 22:1 (NIV)"
+        "en": "Proverbs 22:1 (NIV)",
+        "es": "Proverbios 22:1 (Valera)",
+        "fr": "Proverbes 22:1 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "than",
           "great",
           "riches"
+        ],
+        "es": [
+          "De",
+          "más",
+          "estima",
+          "es",
+          "la",
+          "buena"
+        ],
+        "fr": [
+          "La",
+          "réputation",
+          "est",
+          "préférable",
+          "à",
+          "de"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A Good Name Is Better Than Riches"
+        "en": "A Song for A Good Name Is Better Than Riches",
+        "es": "Una Canción para Un Buen Nombre Es Mejor Que las Riquezas",
+        "fr": "Une Chanson pour Une Bonne Réputation Vaut Mieux Que de Grandes Richesses"
       },
       "audio_en": "/static/audio/proverbs/lesson26_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 22:1, what is more desirable than great riches?"
+            "en": "According to Proverbs 22:1, what is more desirable than great riches?",
+            "es": "Según Proverbios 22:1, ¿qué es más estimado que las muchas riquezas?",
+            "fr": "Selon Proverbes 22:1, qu'est-ce qui est préférable à de grandes richesses ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "A good name — being esteemed",
               "More riches still",
               "Power over others"
+            ],
+            "es": [
+              "Nada — las riquezas siempre son lo mejor",
+              "Una buena fama — ser bien considerado",
+              "Más riquezas todavía",
+              "El poder sobre otros"
+            ],
+            "fr": [
+              "Rien — les richesses sont toujours les meilleures",
+              "Une bonne réputation — être bien considéré",
+              "Encore plus de richesses",
+              "Le pouvoir sur les autres"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 11:28 say happens to those who trust in their riches?"
+            "en": "What does Proverbs 11:28 say happens to those who trust in their riches?",
+            "es": "¿Qué dice Proverbios 11:28 que les sucede a quienes confían en sus riquezas?",
+            "fr": "Que dit Proverbes 11:28 qu'il arrive à ceux qui se confient dans leurs richesses ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "They will fall; the righteous thrive like a green leaf instead",
               "Nothing happens either way",
               "Riches always provide security"
+            ],
+            "es": [
+              "Siempre tienen éxito",
+              "Caerán; los justos reverdecerán como ramos en cambio",
+              "No pasa nada de cualquier manera",
+              "Las riquezas siempre proveen seguridad"
+            ],
+            "fr": [
+              "Ils réussissent toujours",
+              "Ils tomberont ; les justes verdiront comme le feuillage à la place",
+              "Rien ne se passe de toute façon",
+              "Les richesses fournissent toujours la sécurité"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What vivid image does Proverbs 23:4-5 use to describe how quickly wealth can disappear?"
+            "en": "What vivid image does Proverbs 23:4-5 use to describe how quickly wealth can disappear?",
+            "es": "¿Qué imagen vívida usa Proverbios 23:4-5 para describir cuán rápido puede desaparecer la riqueza?",
+            "fr": "Quelle image vive Proverbes 23:4-5 utilise-t-il pour décrire la rapidité avec laquelle la richesse peut disparaître ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Riches sprout wings and fly off like an eagle into the sky",
               "Wealth grows slowly but steadily",
               "No image is given"
+            ],
+            "es": [
+              "La riqueza dura para siempre, sin cambios",
+              "Las riquezas se hacen alas y vuelan como un águila al cielo",
+              "La riqueza crece lenta pero constantemente",
+              "No se da ninguna imagen"
+            ],
+            "fr": [
+              "La richesse dure toujours, immuable",
+              "Les richesses se font des ailes et s'envolent comme un aigle vers les cieux",
+              "La richesse croît lentement mais constamment",
+              "Aucune image n'est donnée"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A Good Name Is Better Than Riches"
+            "en": "Activity sheet: A Good Name Is Better Than Riches",
+            "es": "Hoja de actividad: Un Buen Nombre Es Mejor Que las Riquezas",
+            "fr": "Fiche d'activité : Une Bonne Réputation Vaut Mieux Que de Grandes Richesses"
           },
           "file": "/static/printables/proverbs/lesson26_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs consistently relativizes wealth — never condemning it outright, but repeatedly warning against trusting in it, valuing it above character, or pursuing it at the expense of integrity. The vivid image of riches \"sprouting wings\" captures money's genuine instability, a needed corrective in any culture (ancient or modern) that tends to overvalue financial security.\n\nConversation starters: (1) Why might a \"good name\" — your character and reputation — actually matter more than wealth? (2) What does it mean that riches can \"sprout wings and fly away\" — how have you seen this happen, even to wealthy people? (3) How does HOW money is earned matter, not just how much is earned?\n\nPray for hearts that value character over wealth, and wisdom about how money is pursued and used."
+        "en": "Big idea: Proverbs consistently relativizes wealth — never condemning it outright, but repeatedly warning against trusting in it, valuing it above character, or pursuing it at the expense of integrity. The vivid image of riches \"sprouting wings\" captures money's genuine instability, a needed corrective in any culture (ancient or modern) that tends to overvalue financial security.\n\nConversation starters: (1) Why might a \"good name\" — your character and reputation — actually matter more than wealth? (2) What does it mean that riches can \"sprout wings and fly away\" — how have you seen this happen, even to wealthy people? (3) How does HOW money is earned matter, not just how much is earned?\n\nPray for hearts that value character over wealth, and wisdom about how money is pursued and used.",
+        "es": "Idea principal: Proverbios consistentemente relativiza la riqueza — nunca la condena directamente, pero advierte repetidamente contra confiar en ella, valorarla por encima del carácter, o buscarla a expensas de la integridad. La imagen vívida de la riqueza \"echando alas\" captura la verdadera inestabilidad del dinero, una corrección necesaria en cualquier cultura (antigua o moderna) que tienda a sobrevalorar la seguridad financiera.\n\nPara conversar: (1) ¿Por qué podría un \"buen nombre\" — tu carácter y reputación — importar en realidad más que la riqueza? (2) ¿Qué significa que las riquezas pueden \"echar alas y volar\" — cómo has visto que esto sucede, incluso a personas ricas? (3) ¿Cómo importa CÓMO se gana el dinero, no solo cuánto se gana?\n\nOren por corazones que valoren el carácter sobre la riqueza, y sabiduría sobre cómo se busca y se usa el dinero.",
+        "fr": "Idée principale : les Proverbes relativisent constamment la richesse — ne la condamnant jamais carrément, mais avertissant à plusieurs reprises contre le fait de s'y confier, de la valoriser au-dessus du caractère, ou de la poursuivre aux dépens de l'intégrité. L'image vive de la richesse « prenant des ailes » capture la véritable instabilité de l'argent, une correction nécessaire dans toute culture (ancienne ou moderne) qui tend à surévaluer la sécurité financière.\n\nPour la conversation : (1) Pourquoi une « bonne réputation » — ton caractère et ta réputation — pourrait-elle en réalité importer plus que la richesse ? (2) Que signifie le fait que les richesses peuvent « prendre des ailes et s'envoler » — comment as-tu vu cela arriver, même à des gens riches ? (3) Comment COMMENT l'argent est gagné importe-t-il, pas seulement combien est gagné ?\n\nPriez pour des cœurs qui valorisent le caractère plus que la richesse, et la sagesse sur la façon dont l'argent est recherché et utilisé."
       }
     }
   ]

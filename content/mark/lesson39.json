@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "He Is Not Here — He Has Risen!"
+    "en": "He Is Not Here — He Has Risen!",
+    "es": "No Está Aquí — ¡Ha Resucitado!",
+    "fr": "Il N'est Pas Ici — Il Est Ressuscité !"
   },
   "ref": "Mark 16:1-20",
   "section": "Jesus Has Risen / Resurrection Appearances and the Great Commission",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "An empty tomb, and a command for the whole world"
+        "en": "An empty tomb, and a command for the whole world",
+        "es": "Una tumba vacía, y un mandato para todo el mundo",
+        "fr": "Un tombeau vide, et un commandement pour le monde entier"
       },
       "body": {
-        "en": "Very early on the first day of the week, Mary Magdalene, Mary the mother of James, and Salome went to the tomb with spices, worried about who would roll away the huge stone.\n\nBut the stone was ALREADY rolled away! Inside, a young man in a white robe said: 'Don't be alarmed. You are looking for Jesus, who was crucified. He has risen! He is not here. See the place where they laid him. Go, tell his disciples and Peter, \"He is going ahead of you into Galilee.\"' The women fled, astonished and afraid!\n\nJesus appeared to Mary Magdalene, who told the others, but they didn't believe her. He appeared to two more disciples walking in the country — they weren't believed either!\n\nFinally He appeared to the Eleven themselves, rebuking their unbelief, then commanding them: 'Go into all the world and preach the gospel to all creation. Whoever believes and is baptised will be saved.' Then Jesus was taken up into heaven and sat at the right hand of God. The disciples went out and preached everywhere, the Lord working with them.\n\nThe tomb was empty — and the mission had only just begun."
+        "en": "Very early on the first day of the week, Mary Magdalene, Mary the mother of James, and Salome went to the tomb with spices, worried about who would roll away the huge stone.\n\nBut the stone was ALREADY rolled away! Inside, a young man in a white robe said: 'Don't be alarmed. You are looking for Jesus, who was crucified. He has risen! He is not here. See the place where they laid him. Go, tell his disciples and Peter, \"He is going ahead of you into Galilee.\"' The women fled, astonished and afraid!\n\nJesus appeared to Mary Magdalene, who told the others, but they didn't believe her. He appeared to two more disciples walking in the country — they weren't believed either!\n\nFinally He appeared to the Eleven themselves, rebuking their unbelief, then commanding them: 'Go into all the world and preach the gospel to all creation. Whoever believes and is baptised will be saved.' Then Jesus was taken up into heaven and sat at the right hand of God. The disciples went out and preached everywhere, the Lord working with them.\n\nThe tomb was empty — and the mission had only just begun.",
+        "es": "Muy temprano en el primer día de la semana, María Magdalena, María la madre de Jacobo, y Salomé fueron a la tumba con especias, preocupadas por quién haría rodar la enorme piedra.\n\n¡Pero la piedra ya estaba removida! Adentro, un joven con una túnica blanca dijo: \"No se alarmen. Buscan a Jesús, que fue crucificado. ¡Ha resucitado! No está aquí. Vean el lugar donde lo pusieron. Vayan, digan a sus discípulos y a Pedro: 'Él va delante de ustedes a Galilea.'\" ¡Las mujeres huyeron, asombradas y atemorizadas!\n\nJesús se apareció a María Magdalena, quien les contó a los demás, ¡pero no le creyeron! Se apareció a otros dos discípulos que caminaban por el campo — ¡tampoco les creyeron a ellos!\n\nFinalmente se apareció a los Once mismos, reprendiendo su incredulidad, y luego les ordenó: \"Vayan por todo el mundo y prediquen el evangelio a toda la creación. El que crea y sea bautizado será salvo.\" Entonces Jesús fue llevado al cielo y se sentó a la diestra de Dios. Los discípulos salieron y predicaron por todas partes, con el Señor obrando con ellos.\n\nLa tumba estaba vacía — y la misión apenas había comenzado.",
+        "fr": "Très tôt le premier jour de la semaine, Marie de Magdala, Marie la mère de Jacques, et Salomé allèrent au tombeau avec des aromates, inquiètes de savoir qui roulerait l'énorme pierre.\n\nMais la pierre était DÉJÀ roulée ! À l'intérieur, un jeune homme vêtu d'une robe blanche dit : « Ne vous épouvantez point. Vous cherchez Jésus de Nazareth, qui a été crucifié ; il est ressuscité, il n'est point ici ; voici le lieu où on l'avait mis. Mais allez dire à ses disciples et à Pierre qu'il vous précède en Galilée. » Les femmes s'enfuirent, stupéfaites et effrayées !\n\nJésus apparut à Marie de Magdala, qui le raconta aux autres, mais ils ne la crurent pas ! Il apparut à deux autres disciples qui marchaient à la campagne — eux non plus ne furent pas crus !\n\nFinalement Il apparut aux Onze eux-mêmes, reprenant leur incrédulité, puis leur ordonna : « Allez par tout le monde, et prêchez la bonne nouvelle à toute la création. Celui qui croira et sera baptisé sera sauvé. » Puis Jésus fut enlevé au ciel, et S'assit à la droite de Dieu. Les disciples s'en allèrent, et prêchèrent partout, le Seigneur agissant avec eux.\n\nLe tombeau était vide — et la mission ne faisait que commencer."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Go into all the world and preach the gospel to all creation."
+        "en": "Go into all the world and preach the gospel to all creation.",
+        "es": "Y les dijo: Id por todo el mundo; predicad el evangelio á toda criatura.",
+        "fr": "Puis il leur dit : Allez par tout le monde, et prêchez la bonne nouvelle à toute la création."
       },
       "ref": {
-        "en": "Mark 16:15 (NIV)"
+        "en": "Mark 16:15 (NIV)",
+        "es": "Marcos 16:15 (Valera)",
+        "fr": "Marc 16:15 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "to",
           "all",
           "creation"
+        ],
+        "es": [
+          "Y",
+          "les",
+          "dijo",
+          "Id",
+          "por",
+          "todo"
+        ],
+        "fr": [
+          "Puis",
+          "il",
+          "leur",
+          "dit",
+          "Allez",
+          "par"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for He Is Not Here — He Has Risen!"
+        "en": "A Song for He Is Not Here — He Has Risen!",
+        "es": "Una Canción para No Está Aquí — ¡Ha Resucitado!",
+        "fr": "Une Chanson pour Il N'est Pas Ici — Il Est Ressuscité !"
       },
       "audio_en": "/static/audio/mark/lesson39_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did the women find when they arrived at the tomb?"
+            "en": "What did the women find when they arrived at the tomb?",
+            "es": "¿Qué encontraron las mujeres cuando llegaron a la tumba?",
+            "fr": "Qu'ont trouvé les femmes en arrivant au tombeau ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "The stone already rolled away, and the tomb empty",
               "Soldiers guarding it closely",
               "Nothing unusual"
+            ],
+            "es": [
+              "El cuerpo de Jesús, todavía allí",
+              "La piedra ya removida, y la tumba vacía",
+              "Soldados vigilándola de cerca",
+              "Nada inusual"
+            ],
+            "fr": [
+              "Le corps de Jésus, toujours là",
+              "La pierre déjà roulée, et le tombeau vide",
+              "Des soldats la surveillant de près",
+              "Rien d'inhabituel"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What message did the young man in the white robe give the women?"
+            "en": "What message did the young man in the white robe give the women?",
+            "es": "¿Qué mensaje dio el joven vestido de blanco a las mujeres?",
+            "fr": "Quel message le jeune homme vêtu de blanc a-t-il donné aux femmes ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "He has risen! He is not here.",
               "Stay away from Galilee",
               "Nothing significant"
+            ],
+            "es": [
+              "Jesús todavía está muerto",
+              "¡Ha resucitado! No está aquí.",
+              "Manténganse alejadas de Galilea",
+              "Nada significativo"
+            ],
+            "fr": [
+              "Jésus est toujours mort",
+              "Il est ressuscité ! Il n'est point ici.",
+              "Restez loin de la Galilée",
+              "Rien de significatif"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What command did Jesus give the Eleven before He ascended?"
+            "en": "What command did Jesus give the Eleven before He ascended?",
+            "es": "¿Qué mandato dio Jesús a los Once antes de ascender?",
+            "fr": "Quel commandement Jésus a-t-il donné aux Onze avant de monter au ciel ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "Go into all the world and preach the gospel to all creation",
               "Avoid all other nations",
               "Nothing specific"
+            ],
+            "es": [
+              "Quédense escondidos para siempre",
+              "Vayan por todo el mundo y prediquen el evangelio a toda la creación",
+              "Eviten a todas las demás naciones",
+              "Nada específico"
+            ],
+            "fr": [
+              "Restez cachés pour toujours",
+              "Allez par tout le monde et prêchez la bonne nouvelle à toute la création",
+              "Évitez toutes les autres nations",
+              "Rien de spécifique"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: He Is Not Here — He Has Risen!"
+            "en": "Activity sheet: He Is Not Here — He Has Risen!",
+            "es": "Hoja de actividad: No Está Aquí — ¡Ha Resucitado!",
+            "fr": "Fiche d'activité : Il N'est Pas Ici — Il Est Ressuscité !"
           },
           "file": "/static/printables/mark/lesson39_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the resurrection is the hinge of the entire Gospel — death could not hold Jesus, and the empty tomb transforms grieving followers into a movement commissioned to reach \"all the world.\" Mark's account is notably understated (no elaborate special effects, just an empty tomb and a simple announcement), letting the fact itself carry the weight rather than dramatic embellishment. The repeated disbelief of the disciples, even when told directly by witnesses, is honestly recorded — faith in the resurrection wasn't instant or easy even for those closest to Jesus.\n\nConversation starters: (1) Why might Mark's account of the resurrection be so simple and understated, rather than dramatic? (2) What does it mean that even the disciples struggled to believe at first? (3) What does \"go into all the world\" mean for YOUR life today, right where you are?\n\nPray, thanking God that Jesus is risen, and asking for boldness to be part of taking that good news everywhere."
+        "en": "Big idea: the resurrection is the hinge of the entire Gospel — death could not hold Jesus, and the empty tomb transforms grieving followers into a movement commissioned to reach \"all the world.\" Mark's account is notably understated (no elaborate special effects, just an empty tomb and a simple announcement), letting the fact itself carry the weight rather than dramatic embellishment. The repeated disbelief of the disciples, even when told directly by witnesses, is honestly recorded — faith in the resurrection wasn't instant or easy even for those closest to Jesus.\n\nConversation starters: (1) Why might Mark's account of the resurrection be so simple and understated, rather than dramatic? (2) What does it mean that even the disciples struggled to believe at first? (3) What does \"go into all the world\" mean for YOUR life today, right where you are?\n\nPray, thanking God that Jesus is risen, and asking for boldness to be part of taking that good news everywhere.",
+        "es": "Idea principal: la resurrección es el eje de todo el Evangelio — la muerte no pudo retener a Jesús, y la tumba vacía transforma a seguidores que estaban de duelo en un movimiento comisionado para alcanzar 'todo el mundo'. El relato de Marcos es notablemente discreto (sin efectos especiales elaborados, solo una tumba vacía y un simple anuncio), dejando que el hecho mismo lleve el peso en lugar del adorno dramático. La incredulidad repetida de los discípulos, incluso cuando se les dijo directamente por testigos, se registra honestamente — la fe en la resurrección no fue instantánea ni fácil incluso para los más cercanos a Jesús.\n\nPara conversar: (1) ¿Por qué podría el relato de Marcos sobre la resurrección ser tan simple y discreto, en lugar de dramático? (2) ¿Qué significa que incluso los discípulos lucharon por creer al principio? (3) ¿Qué significa 'vayan por todo el mundo' para TU vida hoy, justo donde estás?\n\nOren, agradeciendo a Dios que Jesús ha resucitado, y pidiendo valentía para ser parte de llevar esa buena noticia a todas partes.",
+        "fr": "Idée principale : la résurrection est le pivot de tout l'Évangile — la mort n'a pas pu retenir Jésus, et le tombeau vide transforme des disciples en deuil en un mouvement chargé d'atteindre « tout le monde ». Le récit de Marc est remarquablement discret (pas d'effets spéciaux élaborés, juste un tombeau vide et une simple annonce), laissant le fait lui-même porter le poids plutôt qu'un embellissement dramatique. L'incrédulité répétée des disciples, même lorsqu'on le leur dit directement par des témoins, est honnêtement rapportée — la foi en la résurrection n'a pas été instantanée ni facile, même pour ceux qui étaient les plus proches de Jésus.\n\nPour la conversation : (1) Pourquoi le récit de la résurrection de Marc pourrait-il être si simple et discret, plutôt que dramatique ? (2) Que signifie le fait que même les disciples ont eu du mal à croire au début ? (3) Que signifie « allez par tout le monde » pour TA vie aujourd'hui, là où tu es ?\n\nPriez, en remerciant Dieu que Jésus est ressuscité, et en demandant l'audace de participer à porter cette bonne nouvelle partout."
       }
     }
   ]

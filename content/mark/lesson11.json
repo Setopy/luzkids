@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Peace! Be Still!"
+    "en": "Peace! Be Still!",
+    "es": "¡Calla, Enmudece!",
+    "fr": "Silence ! Tais-toi !"
   },
   "ref": "Mark 4:35-41",
   "section": "Jesus Calms the Storm",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Asleep in the storm, then a word that silenced it"
+        "en": "Asleep in the storm, then a word that silenced it",
+        "es": "Dormido en la tormenta, luego una palabra que la silenció",
+        "fr": "Endormi dans la tempête, puis une parole qui l'a réduite au silence"
       },
       "body": {
-        "en": "That evening, Jesus said to His disciples: 'Let us go over to the other side.' They got into a boat, and a FURIOUS storm arose — waves breaking over the boat, so that it was nearly swamped! And where was Jesus? Asleep, on a cushion, in the stern!\n\nThe terrified disciples woke Him: 'Teacher, don't you care if we drown?' Jesus got up, and said to the wind and the waves: 'Quiet! Be still!' Then the wind died down, and it was COMPLETELY calm. Jesus turned to His disciples: 'Why are you so afraid? Do you still have no faith?' They were terrified, and asked each other, 'Who is this? Even the wind and the waves obey him!' Imagine the fear in that boat — experienced fishermen, genuinely afraid for their lives — and then, with a single command, total stillness.\n\nThis wasn't just a calm man in a crisis. This was the Creator of wind and waves, simply telling His own creation to be quiet, and it obeyed instantly."
+        "en": "That evening, Jesus said to His disciples: 'Let us go over to the other side.' They got into a boat, and a FURIOUS storm arose — waves breaking over the boat, so that it was nearly swamped! And where was Jesus? Asleep, on a cushion, in the stern!\n\nThe terrified disciples woke Him: 'Teacher, don't you care if we drown?' Jesus got up, and said to the wind and the waves: 'Quiet! Be still!' Then the wind died down, and it was COMPLETELY calm. Jesus turned to His disciples: 'Why are you so afraid? Do you still have no faith?' They were terrified, and asked each other, 'Who is this? Even the wind and the waves obey him!' Imagine the fear in that boat — experienced fishermen, genuinely afraid for their lives — and then, with a single command, total stillness.\n\nThis wasn't just a calm man in a crisis. This was the Creator of wind and waves, simply telling His own creation to be quiet, and it obeyed instantly.",
+        "es": "Esa tarde, Jesús dijo a Sus discípulos: \"Pasemos al otro lado.\" Se subieron a una barca, ¡y se levantó una tormenta FURIOSA — olas rompiendo sobre la barca, de modo que casi se hundía! ¿Y dónde estaba Jesús? ¡Dormido, en un cojín, en la popa!\n\nLos discípulos aterrorizados lo despertaron: \"¿Maestro, no te importa que nos ahoguemos?\" Jesús se levantó, y dijo al viento y a las olas: \"¡Calla, enmudece!\" Entonces el viento cesó, y hubo una calma COMPLETA. Jesús se volvió a Sus discípulos: \"¿Por qué tenéis tanto miedo? ¿Todavía no tenéis fe?\" Estaban aterrorizados, y se preguntaban unos a otros: \"¿Quién es este? ¡Hasta el viento y las olas le obedecen!\" Imagina el temor en aquella barca — pescadores experimentados, genuinamente temerosos por sus vidas — y luego, con un solo mandato, total quietud.\n\nEsto no era solo un hombre tranquilo en una crisis. Este era el Creador del viento y las olas, simplemente diciéndole a Su propia creación que se callara, y ella obedeció al instante.",
+        "fr": "Ce soir-là, Jésus dit à Ses disciples : « Passons à l'autre rive. » Ils montèrent dans une barque, et une tempête FURIEUSE se leva — les vagues se brisaient sur la barque, si bien qu'elle était presque submergée ! Et où était Jésus ? Endormi, sur un coussin, à l'arrière !\n\nLes disciples terrifiés Le réveillèrent : « Maître, ne te soucies-tu pas que nous périssions ? » Jésus se leva, et dit au vent et à la mer : « Silence ! Tais-toi ! » Alors le vent cessa, et il y eut un grand calme. Jésus se tourna vers Ses disciples : « Pourquoi avez-vous si peur ? Comment n'avez-vous point de foi ? » Ils furent saisis d'une grande frayeur, et se disaient les uns aux autres : « Quel est donc celui-ci, à qui le vent et la mer obéissent ? » Imagine la peur dans cette barque — des pêcheurs expérimentés, véritablement effrayés pour leur vie — et puis, avec un seul ordre, une immobilité totale.\n\nCe n'était pas seulement un homme calme dans une crise. C'était le Créateur du vent et des vagues, disant simplement à Sa propre création de se taire, et elle obéit instantanément."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm."
+        "en": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm.",
+        "es": "Y levantándose, increpó al viento, y dijo á la mar: Calla, enmudece. Y cesó el viento, y fué hecha grande bonanza.",
+        "fr": "S'étant réveillé, il menaça le vent, et dit à la mer : Silence ! tais-toi ! Et le vent cessa, et il y eut un grand calme."
       },
       "ref": {
-        "en": "Mark 4:39 (NIV)"
+        "en": "Mark 4:39 (NIV)",
+        "es": "Marcos 4:39 (Valera)",
+        "fr": "Marc 4:39 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "was",
           "completely",
           "calm"
+        ],
+        "es": [
+          "Y",
+          "levantándose",
+          "increpó",
+          "al",
+          "viento",
+          "y"
+        ],
+        "fr": [
+          "S'étant",
+          "réveillé",
+          "il",
+          "menaça",
+          "le",
+          "vent"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Peace! Be Still!"
+        "en": "A Song for Peace! Be Still!",
+        "es": "Una Canción para ¡Calla, Enmudece!",
+        "fr": "Une Chanson pour Silence ! Tais-toi !"
       },
       "audio_en": "/static/audio/mark/lesson11_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "Where was Jesus when the furious storm hit the boat?"
+            "en": "Where was Jesus when the furious storm hit the boat?",
+            "es": "¿Dónde estaba Jesús cuando la tormenta furiosa azotó la barca?",
+            "fr": "Où était Jésus quand la tempête furieuse a frappé la barque ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "Asleep on a cushion in the stern",
               "Swimming in the water",
               "He wasn't on the boat"
+            ],
+            "es": [
+              "Dirigiendo la barca con ansiedad",
+              "Dormido en un cojín en la popa",
+              "Nadando en el agua",
+              "No estaba en la barca"
+            ],
+            "fr": [
+              "Il dirigeait la barque avec anxiété",
+              "Endormi sur un coussin à l'arrière",
+              "Il nageait dans l'eau",
+              "Il n'était pas dans la barque"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say to calm the storm?"
+            "en": "What did Jesus say to calm the storm?",
+            "es": "¿Qué dijo Jesús para calmar la tormenta?",
+            "fr": "Qu'a dit Jésus pour calmer la tempête ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Quiet! Be still!",
               "Help us, Father!",
               "He didn't calm it at all"
+            ],
+            "es": [
+              "Nada — solo esperó",
+              "¡Calla, enmudece!",
+              "¡Ayúdanos, Padre!",
+              "No la calmó en absoluto"
+            ],
+            "fr": [
+              "Rien — il a juste attendu",
+              "Silence ! Tais-toi !",
+              "Aide-nous, Père !",
+              "Il ne l'a pas du tout calmée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What question did the disciples ask each other after the storm calmed?"
+            "en": "What question did the disciples ask each other after the storm calmed?",
+            "es": "¿Qué pregunta se hicieron los discípulos unos a otros después de que la tormenta se calmó?",
+            "fr": "Quelle question les disciples se sont-ils posée les uns aux autres après que la tempête s'est calmée ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Who is this? Even the wind and waves obey him!",
               "Where should we go next?",
               "Nothing significant"
+            ],
+            "es": [
+              "¿Qué deberíamos cenar?",
+              "¿Quién es este? ¡Hasta el viento y las olas le obedecen!",
+              "¿A dónde deberíamos ir después?",
+              "Nada significativo"
+            ],
+            "fr": [
+              "Que devrions-nous manger ce soir ?",
+              "Quel est donc celui-ci, à qui le vent et la mer obéissent ?",
+              "Où devrions-nous aller ensuite ?",
+              "Rien de significatif"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Peace! Be Still!"
+            "en": "Activity sheet: Peace! Be Still!",
+            "es": "Hoja de actividad: ¡Calla, Enmudece!",
+            "fr": "Fiche d'activité : Silence ! Tais-toi !"
           },
           "file": "/static/printables/mark/lesson11_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' authority over creation itself — not metaphorical calm, but actual command over wind and waves obeyed instantly — reveals His divine identity in a way the disciples couldn't yet fully process. His question, \"Why are you so afraid? Do you still have no faith?\" isn't harsh; it's an invitation to recognize who was in the boat with them all along.\n\nConversation starters: (1) Why do you think Jesus could sleep peacefully through such a violent storm? (2) What \"storms\" in your own life feel overwhelming right now? (3) What does it mean that even wind and waves obey Jesus' voice?\n\nPray together about whatever storm feels biggest in your life right now, trusting the same Jesus who calmed the sea."
+        "en": "Big idea: Jesus' authority over creation itself — not metaphorical calm, but actual command over wind and waves obeyed instantly — reveals His divine identity in a way the disciples couldn't yet fully process. His question, \"Why are you so afraid? Do you still have no faith?\" isn't harsh; it's an invitation to recognize who was in the boat with them all along.\n\nConversation starters: (1) Why do you think Jesus could sleep peacefully through such a violent storm? (2) What \"storms\" in your own life feel overwhelming right now? (3) What does it mean that even wind and waves obey Jesus' voice?\n\nPray together about whatever storm feels biggest in your life right now, trusting the same Jesus who calmed the sea.",
+        "es": "Idea principal: la autoridad de Jesús sobre la creación misma — no una calma metafórica, sino un mandato real sobre el viento y las olas obedecido al instante — revela Su identidad divina de una manera que los discípulos aún no podían procesar completamente. Su pregunta, '¿Por qué tenéis tanto miedo? ¿Todavía no tenéis fe?', no es dura; es una invitación a reconocer quién había estado en la barca con ellos todo el tiempo.\n\nPara conversar: (1) ¿Por qué crees que Jesús pudo dormir tranquilamente en medio de una tormenta tan violenta? (2) ¿Qué 'tormentas' en tu propia vida se sienten abrumadoras ahora mismo? (3) ¿Qué significa que incluso el viento y las olas obedecen la voz de Jesús?\n\nOren juntos sobre cualquier tormenta que se sienta más grande en su vida ahora mismo, confiando en el mismo Jesús que calmó el mar.",
+        "fr": "Idée principale : l'autorité de Jésus sur la création elle-même — non pas un calme métaphorique, mais un véritable commandement sur le vent et les vagues obéi instantanément — révèle Son identité divine d'une manière que les disciples ne pouvaient pas encore pleinement saisir. Sa question, « Pourquoi avez-vous si peur ? Comment n'avez-vous point de foi ? », n'est pas dure ; c'est une invitation à reconnaître qui était dans la barque avec eux depuis le début.\n\nPour la conversation : (1) Pourquoi penses-tu que Jésus pouvait dormir paisiblement au milieu d'une tempête si violente ? (2) Quelles « tempêtes » dans ta propre vie semblent accablantes en ce moment ? (3) Que signifie le fait que même le vent et les vagues obéissent à la voix de Jésus ?\n\nPriez ensemble à propos de la tempête qui vous semble la plus grande en ce moment, en faisant confiance au même Jésus qui a calmé la mer."
       }
     }
   ]

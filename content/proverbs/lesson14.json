@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Path That Leads to Ruin"
+    "en": "The Path That Leads to Ruin",
+    "es": "El Camino Que Lleva a la Ruina",
+    "fr": "Le Chemin Qui Mène à la Ruine"
   },
   "ref": "Proverbs 7:1-27",
   "section": "Warning Against the Adulterous Woman",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A vivid warning, like an animal walking into a trap"
+        "en": "A vivid warning, like an animal walking into a trap",
+        "es": "Una advertencia vívida, como un animal caminando hacia una trampa",
+        "fr": "Un avertissement vif, comme un animal marchant vers un piège"
       },
       "body": {
-        "en": "'My son, keep my words and store up my commands within you,' the chapter begins. 'Keep my commands and you will live; guard my teachings as the apple of your eye.'\n\nThis chapter tells an extended, vivid story — a young man with no sense, walking down a street at twilight, meeting someone whose flattering, persuasive words lead him step by step toward real danger, without him even realizing how serious the consequences will be.\n\nProverbs uses an unforgettable comparison: he followed her 'like an ox going to the slaughter, like a deer stepping into a noose... little knowing it will cost him his life.'\n\nThe warning is direct and urgent: 'now then, my sons, listen to me; pay attention to what I say. Do not let your heart turn to her ways or stray into her paths. Many are the victims she has brought down.'\n\nThe whole point of this vivid, almost cinematic warning is to make the danger of a flattering, destructive path feel real and immediate — not a distant, abstract idea, but something to actively, deliberately avoid, the way you'd avoid an actual trap."
+        "en": "'My son, keep my words and store up my commands within you,' the chapter begins. 'Keep my commands and you will live; guard my teachings as the apple of your eye.'\n\nThis chapter tells an extended, vivid story — a young man with no sense, walking down a street at twilight, meeting someone whose flattering, persuasive words lead him step by step toward real danger, without him even realizing how serious the consequences will be.\n\nProverbs uses an unforgettable comparison: he followed her 'like an ox going to the slaughter, like a deer stepping into a noose... little knowing it will cost him his life.'\n\nThe warning is direct and urgent: 'now then, my sons, listen to me; pay attention to what I say. Do not let your heart turn to her ways or stray into her paths. Many are the victims she has brought down.'\n\nThe whole point of this vivid, almost cinematic warning is to make the danger of a flattering, destructive path feel real and immediate — not a distant, abstract idea, but something to actively, deliberately avoid, the way you'd avoid an actual trap.",
+        "es": "\"Hijo mío, guarda mis razones, y encierra contigo mis mandamientos,\" comienza el capítulo. \"Guarda mis mandamientos, y vivirás: y mi ley como las niñas de tus ojos.\"\n\nEste capítulo cuenta un relato extenso y vívido — un joven sin sentido, caminando por una calle al anochecer, encontrando a alguien cuyas palabras halagadoras y persuasivas lo llevan paso a paso hacia un peligro real, sin que él se dé cuenta de cuán serias serán las consecuencias.\n\nProverbios usa una comparación inolvidable: él la siguió \"como va el buey al degolladero, y como el loco al castigo de los grillos... no sabiendo que es contra su vida.\"\n\nLa advertencia es directa y urgente: \"ahora pues, hijos, oídme, y estad atentos á las razones de mi boca. No se aparte á sus caminos tu corazón, ni yerres en sus veredas. Porque á muchos ha hecho caer heridos.\"\n\nTodo el propósito de esta advertencia vívida, casi cinematográfica, es hacer que el peligro de un camino halagador y destructivo se sienta real e inmediato — no una idea distante y abstracta, sino algo a evitar activa y deliberadamente, de la misma manera que evitarías una trampa real.",
+        "fr": "« Mon fils, retiens mes paroles, et garde avec toi mes préceptes, » commence le chapitre. « Observe mes préceptes, et tu vivras ; garde mes enseignements comme la prunelle de tes yeux. »\n\nCe chapitre raconte une histoire prolongée et vivante — un jeune homme sans intelligence, marchant dans une rue au crépuscule, rencontrant quelqu'un dont les paroles flatteuses et persuasives le mènent pas à pas vers un véritable danger, sans qu'il se rende compte à quel point les conséquences seront graves.\n\nLes Proverbes utilisent une comparaison inoubliable : il la suivit « comme le bœuf qui va à la boucherie, comme un fou qu'on lie pour le châtier... ne sachant pas que c'est au prix de sa vie. »\n\nL'avertissement est direct et urgent : « et maintenant, mes fils, écoutez-moi, et soyez attentifs aux paroles de ma bouche. Que ton cœur ne se détourne pas vers les voies d'une telle femme, ne t'égare pas dans ses sentiers. Car elle a fait tomber beaucoup de victimes. »\n\nTout le but de cet avertissement vif, presque cinématographique, est de rendre le danger d'un chemin flatteur et destructeur réel et immédiat — pas une idée distante et abstraite, mais quelque chose à éviter activement et délibérément, de la même manière que l'on éviterait un véritable piège."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Do not let your heart turn to her ways or stray into her paths."
+        "en": "Do not let your heart turn to her ways or stray into her paths.",
+        "es": "No se aparte á sus caminos tu corazón; no yerres en sus veredas.",
+        "fr": "Que ton cœur ne se détourne pas vers les voies d'une telle femme, Ne t'égare pas dans ses sentiers."
       },
       "ref": {
-        "en": "Proverbs 7:25 (NIV)"
+        "en": "Proverbs 7:25 (NIV)",
+        "es": "Proverbios 7:25 (Valera)",
+        "fr": "Proverbes 7:25 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "into",
           "her",
           "paths"
+        ],
+        "es": [
+          "No",
+          "se",
+          "aparte",
+          "á",
+          "sus",
+          "caminos"
+        ],
+        "fr": [
+          "Que",
+          "ton",
+          "cœur",
+          "ne",
+          "se",
+          "détourne"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Path That Leads to Ruin"
+        "en": "A Song for The Path That Leads to Ruin",
+        "es": "Una Canción para El Camino Que Lleva a la Ruina",
+        "fr": "Une Chanson pour Le Chemin Qui Mène à la Ruine"
       },
       "audio_en": "/static/audio/proverbs/lesson14_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What animal comparisons does this chapter use to describe someone following a dangerous path unknowingly?"
+            "en": "What animal comparisons does this chapter use to describe someone following a dangerous path unknowingly?",
+            "es": "¿Qué comparaciones con animales usa este capítulo para describir a alguien que sigue un camino peligroso sin saberlo?",
+            "fr": "Quelles comparaisons animales ce chapitre utilise-t-il pour décrire quelqu'un suivant un chemin dangereux sans le savoir ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "An ox going to slaughter, a deer stepping into a noose",
               "An eagle soaring freely",
               "No animals are mentioned"
+            ],
+            "es": [
+              "Un león cazando audazmente",
+              "Un buey al degolladero, un loco al castigo de los grillos",
+              "Un águila volando libremente",
+              "No se mencionan animales"
+            ],
+            "fr": [
+              "Un lion chassant audacieusement",
+              "Un bœuf à la boucherie, un fou qu'on lie pour le châtier",
+              "Un aigle planant librement",
+              "Aucun animal n'est mentionné"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What instruction does the chapter give about guarding your teaching?"
+            "en": "What instruction does the chapter give about guarding your teaching?",
+            "es": "¿Qué instrucción da el capítulo sobre guardar la enseñanza?",
+            "fr": "Quelle instruction le chapitre donne-t-il sur la garde de l'enseignement ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Guard it as the apple of your eye",
               "Forget it quickly",
               "It doesn't matter much"
+            ],
+            "es": [
+              "Ignórala cuando convenga",
+              "Guárdala como las niñas de tus ojos",
+              "Olvídala rápidamente",
+              "No importa mucho"
+            ],
+            "fr": [
+              "Ignore-le quand cela convient",
+              "Garde-le comme la prunelle de tes yeux",
+              "Oublie-le rapidement",
+              "Cela n'a pas beaucoup d'importance"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the chapter say about letting your heart 'turn to' or 'stray into' dangerous paths?"
+            "en": "What does the chapter say about letting your heart 'turn to' or 'stray into' dangerous paths?",
+            "es": "¿Qué dice el capítulo sobre dejar que tu corazón 'se aparte' o 'se desvíe' hacia caminos peligrosos?",
+            "fr": "Que dit le chapitre sur le fait de laisser ton cœur « se détourner » ou « s'égarer » vers des chemins dangereux ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "It's strongly warned against",
               "It doesn't matter either way",
               "It's required"
+            ],
+            "es": [
+              "Se anima",
+              "Se advierte fuertemente en contra",
+              "No importa de ninguna manera",
+              "Se requiere"
+            ],
+            "fr": [
+              "C'est encouragé",
+              "C'est fortement déconseillé",
+              "Cela n'a aucune importance",
+              "C'est requis"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Path That Leads to Ruin"
+            "en": "Activity sheet: The Path That Leads to Ruin",
+            "es": "Hoja de actividad: El Camino Que Lleva a la Ruina",
+            "fr": "Fiche d'activité : Le Chemin Qui Mène à la Ruine"
           },
           "file": "/static/printables/proverbs/lesson14_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: this is the most extended, narrative warning in Proverbs 1-9 against the same danger addressed in chapters 5 and 6 — adultery and sexual temptation — told here as a vivid, almost story-like cautionary tale to make an abstract danger feel real and immediate. For children, the lesson centers on the broader, transferable principle: dangerous paths often don't announce themselves clearly, and wisdom requires recognizing warning signs before consequences arrive, \"like an ox going to the slaughter,\" unaware. Parents may wish to discuss the chapter's specific content more directly with older children, using their own judgment about timing and detail.\n\nConversation starters: (1) Why might Proverbs tell this warning as a vivid story rather than a simple rule? (2) What does the ox and deer imagery teach about how easily someone can walk into danger without realizing it? (3) What helps you recognize a dangerous path before you're already on it?\n\nPray for eyes that see danger clearly, and hearts that don't stray toward destructive paths."
+        "en": "Big idea: this is the most extended, narrative warning in Proverbs 1-9 against the same danger addressed in chapters 5 and 6 — adultery and sexual temptation — told here as a vivid, almost story-like cautionary tale to make an abstract danger feel real and immediate. For children, the lesson centers on the broader, transferable principle: dangerous paths often don't announce themselves clearly, and wisdom requires recognizing warning signs before consequences arrive, \"like an ox going to the slaughter,\" unaware. Parents may wish to discuss the chapter's specific content more directly with older children, using their own judgment about timing and detail.\n\nConversation starters: (1) Why might Proverbs tell this warning as a vivid story rather than a simple rule? (2) What does the ox and deer imagery teach about how easily someone can walk into danger without realizing it? (3) What helps you recognize a dangerous path before you're already on it?\n\nPray for eyes that see danger clearly, and hearts that don't stray toward destructive paths.",
+        "es": "Idea principal: esta es la advertencia más extensa y narrativa en Proverbios 1-9 contra el mismo peligro abordado en los capítulos 5 y 6 — el adulterio y la tentación sexual — contada aquí como una historia cautelar vívida y casi narrativa para hacer que un peligro abstracto se sienta real e inmediato. Para los niños, la lección se centra en el principio más amplio y transferible: los caminos peligrosos a menudo no se anuncian claramente, y la sabiduría requiere reconocer señales de advertencia antes de que lleguen las consecuencias, \"como el buey al degolladero,\" sin saberlo. Los padres pueden discutir el contenido específico del capítulo más directamente con niños mayores, usando su propio juicio sobre el momento y el detalle.\n\nPara conversar: (1) ¿Por qué podría Proverbios contar esta advertencia como una historia vívida en lugar de una regla simple? (2) ¿Qué enseña la imagen del buey y el loco sobre cuán fácilmente alguien puede caminar hacia el peligro sin darse cuenta? (3) ¿Qué te ayuda a reconocer un camino peligroso antes de que ya estés en él?\n\nOren por ojos que vean el peligro claramente, y corazones que no se desvíen hacia caminos destructivos.",
+        "fr": "Idée principale : ceci est l'avertissement le plus prolongé et narratif des Proverbes 1-9 contre le même danger abordé aux chapitres 5 et 6 — l'adultère et la tentation sexuelle — racontée ici comme une histoire édifiante vive et presque narrative pour rendre un danger abstrait réel et immédiat. Pour les enfants, la leçon se concentre sur le principe plus large et transférable : les chemins dangereux ne s'annoncent souvent pas clairement, et la sagesse exige de reconnaître les signes d'avertissement avant que les conséquences n'arrivent, « comme le bœuf à la boucherie », sans le savoir. Les parents peuvent discuter le contenu spécifique du chapitre plus directement avec des enfants plus âgés, selon leur propre jugement sur le moment et le détail.\n\nPour la conversation : (1) Pourquoi Proverbes pourrait-il raconter cet avertissement comme une histoire vivante plutôt qu'une simple règle ? (2) Que nous enseigne l'image du bœuf et du fou sur la facilité avec laquelle quelqu'un peut marcher vers le danger sans s'en rendre compte ? (3) Qu'est-ce qui t'aide à reconnaître un chemin dangereux avant d'y être déjà ?\n\nPriez pour des yeux qui voient clairement le danger, et des cœurs qui ne s'égarent pas vers des chemins destructeurs."
       }
     }
   ]

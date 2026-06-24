@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A City Without Walls"
+    "en": "A City Without Walls",
+    "es": "Ciudad Derribada Sin Muro",
+    "fr": "Une Ville Forcée et Sans Murailles"
   },
   "ref": "Proverbs 20:1; 23:19-21; 23:29-35; 25:16; 25:28",
   "section": "Self-Control Over Desires (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Letting anything rule over you"
+        "en": "Letting anything rule over you",
+        "es": "Dejar que cualquier cosa te domine",
+        "fr": "Laisser n'importe quoi te dominer"
       },
       "body": {
-        "en": "'Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.' Proverbs is direct about the danger of letting any substance or appetite take control of good judgment.\n\n'Do not join those who drink too much wine or gorge themselves on meat, for drunkards and gluttons become poor, and drowsiness clothes them in rags.' Proverbs links uncontrolled appetite directly to a person's whole life unraveling.\n\nOne striking passage even paints a vivid, almost comical picture of someone trapped by excess: bloodshot eyes, the world feeling like it's spinning, waking up and immediately wanting more of exactly what caused the problem in the first place.\n\nBut the underlying principle reaches further than just food or drink: 'like a city whose walls are broken through is a person who lacks self-control.' Without self-control, a person is left exposed and vulnerable, the way a city without walls has no protection at all.\n\n'If you find honey, eat just enough — too much of it, and you will vomit.' Even good, enjoyable things become harmful without moderation. The wisdom here isn't about avoiding pleasure entirely — it's about not letting any desire become the master instead of staying the servant."
+        "en": "'Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.' Proverbs is direct about the danger of letting any substance or appetite take control of good judgment.\n\n'Do not join those who drink too much wine or gorge themselves on meat, for drunkards and gluttons become poor, and drowsiness clothes them in rags.' Proverbs links uncontrolled appetite directly to a person's whole life unraveling.\n\nOne striking passage even paints a vivid, almost comical picture of someone trapped by excess: bloodshot eyes, the world feeling like it's spinning, waking up and immediately wanting more of exactly what caused the problem in the first place.\n\nBut the underlying principle reaches further than just food or drink: 'like a city whose walls are broken through is a person who lacks self-control.' Without self-control, a person is left exposed and vulnerable, the way a city without walls has no protection at all.\n\n'If you find honey, eat just enough — too much of it, and you will vomit.' Even good, enjoyable things become harmful without moderation. The wisdom here isn't about avoiding pleasure entirely — it's about not letting any desire become the master instead of staying the servant.",
+        "es": "\"El vino hace burlador, la cerveza alborotador; y cualquiera que por ello errare, no será sabio.\" Proverbios es directo sobre el peligro de dejar que cualquier sustancia o apetito tome control del buen juicio.\n\n\"No estés con los muchos bebedores de vino, ni con los comedores de carne: porque el bebedor y el comilón empobrecerán, y el sueño hará vestir vestidos rotos.\" Proverbios vincula el apetito descontrolado directamente con toda una vida desmoronándose.\n\nUn pasaje notable pinta una imagen vívida, casi cómica, de alguien atrapado por el exceso: ojos enrojecidos, el mundo sintiéndose como si girara, despertando e inmediatamente queriendo más de exactamente lo que causó el problema en primer lugar.\n\nPero el principio subyacente llega más lejos que solo comida o bebida: \"como ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda.\" Sin autocontrol, una persona queda expuesta y vulnerable, de la misma manera que una ciudad sin muros no tiene ninguna protección en absoluto.\n\n\"¿Hallaste la miel? come lo que te basta; no sea que hastiado de ella, la vomites.\" Incluso las cosas buenas y agradables se vuelven dañinas sin moderación. La sabiduría aquí no se trata de evitar el placer por completo — se trata de no dejar que ningún deseo se vuelva el amo en lugar de permanecer como el siervo.",
+        "fr": "« Le vin rend moqueur, et les boissons fortes tumultueux ; quiconque s'y livre n'est pas sage. » Les Proverbes sont directs sur le danger de laisser une substance ou un appétit prendre le contrôle du bon jugement.\n\n« Ne sois pas parmi les buveurs de vin, parmi ceux qui font excès des viandes : car l'ivrogne et celui qui se livre à des excès s'appauvrissent, et l'assoupissement fait porter des haillons. » Les Proverbes relient l'appétit incontrôlé directement à toute une vie qui se défait.\n\nUn passage remarquable dresse un tableau vif, presque comique, de quelqu'un piégé par l'excès : des yeux rouges, le monde semblant tourner, se réveillant et voulant immédiatement plus de exactement ce qui a causé le problème en premier lieu.\n\nMais le principe sous-jacent va plus loin que la simple nourriture ou boisson : « comme une ville forcée et sans murailles, ainsi est l'homme qui n'est pas maître de lui-même. » Sans maîtrise de soi, une personne est laissée exposée et vulnérable, de la même manière qu'une ville sans murs n'a aucune protection du tout.\n\n« Si tu trouves du miel, mange ce qui te suffit, de crainte que tu n'en sois rassasié et que tu ne le vomisses. » Même les bonnes choses agréables deviennent nuisibles sans modération. La sagesse ici ne consiste pas à éviter complètement le plaisir — il s'agit de ne laisser aucun désir devenir le maître plutôt que de rester le serviteur."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Like a city whose walls are broken through is a person who lacks self-control."
+        "en": "Like a city whose walls are broken through is a person who lacks self-control.",
+        "es": "Como ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda.",
+        "fr": "Comme une ville forcée et sans murailles, Ainsi est l'homme qui n'est pas maître de lui-même."
       },
       "ref": {
-        "en": "Proverbs 25:28 (NIV)"
+        "en": "Proverbs 25:28 (NIV)",
+        "es": "Proverbios 25:28 (Valera)",
+        "fr": "Proverbes 25:28 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "who",
           "lacks",
           "self-control"
+        ],
+        "es": [
+          "Como",
+          "ciudad",
+          "derribada",
+          "y",
+          "sin",
+          "muro"
+        ],
+        "fr": [
+          "Comme",
+          "une",
+          "ville",
+          "forcée",
+          "et",
+          "sans"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A City Without Walls"
+        "en": "A Song for A City Without Walls",
+        "es": "Una Canción para Ciudad Derribada Sin Muro",
+        "fr": "Une Chanson pour Une Ville Forcée et Sans Murailles"
       },
       "audio_en": "/static/audio/proverbs/lesson30_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Proverbs 20:1 say wine and beer can do to a person?"
+            "en": "What does Proverbs 20:1 say wine and beer can do to a person?",
+            "es": "¿Qué dice Proverbios 20:1 que el vino y la cerveza pueden hacerle a una persona?",
+            "fr": "Que dit Proverbes 20:1 que le vin et les boissons fortes peuvent faire à une personne ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "Lead astray someone who isn't wise — they're called a 'mocker' and a 'brawler'",
               "Always make someone wiser",
               "Have no real effect"
+            ],
+            "es": [
+              "Nada significativo",
+              "Hacer errar a quien no es sabio — se les llama 'burlador' y 'alborotador'",
+              "Siempre hacer a alguien más sabio",
+              "No tener ningún efecto real"
+            ],
+            "fr": [
+              "Rien de significatif",
+              "Faire errer celui qui n'est pas sage — on les appelle 'moqueur' et 'tumultueux'",
+              "Toujours rendre quelqu'un plus sage",
+              "N'avoir aucun effet réel"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is a person who lacks self-control compared to in Proverbs 25:28?"
+            "en": "What is a person who lacks self-control compared to in Proverbs 25:28?",
+            "es": "¿Con qué se compara a una persona que carece de autocontrol en Proverbios 25:28?",
+            "fr": "À quoi est comparée une personne qui manque de maîtrise de soi dans Proverbes 25:28 ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "A city whose walls are broken through — exposed and vulnerable",
               "A peaceful garden",
               "Nothing in particular"
+            ],
+            "es": [
+              "Una fortaleza fuerte",
+              "Una ciudad derribada y sin muro — expuesta y vulnerable",
+              "Un jardín apacible",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Une forteresse solide",
+              "Une ville forcée et sans murailles — exposée et vulnérable",
+              "Un jardin paisible",
+              "Rien en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 25:16 teach about even good things, like honey?"
+            "en": "What does Proverbs 25:16 teach about even good things, like honey?",
+            "es": "¿Qué enseña Proverbios 25:16 incluso sobre cosas buenas, como la miel?",
+            "fr": "Que nous enseigne Proverbes 25:16 même sur de bonnes choses, comme le miel ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "Eat just enough — too much becomes harmful",
               "Avoid honey entirely",
               "Honey has no real lesson to teach"
+            ],
+            "es": [
+              "Come tanto como sea posible siempre",
+              "Come solo lo que te basta — demasiado se vuelve dañino",
+              "Evita la miel por completo",
+              "La miel no tiene ninguna lección que enseñar"
+            ],
+            "fr": [
+              "Mange-en toujours autant que possible",
+              "Mange ce qui te suffit — trop en devient nuisible",
+              "Évite complètement le miel",
+              "Le miel n'a aucune leçon à enseigner"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A City Without Walls"
+            "en": "Activity sheet: A City Without Walls",
+            "es": "Hoja de actividad: Ciudad Derribada Sin Muro",
+            "fr": "Fiche d'activité : Une Ville Forcée et Sans Murailles"
           },
           "file": "/static/printables/proverbs/lesson30_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: self-control over appetites and desires — not just toward clearly harmful things, but even toward good things like food — is treated as essential protection, pictured vividly as a city's defensive walls. Without that self-control, a person is left exposed and vulnerable in a way that affects every other area of life, not just the specific appetite in question.\n\nConversation starters: (1) What does the image of \"a city whose walls are broken through\" teach about why self-control matters so much? (2) Why might even good things (like Proverbs' example of honey) become harmful without moderation? (3) What's one area in your own life where self-control protects you, like a city wall?\n\nPray for self-control over every appetite and desire, trusting it as genuine protection, not just restriction."
+        "en": "Big idea: self-control over appetites and desires — not just toward clearly harmful things, but even toward good things like food — is treated as essential protection, pictured vividly as a city's defensive walls. Without that self-control, a person is left exposed and vulnerable in a way that affects every other area of life, not just the specific appetite in question.\n\nConversation starters: (1) What does the image of \"a city whose walls are broken through\" teach about why self-control matters so much? (2) Why might even good things (like Proverbs' example of honey) become harmful without moderation? (3) What's one area in your own life where self-control protects you, like a city wall?\n\nPray for self-control over every appetite and desire, trusting it as genuine protection, not just restriction.",
+        "es": "Idea principal: el autocontrol sobre apetitos y deseos — no solo hacia cosas claramente dañinas, sino incluso hacia cosas buenas como la comida — se trata como una protección esencial, representada vívidamente como las murallas defensivas de una ciudad. Sin ese autocontrol, una persona queda expuesta y vulnerable de una manera que afecta cada otra área de la vida, no solo el apetito específico en cuestión.\n\nPara conversar: (1) ¿Qué enseña la imagen de \"una ciudad derribada y sin muro\" sobre por qué el autocontrol importa tanto? (2) ¿Por qué podrían incluso las cosas buenas (como el ejemplo de la miel en Proverbios) volverse dañinas sin moderación? (3) ¿Cuál es un área en tu propia vida donde el autocontrol te protege, como una muralla de ciudad?\n\nOren por autocontrol sobre cada apetito y deseo, confiando en que es una protección genuina, no solo una restricción.",
+        "fr": "Idée principale : la maîtrise de soi sur les appétits et les désirs — pas seulement envers des choses clairement nuisibles, mais même envers de bonnes choses comme la nourriture — est traitée comme une protection essentielle, dépeinte vivement comme les murailles défensives d'une ville. Sans cette maîtrise de soi, une personne est laissée exposée et vulnérable d'une manière qui affecte chaque autre domaine de la vie, pas seulement l'appétit spécifique en question.\n\nPour la conversation : (1) Que nous enseigne l'image d'« une ville forcée et sans murailles » sur l'importance de la maîtrise de soi ? (2) Pourquoi même de bonnes choses (comme l'exemple du miel dans les Proverbes) pourraient-elles devenir nuisibles sans modération ? (3) Quel est un domaine de ta propre vie où la maîtrise de soi te protège, comme une muraille de ville ?\n\nPriez pour la maîtrise de soi sur chaque appétit et désir, en faisant confiance que c'est une véritable protection, pas seulement une restriction."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A Priest Forever"
+    "en": "A Priest Forever",
+    "es": "Un Sacerdote Para Siempre",
+    "fr": "Un Sacrificateur Pour Toujours"
   },
   "ref": "Hebrews 7:1-28",
   "section": "Melchizedek the Priest",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "The mysterious king-priest"
+        "en": "The mysterious king-priest",
+        "es": "El misterioso rey-sacerdote",
+        "fr": "Le mystérieux roi-sacrificateur"
       },
       "body": {
-        "en": "Long before Israel had priests from the tribe of Levi, there was a mysterious figure named Melchizedek — king of Salem and priest of God Most High — who blessed Abraham. The writer uses this as a picture: Jesus is a priest forever, in the order of Melchizedek — not by family lineage, but by the power of an indestructible life!\n\nThe regular priests had to offer sacrifices again and again because they were sinful men who eventually died.\n\nBut Jesus, because He lives forever, holds His priesthood permanently, and is able to save COMPLETELY those who come to God through Him! He always lives to intercede for us. Unlike priests who needed daily sacrifice for their own sins, Jesus was without sin, and offered Himself ONCE, fully sufficient for all time."
+        "en": "Long before Israel had priests from the tribe of Levi, there was a mysterious figure named Melchizedek — king of Salem and priest of God Most High — who blessed Abraham. The writer uses this as a picture: Jesus is a priest forever, in the order of Melchizedek — not by family lineage, but by the power of an indestructible life!\n\nThe regular priests had to offer sacrifices again and again because they were sinful men who eventually died.\n\nBut Jesus, because He lives forever, holds His priesthood permanently, and is able to save COMPLETELY those who come to God through Him! He always lives to intercede for us. Unlike priests who needed daily sacrifice for their own sins, Jesus was without sin, and offered Himself ONCE, fully sufficient for all time.",
+        "es": "Mucho antes de que Israel tuviera sacerdotes de la tribu de Leví, hubo una figura misteriosa llamada Melquisedec — rey de Salem y sacerdote del Dios Altísimo — quien bendijo a Abraham. El escritor usa esto como una imagen: ¡Jesús es sacerdote para siempre, según el orden de Melquisedec — no por linaje familiar, sino por el poder de una vida indestructible!\n\nLos sacerdotes regulares tenían que ofrecer sacrificios una y otra vez porque eran hombres pecadores que eventualmente morían.\n\n¡Pero Jesús, porque vive para siempre, tiene Su sacerdocio de forma permanente, y puede salvar COMPLETAMENTE a los que se acercan a Dios por medio de Él! Siempre vive para interceder por nosotros. A diferencia de los sacerdotes que necesitaban sacrificio diario por sus propios pecados, Jesús estaba sin pecado, y se ofreció a Sí mismo UNA SOLA VEZ, plenamente suficiente para siempre.",
+        "fr": "Bien avant qu'Israël n'ait des sacrificateurs de la tribu de Lévi, il y eut une figure mystérieuse nommée Melchisédek — roi de Salem et sacrificateur du Dieu Très-Haut — qui bénit Abraham. L'auteur utilise cela comme une image : Jésus est sacrificateur pour toujours, selon l'ordre de Melchisédek — non par lignée familiale, mais par la puissance d'une vie indestructible !\n\nLes sacrificateurs ordinaires devaient offrir des sacrifices encore et encore parce qu'ils étaient des hommes pécheurs qui finissaient par mourir.\n\nMais Jésus, parce qu'Il vit éternellement, possède Son sacerdoce de manière permanente, et peut sauver COMPLÈTEMENT ceux qui viennent à Dieu par Lui ! Il vit toujours pour intercéder pour nous. Contrairement aux sacrificateurs qui avaient besoin d'un sacrifice quotidien pour leurs propres péchés, Jésus était sans péché, et s'est offert Lui-même UNE SEULE FOIS, pleinement suffisant pour toujours."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Because Jesus lives forever, he has a permanent priesthood."
+        "en": "Because Jesus lives forever, he has a permanent priesthood.",
+        "es": "Mas éste, por cuanto permanece para siempre, tiene un sacerdocio inmutable.",
+        "fr": "Mais lui, parce qu'il demeure éternellement, possède un sacerdoce qui n'est pas transmissible."
       },
       "ref": {
-        "en": "Hebrews 7:24 (NIV)"
+        "en": "Hebrews 7:24 (NIV)",
+        "es": "Hebreos 7:24 (Valera)",
+        "fr": "Hébreux 7:24 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "a",
           "permanent",
           "priesthood"
+        ],
+        "es": [
+          "Mas",
+          "éste",
+          "por",
+          "cuanto",
+          "permanece",
+          "para"
+        ],
+        "fr": [
+          "Mais",
+          "lui",
+          "parce",
+          "qu'il",
+          "demeure",
+          "éternellement"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A Priest Forever"
+        "en": "A Song for A Priest Forever",
+        "es": "Una Canción para Un Sacerdote Para Siempre",
+        "fr": "Une Chanson pour Un Sacrificateur Pour Toujours"
       },
       "audio_en": "/static/audio/hebrews/lesson10_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "Who was Melchizedek, and how does the writer use him?"
+            "en": "Who was Melchizedek, and how does the writer use him?",
+            "es": "¿Quién fue Melquisedec, y cómo lo usa el escritor?",
+            "fr": "Qui était Melchisédek, et comment l'auteur l'utilise-t-il ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "A mysterious king-priest who blessed Abraham, picturing Jesus' eternal priesthood",
               "A soldier",
               "An angel"
+            ],
+            "es": [
+              "Un villano",
+              "Un misterioso rey-sacerdote que bendijo a Abraham, representando el sacerdocio eterno de Jesús",
+              "Un soldado",
+              "Un ángel"
+            ],
+            "fr": [
+              "Un méchant",
+              "Un mystérieux roi-sacrificateur qui a béni Abraham, représentant le sacerdoce éternel de Jésus",
+              "Un soldat",
+              "Un ange"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did old priests offer sacrifices again and again?"
+            "en": "Why did old priests offer sacrifices again and again?",
+            "es": "¿Por qué los antiguos sacerdotes ofrecían sacrificios una y otra vez?",
+            "fr": "Pourquoi les anciens sacrificateurs offraient-ils des sacrifices encore et encore ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "Because they were sinful and eventually died",
               "For fun",
               "Jesus told them to"
+            ],
+            "es": [
+              "Lo disfrutaban",
+              "Porque eran pecadores y eventualmente morían",
+              "Por diversión",
+              "Jesús les dijo que lo hicieran"
+            ],
+            "fr": [
+              "Ils aimaient cela",
+              "Parce qu'ils étaient pécheurs et finissaient par mourir",
+              "Pour le plaisir",
+              "Jésus leur a dit de le faire"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What can Jesus do for those who come to God through Him?"
+            "en": "What can Jesus do for those who come to God through Him?",
+            "es": "¿Qué puede hacer Jesús por los que se acercan a Dios por medio de Él?",
+            "fr": "Que peut faire Jésus pour ceux qui viennent à Dieu par Lui ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Save them completely, and always intercede for them",
               "Nothing",
               "Help once then stop"
+            ],
+            "es": [
+              "Un poco",
+              "Salvarlos completamente, e interceder siempre por ellos",
+              "Nada",
+              "Ayudar una vez y luego detenerse"
+            ],
+            "fr": [
+              "Un peu",
+              "Les sauver complètement, et intercéder toujours pour eux",
+              "Rien",
+              "Aider une fois puis arrêter"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A Priest Forever"
+            "en": "Activity sheet: A Priest Forever",
+            "es": "Hoja de actividad: Un Sacerdote Para Siempre",
+            "fr": "Fiche d'activité : Un Sacrificateur Pour Toujours"
           },
           "file": "/static/printables/hebrews/lesson10_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Christ's eternal, sufficient priesthood — He never stops interceding, His sacrifice never repeats. The Melchizedek typology argues Christ's priesthood is superior by an indestructible life (7:16), not lineage.\n\nConversation starters: (1) Why does it matter Jesus never stops praying for you, right now? (2) What's the difference between something repeated and something finished once? (3) How does a \"once for all\" sacrifice change how you think about forgiveness?\n\nPray thanking Jesus for being a priest who never stops interceding."
+        "en": "Big idea: Christ's eternal, sufficient priesthood — He never stops interceding, His sacrifice never repeats. The Melchizedek typology argues Christ's priesthood is superior by an indestructible life (7:16), not lineage.\n\nConversation starters: (1) Why does it matter Jesus never stops praying for you, right now? (2) What's the difference between something repeated and something finished once? (3) How does a \"once for all\" sacrifice change how you think about forgiveness?\n\nPray thanking Jesus for being a priest who never stops interceding.",
+        "es": "Idea principal: el sacerdocio eterno y suficiente de Cristo — Él nunca deja de interceder, Su sacrificio nunca se repite. La tipología de Melquisedec argumenta que el sacerdocio de Cristo es superior por una vida indestructible (7:16), no por linaje.\n\nPara conversar: (1) ¿Por qué importa que Jesús nunca deje de orar por ti, ahora mismo? (2) ¿Cuál es la diferencia entre algo repetido y algo terminado de una sola vez? (3) ¿Cómo cambia un sacrificio 'de una vez para siempre' tu manera de pensar sobre el perdón?\n\nOren agradeciendo a Jesús por ser un sacerdote que nunca deja de interceder.",
+        "fr": "Idée principale : le sacerdoce éternel et suffisant de Christ — Il ne cesse jamais d'intercéder, Son sacrifice ne se répète jamais. La typologie de Melchisédek soutient que le sacerdoce de Christ est supérieur par une vie indestructible (7.16), et non par la lignée.\n\nPour la conversation : (1) Pourquoi est-il important que Jésus ne cesse jamais de prier pour toi, en ce moment même ? (2) Quelle est la différence entre quelque chose de répété et quelque chose d'achevé une seule fois ? (3) Comment un sacrifice « une fois pour toutes » change-t-il ta façon de penser au pardon ?\n\nPriez en remerciant Jésus d'être un sacrificateur qui ne cesse jamais d'intercéder."
       }
     }
   ]

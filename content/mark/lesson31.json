@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Love God, Love Your Neighbor"
+    "en": "Love God, Love Your Neighbor",
+    "es": "Ama a Dios, Ama a Tu Prójimo",
+    "fr": "Aime Dieu, Aime Ton Prochain"
   },
   "ref": "Mark 12:18-34",
   "section": "Marriage at the Resurrection / The Greatest Commandment",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A trick question, and the simplest summary of everything"
+        "en": "A trick question, and the simplest summary of everything",
+        "es": "Una pregunta engañosa, y el resumen más sencillo de todo",
+        "fr": "Une question piège, et le résumé le plus simple de tout"
       },
       "body": {
-        "en": "Sadducees, who didn't believe in resurrection, tried to trap Jesus with a complicated scenario about a woman who married seven brothers in succession — whose wife would she be in the resurrection? Jesus said they were wrong because they didn't know the Scriptures or God's power — in the resurrection, people won't marry, but will be like the angels in heaven.\n\nHe pointed out that God told Moses, 'I am the God of Abraham, Isaac and Jacob' — God is the God of the LIVING, not the dead!\n\nThen a teacher of the law asked Jesus: 'Of all the commandments, which is the most important?' Jesus answered: 'The most important is this: Love the Lord your God with all your heart, all your soul, all your mind, and all your strength. The second is: Love your neighbour as yourself. There is no commandment greater than these.' The teacher agreed completely, and Jesus said he was not far from the kingdom of God.\n\nTwo simple commands, Jesus said, summarised absolutely everything God requires."
+        "en": "Sadducees, who didn't believe in resurrection, tried to trap Jesus with a complicated scenario about a woman who married seven brothers in succession — whose wife would she be in the resurrection? Jesus said they were wrong because they didn't know the Scriptures or God's power — in the resurrection, people won't marry, but will be like the angels in heaven.\n\nHe pointed out that God told Moses, 'I am the God of Abraham, Isaac and Jacob' — God is the God of the LIVING, not the dead!\n\nThen a teacher of the law asked Jesus: 'Of all the commandments, which is the most important?' Jesus answered: 'The most important is this: Love the Lord your God with all your heart, all your soul, all your mind, and all your strength. The second is: Love your neighbour as yourself. There is no commandment greater than these.' The teacher agreed completely, and Jesus said he was not far from the kingdom of God.\n\nTwo simple commands, Jesus said, summarised absolutely everything God requires.",
+        "es": "Los saduceos, que no creían en la resurrección, intentaron atrapar a Jesús con un escenario complicado sobre una mujer que se casó con siete hermanos sucesivamente — ¿de quién sería esposa en la resurrección? Jesús dijo que estaban equivocados porque no conocían las Escrituras ni el poder de Dios — en la resurrección, las personas no se casarán, sino que serán como los ángeles en el cielo.\n\nSeñaló que Dios le dijo a Moisés: \"Yo soy el Dios de Abraham, Isaac y Jacob\" — ¡Dios es el Dios de los VIVOS, no de los muertos!\n\nEntonces un maestro de la ley le preguntó a Jesús: \"De todos los mandamientos, ¿cuál es el más importante?\" Jesús respondió: \"El más importante es este: Ama al Señor tu Dios con todo tu corazón, toda tu alma, toda tu mente, y todas tus fuerzas. El segundo es: Ama a tu prójimo como a ti mismo. No hay mandamiento más grande que estos.\" El maestro estuvo completamente de acuerdo, y Jesús dijo que no estaba lejos del reino de Dios.\n\nDos mandamientos sencillos, dijo Jesús, resumían absolutamente todo lo que Dios requiere.",
+        "fr": "Les sadducéens, qui ne croyaient pas à la résurrection, essayèrent de piéger Jésus avec un scénario compliqué sur une femme qui avait épousé sept frères successivement — de qui serait-elle la femme dans la résurrection ? Jésus dit qu'ils se trompaient car ils ne connaissaient ni les Écritures ni la puissance de Dieu — dans la résurrection, les gens ne se marieront pas, mais seront comme les anges dans le ciel.\n\nIl fit remarquer que Dieu avait dit à Moïse : « Je suis le Dieu d'Abraham, d'Isaac et de Jacob » — Dieu est le Dieu des VIVANTS, et non des morts !\n\nPuis un docteur de la loi demanda à Jésus : « De tous les commandements, quel est le plus grand ? » Jésus répondit : « Voici le premier : Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta pensée, et de toute ta force. Voici le second : Tu aimeras ton prochain comme toi-même. Il n'y a pas d'autre commandement plus grand que ceux-là. » Le docteur fut entièrement d'accord, et Jésus dit qu'il n'était pas loin du royaume de Dieu.\n\nDeux commandements simples, dit Jésus, résumaient absolument tout ce que Dieu exige."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength."
+        "en": "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.",
+        "es": "Amarás pues al Señor tu Dios de todo tu corazón, y de toda tu alma, y de toda tu mente, y de todas tus fuerzas; este es el principal mandamiento.",
+        "fr": "et : Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta pensée, et de toute ta force."
       },
       "ref": {
-        "en": "Mark 12:30 (NIV)"
+        "en": "Mark 12:30 (NIV)",
+        "es": "Marcos 12:30 (Valera)",
+        "fr": "Marc 12:30 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "soul",
           "and",
           "mind"
+        ],
+        "es": [
+          "Amarás",
+          "pues",
+          "al",
+          "Señor",
+          "tu",
+          "Dios"
+        ],
+        "fr": [
+          "Tu",
+          "aimeras",
+          "le",
+          "Seigneur",
+          "ton",
+          "Dieu"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Love God, Love Your Neighbor"
+        "en": "A Song for Love God, Love Your Neighbor",
+        "es": "Una Canción para Ama a Dios, Ama a Tu Prójimo",
+        "fr": "Une Chanson pour Aime Dieu, Aime Ton Prochain"
       },
       "audio_en": "/static/audio/mark/lesson31_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What mistake did Jesus say the Sadducees made with their trick question?"
+            "en": "What mistake did Jesus say the Sadducees made with their trick question?",
+            "es": "¿Qué error dijo Jesús que cometieron los saduceos con su pregunta engañosa?",
+            "fr": "Quelle erreur Jésus a-t-il dit que les sadducéens avaient commise avec leur question piège ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "They didn't know the Scriptures or God's power",
               "They were too clever",
               "They asked too many questions"
+            ],
+            "es": [
+              "Nada — fue una pregunta perfecta",
+              "No conocían las Escrituras ni el poder de Dios",
+              "Eran demasiado astutos",
+              "Hicieron demasiadas preguntas"
+            ],
+            "fr": [
+              "Rien — c'était une question parfaite",
+              "Ils ne connaissaient ni les Écritures ni la puissance de Dieu",
+              "Ils étaient trop astucieux",
+              "Ils ont posé trop de questions"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say is the most important commandment?"
+            "en": "What did Jesus say is the most important commandment?",
+            "es": "¿Qué dijo Jesús que es el mandamiento más importante?",
+            "fr": "Qu'a dit Jésus être le commandement le plus important ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Love the Lord your God with all your heart, soul, mind, and strength",
               "Pay your taxes",
               "Build a temple"
+            ],
+            "es": [
+              "Guardar el día de reposo solamente",
+              "Amar al Señor tu Dios con todo tu corazón, alma, mente y fuerzas",
+              "Pagar tus impuestos",
+              "Construir un templo"
+            ],
+            "fr": [
+              "Garder seulement le sabbat",
+              "Aimer le Seigneur ton Dieu de tout ton cœur, âme, pensée et force",
+              "Payer tes impôts",
+              "Construire un temple"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is the second greatest commandment, according to Jesus?"
+            "en": "What is the second greatest commandment, according to Jesus?",
+            "es": "¿Cuál es el segundo mandamiento más grande, según Jesús?",
+            "fr": "Quel est le deuxième plus grand commandement, selon Jésus ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Love your neighbor as yourself",
               "Follow every law perfectly",
               "Nothing specific"
+            ],
+            "es": [
+              "Evitar todo pecado",
+              "Ama a tu prójimo como a ti mismo",
+              "Seguir cada ley perfectamente",
+              "Nada específico"
+            ],
+            "fr": [
+              "Éviter tout péché",
+              "Aime ton prochain comme toi-même",
+              "Suivre chaque loi parfaitement",
+              "Rien de spécifique"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Love God, Love Your Neighbor"
+            "en": "Activity sheet: Love God, Love Your Neighbor",
+            "es": "Hoja de actividad: Ama a Dios, Ama a Tu Prójimo",
+            "fr": "Fiche d'activité : Aime Dieu, Aime Ton Prochain"
           },
           "file": "/static/printables/mark/lesson31_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus distills the entire law into two inseparable commands — wholehearted love for God and genuine love for neighbor — demonstrating that authentic religion was never primarily about complicated rule-systems but about love, rightly directed both upward and outward. His response to the Sadducees also affirms bodily resurrection clearly, against their denial.\n\nConversation starters: (1) Why might loving God and loving neighbor be inseparable from each other? (2) What does it mean to love God with ALL your heart, soul, mind, and strength — every part of you? (3) Who is a \"neighbor\" you could show deliberate love to this week?\n\nPray for hearts that genuinely love God fully and love others as yourself."
+        "en": "Big idea: Jesus distills the entire law into two inseparable commands — wholehearted love for God and genuine love for neighbor — demonstrating that authentic religion was never primarily about complicated rule-systems but about love, rightly directed both upward and outward. His response to the Sadducees also affirms bodily resurrection clearly, against their denial.\n\nConversation starters: (1) Why might loving God and loving neighbor be inseparable from each other? (2) What does it mean to love God with ALL your heart, soul, mind, and strength — every part of you? (3) Who is a \"neighbor\" you could show deliberate love to this week?\n\nPray for hearts that genuinely love God fully and love others as yourself.",
+        "es": "Idea principal: Jesús condensa toda la ley en dos mandamientos inseparables — amor pleno a Dios y amor genuino al prójimo — demostrando que la religión auténtica nunca fue principalmente sobre sistemas complicados de reglas sino sobre amor, correctamente dirigido tanto hacia arriba como hacia afuera. Su respuesta a los saduceos también afirma claramente la resurrección corporal, contra su negación.\n\nPara conversar: (1) ¿Por qué podrían ser inseparables amar a Dios y amar al prójimo? (2) ¿Qué significa amar a Dios con TODO tu corazón, alma, mente y fuerzas — cada parte de ti? (3) ¿A quién es un 'prójimo' al que podrías mostrarle amor deliberado esta semana?\n\nOren por corazones que amen plenamente a Dios y amen a los demás como a ustedes mismos.",
+        "fr": "Idée principale : Jésus condense toute la loi en deux commandements inséparables — un amour total pour Dieu et un amour véritable pour le prochain — démontrant que la religion authentique n'a jamais été principalement une question de systèmes de règles compliqués, mais d'amour, correctement dirigé à la fois vers le haut et vers l'extérieur. Sa réponse aux sadducéens affirme aussi clairement la résurrection corporelle, contre leur déni.\n\nPour la conversation : (1) Pourquoi aimer Dieu et aimer son prochain pourraient-ils être inséparables ? (2) Que signifie aimer Dieu de TOUT ton cœur, âme, pensée et force — chaque partie de toi ? (3) Qui est un « prochain » à qui tu pourrais montrer un amour délibéré cette semaine ?\n\nPriez pour des cœurs qui aiment pleinement Dieu et aiment les autres comme eux-mêmes."
       }
     }
   ]

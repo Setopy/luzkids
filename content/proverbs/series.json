@@ -1,12 +1,18 @@
 {
   "title": {
-    "en": "Proverbs for Kids"
+    "en": "Proverbs for Kids",
+    "es": "Proverbios para Niños",
+    "fr": "Les Proverbes pour les Enfants"
   },
   "subtitle": {
-    "en": "All 31 chapters, every major theme — practical wisdom for everyday life!"
+    "en": "All 31 chapters, every major theme — practical wisdom for everyday life!",
+    "es": "Los 31 capítulos completos, cada tema principal — ¡sabiduría práctica para la vida cotidiana!",
+    "fr": "Les 31 chapitres complets, chaque thème majeur — une sagesse pratique pour la vie de tous les jours !"
   },
   "description": {
-    "en": "Short, punchy, unforgettable sayings about everyday wisdom. Thirty-nine adventures through all thirty-one chapters: the nine opening discourses on choosing wisdom over folly, twenty themed journeys through the book's great collected sayings — covering wise vs. foolish vs. mocking, speech, work, pride, honesty, friendship, anger, generosity, discipline, money, God's sovereignty, family, justice, leadership, gossip, envy, counsel, self-control, and the brevity of life — and the closing voices of Agur, King Lemuel, and the woman worth more than rubies."
+    "en": "Short, punchy, unforgettable sayings about everyday wisdom. Thirty-nine adventures through all thirty-one chapters: the nine opening discourses on choosing wisdom over folly, twenty themed journeys through the book's great collected sayings — covering wise vs. foolish vs. mocking, speech, work, pride, honesty, friendship, anger, generosity, discipline, money, God's sovereignty, family, justice, leadership, gossip, envy, counsel, self-control, and the brevity of life — and the closing voices of Agur, King Lemuel, and the woman worth more than rubies.",
+    "es": "Dichos cortos, contundentes e inolvidables sobre la sabiduría cotidiana. Treinta y nueve aventuras a través de los treinta y un capítulos completos: los nueve discursos iniciales sobre elegir la sabiduría sobre la necedad, veinte viajes temáticos a través de los grandes dichos recopilados del libro — cubriendo sabio vs. necio vs. burlador, el habla, el trabajo, el orgullo, la honestidad, la amistad, la ira, la generosidad, la disciplina, el dinero, la soberanía de Dios, la familia, la justicia, el liderazgo, el chisme, la envidia, el consejo, el autocontrol, y la brevedad de la vida — y las voces finales de Agur, el rey Lemuel, y la mujer que vale más que las piedras preciosas.",
+    "fr": "Des dictons courts, percutants et inoubliables sur la sagesse quotidienne. Trente-neuf aventures à travers les trente et un chapitres complets : les neuf discours d'ouverture sur le choix de la sagesse plutôt que la folie, vingt parcours thématiques à travers les grands dictons recueillis du livre — couvrant le sage vs l'insensé vs le moqueur, la parole, le travail, l'orgueil, l'honnêteté, l'amitié, la colère, la générosité, la discipline, l'argent, la souveraineté de Dieu, la famille, la justice, le leadership, la médisance, l'envie, le conseil, la maîtrise de soi, et la brièveté de la vie — et les voix finales d'Agur, du roi Lemuel, et de la femme qui vaut plus que les perles."
   },
   "age_range": "6-12",
   "free": true,
@@ -17,7 +23,9 @@
     {
       "id": "lesson01",
       "title": {
-        "en": "The Beginning of Wisdom"
+        "en": "The Beginning of Wisdom",
+        "es": "El Principio de la Sabiduría",
+        "fr": "Le Commencement de la Sagesse"
       },
       "ref": "Proverbs 1:1-7",
       "section": "Purpose and Theme"
@@ -25,7 +33,9 @@
     {
       "id": "lesson02",
       "title": {
-        "en": "Don't Walk With Sinners"
+        "en": "Don't Walk With Sinners",
+        "es": "No Andes Con los Pecadores",
+        "fr": "Ne Marche Pas Avec les Pécheurs"
       },
       "ref": "Proverbs 1:8-19",
       "section": "Warning Against the Invitation of Sinful Men"
@@ -33,7 +43,9 @@
     {
       "id": "lesson03",
       "title": {
-        "en": "Wisdom Calls in the Streets"
+        "en": "Wisdom Calls in the Streets",
+        "es": "La Sabiduría Clama en las Calles",
+        "fr": "La Sagesse Crie dans les Rues"
       },
       "ref": "Proverbs 1:20-33",
       "section": "Wisdom's Rebuke"
@@ -41,7 +53,9 @@
     {
       "id": "lesson04",
       "title": {
-        "en": "Search for Wisdom Like Silver"
+        "en": "Search for Wisdom Like Silver",
+        "es": "Busca la Sabiduría Como la Plata",
+        "fr": "Cherche la Sagesse Comme l'Argent"
       },
       "ref": "Proverbs 2:1-22",
       "section": "Moral Benefits of Wisdom"
@@ -49,7 +63,9 @@
     {
       "id": "lesson05",
       "title": {
-        "en": "Lean Not on Your Own Understanding"
+        "en": "Lean Not on Your Own Understanding",
+        "es": "No Te Apoyes en Tu Propia Prudencia",
+        "fr": "Ne T'appuie Pas Sur Ta Sagesse"
       },
       "ref": "Proverbs 3:1-12",
       "section": "Trust in the Lord"
@@ -57,7 +73,9 @@
     {
       "id": "lesson06",
       "title": {
-        "en": "More Precious Than Rubies"
+        "en": "More Precious Than Rubies",
+        "es": "Más Preciosa Que las Piedras Preciosas",
+        "fr": "Plus Précieuse Que les Perles"
       },
       "ref": "Proverbs 3:13-20",
       "section": "Wisdom Bestows Well-Being"
@@ -65,7 +83,9 @@
     {
       "id": "lesson07",
       "title": {
-        "en": "Sleep Without Fear"
+        "en": "Sleep Without Fear",
+        "es": "Duerme Sin Temor",
+        "fr": "Dors Sans Crainte"
       },
       "ref": "Proverbs 3:21-35",
       "section": "Further Benefits of Wisdom"
@@ -73,7 +93,9 @@
     {
       "id": "lesson08",
       "title": {
-        "en": "Get Wisdom, Whatever It Costs"
+        "en": "Get Wisdom, Whatever It Costs",
+        "es": "Adquiere Sabiduría, Cueste Lo Que Cueste",
+        "fr": "Acquiers la Sagesse, Quoi Qu'il en Coûte"
       },
       "ref": "Proverbs 4:1-9",
       "section": "Get Wisdom at Any Cost"
@@ -81,7 +103,9 @@
     {
       "id": "lesson09",
       "title": {
-        "en": "The Path of the Righteous, the Path of the Wicked"
+        "en": "The Path of the Righteous, the Path of the Wicked",
+        "es": "El Camino de los Justos, el Camino de los Impíos",
+        "fr": "Le Sentier des Justes, le Chemin des Méchants"
       },
       "ref": "Proverbs 4:10-19",
       "section": "Two Paths"
@@ -89,7 +113,9 @@
     {
       "id": "lesson10",
       "title": {
-        "en": "Guard Your Heart Above All Else"
+        "en": "Guard Your Heart Above All Else",
+        "es": "Guarda Tu Corazón Sobre Toda Cosa",
+        "fr": "Garde Ton Cœur Plus Que Toute Autre Chose"
       },
       "ref": "Proverbs 4:20-27",
       "section": "Guard Your Heart"
@@ -97,7 +123,9 @@
     {
       "id": "lesson11",
       "title": {
-        "en": "Stay on the Safe Path"
+        "en": "Stay on the Safe Path",
+        "es": "Mantente en el Camino Seguro",
+        "fr": "Reste Sur le Chemin Sûr"
       },
       "ref": "Proverbs 5:1-23",
       "section": "Warning Against Adultery"
@@ -105,7 +133,9 @@
     {
       "id": "lesson12",
       "title": {
-        "en": "The Ant, the Sluggard, and Seven Things God Hates"
+        "en": "The Ant, the Sluggard, and Seven Things God Hates",
+        "es": "La Hormiga, el Perezoso, y Siete Cosas Que Dios Aborrece",
+        "fr": "La Fourmi, le Paresseux, et Sept Choses Que Dieu Hait"
       },
       "ref": "Proverbs 6:1-19",
       "section": "Warnings Against Folly"
@@ -113,7 +143,9 @@
     {
       "id": "lesson13",
       "title": {
-        "en": "Guard Your Heart From Smooth Words"
+        "en": "Guard Your Heart From Smooth Words",
+        "es": "Guarda Tu Corazón de las Palabras Suaves",
+        "fr": "Garde Ton Cœur des Paroles Douces"
       },
       "ref": "Proverbs 6:20-35",
       "section": "The High Cost of Adultery"
@@ -121,7 +153,9 @@
     {
       "id": "lesson14",
       "title": {
-        "en": "The Path That Leads to Ruin"
+        "en": "The Path That Leads to Ruin",
+        "es": "El Camino Que Lleva a la Ruina",
+        "fr": "Le Chemin Qui Mène à la Ruine"
       },
       "ref": "Proverbs 7:1-27",
       "section": "Warning Against the Adulterous Woman"
@@ -129,7 +163,9 @@
     {
       "id": "lesson15",
       "title": {
-        "en": "Wisdom Was There When God Made the World!"
+        "en": "Wisdom Was There When God Made the World!",
+        "es": "¡La Sabiduría Estaba Allí Cuando Dios Hizo el Mundo!",
+        "fr": "La Sagesse Était Là Quand Dieu a Fait le Monde !"
       },
       "ref": "Proverbs 8:1-36",
       "section": "Wisdom's Call"
@@ -137,7 +173,9 @@
     {
       "id": "lesson16",
       "title": {
-        "en": "Two Houses, Two Invitations"
+        "en": "Two Houses, Two Invitations",
+        "es": "Dos Casas, Dos Invitaciones",
+        "fr": "Deux Maisons, Deux Invitations"
       },
       "ref": "Proverbs 9:1-18",
       "section": "Invitations of Wisdom and Folly"
@@ -145,7 +183,9 @@
     {
       "id": "lesson17",
       "title": {
-        "en": "The Wise and the Foolish"
+        "en": "The Wise and the Foolish",
+        "es": "El Sabio y el Necio",
+        "fr": "Le Sage et l'Insensé"
       },
       "ref": "Proverbs 10:1; 10:8; 12:15; 13:20; 28:26",
       "section": "The Wise and the Foolish (Proverbs of Solomon)"
@@ -153,7 +193,9 @@
     {
       "id": "lesson18",
       "title": {
-        "en": "The Power of the Tongue"
+        "en": "The Power of the Tongue",
+        "es": "El Poder de la Lengua",
+        "fr": "Le Pouvoir de la Langue"
       },
       "ref": "Proverbs 12:18; 15:1; 16:24; 18:21; 25:11",
       "section": "The Power of the Tongue (Proverbs of Solomon)"
@@ -161,7 +203,9 @@
     {
       "id": "lesson19",
       "title": {
-        "en": "Hard Work and Laziness"
+        "en": "Hard Work and Laziness",
+        "es": "Trabajo Duro y Pereza",
+        "fr": "Travail Acharné et Paresse"
       },
       "ref": "Proverbs 10:4-5; 12:24; 13:4; 21:25; 24:30-34",
       "section": "Hard Work and Laziness (Proverbs of Solomon)"
@@ -169,7 +213,9 @@
     {
       "id": "lesson20",
       "title": {
-        "en": "Pride and Humility"
+        "en": "Pride and Humility",
+        "es": "Orgullo y Humildad",
+        "fr": "Orgueil et Humilité"
       },
       "ref": "Proverbs 11:2; 16:18; 16:19; 18:12; 29:23",
       "section": "Pride and Humility (Proverbs of Solomon)"
@@ -177,7 +223,9 @@
     {
       "id": "lesson21",
       "title": {
-        "en": "Honesty and Integrity"
+        "en": "Honesty and Integrity",
+        "es": "Honestidad e Integridad",
+        "fr": "Honnêteté et Intégrité"
       },
       "ref": "Proverbs 11:1; 12:22; 16:11; 19:5; 20:23",
       "section": "Honesty and Integrity (Proverbs of Solomon)"
@@ -185,7 +233,9 @@
     {
       "id": "lesson22",
       "title": {
-        "en": "Iron Sharpens Iron"
+        "en": "Iron Sharpens Iron",
+        "es": "Hierro Con Hierro Se Aguza",
+        "fr": "Comme le Fer Aiguise le Fer"
       },
       "ref": "Proverbs 17:17; 18:24; 27:6; 27:9; 27:17",
       "section": "Friendship (Proverbs of Solomon)"
@@ -193,7 +243,9 @@
     {
       "id": "lesson23",
       "title": {
-        "en": "Slow to Anger, Quick to Understand"
+        "en": "Slow to Anger, Quick to Understand",
+        "es": "Tardo Para Airarse, Rápido Para Entender",
+        "fr": "Lent à la Colère, Prompt à Comprendre"
       },
       "ref": "Proverbs 14:29; 15:18; 16:32; 19:11; 29:11",
       "section": "Anger and Self-Control (Proverbs of Solomon)"
@@ -201,7 +253,9 @@
     {
       "id": "lesson24",
       "title": {
-        "en": "Generosity and Caring for the Poor"
+        "en": "Generosity and Caring for the Poor",
+        "es": "Generosidad y Cuidado de los Pobres",
+        "fr": "Générosité et Soin des Pauvres"
       },
       "ref": "Proverbs 11:24-25; 14:21; 14:31; 19:17; 22:9",
       "section": "Generosity and Caring for the Poor (Proverbs of Solomon)"
@@ -209,7 +263,9 @@
     {
       "id": "lesson25",
       "title": {
-        "en": "Train Up a Child"
+        "en": "Train Up a Child",
+        "es": "Instruye al Niño",
+        "fr": "Instruis l'Enfant"
       },
       "ref": "Proverbs 13:24; 15:32; 19:18; 22:6; 29:17",
       "section": "Discipline and Training Children (Proverbs of Solomon)"
@@ -217,7 +273,9 @@
     {
       "id": "lesson26",
       "title": {
-        "en": "A Good Name Is Better Than Riches"
+        "en": "A Good Name Is Better Than Riches",
+        "es": "Un Buen Nombre Es Mejor Que las Riquezas",
+        "fr": "Une Bonne Réputation Vaut Mieux Que de Grandes Richesses"
       },
       "ref": "Proverbs 11:28; 16:8; 22:1; 22:7; 23:4-5",
       "section": "Money and Riches (Proverbs of Solomon)"
@@ -225,7 +283,9 @@
     {
       "id": "lesson27",
       "title": {
-        "en": "The Lord Determines Our Steps"
+        "en": "The Lord Determines Our Steps",
+        "es": "Jehová Endereza Nuestros Pasos",
+        "fr": "L'Éternel Dirige Nos Pas"
       },
       "ref": "Proverbs 16:1-3; 16:9; 16:33; 19:21; 21:30-31",
       "section": "Trusting God's Plans (Proverbs of Solomon)"
@@ -233,7 +293,9 @@
     {
       "id": "lesson28",
       "title": {
-        "en": "The Joy of a Godly Family"
+        "en": "The Joy of a Godly Family",
+        "es": "El Gozo de una Familia Piadosa",
+        "fr": "La Joie d'une Famille Pieuse"
       },
       "ref": "Proverbs 15:20; 17:6; 17:25; 20:7; 23:22-25",
       "section": "Family — Parents and Children (Proverbs of Solomon)"
@@ -241,7 +303,9 @@
     {
       "id": "lesson29",
       "title": {
-        "en": "Justice for the Poor and the Wronged"
+        "en": "Justice for the Poor and the Wronged",
+        "es": "Justicia Para los Pobres y los Agraviados",
+        "fr": "Justice Pour les Pauvres et les Lésés"
       },
       "ref": "Proverbs 17:15; 17:26; 21:3; 24:23-25; 29:7",
       "section": "Justice and Fairness (Proverbs of Solomon)"
@@ -249,7 +313,9 @@
     {
       "id": "lesson30",
       "title": {
-        "en": "A City Without Walls"
+        "en": "A City Without Walls",
+        "es": "Ciudad Derribada Sin Muro",
+        "fr": "Une Ville Forcée et Sans Murailles"
       },
       "ref": "Proverbs 20:1; 23:19-21; 23:29-35; 25:16; 25:28",
       "section": "Self-Control Over Desires (Proverbs of Solomon)"
@@ -257,7 +323,9 @@
     {
       "id": "lesson31",
       "title": {
-        "en": "The Mocker Who Won't Be Corrected"
+        "en": "The Mocker Who Won't Be Corrected",
+        "es": "El Escarnecedor Que No Será Corregido",
+        "fr": "Le Moqueur Qui Ne Se Laisse Pas Corriger"
       },
       "ref": "Proverbs 9:7-8; 13:1; 15:12; 21:24; 22:10",
       "section": "The Mocker — A Sharper Kind of Fool (Proverbs of Solomon)"
@@ -265,7 +333,9 @@
     {
       "id": "lesson32",
       "title": {
-        "en": "What Makes a Good Leader"
+        "en": "What Makes a Good Leader",
+        "es": "Lo Que Hace a un Buen Líder",
+        "fr": "Ce Qui Fait un Bon Dirigeant"
       },
       "ref": "Proverbs 16:10-15; 20:8,26,28; 25:2-7; 29:2,4,12,14",
       "section": "Wisdom for Rulers and Leaders (Proverbs of Solomon)"
@@ -273,7 +343,9 @@
     {
       "id": "lesson33",
       "title": {
-        "en": "Words That Spread Like Fire"
+        "en": "Words That Spread Like Fire",
+        "es": "Palabras Que se Propagan Como el Fuego",
+        "fr": "Des Paroles Qui Se Propagent Comme le Feu"
       },
       "ref": "Proverbs 11:13; 16:28; 18:8; 20:19; 26:20-22",
       "section": "Gossip and Slander (Proverbs of Solomon)"
@@ -281,7 +353,9 @@
     {
       "id": "lesson34",
       "title": {
-        "en": "A Heart at Peace, Not a Heart That Wants More"
+        "en": "A Heart at Peace, Not a Heart That Wants More",
+        "es": "Un Corazón en Paz, No un Corazón Que Quiere Más",
+        "fr": "Un Cœur en Paix, Pas un Cœur Qui Veut Plus"
       },
       "ref": "Proverbs 14:30; 23:17; 27:4; 30:15-16",
       "section": "Contentment Versus Envy (Proverbs of Solomon)"
@@ -289,7 +363,9 @@
     {
       "id": "lesson35",
       "title": {
-        "en": "Plans Succeed With Many Advisers"
+        "en": "Plans Succeed With Many Advisers",
+        "es": "Los Planes Se Afirman Con Muchos Consejeros",
+        "fr": "Les Projets Réussissent Avec de Nombreux Conseillers"
       },
       "ref": "Proverbs 11:14; 12:15; 15:22; 19:20; 24:6",
       "section": "The Value of Good Counsel (Proverbs of Solomon)"
@@ -297,7 +373,9 @@
     {
       "id": "lesson36",
       "title": {
-        "en": "Do Not Boast About Tomorrow"
+        "en": "Do Not Boast About Tomorrow",
+        "es": "No Te Jactes del Día de Mañana",
+        "fr": "Ne Te Vante Pas du Lendemain"
       },
       "ref": "Proverbs 14:12; 14:32; 16:25; 21:16; 27:1",
       "section": "The Brevity of Life and the Two Roads (Proverbs of Solomon)"
@@ -305,7 +383,9 @@
     {
       "id": "lesson37",
       "title": {
-        "en": "Four Things Too Wonderful to Understand"
+        "en": "Four Things Too Wonderful to Understand",
+        "es": "Cuatro Cosas Demasiado Maravillosas Para Entender",
+        "fr": "Quatre Choses Trop Merveilleuses à Comprendre"
       },
       "ref": "Proverbs 30:1-33",
       "section": "The Sayings of Agur"
@@ -313,7 +393,9 @@
     {
       "id": "lesson38",
       "title": {
-        "en": "A Mother's Wisdom for a King"
+        "en": "A Mother's Wisdom for a King",
+        "es": "La Sabiduría de una Madre Para un Rey",
+        "fr": "La Sagesse d'une Mère Pour un Roi"
       },
       "ref": "Proverbs 31:1-9",
       "section": "The Sayings of King Lemuel"
@@ -321,7 +403,9 @@
     {
       "id": "lesson39",
       "title": {
-        "en": "Worth More Than Rubies"
+        "en": "Worth More Than Rubies",
+        "es": "Vale Más Que las Piedras Preciosas",
+        "fr": "Vaut Plus Que les Perles"
       },
       "ref": "Proverbs 31:10-31",
       "section": "The Wife of Noble Character"

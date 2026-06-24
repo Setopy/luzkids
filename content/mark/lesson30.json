@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Give to Caesar, Give to God"
+    "en": "Give to Caesar, Give to God",
+    "es": "Den al César, Den a Dios",
+    "fr": "Rendez à César, Rendez à Dieu"
   },
   "ref": "Mark 12:1-17",
   "section": "The Parable of the Tenants / Paying the Imperial Tax to Caesar",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A vineyard story, and a clever trap that failed"
+        "en": "A vineyard story, and a clever trap that failed",
+        "es": "Una historia de viña, y una trampa astuta que falló",
+        "fr": "Une histoire de vigne, et un piège astucieux qui a échoué"
       },
       "body": {
-        "en": "Jesus told a parable: a man planted a vineyard and rented it to tenants, then sent servants to collect his share of the fruit — but the tenants beat, even killed, servant after servant!\n\nFinally the owner sent his own beloved son, thinking they would respect him — but they killed him too, throwing him out of the vineyard! Jesus asked: what will the owner do? He will destroy the tenants and give the vineyard to others.\n\nThe religious leaders understood Jesus was talking about THEM, and wanted to arrest Him, but feared the crowd. Later, Pharisees and Herodians tried to trap Jesus with a clever question: 'Is it right to pay taxes to Caesar or not?' If He said yes, He'd anger the crowds; if no, He'd be accused of rebellion against Rome!\n\nJesus asked for a coin, asking whose image was on it. 'Caesar's,' they said. Jesus replied: 'Give back to Caesar what is Caesar's, and to God what is God's.' They were amazed at His answer — the trap had completely failed."
+        "en": "Jesus told a parable: a man planted a vineyard and rented it to tenants, then sent servants to collect his share of the fruit — but the tenants beat, even killed, servant after servant!\n\nFinally the owner sent his own beloved son, thinking they would respect him — but they killed him too, throwing him out of the vineyard! Jesus asked: what will the owner do? He will destroy the tenants and give the vineyard to others.\n\nThe religious leaders understood Jesus was talking about THEM, and wanted to arrest Him, but feared the crowd. Later, Pharisees and Herodians tried to trap Jesus with a clever question: 'Is it right to pay taxes to Caesar or not?' If He said yes, He'd anger the crowds; if no, He'd be accused of rebellion against Rome!\n\nJesus asked for a coin, asking whose image was on it. 'Caesar's,' they said. Jesus replied: 'Give back to Caesar what is Caesar's, and to God what is God's.' They were amazed at His answer — the trap had completely failed.",
+        "es": "Jesús contó una parábola: un hombre plantó una viña y la arrendó a labradores, luego envió siervos para recoger su parte del fruto — ¡pero los labradores golpearon, incluso mataron, a siervo tras siervo!\n\nFinalmente el dueño envió a su propio hijo amado, pensando que lo respetarían — pero ¡también lo mataron, echándolo fuera de la viña! Jesús preguntó: ¿qué hará el dueño? Destruirá a los labradores y dará la viña a otros.\n\nLos líderes religiosos entendieron que Jesús hablaba de ELLOS, y querían arrestarlo, pero temían a la multitud. Más tarde, fariseos y herodianos intentaron atrapar a Jesús con una pregunta astuta: \"¿Es correcto pagar impuestos al César o no?\" Si decía que sí, enojaría a las multitudes; ¡si decía que no, sería acusado de rebelión contra Roma!\n\nJesús pidió una moneda, preguntando de quién era la imagen en ella. \"Del César,\" dijeron. Jesús respondió: \"Den al César lo que es del César, y a Dios lo que es de Dios.\" Se asombraron de Su respuesta — la trampa había fallado completamente.",
+        "fr": "Jésus raconta une parabole : un homme planta une vigne et la louait à des vignerons, puis envoya des serviteurs pour recueillir sa part du fruit — mais les vignerons battirent, voire tuèrent, serviteur après serviteur !\n\nFinalement le maître envoya son propre fils bien-aimé, pensant qu'ils le respecteraient — mais ils le tuèrent aussi, le jetant hors de la vigne ! Jésus demanda : que fera le maître ? Il détruira les vignerons et donnera la vigne à d'autres.\n\nLes chefs religieux comprirent que Jésus parlait d'EUX, et voulurent L'arrêter, mais craignirent la foule. Plus tard, des pharisiens et des hérodiens essayèrent de piéger Jésus avec une question astucieuse : « Est-il permis de payer le tribut à César, ou non ? » S'Il disait oui, Il fâcherait les foules ; s'Il disait non, Il serait accusé de rébellion contre Rome !\n\nJésus demanda une pièce, demandant de qui était l'image sur elle. « De César, » dirent-ils. Jésus répondit : « Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. » Ils furent stupéfaits de Sa réponse — le piège avait complètement échoué."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Give back to Caesar what is Caesar's and to God what is God's."
+        "en": "Give back to Caesar what is Caesar's and to God what is God's.",
+        "es": "Y respondiendo Jesús, les dijo: Dad lo que es de César á César; y lo que es de Dios, á Dios. Y se maravillaron de ello.",
+        "fr": "Alors il leur dit : Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. Et ils furent à son égard dans l'étonnement."
       },
       "ref": {
-        "en": "Mark 12:17 (NIV)"
+        "en": "Mark 12:17 (NIV)",
+        "es": "Marcos 12:17 (Valera)",
+        "fr": "Marc 12:17 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "what",
           "is",
           "God's"
+        ],
+        "es": [
+          "Y",
+          "respondiendo",
+          "Jesús",
+          "les",
+          "dijo",
+          "Dad"
+        ],
+        "fr": [
+          "Alors",
+          "il",
+          "leur",
+          "dit",
+          "Rendez",
+          "à"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Give to Caesar, Give to God"
+        "en": "A Song for Give to Caesar, Give to God",
+        "es": "Una Canción para Den al César, Den a Dios",
+        "fr": "Une Chanson pour Rendez à César, Rendez à Dieu"
       },
       "audio_en": "/static/audio/mark/lesson30_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What happened to each servant sent by the vineyard owner in Jesus' parable?"
+            "en": "What happened to each servant sent by the vineyard owner in Jesus' parable?",
+            "es": "¿Qué le pasó a cada siervo enviado por el dueño de la viña en la parábola de Jesús?",
+            "fr": "Qu'est-il arrivé à chaque serviteur envoyé par le maître de la vigne dans la parabole de Jésus ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "They were beaten or killed by the tenants",
               "Nothing happened to them",
               "They refused to go"
+            ],
+            "es": [
+              "Fueron recibidos calurosamente",
+              "Fueron golpeados o matados por los labradores",
+              "No les pasó nada",
+              "Se negaron a ir"
+            ],
+            "fr": [
+              "Ils ont été chaleureusement accueillis",
+              "Ils ont été battus ou tués par les vignerons",
+              "Rien ne leur est arrivé",
+              "Ils ont refusé d'y aller"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What trap did the Pharisees and Herodians try to set for Jesus?"
+            "en": "What trap did the Pharisees and Herodians try to set for Jesus?",
+            "es": "¿Qué trampa intentaron tender los fariseos y herodianos a Jesús?",
+            "fr": "Quel piège les pharisiens et les hérodiens ont-ils essayé de tendre à Jésus ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Whether it was right to pay taxes to Caesar",
               "A question about food",
               "Nothing significant"
+            ],
+            "es": [
+              "Una pregunta sobre el matrimonio",
+              "Si era correcto pagar impuestos al César",
+              "Una pregunta sobre comida",
+              "Nada significativo"
+            ],
+            "fr": [
+              "Une question sur le mariage",
+              "S'il était permis de payer le tribut à César",
+              "Une question sur la nourriture",
+              "Rien de significatif"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did Jesus answer the tax question, avoiding the trap completely?"
+            "en": "How did Jesus answer the tax question, avoiding the trap completely?",
+            "es": "¿Cómo respondió Jesús a la pregunta de los impuestos, evitando la trampa por completo?",
+            "fr": "Comment Jésus a-t-il répondu à la question du tribut, évitant complètement le piège ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Give back to Caesar what is Caesar's, and to God what is God's",
               "He said taxes were wrong",
               "He left immediately"
+            ],
+            "es": [
+              "Se negó a responder",
+              "Den al César lo que es del César, y a Dios lo que es de Dios",
+              "Dijo que los impuestos estaban mal",
+              "Se fue de inmediato"
+            ],
+            "fr": [
+              "Il a refusé de répondre",
+              "Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu",
+              "Il a dit que les impôts étaient mauvais",
+              "Il est parti immédiatement"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Give to Caesar, Give to God"
+            "en": "Activity sheet: Give to Caesar, Give to God",
+            "es": "Hoja de actividad: Den al César, Den a Dios",
+            "fr": "Fiche d'activité : Rendez à César, Rendez à Dieu"
           },
           "file": "/static/printables/mark/lesson30_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus exposes religious leadership's rejection of God's messengers (and ultimately His own Son) through a pointed parable, then demonstrates remarkable wisdom under a deliberately constructed political trap — acknowledging legitimate civic obligation while reserving ultimate allegiance for God alone.\n\nConversation starters: (1) Who do the \"servants\" and the \"son\" represent in the vineyard parable? (2) Why was the Caesar/God question such a clever trap — what made it hard to answer either way? (3) What does it look like practically to \"give to Caesar\" and \"give to God\" appropriately in your own life?\n\nPray for wisdom like Jesus showed, navigating difficult questions with both honesty and discernment."
+        "en": "Big idea: Jesus exposes religious leadership's rejection of God's messengers (and ultimately His own Son) through a pointed parable, then demonstrates remarkable wisdom under a deliberately constructed political trap — acknowledging legitimate civic obligation while reserving ultimate allegiance for God alone.\n\nConversation starters: (1) Who do the \"servants\" and the \"son\" represent in the vineyard parable? (2) Why was the Caesar/God question such a clever trap — what made it hard to answer either way? (3) What does it look like practically to \"give to Caesar\" and \"give to God\" appropriately in your own life?\n\nPray for wisdom like Jesus showed, navigating difficult questions with both honesty and discernment.",
+        "es": "Idea principal: Jesús expone el rechazo del liderazgo religioso a los mensajeros de Dios (y finalmente a Su propio Hijo) por medio de una parábola incisiva, luego demuestra una sabiduría notable bajo una trampa política deliberadamente construida — reconociendo la obligación civil legítima mientras reserva la lealtad última solo para Dios.\n\nPara conversar: (1) ¿A quiénes representan los 'siervos' y el 'hijo' en la parábola de la viña? (2) ¿Por qué fue la pregunta del César/Dios una trampa tan astuta — qué la hacía difícil de responder de cualquier manera? (3) ¿Cómo se ve en la práctica 'dar al César' y 'dar a Dios' apropiadamente en tu propia vida?\n\nOren por sabiduría como la que mostró Jesús, navegando preguntas difíciles con honestidad y discernimiento.",
+        "fr": "Idée principale : Jésus expose le rejet par le leadership religieux des messagers de Dieu (et finalement de Son propre Fils) à travers une parabole percutante, puis démontre une sagesse remarquable face à un piège politique délibérément construit — reconnaissant l'obligation civique légitime tout en réservant l'allégeance ultime à Dieu seul.\n\nPour la conversation : (1) Qui représentent les « serviteurs » et le « fils » dans la parabole de la vigne ? (2) Pourquoi la question César/Dieu était-elle un piège si astucieux — qu'est-ce qui la rendait difficile à répondre dans un sens ou l'autre ? (3) À quoi ressemble concrètement « rendre à César » et « rendre à Dieu » de façon appropriée dans ta propre vie ?\n\nPriez pour la sagesse que Jésus a montrée, naviguant des questions difficiles avec à la fois honnêteté et discernement."
       }
     }
   ]

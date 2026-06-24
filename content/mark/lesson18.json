@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "What Really Makes You Unclean?"
+    "en": "What Really Makes You Unclean?",
+    "es": "¿Qué Es Lo Que Realmente Te Hace Impuro?",
+    "fr": "Qu'est-ce Qui Te Rend Vraiment Impur ?"
   },
   "ref": "Mark 7:1-23",
   "section": "That Which Defiles",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Clean hands, dirty hearts"
+        "en": "Clean hands, dirty hearts",
+        "es": "Manos limpias, corazones sucios",
+        "fr": "Des mains propres, des cœurs sales"
       },
       "body": {
-        "en": "Pharisees noticed that some of Jesus' disciples ate without the ceremonial hand-washing tradition required. Jesus responded sharply, quoting Isaiah: 'These people honour me with their lips, but their hearts are far from me.' He said they let go of God's actual commands to hold onto human traditions!\n\nThen Jesus explained to the crowd: nothing that goes INTO a person from outside can make them unclean — it's what comes OUT of a person that defiles them. Later, His disciples asked Him to explain. Jesus said: 'Don't you see? Whatever enters from outside cannot make you unclean, because it doesn't go into your heart but into your stomach.' But evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, envy, slander, arrogance, and folly — these come from WITHIN, out of the heart, and these are what truly defile a person.\n\nReal holiness was never about external rules and rituals alone — it's about what's actually happening in the heart."
+        "en": "Pharisees noticed that some of Jesus' disciples ate without the ceremonial hand-washing tradition required. Jesus responded sharply, quoting Isaiah: 'These people honour me with their lips, but their hearts are far from me.' He said they let go of God's actual commands to hold onto human traditions!\n\nThen Jesus explained to the crowd: nothing that goes INTO a person from outside can make them unclean — it's what comes OUT of a person that defiles them. Later, His disciples asked Him to explain. Jesus said: 'Don't you see? Whatever enters from outside cannot make you unclean, because it doesn't go into your heart but into your stomach.' But evil thoughts, sexual immorality, theft, murder, adultery, greed, malice, deceit, envy, slander, arrogance, and folly — these come from WITHIN, out of the heart, and these are what truly defile a person.\n\nReal holiness was never about external rules and rituals alone — it's about what's actually happening in the heart.",
+        "es": "Los fariseos notaron que algunos de los discípulos de Jesús comían sin la tradición ceremonial requerida de lavarse las manos. Jesús respondió con dureza, citando a Isaías: \"Este pueblo me honra con los labios, pero su corazón está lejos de mí.\" ¡Dijo que dejaban a un lado los mandamientos reales de Dios para aferrarse a tradiciones humanas!\n\nLuego Jesús explicó a la multitud: nada que entra a una persona desde afuera puede hacerla impura — es lo que sale de una persona lo que la contamina. Más tarde, Sus discípulos le pidieron que lo explicara. Jesús dijo: \"¿No ven? Lo que entra desde afuera no puede hacerlos impuros, porque no entra en el corazón sino en el estómago.\" Pero los malos pensamientos, la inmoralidad sexual, el robo, el asesinato, el adulterio, la avaricia, la malicia, el engaño, la envidia, la calumnia, la arrogancia, y la necedad — estos vienen de ADENTRO, del corazón, y estos son los que verdaderamente contaminan a una persona.\n\nLa verdadera santidad nunca fue solo acerca de reglas y rituales externos — se trata de lo que realmente está sucediendo en el corazón.",
+        "fr": "Les pharisiens remarquèrent que certains des disciples de Jésus mangeaient sans la tradition cérémonielle requise du lavage des mains. Jésus répondit sévèrement, citant Ésaïe : « Ce peuple m'honore des lèvres, mais son cœur est éloigné de moi. » Il dit qu'ils abandonnaient les commandements réels de Dieu pour s'accrocher à des traditions humaines !\n\nPuis Jésus expliqua à la foule : rien de ce qui entre dans une personne du dehors ne peut la rendre impure — c'est ce qui sort d'une personne qui la souille. Plus tard, Ses disciples Lui demandèrent d'expliquer. Jésus dit : « Ne voyez-vous donc pas ? Ce qui entre du dehors ne peut vous rendre impurs, car cela n'entre pas dans le cœur, mais dans le ventre. » Mais les mauvaises pensées, l'immoralité sexuelle, le vol, le meurtre, l'adultère, la cupidité, la méchanceté, la fraude, l'envie, la calomnie, l'orgueil, et la folie — ceux-ci viennent du DEDANS, du cœur, et ce sont eux qui souillent véritablement une personne.\n\nLa vraie sainteté n'a jamais été seulement une question de règles et de rituels extérieurs — il s'agit de ce qui se passe réellement dans le cœur."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "What comes out of a person is what defiles them... it is from within, out of a person's heart, that evil thoughts come."
+        "en": "What comes out of a person is what defiles them... it is from within, out of a person's heart, that evil thoughts come.",
+        "es": "Mas decía, que lo que del hombre sale, aquello contamina al hombre. Porque de dentro, del corazón de los hombres, salen los malos pensamientos.",
+        "fr": "Il dit encore : Ce qui sort de l'homme, c'est ce qui souille l'homme. Car c'est du dedans, c'est du cœur des hommes, que sortent les mauvaises pensées."
       },
       "ref": {
-        "en": "Mark 7:20-21 (NIV)"
+        "en": "Mark 7:20-21 (NIV)",
+        "es": "Marcos 7:20-21 (Valera)",
+        "fr": "Marc 7:20-21 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "what",
           "defiles",
           "them"
+        ],
+        "es": [
+          "Mas",
+          "decía",
+          "que",
+          "lo",
+          "que",
+          "del"
+        ],
+        "fr": [
+          "Il",
+          "dit",
+          "encore",
+          "Ce",
+          "qui",
+          "sort"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for What Really Makes You Unclean?"
+        "en": "A Song for What Really Makes You Unclean?",
+        "es": "Una Canción para ¿Qué Es Lo Que Realmente Te Hace Impuro?",
+        "fr": "Une Chanson pour Qu'est-ce Qui Te Rend Vraiment Impur ?"
       },
       "audio_en": "/static/audio/mark/lesson18_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus quote from Isaiah about the Pharisees?"
+            "en": "What did Jesus quote from Isaiah about the Pharisees?",
+            "es": "¿Qué citó Jesús de Isaías sobre los fariseos?",
+            "fr": "Qu'a cité Jésus d'Ésaïe à propos des pharisiens ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Their lips honour God but their hearts are far from Him",
               "They have no traditions",
               "Nothing relevant"
+            ],
+            "es": [
+              "Son perfectamente fieles",
+              "Sus labios honran a Dios pero su corazón está lejos de Él",
+              "No tienen tradiciones",
+              "Nada relevante"
+            ],
+            "fr": [
+              "Ils sont parfaitement fidèles",
+              "Leurs lèvres honorent Dieu mais leur cœur est éloigné de Lui",
+              "Ils n'ont aucune tradition",
+              "Rien de pertinent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Jesus, what makes a person truly unclean?"
+            "en": "According to Jesus, what makes a person truly unclean?",
+            "es": "Según Jesús, ¿qué hace verdaderamente impura a una persona?",
+            "fr": "Selon Jésus, qu'est-ce qui rend vraiment une personne impure ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "What comes out from within — from the heart",
               "Not washing hands",
               "Eating certain foods"
+            ],
+            "es": [
+              "Lo que entra en su estómago",
+              "Lo que sale de adentro — del corazón",
+              "No lavarse las manos",
+              "Comer ciertos alimentos"
+            ],
+            "fr": [
+              "Ce qui entre dans son ventre",
+              "Ce qui sort du dedans — du cœur",
+              "Ne pas se laver les mains",
+              "Manger certains aliments"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What kinds of things does Jesus list as coming from within and defiling a person?"
+            "en": "What kinds of things does Jesus list as coming from within and defiling a person?",
+            "es": "¿Qué tipo de cosas enumera Jesús como viniendo de adentro y contaminando a una persona?",
+            "fr": "Quel genre de choses Jésus énumère-t-il comme venant du dedans et souillant une personne ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Evil thoughts, theft, murder, greed, malice, deceit, and more",
               "Eating the wrong food",
               "Nothing serious"
+            ],
+            "es": [
+              "Solo suciedad física",
+              "Malos pensamientos, robo, asesinato, avaricia, malicia, engaño, y más",
+              "Comer la comida equivocada",
+              "Nada serio"
+            ],
+            "fr": [
+              "Seulement de la saleté physique",
+              "Mauvaises pensées, vol, meurtre, cupidité, méchanceté, fraude, et plus encore",
+              "Manger la mauvaise nourriture",
+              "Rien de sérieux"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: What Really Makes You Unclean?"
+            "en": "Activity sheet: What Really Makes You Unclean?",
+            "es": "Hoja de actividad: ¿Qué Es Lo Que Realmente Te Hace Impuro?",
+            "fr": "Fiche d'activité : Qu'est-ce Qui Te Rend Vraiment Impur ?"
           },
           "file": "/static/printables/mark/lesson18_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: genuine holiness is a matter of the heart, not external ritual compliance — a foundational truth this platform has taught throughout its other series (Colossians 2's warning against legalism, the doctrine of entire sanctification as a heart-cleansing work). Jesus directly confronts the gap between honouring God \"with lips\" while the heart remains untouched.\n\nConversation starters: (1) Why might someone follow all the right rules outwardly but still have a far-from-God heart? (2) What's the difference between something that goes \"into\" a person and something that comes \"out of\" their heart? (3) What's one thing on Jesus' list (evil thoughts, greed, deceit, etc.) you want God to help you guard your heart against?\n\nPray for clean hearts, not just clean outward appearances."
+        "en": "Big idea: genuine holiness is a matter of the heart, not external ritual compliance — a foundational truth this platform has taught throughout its other series (Colossians 2's warning against legalism, the doctrine of entire sanctification as a heart-cleansing work). Jesus directly confronts the gap between honouring God \"with lips\" while the heart remains untouched.\n\nConversation starters: (1) Why might someone follow all the right rules outwardly but still have a far-from-God heart? (2) What's the difference between something that goes \"into\" a person and something that comes \"out of\" their heart? (3) What's one thing on Jesus' list (evil thoughts, greed, deceit, etc.) you want God to help you guard your heart against?\n\nPray for clean hearts, not just clean outward appearances.",
+        "es": "Idea principal: la verdadera santidad es asunto del corazón, no del cumplimiento de rituales externos — una verdad fundamental que esta plataforma ha enseñado en sus otras series (la advertencia de Colosenses 2 contra el legalismo, la doctrina de la santificación completa como una obra de limpieza del corazón). Jesús confronta directamente la brecha entre honrar a Dios 'con los labios' mientras el corazón permanece intocado.\n\nPara conversar: (1) ¿Por qué podría alguien seguir todas las reglas correctas exteriormente pero aun así tener un corazón lejos de Dios? (2) ¿Cuál es la diferencia entre algo que entra 'a' una persona y algo que sale de su corazón? (3) ¿Cuál es una cosa de la lista de Jesús (malos pensamientos, avaricia, engaño, etc.) contra la cual quieres que Dios te ayude a guardar tu corazón?\n\nOren por corazones limpios, no solo apariencias externas limpias.",
+        "fr": "Idée principale : la véritable sainteté est une question de cœur, et non de conformité rituelle extérieure — une vérité fondamentale que cette plateforme a enseignée dans ses autres séries (l'avertissement de Colossiens 2 contre le légalisme, la doctrine de la sanctification entière comme une œuvre de purification du cœur). Jésus confronte directement l'écart entre honorer Dieu « des lèvres » alors que le cœur reste inchangé.\n\nPour la conversation : (1) Pourquoi quelqu'un pourrait-il suivre toutes les bonnes règles extérieurement mais avoir malgré tout un cœur éloigné de Dieu ? (2) Quelle est la différence entre quelque chose qui entre « dans » une personne et quelque chose qui sort de son cœur ? (3) Quelle est une chose sur la liste de Jésus (mauvaises pensées, cupidité, fraude, etc.) contre laquelle tu veux que Dieu t'aide à garder ton cœur ?\n\nPriez pour des cœurs purs, et non seulement des apparences extérieures propres."
       }
     }
   ]

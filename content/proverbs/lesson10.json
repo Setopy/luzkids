@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Guard Your Heart Above All Else"
+    "en": "Guard Your Heart Above All Else",
+    "es": "Guarda Tu Corazón Sobre Toda Cosa",
+    "fr": "Garde Ton Cœur Plus Que Toute Autre Chose"
   },
   "ref": "Proverbs 4:20-27",
   "section": "Guard Your Heart",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "What you protect determines what you become"
+        "en": "What you protect determines what you become",
+        "es": "Lo que proteges determina lo que llegas a ser",
+        "fr": "Ce que tu protèges détermine ce que tu deviens"
       },
       "body": {
-        "en": "'My son, pay attention to what I say; turn your ear to my words. Do not let them out of your sight, keep them within your heart; for they are life to those who find them and health to one's whole body.'\n\nThen comes one of the most famous instructions in the entire book: 'Above all else, guard your heart, for everything you do flows from it.'\n\nThink about that phrase carefully — EVERYTHING you do flows from your heart. Not just some things, not just the big decisions — everything. Your actions are downstream of what's actually happening inside you.\n\nThe chapter gets specific: put away perversity from your mouth; keep corrupt talk far from your lips. Let your eyes look straight ahead, fix your gaze directly before you.\n\nMake level paths for your feet, and take only ways that are firm. Do not turn to the right or the left; keep your foot from evil. Heart, mouth, eyes, feet — the whole person is called to careful, deliberate guarding."
+        "en": "'My son, pay attention to what I say; turn your ear to my words. Do not let them out of your sight, keep them within your heart; for they are life to those who find them and health to one's whole body.'\n\nThen comes one of the most famous instructions in the entire book: 'Above all else, guard your heart, for everything you do flows from it.'\n\nThink about that phrase carefully — EVERYTHING you do flows from your heart. Not just some things, not just the big decisions — everything. Your actions are downstream of what's actually happening inside you.\n\nThe chapter gets specific: put away perversity from your mouth; keep corrupt talk far from your lips. Let your eyes look straight ahead, fix your gaze directly before you.\n\nMake level paths for your feet, and take only ways that are firm. Do not turn to the right or the left; keep your foot from evil. Heart, mouth, eyes, feet — the whole person is called to careful, deliberate guarding.",
+        "es": "\"Hijo mío, está atento á mis palabras; inclina tu oído á mis razones. No se aparten de tus ojos; guárdalas en medio de tu corazón; porque son vida á los que las hallan, y medicina á toda su carne.\"\n\nEntonces llega una de las instrucciones más famosas de todo el libro: \"Sobre toda cosa guardada guarda tu corazón; porque de él mana la vida.\"\n\nPiensa cuidadosamente en esa frase — de tu corazón mana TODO lo que haces. No solo algunas cosas, no solo las grandes decisiones — todo. Tus acciones fluyen de lo que realmente está sucediendo dentro de ti.\n\nEl capítulo se vuelve específico: aparta de ti la perversidad de la boca, y aleja de ti la iniquidad de los labios. Tus ojos miren lo recto, y tus párpados se enderecen delante de ti.\n\nPesa el camino de tus pies, y todos tus caminos sean ordenados. No te apartes á la diestra ni á la siniestra; aparta tu pie del mal. Corazón, boca, ojos, pies — toda la persona es llamada a una guarda cuidadosa y deliberada.",
+        "fr": "« Mon fils, sois attentif à mes paroles, prête l'oreille à mes discours ! Qu'ils ne s'éloignent pas de tes yeux ; garde-les dans le fond de ton cœur ; car c'est la vie pour ceux qui les trouvent, et la santé pour tout leur corps. »\n\nPuis vient l'une des instructions les plus célèbres de tout le livre : « Garde ton cœur plus que toute autre chose, car de lui viennent les sources de la vie. »\n\nRéfléchis bien à cette phrase — de ton cœur viennent TOUTES les sources de ta vie. Pas seulement certaines choses, pas seulement les grandes décisions — tout. Tes actions découlent de ce qui se passe réellement à l'intérieur de toi.\n\nLe chapitre devient précis : écarte de ta bouche la fausseté, et éloigne de tes lèvres les détours. Que tes yeux regardent en face, et que tes paupières se dirigent devant toi.\n\nAplanis le sentier de tes pieds, et que toutes tes voies soient bien réglées. Ne te détourne ni à droite ni à gauche, éloigne ton pied du mal. Cœur, bouche, yeux, pieds — toute la personne est appelée à une garde attentive et délibérée."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Above all else, guard your heart, for everything you do flows from it."
+        "en": "Above all else, guard your heart, for everything you do flows from it.",
+        "es": "Sobre toda cosa guardada guarda tu corazón; porque de él mana la vida.",
+        "fr": "Garde ton cœur plus que toute autre chose, Car de lui viennent les sources de la vie."
       },
       "ref": {
-        "en": "Proverbs 4:23 (NIV)"
+        "en": "Proverbs 4:23 (NIV)",
+        "es": "Proverbios 4:23 (Valera)",
+        "fr": "Proverbes 4:23 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "flows",
           "from",
           "it"
+        ],
+        "es": [
+          "Sobre",
+          "toda",
+          "cosa",
+          "guardada",
+          "guarda",
+          "tu"
+        ],
+        "fr": [
+          "Garde",
+          "ton",
+          "cœur",
+          "plus",
+          "que",
+          "toute"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Guard Your Heart Above All Else"
+        "en": "A Song for Guard Your Heart Above All Else",
+        "es": "Una Canción para Guarda Tu Corazón Sobre Toda Cosa",
+        "fr": "Une Chanson pour Garde Ton Cœur Plus Que Toute Autre Chose"
       },
       "audio_en": "/static/audio/proverbs/lesson10_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Proverbs 4:23 say to guard 'above all else'?"
+            "en": "What does Proverbs 4:23 say to guard 'above all else'?",
+            "es": "¿Qué dice Proverbios 4:23 que se debe guardar 'sobre toda cosa'?",
+            "fr": "Que dit Proverbes 4:23 de garder « plus que toute autre chose » ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "Your heart",
               "Your reputation",
               "Your possessions"
+            ],
+            "es": [
+              "Tu dinero",
+              "Tu corazón",
+              "Tu reputación",
+              "Tus posesiones"
+            ],
+            "fr": [
+              "Ton argent",
+              "Ton cœur",
+              "Ta réputation",
+              "Tes biens"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why is guarding the heart so important, according to this verse?"
+            "en": "Why is guarding the heart so important, according to this verse?",
+            "es": "¿Por qué es tan importante guardar el corazón, según este versículo?",
+            "fr": "Pourquoi est-il si important de garder son cœur, selon ce verset ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Everything you do flows from it",
               "Only some actions come from the heart",
               "The heart doesn't affect behaviour"
+            ],
+            "es": [
+              "No es realmente importante",
+              "De él mana todo lo que haces",
+              "Solo algunas acciones vienen del corazón",
+              "El corazón no afecta el comportamiento"
+            ],
+            "fr": [
+              "Ce n'est pas vraiment important",
+              "Toutes les sources de ta vie en proviennent",
+              "Seules certaines actions viennent du cœur",
+              "Le cœur n'affecte pas le comportement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Besides the heart, what other parts of the body does this chapter mention guarding?"
+            "en": "Besides the heart, what other parts of the body does this chapter mention guarding?",
+            "es": "Además del corazón, ¿qué otras partes del cuerpo menciona este capítulo guardar?",
+            "fr": "En plus du cœur, quelles autres parties du corps ce chapitre mentionne-t-il de garder ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Mouth, eyes, and feet",
               "Only the hands",
               "Only the ears"
+            ],
+            "es": [
+              "No se menciona nada más",
+              "Boca, ojos y pies",
+              "Solo las manos",
+              "Solo los oídos"
+            ],
+            "fr": [
+              "Rien d'autre n'est mentionné",
+              "Bouche, yeux et pieds",
+              "Seulement les mains",
+              "Seulement les oreilles"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Guard Your Heart Above All Else"
+            "en": "Activity sheet: Guard Your Heart Above All Else",
+            "es": "Hoja de actividad: Guarda Tu Corazón Sobre Toda Cosa",
+            "fr": "Fiche d'activité : Garde Ton Cœur Plus Que Toute Autre Chose"
           },
           "file": "/static/printables/proverbs/lesson10_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the heart is the wellspring of all behaviour — \"everything you do flows from it\" — making heart-guarding the single most important practical discipline in the wisdom life, more foundational even than guarding speech or actions individually, since those flow downstream from the heart's condition. This connects directly to the doctrine of entire sanctification taught elsewhere on this platform: a genuinely clean heart is the source of genuinely clean living.\n\nConversation starters: (1) What does it mean that \"everything you do flows from\" your heart — even small daily choices? (2) What are some things that try to get into your heart that you need to guard against? (3) Besides the heart, why might mouth, eyes, and feet also need deliberate guarding?\n\nPray for a guarded, protected heart, asking God to help keep watch over what flows in and out of it."
+        "en": "Big idea: the heart is the wellspring of all behaviour — \"everything you do flows from it\" — making heart-guarding the single most important practical discipline in the wisdom life, more foundational even than guarding speech or actions individually, since those flow downstream from the heart's condition. This connects directly to the doctrine of entire sanctification taught elsewhere on this platform: a genuinely clean heart is the source of genuinely clean living.\n\nConversation starters: (1) What does it mean that \"everything you do flows from\" your heart — even small daily choices? (2) What are some things that try to get into your heart that you need to guard against? (3) Besides the heart, why might mouth, eyes, and feet also need deliberate guarding?\n\nPray for a guarded, protected heart, asking God to help keep watch over what flows in and out of it.",
+        "es": "Idea principal: el corazón es la fuente de todo comportamiento — \"de él mana la vida\" — haciendo que guardar el corazón sea la disciplina práctica más importante en la vida de sabiduría, más fundamental incluso que guardar el habla o las acciones individualmente, ya que estas fluyen de la condición del corazón. Esto se conecta directamente con la doctrina de la entera santificación enseñada en otra parte de esta plataforma: un corazón verdaderamente limpio es la fuente de una vida verdaderamente limpia.\n\nPara conversar: (1) ¿Qué significa que \"de tu corazón mana\" todo lo que haces — incluso las pequeñas decisiones diarias? (2) ¿Cuáles son algunas cosas que intentan entrar en tu corazón contra las que necesitas guardarte? (3) Además del corazón, ¿por qué podrían la boca, los ojos y los pies también necesitar una guarda deliberada?\n\nOren por un corazón guardado y protegido, pidiendo a Dios que ayude a vigilar lo que entra y sale de él.",
+        "fr": "Idée principale : le cœur est la source de tout comportement — « de lui viennent les sources de la vie » — ce qui fait de la garde du cœur la discipline pratique la plus importante dans la vie de sagesse, plus fondamentale même que la garde du discours ou des actions individuellement, puisqu'elles découlent de l'état du cœur. Cela se rattache directement à la doctrine de l'entière sanctification enseignée ailleurs sur cette plateforme : un cœur véritablement pur est la source d'une vie véritablement pure.\n\nPour la conversation : (1) Que signifie que « de ton cœur viennent » toutes les sources de ta vie — même les petits choix quotidiens ? (2) Quelles sont des choses qui essaient d'entrer dans ton cœur et contre lesquelles tu dois te garder ? (3) En plus du cœur, pourquoi la bouche, les yeux et les pieds pourraient-ils aussi avoir besoin d'une garde délibérée ?\n\nPriez pour un cœur gardé et protégé, en demandant à Dieu d'aider à veiller sur ce qui y entre et en sort."
       }
     }
   ]

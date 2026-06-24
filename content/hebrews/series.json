@@ -1,12 +1,18 @@
 {
   "title": {
-    "en": "Hebrews for Kids"
+    "en": "Hebrews for Kids",
+    "es": "Hebreos para Niños",
+    "fr": "Hébreux pour les Enfants"
   },
   "subtitle": {
-    "en": "All 13 chapters, mapped to the standard sections of the book — Jesus is better than everything!"
+    "en": "All 13 chapters, mapped to the standard sections of the book — Jesus is better than everything!",
+    "es": "Los 13 capítulos completos, mapeados a las secciones estándar del libro — ¡Jesús es mejor que todo!",
+    "fr": "Les 13 chapitres complets, alignés sur les sections standard du livre — Jésus est meilleur que tout !"
   },
   "description": {
-    "en": "A letter written to encourage believers who were tempted to give up. Twenty adventures through all thirteen chapters of Hebrews, following the same section divisions found in standard study Bibles — discovering that Jesus is better than angels, better than any priest, and worth running our whole race for, all the way to the finish line."
+    "en": "A letter written to encourage believers who were tempted to give up. Twenty adventures through all thirteen chapters of Hebrews, following the same section divisions found in standard study Bibles — discovering that Jesus is better than angels, better than any priest, and worth running our whole race for, all the way to the finish line.",
+    "es": "Una carta escrita para animar a los creyentes que estaban tentados a rendirse. Veinte aventuras a través de los trece capítulos de Hebreos, siguiendo las mismas divisiones de sección que se encuentran en las Biblias de estudio estándar — descubriendo que Jesús es mejor que los ángeles, mejor que cualquier sacerdote, y vale la pena correr toda nuestra carrera por Él, hasta la línea de meta.",
+    "fr": "Une lettre écrite pour encourager des croyants tentés d'abandonner. Vingt aventures à travers les treize chapitres d'Hébreux, suivant les mêmes divisions de section que l'on trouve dans les Bibles d'étude standard — découvrant que Jésus est meilleur que les anges, meilleur que tout sacrificateur, et qu'il vaut la peine de courir toute notre course pour Lui, jusqu'à la ligne d'arrivée."
   },
   "age_range": "6-12",
   "free": true,
@@ -17,7 +23,9 @@
     {
       "id": "lesson01",
       "title": {
-        "en": "God's Final Word"
+        "en": "God's Final Word",
+        "es": "La Palabra Final de Dios",
+        "fr": "La Parole Finale de Dieu"
       },
       "ref": "Hebrews 1:1-14",
       "section": "The Son Superior to Angels"
@@ -25,7 +33,9 @@
     {
       "id": "lesson02",
       "title": {
-        "en": "Don't Drift Away!"
+        "en": "Don't Drift Away!",
+        "es": "¡No Te Alejes a la Deriva!",
+        "fr": "Ne Dérive Pas !"
       },
       "ref": "Hebrews 2:1-4",
       "section": "Warning Against Drifting Away"
@@ -33,7 +43,9 @@
     {
       "id": "lesson03",
       "title": {
-        "en": "Jesus Became Like Us"
+        "en": "Jesus Became Like Us",
+        "es": "Jesús Se Hizo Como Nosotros",
+        "fr": "Jésus Est Devenu Comme Nous"
       },
       "ref": "Hebrews 2:5-18",
       "section": "Jesus Made Like His Brothers"
@@ -41,7 +53,9 @@
     {
       "id": "lesson04",
       "title": {
-        "en": "Greater Than Moses"
+        "en": "Greater Than Moses",
+        "es": "Mayor Que Moisés",
+        "fr": "Plus Grand Que Moïse"
       },
       "ref": "Hebrews 3:1-6",
       "section": "Jesus Greater Than Moses"
@@ -49,7 +63,9 @@
     {
       "id": "lesson05",
       "title": {
-        "en": "Today, If You Hear His Voice"
+        "en": "Today, If You Hear His Voice",
+        "es": "Hoy, Si Oyes Su Voz",
+        "fr": "Aujourd'hui, Si Tu Entends Sa Voix"
       },
       "ref": "Hebrews 3:7-19",
       "section": "Warning Against Unbelief"
@@ -57,7 +73,9 @@
     {
       "id": "lesson06",
       "title": {
-        "en": "A Rest Still Waiting"
+        "en": "A Rest Still Waiting",
+        "es": "Un Reposo Que Todavía Espera",
+        "fr": "Un Repos Qui Attend Encore"
       },
       "ref": "Hebrews 4:1-13",
       "section": "A Sabbath-Rest for the People of God"
@@ -65,7 +83,9 @@
     {
       "id": "lesson07",
       "title": {
-        "en": "Come Boldly to the Throne of Grace"
+        "en": "Come Boldly to the Throne of Grace",
+        "es": "Acércate Confiadamente al Trono de la Gracia",
+        "fr": "Approche-toi avec Assurance du Trône de la Grâce"
       },
       "ref": "Hebrews 4:14-5:10",
       "section": "Jesus the Great High Priest"
@@ -73,7 +93,9 @@
     {
       "id": "lesson08",
       "title": {
-        "en": "Grow Up — or Risk Falling Away"
+        "en": "Grow Up — or Risk Falling Away",
+        "es": "Crezcan — o Arriesguen Apartarse",
+        "fr": "Grandissez — ou Risquez de Vous Détourner"
       },
       "ref": "Hebrews 5:11-6:12",
       "section": "Warning Against Falling Away"
@@ -81,7 +103,9 @@
     {
       "id": "lesson09",
       "title": {
-        "en": "An Anchor for the Soul"
+        "en": "An Anchor for the Soul",
+        "es": "Un Ancla para el Alma",
+        "fr": "Une Ancre pour l'Âme"
       },
       "ref": "Hebrews 6:13-20",
       "section": "The Certainty of God's Promise"
@@ -89,7 +113,9 @@
     {
       "id": "lesson10",
       "title": {
-        "en": "A Priest Forever"
+        "en": "A Priest Forever",
+        "es": "Un Sacerdote Para Siempre",
+        "fr": "Un Sacrificateur Pour Toujours"
       },
       "ref": "Hebrews 7:1-28",
       "section": "Melchizedek the Priest"
@@ -97,7 +123,9 @@
     {
       "id": "lesson11",
       "title": {
-        "en": "A Brand New Covenant"
+        "en": "A Brand New Covenant",
+        "es": "Un Pacto Completamente Nuevo",
+        "fr": "Une Toute Nouvelle Alliance"
       },
       "ref": "Hebrews 8:1-13",
       "section": "The High Priest of a New Covenant"
@@ -105,7 +133,9 @@
     {
       "id": "lesson12",
       "title": {
-        "en": "Behind the Curtain"
+        "en": "Behind the Curtain",
+        "es": "Detrás de la Cortina",
+        "fr": "Derrière le Rideau"
       },
       "ref": "Hebrews 9:1-10",
       "section": "Worship in the Earthly Tabernacle"
@@ -113,7 +143,9 @@
     {
       "id": "lesson13",
       "title": {
-        "en": "The Blood That Truly Cleanses"
+        "en": "The Blood That Truly Cleanses",
+        "es": "La Sangre Que Verdaderamente Limpia",
+        "fr": "Le Sang Qui Purifie Vraiment"
       },
       "ref": "Hebrews 9:11-28",
       "section": "The Blood of Christ"
@@ -121,7 +153,9 @@
     {
       "id": "lesson14",
       "title": {
-        "en": "Once For All!"
+        "en": "Once For All!",
+        "es": "¡Una Vez Para Siempre!",
+        "fr": "Une Fois Pour Toutes !"
       },
       "ref": "Hebrews 10:1-18",
       "section": "Christ's Sacrifice Once for All"
@@ -129,7 +163,9 @@
     {
       "id": "lesson15",
       "title": {
-        "en": "Don't Throw Away Your Confidence!"
+        "en": "Don't Throw Away Your Confidence!",
+        "es": "¡No Deseches Tu Confianza!",
+        "fr": "Ne Rejette Pas Ton Assurance !"
       },
       "ref": "Hebrews 10:19-39",
       "section": "A Call to Persevere in Faith"
@@ -137,7 +173,9 @@
     {
       "id": "lesson16",
       "title": {
-        "en": "The Faith Hall of Fame"
+        "en": "The Faith Hall of Fame",
+        "es": "El Salón de la Fama de la Fe",
+        "fr": "Le Temple de la Renommée de la Foi"
       },
       "ref": "Hebrews 11:1-40",
       "section": "By Faith"
@@ -145,7 +183,9 @@
     {
       "id": "lesson17",
       "title": {
-        "en": "Run the Race!"
+        "en": "Run the Race!",
+        "es": "¡Corre la Carrera!",
+        "fr": "Cours la Course !"
       },
       "ref": "Hebrews 12:1-13",
       "section": "God Disciplines His Children"
@@ -153,7 +193,9 @@
     {
       "id": "lesson18",
       "title": {
-        "en": "Pursue Holiness!"
+        "en": "Pursue Holiness!",
+        "es": "¡Persigan la Santidad!",
+        "fr": "Recherchez la Sainteté !"
       },
       "ref": "Hebrews 12:14-29",
       "section": "Warning Against Rejecting God"
@@ -161,7 +203,9 @@
     {
       "id": "lesson19",
       "title": {
-        "en": "Love in Action"
+        "en": "Love in Action",
+        "es": "Amor en Acción",
+        "fr": "L'Amour en Action"
       },
       "ref": "Hebrews 13:1-19",
       "section": "Concluding Exhortations"
@@ -169,7 +213,9 @@
     {
       "id": "lesson20",
       "title": {
-        "en": "The Final Blessing"
+        "en": "The Final Blessing",
+        "es": "La Bendición Final",
+        "fr": "La Bénédiction Finale"
       },
       "ref": "Hebrews 13:20-25",
       "section": "Benediction"

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Path of the Righteous, the Path of the Wicked"
+    "en": "The Path of the Righteous, the Path of the Wicked",
+    "es": "El Camino de los Justos, el Camino de los Impíos",
+    "fr": "Le Sentier des Justes, le Chemin des Méchants"
   },
   "ref": "Proverbs 4:10-19",
   "section": "Two Paths",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Two roads, two very different destinations"
+        "en": "Two roads, two very different destinations",
+        "es": "Dos caminos, dos destinos muy diferentes",
+        "fr": "Deux chemins, deux destinées très différentes"
       },
       "body": {
-        "en": "'Listen, my son, accept what I say, and the years of your life will be many. I guide you in the way of wisdom and lead you along straight paths.'\n\nWhen you walk, the father promises, your steps will not be hampered; when you run, you will not stumble. Hold on to instruction; do not let it go — guard it well, for it is your life!\n\nThen comes a vivid warning: do not set foot on the path of the wicked or walk in the way of evildoers. Avoid it, do not travel on it; turn from it and go on your way!\n\nWhy such a strong warning? Because wicked people 'cannot sleep till they have done evil' — they actually feed on violence and wrongdoing.\n\nBut contrast that with the righteous path: 'the path of the righteous is like the morning sun, shining ever brighter till the full light of day. But the path of the wicked is like deep darkness; they do not know what makes them stumble.' Two paths, two destinies — one shines brighter and brighter, the other gets darker and darker."
+        "en": "'Listen, my son, accept what I say, and the years of your life will be many. I guide you in the way of wisdom and lead you along straight paths.'\n\nWhen you walk, the father promises, your steps will not be hampered; when you run, you will not stumble. Hold on to instruction; do not let it go — guard it well, for it is your life!\n\nThen comes a vivid warning: do not set foot on the path of the wicked or walk in the way of evildoers. Avoid it, do not travel on it; turn from it and go on your way!\n\nWhy such a strong warning? Because wicked people 'cannot sleep till they have done evil' — they actually feed on violence and wrongdoing.\n\nBut contrast that with the righteous path: 'the path of the righteous is like the morning sun, shining ever brighter till the full light of day. But the path of the wicked is like deep darkness; they do not know what makes them stumble.' Two paths, two destinies — one shines brighter and brighter, the other gets darker and darker.",
+        "es": "\"Oye, hijo mío, y recibe mis razones; y se te multiplicarán años de vida. Por el camino de la sabiduría te he enseñado; por sendas derechas te he hecho andar.\"\n\nCuando andares, promete el padre, no se estrecharán tus pasos; y si corrieres, no tropezarás. Toma el consejo, no lo dejes; guárdalo, porque eso es tu vida.\n\nEntonces llega una advertencia vívida: no entres por la vereda de los impíos, ni vayas por el camino de los malos. Déjala, no pases por ella; apártate, y pasa.\n\n¿Por qué una advertencia tan fuerte? Porque los impíos \"no duermen, si no hicieren mal\" — en realidad se alimentan de violencia y maldad.\n\nPero contrasta eso con el camino de los justos: \"mas la senda de los justos es como la luz de la aurora, que va en aumento hasta que el día es perfecto. El camino de los impíos es como la oscuridad: no saben en qué tropiezan.\" Dos caminos, dos destinos — uno brilla cada vez más, el otro se oscurece cada vez más.",
+        "fr": "« Écoute, mon fils, et reçois mes paroles ; elles multiplieront les années de ta vie. Je t'enseigne la voie de la sagesse, je te conduis dans les sentiers de la droiture. »\n\nQuand tu marcheras, promet le père, ton pas ne sera point gêné ; et si tu cours, tu ne chancelleras point. Retiens l'instruction, ne t'en dessaisis pas ; garde-la, car elle est ta vie.\n\nPuis vient un avertissement saisissant : n'entre pas dans le sentier des méchants, et ne marche pas dans la voie des hommes mauvais. Évite-la, ne passe pas par elle ; détourne-toi d'elle, et passe outre.\n\nPourquoi un avertissement si fort ? Parce que les méchants « ne dorment pas, s'ils n'ont pas fait le mal » — ils se nourrissent en réalité de violence et de méchanceté.\n\nMais contraste cela avec le sentier des justes : « le sentier des justes est comme la lumière resplendissante, dont l'éclat va croissant jusqu'au milieu du jour. La voie des méchants est comme les ténèbres ; ils n'aperçoivent pas ce qui les fera tomber. » Deux chemins, deux destinées — l'un brille de plus en plus, l'autre s'obscurcit de plus en plus."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The path of the righteous is like the morning sun, shining ever brighter till the full light of day."
+        "en": "The path of the righteous is like the morning sun, shining ever brighter till the full light of day.",
+        "es": "Mas la senda de los justos es como la luz de la aurora, que va en aumento hasta que el día es perfecto.",
+        "fr": "Le sentier des justes est comme la lumière resplendissante, Dont l'éclat va croissant jusqu'au milieu du jour."
       },
       "ref": {
-        "en": "Proverbs 4:18 (NIV)"
+        "en": "Proverbs 4:18 (NIV)",
+        "es": "Proverbios 4:18 (Valera)",
+        "fr": "Proverbes 4:18 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "shining",
           "ever",
           "brighter"
+        ],
+        "es": [
+          "Mas",
+          "la",
+          "senda",
+          "de",
+          "los",
+          "justos"
+        ],
+        "fr": [
+          "Le",
+          "sentier",
+          "des",
+          "justes",
+          "est",
+          "comme"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Path of the Righteous, the Path of the Wicked"
+        "en": "A Song for The Path of the Righteous, the Path of the Wicked",
+        "es": "Una Canción para El Camino de los Justos, el Camino de los Impíos",
+        "fr": "Une Chanson pour Le Sentier des Justes, le Chemin des Méchants"
       },
       "audio_en": "/static/audio/proverbs/lesson09_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does the father say will happen if his son walks on the wise path?"
+            "en": "What does the father say will happen if his son walks on the wise path?",
+            "es": "¿Qué dice el padre que sucederá si su hijo anda por el camino sabio?",
+            "fr": "Que dit le père qu'il arrivera si son fils marche sur le chemin sage ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "His steps will not be hampered; he will not stumble when he runs",
               "Nothing will change",
               "He will become confused"
+            ],
+            "es": [
+              "Sus pasos se estrecharán constantemente",
+              "Sus pasos no se estrecharán; no tropezará al correr",
+              "Nada cambiará",
+              "Se confundirá"
+            ],
+            "fr": [
+              "Son pas sera constamment gêné",
+              "Son pas ne sera point gêné ; il ne chancellera pas en courant",
+              "Rien ne changera",
+              "Il sera confus"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What strong instruction does the father give about the path of the wicked?"
+            "en": "What strong instruction does the father give about the path of the wicked?",
+            "es": "¿Qué instrucción fuerte da el padre sobre el camino de los impíos?",
+            "fr": "Quelle instruction forte le père donne-t-il sur la voie des méchants ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Avoid it entirely — do not even set foot on it",
               "Try it just once",
               "Follow it carefully"
+            ],
+            "es": [
+              "Anda por él algunas veces",
+              "Evítalo por completo — ni siquiera pongas tu pie en él",
+              "Pruébalo solo una vez",
+              "Síguelo cuidadosamente"
+            ],
+            "fr": [
+              "Marche-y parfois",
+              "Évite-la entièrement — ne mets même pas le pied dans cette voie",
+              "Essaie-la juste une fois",
+              "Suis-la attentivement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How is the path of the righteous described, compared to the path of the wicked?"
+            "en": "How is the path of the righteous described, compared to the path of the wicked?",
+            "es": "¿Cómo se describe el camino de los justos, comparado con el camino de los impíos?",
+            "fr": "Comment le sentier des justes est-il décrit, comparé à la voie des méchants ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Like the morning sun, shining ever brighter — while the wicked path is like deep darkness",
               "The wicked path is brighter",
               "Neither path matters"
+            ],
+            "es": [
+              "Ambos caminos son exactamente iguales",
+              "Como la luz de la aurora, brillando cada vez más — mientras el camino impío es como oscuridad",
+              "El camino impío es más brillante",
+              "Ningún camino importa"
+            ],
+            "fr": [
+              "Les deux chemins sont exactement les mêmes",
+              "Comme la lumière resplendissante, brillant de plus en plus — tandis que la voie des méchants est comme les ténèbres",
+              "La voie des méchants est plus brillante",
+              "Aucun chemin n'a d'importance"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Path of the Righteous, the Path of the Wicked"
+            "en": "Activity sheet: The Path of the Righteous, the Path of the Wicked",
+            "es": "Hoja de actividad: El Camino de los Justos, el Camino de los Impíos",
+            "fr": "Fiche d'activité : Le Sentier des Justes, le Chemin des Méchants"
           },
           "file": "/static/printables/proverbs/lesson09_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs repeatedly frames moral choice as a path or journey with cumulative direction, not a single isolated decision — the righteous path grows progressively brighter, while the wicked path grows progressively darker, \"they do not know what makes them stumble.\" This pictures sanctification (and its opposite) as a trajectory, not a single moment.\n\nConversation starters: (1) What does it mean that the righteous path gets \"brighter and brighter,\" not instantly bright? (2) Why might Proverbs warn so strongly against even setting foot on the wicked path, rather than just avoiding going too far on it? (3) What direction does your own daily path seem to be heading — brighter, or darker?\n\nPray for grace to walk firmly on the path that grows brighter, avoiding even a first step on the other."
+        "en": "Big idea: Proverbs repeatedly frames moral choice as a path or journey with cumulative direction, not a single isolated decision — the righteous path grows progressively brighter, while the wicked path grows progressively darker, \"they do not know what makes them stumble.\" This pictures sanctification (and its opposite) as a trajectory, not a single moment.\n\nConversation starters: (1) What does it mean that the righteous path gets \"brighter and brighter,\" not instantly bright? (2) Why might Proverbs warn so strongly against even setting foot on the wicked path, rather than just avoiding going too far on it? (3) What direction does your own daily path seem to be heading — brighter, or darker?\n\nPray for grace to walk firmly on the path that grows brighter, avoiding even a first step on the other.",
+        "es": "Idea principal: Proverbios enmarca repetidamente la elección moral como un camino o viaje con dirección acumulativa, no una decisión aislada — el camino de los justos crece progresivamente más brillante, mientras el camino impío crece progresivamente más oscuro, \"no saben en qué tropiezan.\" Esto representa la santificación (y su opuesto) como una trayectoria, no un solo momento.\n\nPara conversar: (1) ¿Qué significa que el camino de los justos se vuelve \"cada vez más brillante,\" no instantáneamente brillante? (2) ¿Por qué podría Proverbios advertir tan fuertemente contra incluso poner el pie en el camino impío, en lugar de solo evitar ir demasiado lejos en él? (3) ¿Hacia qué dirección parece estar dirigiéndose tu propio camino diario — más brillante, o más oscuro?\n\nOren por gracia para andar firmemente en el camino que se vuelve más brillante, evitando incluso un primer paso en el otro.",
+        "fr": "Idée principale : Proverbes présente à plusieurs reprises le choix moral comme un chemin ou un voyage avec une direction cumulative, et non une décision isolée — le sentier des justes devient progressivement plus brillant, tandis que la voie des méchants devient progressivement plus sombre, « ils n'aperçoivent pas ce qui les fera tomber. » Cela dépeint la sanctification (et son opposé) comme une trajectoire, pas un seul instant.\n\nPour la conversation : (1) Que signifie que le sentier des justes devient « de plus en plus brillant », pas instantanément brillant ? (2) Pourquoi Proverbes pourrait-il avertir si fortement contre le fait de même mettre le pied sur la voie des méchants, plutôt que de simplement éviter d'aller trop loin sur elle ? (3) Dans quelle direction ton propre chemin quotidien semble-t-il se diriger — plus brillant, ou plus sombre ?\n\nPriez pour la grâce de marcher fermement sur le chemin qui devient plus brillant, en évitant même un premier pas sur l'autre."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "No Longer Slaves, But Sons and Daughters"
+    "en": "No Longer Slaves, But Sons and Daughters",
+    "es": "Ya No Esclavos, Sino Hijos e Hijas",
+    "fr": "Plus Esclaves, Mais Fils et Filles"
   },
   "ref": "Galatians 3:26-4:7",
   "section": "Children of God",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Abba, Father"
+        "en": "Abba, Father",
+        "es": "Abba, Padre",
+        "fr": "Abba, Père"
       },
       "body": {
-        "en": "Paul now declares something glorious: through faith in Christ Jesus, you are ALL children of God! There is no longer Jew or Gentile, slave or free, male or female — for you are all one in Christ Jesus, and if you belong to Christ, you are Abraham's true descendants, heirs according to the promise.\n\nPaul explains it with a picture every child understands: imagine a young heir who, while still a child, is no different practically from a slave — even though he will one day own everything, he is kept under guardians and trustees until he grows up. That's how it was under the old law.\n\nBut when the time set by God had fully come, God sent His Son, born of a woman, born under the law, to redeem those under the law, so that we might receive full adoption as sons and daughters! Because we are His children, God has sent the Spirit of His Son into our hearts, crying out, 'Abba, Father!' — the same intimate, trusting word a small child uses for a loving daddy.\n\nSo you are no longer a slave, but God's own child — and since you are His child, God has made you an heir of everything He has promised."
+        "en": "Paul now declares something glorious: through faith in Christ Jesus, you are ALL children of God! There is no longer Jew or Gentile, slave or free, male or female — for you are all one in Christ Jesus, and if you belong to Christ, you are Abraham's true descendants, heirs according to the promise.\n\nPaul explains it with a picture every child understands: imagine a young heir who, while still a child, is no different practically from a slave — even though he will one day own everything, he is kept under guardians and trustees until he grows up. That's how it was under the old law.\n\nBut when the time set by God had fully come, God sent His Son, born of a woman, born under the law, to redeem those under the law, so that we might receive full adoption as sons and daughters! Because we are His children, God has sent the Spirit of His Son into our hearts, crying out, 'Abba, Father!' — the same intimate, trusting word a small child uses for a loving daddy.\n\nSo you are no longer a slave, but God's own child — and since you are His child, God has made you an heir of everything He has promised.",
+        "es": "Pablo declara ahora algo glorioso: ¡por la fe en Cristo Jesús, todos ustedes son hijos de Dios! Ya no hay judío ni gentil, esclavo ni libre, varón ni mujer — porque todos ustedes son uno en Cristo Jesús, y si pertenecen a Cristo, son verdaderos descendientes de Abraham, herederos según la promesa.\n\nPablo lo explica con una imagen que todo niño entiende: imagina a un joven heredero que, siendo todavía niño, no es prácticamente diferente de un esclavo — aunque un día poseerá todo, se mantiene bajo tutores y administradores hasta que crece. Así era bajo la antigua ley.\n\nPero cuando llegó el cumplimiento del tiempo señalado por Dios, Dios envió a Su Hijo, nacido de mujer, nacido bajo la ley, para redimir a los que estaban bajo la ley, ¡para que recibiéramos la plena adopción como hijos e hijas! Porque somos Sus hijos, Dios ha enviado el Espíritu de Su Hijo a nuestros corazones, clamando: \"¡Abba, Padre!\" — la misma palabra íntima y confiada que un niño pequeño usa para un padre amoroso.\n\nAsí que ya no eres esclavo, sino hijo propio de Dios — y como eres Su hijo, Dios te ha hecho heredero de todo lo que ha prometido.",
+        "fr": "Paul déclare maintenant quelque chose de glorieux : par la foi en Jésus-Christ, vous êtes TOUS enfants de Dieu ! Il n'y a plus ni Juif ni non-Juif, ni esclave ni homme libre, ni homme ni femme — car vous êtes tous un en Jésus-Christ, et si vous appartenez à Christ, vous êtes les vrais descendants d'Abraham, héritiers selon la promesse.\n\nPaul l'explique avec une image que chaque enfant comprend : imagine un jeune héritier qui, étant encore enfant, n'est pratiquement pas différent d'un esclave — même s'il possédera un jour tout, il est tenu sous des tuteurs et des administrateurs jusqu'à ce qu'il grandisse. C'était ainsi sous l'ancienne loi.\n\nMais lorsque le temps fixé par Dieu fut pleinement venu, Dieu envoya Son Fils, né d'une femme, né sous la loi, pour racheter ceux qui étaient sous la loi, afin que nous recevions l'adoption pleine en tant que fils et filles ! Parce que nous sommes Ses enfants, Dieu a envoyé l'Esprit de Son Fils dans nos cœurs, criant : « Abba, Père ! » — le même mot intime et confiant qu'un petit enfant utilise pour un papa aimant.\n\nAinsi tu n'es plus esclave, mais enfant de Dieu — et puisque tu es Son enfant, Dieu t'a fait héritier de tout ce qu'Il a promis."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir."
+        "en": "So you are no longer a slave, but God's child; and since you are his child, God has made you also an heir.",
+        "es": "Así que ya no eres más siervo, sino hijo; y si hijo, también heredero de Dios por Cristo.",
+        "fr": "Ainsi tu n'es plus esclave, mais fils ; et si tu es fils, tu es aussi héritier par la grâce de Dieu."
       },
       "ref": {
-        "en": "Galatians 4:7 (NIV)"
+        "en": "Galatians 4:7 (NIV)",
+        "es": "Gálatas 4:7 (Valera)",
+        "fr": "Galates 4:7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "but",
           "God's",
           "child"
+        ],
+        "es": [
+          "Así",
+          "que",
+          "ya",
+          "no",
+          "eres",
+          "más"
+        ],
+        "fr": [
+          "Ainsi",
+          "tu",
+          "n'es",
+          "plus",
+          "esclave",
+          "mais"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for No Longer Slaves, But Sons and Daughters"
+        "en": "A Song for No Longer Slaves, But Sons and Daughters",
+        "es": "Una Canción para Ya No Esclavos, Sino Hijos e Hijas",
+        "fr": "Une Chanson pour Plus Esclaves, Mais Fils et Filles"
       },
       "audio_en": "/static/audio/galatians/lesson07_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Paul, what happens to all believers through faith in Christ Jesus?"
+            "en": "According to Paul, what happens to all believers through faith in Christ Jesus?",
+            "es": "Según Pablo, ¿qué les sucede a todos los creyentes por la fe en Cristo Jesús?",
+            "fr": "Selon Paul, qu'arrive-t-il à tous les croyants par la foi en Jésus-Christ ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "They become children of God, heirs according to the promise",
               "Only some become God's children",
               "They lose all rights"
+            ],
+            "es": [
+              "Nada cambia su estatus",
+              "Se hacen hijos de Dios, herederos según la promesa",
+              "Solo algunos se hacen hijos de Dios",
+              "Pierden todos sus derechos"
+            ],
+            "fr": [
+              "Rien ne change leur statut",
+              "Ils deviennent enfants de Dieu, héritiers selon la promesse",
+              "Seulement certains deviennent enfants de Dieu",
+              "Ils perdent tous leurs droits"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did God send when the time had fully come, according to this passage?"
+            "en": "What did God send when the time had fully come, according to this passage?",
+            "es": "¿Qué envió Dios cuando llegó el cumplimiento del tiempo, según este pasaje?",
+            "fr": "Qu'a envoyé Dieu quand le temps fut pleinement venu, selon ce passage ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "His Son, to redeem those under the law and bring adoption",
               "An angel only",
               "Nothing different"
+            ],
+            "es": [
+              "Otro conjunto de leyes",
+              "A Su Hijo, para redimir a los que estaban bajo la ley y traer adopción",
+              "Solo un ángel",
+              "Nada diferente"
+            ],
+            "fr": [
+              "Un autre ensemble de lois",
+              "Son Fils, pour racheter ceux qui étaient sous la loi et apporter l'adoption",
+              "Seulement un ange",
+              "Rien de différent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the Spirit of God's Son cause believers' hearts to cry out?"
+            "en": "What does the Spirit of God's Son cause believers' hearts to cry out?",
+            "es": "¿Qué hace clamar el Espíritu del Hijo de Dios en el corazón de los creyentes?",
+            "fr": "Qu'est-ce que l'Esprit du Fils de Dieu fait crier dans le cœur des croyants ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "'Abba, Father' — an intimate, trusting word for a loving Father",
               "Nothing at all",
               "Fear and distance"
+            ],
+            "es": [
+              "Un título formal que solo los sacerdotes pueden usar",
+              "'Abba, Padre' — una palabra íntima y confiada para un Padre amoroso",
+              "Nada en absoluto",
+              "Temor y distancia"
+            ],
+            "fr": [
+              "Un titre formel que seuls les prêtres peuvent utiliser",
+              "« Abba, Père » — un mot intime et confiant pour un Père aimant",
+              "Rien du tout",
+              "La peur et la distance"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: No Longer Slaves, But Sons and Daughters"
+            "en": "Activity sheet: No Longer Slaves, But Sons and Daughters",
+            "es": "Hoja de actividad: Ya No Esclavos, Sino Hijos e Hijas",
+            "fr": "Fiche d'activité : Plus Esclaves, Mais Fils et Filles"
           },
           "file": "/static/printables/galatians/lesson07_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: full adoption into God's family, with the Spirit Himself enabling the intimate cry \"Abba, Father\" — note this section deliberately crosses the chapter 3/4 boundary in the original text, since the argument flows as one continuous thought from \"children of God\" (3:26) through the heir/guardian illustration into full adoption (4:1-7). Note also 3:28's radical statement of equality in Christ — Jew/Gentile, slave/free, male/female — a stunningly countercultural claim for its time, grounded entirely in shared identity in Christ, not earned status.\n\nConversation starters: (1) What does it mean to move from being treated like a slave (even as an heir) to being treated as a full, adopted child? (2) Why does \"Abba, Father\" matter as a description of how we relate to God? (3) What does 3:28's equality \"in Christ\" mean for how we treat people different from us?\n\nPray together, calling out to God as \"Abba, Father,\" with the same trust a child has for a loving parent."
+        "en": "Big idea: full adoption into God's family, with the Spirit Himself enabling the intimate cry \"Abba, Father\" — note this section deliberately crosses the chapter 3/4 boundary in the original text, since the argument flows as one continuous thought from \"children of God\" (3:26) through the heir/guardian illustration into full adoption (4:1-7). Note also 3:28's radical statement of equality in Christ — Jew/Gentile, slave/free, male/female — a stunningly countercultural claim for its time, grounded entirely in shared identity in Christ, not earned status.\n\nConversation starters: (1) What does it mean to move from being treated like a slave (even as an heir) to being treated as a full, adopted child? (2) Why does \"Abba, Father\" matter as a description of how we relate to God? (3) What does 3:28's equality \"in Christ\" mean for how we treat people different from us?\n\nPray together, calling out to God as \"Abba, Father,\" with the same trust a child has for a loving parent.",
+        "es": "Idea principal: la plena adopción en la familia de Dios, con el Espíritu mismo posibilitando el clamor íntimo \"Abba, Padre\" — nota que esta sección cruza deliberadamente el límite entre los capítulos 3 y 4 en el texto original, ya que el argumento fluye como un pensamiento continuo desde \"hijos de Dios\" (3:26) a través de la ilustración del heredero/guardián hasta la plena adopción (4:1-7). Nota también la declaración radical de igualdad en Cristo de 3:28 — judío/gentil, esclavo/libre, varón/mujer — una afirmación asombrosamente contracultural para su tiempo, fundamentada completamente en la identidad compartida en Cristo, no en un estatus ganado.\n\nPara conversar: (1) ¿Qué significa pasar de ser tratado como esclavo (incluso siendo heredero) a ser tratado como hijo pleno y adoptado? (2) ¿Por qué importa \"Abba, Padre\" como descripción de cómo nos relacionamos con Dios? (3) ¿Qué significa la igualdad \"en Cristo\" de 3:28 para cómo tratamos a personas diferentes de nosotros?\n\nOren juntos, clamando a Dios como \"Abba, Padre\", con la misma confianza que un niño tiene hacia un padre amoroso.",
+        "fr": "Idée principale : l'adoption pleine dans la famille de Dieu, l'Esprit Lui-même rendant possible le cri intime « Abba, Père » — notez que cette section traverse délibérément la frontière entre les chapitres 3 et 4 dans le texte original, car l'argument se déroule comme une pensée continue depuis « enfants de Dieu » (3.26) à travers l'illustration de l'héritier/gardien jusqu'à l'adoption pleine (4.1-7). Notez aussi la déclaration radicale d'égalité en Christ de 3.28 — Juif/non-Juif, esclave/libre, homme/femme — une affirmation étonnamment contre-culturelle pour son époque, fondée entièrement sur l'identité partagée en Christ, et non sur un statut mérité.\n\nPour la conversation : (1) Que signifie passer du statut d'esclave (même en tant qu'héritier) à celui d'enfant pleinement adopté ? (2) Pourquoi « Abba, Père » compte-t-il comme description de notre relation avec Dieu ? (3) Que signifie l'égalité « en Christ » de 3.28 pour la façon dont nous traitons les personnes différentes de nous ?\n\nPriez ensemble, en criant à Dieu « Abba, Père », avec la même confiance qu'un enfant a pour un parent aimant."
       }
     }
   ]

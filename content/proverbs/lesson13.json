@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Guard Your Heart From Smooth Words"
+    "en": "Guard Your Heart From Smooth Words",
+    "es": "Guarda Tu Corazón de las Palabras Suaves",
+    "fr": "Garde Ton Cœur des Paroles Douces"
   },
   "ref": "Proverbs 6:20-35",
   "section": "The High Cost of Adultery",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A lamp, a light, and a warning about the cost of straying"
+        "en": "A lamp, a light, and a warning about the cost of straying",
+        "es": "Una lámpara, una luz, y una advertencia sobre el costo de desviarse",
+        "fr": "Une lampe, une lumière, et un avertissement sur le coût de s'égarer"
       },
       "body": {
-        "en": "The father continues his teaching: keep your father's commands and don't forsake your mother's teaching. Bind them always on your heart; fasten them around your neck.\n\n'For these commands are a lamp, this teaching is a light, and correction is the way to life.' The instruction a child receives is pictured as light guiding them through dark, uncertain paths.\n\nThis chapter continues the warning from chapter 5, urging faithfulness and loyalty, and cautioning against the kind of flattering deception that leads someone away from what's genuinely good and toward real, lasting harm.\n\nThe chapter uses a vivid picture: can a man scoop fire into his lap without his clothes being burned? Can someone walk on hot coals without their feet being scorched? In the same way, choosing the destructive path always brings real, painful consequences — there's no getting around it.\n\nWisdom's lamp lights the way precisely so a person can see the danger clearly and choose differently, before the consequences arrive."
+        "en": "The father continues his teaching: keep your father's commands and don't forsake your mother's teaching. Bind them always on your heart; fasten them around your neck.\n\n'For these commands are a lamp, this teaching is a light, and correction is the way to life.' The instruction a child receives is pictured as light guiding them through dark, uncertain paths.\n\nThis chapter continues the warning from chapter 5, urging faithfulness and loyalty, and cautioning against the kind of flattering deception that leads someone away from what's genuinely good and toward real, lasting harm.\n\nThe chapter uses a vivid picture: can a man scoop fire into his lap without his clothes being burned? Can someone walk on hot coals without their feet being scorched? In the same way, choosing the destructive path always brings real, painful consequences — there's no getting around it.\n\nWisdom's lamp lights the way precisely so a person can see the danger clearly and choose differently, before the consequences arrive.",
+        "es": "El padre continúa su enseñanza: guarda los mandamientos de tu padre, y no dejes la enseñanza de tu madre. Átalos siempre en tu corazón, enlázalos á tu cuello.\n\n\"Porque el mandamiento es antorcha, y la enseñanza luz; y camino de vida las reprensiones de la enseñanza.\" La instrucción que un niño recibe se representa como una luz que lo guía a través de caminos oscuros e inciertos.\n\nEste capítulo continúa la advertencia del capítulo 5, urgiendo fidelidad y lealtad, y advirtiendo contra el tipo de engaño halagador que aleja a alguien de lo que es genuinamente bueno y lo lleva hacia un daño real y duradero.\n\nEl capítulo usa una imagen vívida: ¿tomará el hombre fuego en su seno, sin que sus vestidos ardan? ¿Andará alguien sobre brasas, sin que sus pies se quemen? De la misma manera, elegir el camino destructivo siempre trae consecuencias reales y dolorosas — no hay forma de evitarlo.\n\nLa lámpara de la sabiduría ilumina el camino precisamente para que una persona pueda ver el peligro claramente y elegir diferente, antes de que lleguen las consecuencias.",
+        "fr": "Le père continue son enseignement : garde les préceptes de ton père, et ne rejette pas l'enseignement de ta mère. Lie-les constamment sur ton cœur, attache-les à ton cou.\n\n« Car le précepte est une lampe, et l'enseignement une lumière, et les avertissements de la correction sont le chemin de la vie. » L'instruction qu'un enfant reçoit est dépeinte comme une lumière le guidant à travers des chemins sombres et incertains.\n\nCe chapitre poursuit l'avertissement du chapitre 5, exhortant à la fidélité et à la loyauté, et mettant en garde contre le genre de tromperie flatteuse qui éloigne quelqu'un de ce qui est véritablement bon et le mène vers un préjudice réel et durable.\n\nLe chapitre utilise une image vive : peut-on, sans se brûler, prendre du feu dans son sein ? Marche-t-on sur des charbons ardents, sans se brûler les pieds ? De la même manière, choisir le chemin destructeur apporte toujours des conséquences réelles et douloureuses — il n'y a aucun moyen de l'éviter.\n\nLa lampe de la sagesse éclaire le chemin précisément pour qu'une personne puisse voir clairement le danger et choisir différemment, avant que les conséquences n'arrivent."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "For these commands are a lamp, this teaching is a light, and correction is the way to life."
+        "en": "For these commands are a lamp, this teaching is a light, and correction is the way to life.",
+        "es": "Porque el mandamiento es antorcha, y la enseñanza luz; y camino de vida las reprensiones de la enseñanza:",
+        "fr": "Car le précepte est une lampe, et l'enseignement une lumière, Et les avertissements de la correction sont le chemin de la vie :"
       },
       "ref": {
-        "en": "Proverbs 6:23 (NIV)"
+        "en": "Proverbs 6:23 (NIV)",
+        "es": "Proverbios 6:23 (Valera)",
+        "fr": "Proverbes 6:23 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "is",
           "a",
           "light"
+        ],
+        "es": [
+          "Porque",
+          "el",
+          "mandamiento",
+          "es",
+          "antorcha",
+          "y"
+        ],
+        "fr": [
+          "Car",
+          "le",
+          "précepte",
+          "est",
+          "une",
+          "lampe"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Guard Your Heart From Smooth Words"
+        "en": "A Song for Guard Your Heart From Smooth Words",
+        "es": "Una Canción para Guarda Tu Corazón de las Palabras Suaves",
+        "fr": "Une Chanson pour Garde Ton Cœur des Paroles Douces"
       },
       "audio_en": "/static/audio/proverbs/lesson13_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What are a parent's commands and teaching compared to in this chapter?"
+            "en": "What are a parent's commands and teaching compared to in this chapter?",
+            "es": "¿Con qué se comparan los mandamientos y la enseñanza de un padre en este capítulo?",
+            "fr": "À quoi sont comparés les préceptes et l'enseignement d'un parent dans ce chapitre ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "A lamp and a light",
               "Something to ignore",
               "Nothing in particular"
+            ],
+            "es": [
+              "Una carga pesada",
+              "Una antorcha y una luz",
+              "Algo para ignorar",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Un fardeau pesant",
+              "Une lampe et une lumière",
+              "Quelque chose à ignorer",
+              "Rien en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What picture does the chapter use to show that wrong choices have real consequences?"
+            "en": "What picture does the chapter use to show that wrong choices have real consequences?",
+            "es": "¿Qué imagen usa el capítulo para mostrar que las malas decisiones tienen consecuencias reales?",
+            "fr": "Quelle image le chapitre utilise-t-il pour montrer que les mauvais choix ont de vraies conséquences ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Scooping fire into your lap, or walking on hot coals without being burned",
               "A peaceful river",
               "No picture is given"
+            ],
+            "es": [
+              "Un jardín creciendo",
+              "Tomar fuego en el seno, o andar sobre brasas sin quemarse",
+              "Un río apacible",
+              "No se da ninguna imagen"
+            ],
+            "fr": [
+              "Un jardin qui pousse",
+              "Prendre du feu dans son sein, ou marcher sur des charbons sans se brûler",
+              "Une rivière paisible",
+              "Aucune image n'est donnée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is correction described as being 'the way to,' according to verse 23?"
+            "en": "What is correction described as being 'the way to,' according to verse 23?",
+            "es": "¿A qué se describe que conduce la corrección, según el versículo 23?",
+            "fr": "Vers quoi la correction est-elle décrite comme menant, selon le verset 23 ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Life",
               "Nothing significant",
               "Sadness"
+            ],
+            "es": [
+              "Solo al castigo",
+              "A la vida",
+              "Nada significativo",
+              "A la tristeza"
+            ],
+            "fr": [
+              "Seulement à la punition",
+              "À la vie",
+              "Rien de significatif",
+              "À la tristesse"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Guard Your Heart From Smooth Words"
+            "en": "Activity sheet: Guard Your Heart From Smooth Words",
+            "es": "Hoja de actividad: Guarda Tu Corazón de las Palabras Suaves",
+            "fr": "Fiche d'activité : Garde Ton Cœur des Paroles Douces"
           },
           "file": "/static/printables/proverbs/lesson13_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: parental instruction is pictured as illuminating light, guiding a young person safely through real dangers — and the consequences of straying from faithfulness are described as inevitable as the burn from real fire, not abstract or avoidable. As with chapter 5, the specific original context is adultery; for children, the principle taught is the protective value of parental teaching and the real, unavoidable cost of choosing a destructive path, with fuller specifics appropriate to discuss as a family at a parent's discretion.\n\nConversation starters: (1) How is good teaching like a \"lamp\" guiding you through dark, uncertain situations? (2) Why does the chapter compare wrong choices to handling real fire — what does that teach about consequences? (3) What \"lamp\" of wise teaching has helped guide you recently?\n\nPray, thanking God for the light of wise teaching, and for protection from paths that lead to real harm."
+        "en": "Big idea: parental instruction is pictured as illuminating light, guiding a young person safely through real dangers — and the consequences of straying from faithfulness are described as inevitable as the burn from real fire, not abstract or avoidable. As with chapter 5, the specific original context is adultery; for children, the principle taught is the protective value of parental teaching and the real, unavoidable cost of choosing a destructive path, with fuller specifics appropriate to discuss as a family at a parent's discretion.\n\nConversation starters: (1) How is good teaching like a \"lamp\" guiding you through dark, uncertain situations? (2) Why does the chapter compare wrong choices to handling real fire — what does that teach about consequences? (3) What \"lamp\" of wise teaching has helped guide you recently?\n\nPray, thanking God for the light of wise teaching, and for protection from paths that lead to real harm.",
+        "es": "Idea principal: la instrucción parental se representa como una luz que ilumina, guiando con seguridad a un joven a través de peligros reales — y las consecuencias de alejarse de la fidelidad se describen tan inevitables como la quemadura de un fuego real, no abstractas ni evitables. Como en el capítulo 5, el contexto original específico es el adulterio; para los niños, el principio enseñado es el valor protector de la enseñanza de los padres y el costo real e inevitable de elegir un camino destructivo, con detalles más completos apropiados para discutir en familia a discreción de los padres.\n\nPara conversar: (1) ¿Cómo es la buena enseñanza como una \"lámpara\" que te guía a través de situaciones oscuras e inciertas? (2) ¿Por qué compara el capítulo las malas decisiones con manejar fuego real — qué enseña esto sobre las consecuencias? (3) ¿Qué \"lámpara\" de enseñanza sabia te ha ayudado a guiarte recientemente?\n\nOren, agradeciendo a Dios por la luz de la enseñanza sabia, y por protección de caminos que llevan a daño real.",
+        "fr": "Idée principale : l'instruction parentale est dépeinte comme une lumière qui éclaire, guidant en sécurité un jeune à travers de vrais dangers — et les conséquences de s'éloigner de la fidélité sont décrites comme aussi inévitables que la brûlure d'un vrai feu, ni abstraites ni évitables. Comme au chapitre 5, le contexte original spécifique est l'adultère ; pour les enfants, le principe enseigné est la valeur protectrice de l'enseignement parental et le coût réel et inévitable de choisir un chemin destructeur, avec des détails plus complets appropriés à discuter en famille à la discrétion des parents.\n\nPour la conversation : (1) Comment un bon enseignement est-il comme une « lampe » te guidant à travers des situations sombres et incertaines ? (2) Pourquoi le chapitre compare-t-il les mauvais choix à la manipulation d'un vrai feu — qu'est-ce que cela enseigne sur les conséquences ? (3) Quelle « lampe » d'enseignement sage t'a aidé à te guider récemment ?\n\nPriez, en remerciant Dieu pour la lumière de l'enseignement sage, et pour la protection contre les chemins qui mènent à un véritable préjudice."
       }
     }
   ]

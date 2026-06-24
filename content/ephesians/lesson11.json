@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Old Clothes, New Clothes"
+    "en": "Old Clothes, New Clothes",
+    "es": "Ropa Vieja, Ropa Nueva",
+    "fr": "Vieux Vêtements, Nouveaux Vêtements"
   },
   "ref": "Ephesians 4:17-32",
   "section": "Instructions for Christian Living",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Living no longer like you used to"
+        "en": "Living no longer like you used to",
+        "es": "Vivir ya no como antes",
+        "fr": "Ne plus vivre comme avant"
       },
       "body": {
-        "en": "Paul insists, in the Lord, that we must no longer live the way we once did — in the futility of empty thinking, darkened in understanding, hearts hardened, having lost all sensitivity. That is NOT the way of life Christ taught! You were taught, in regard to your former way of life, to put off your OLD SELF, which is being corrupted by deceitful desires — and to be made new in the attitude of your mind, putting on the NEW SELF, created to be like God in true righteousness and holiness.\n\nSo Paul gets very practical: PUT OFF falsehood, and speak truthfully, for we are all members of one body. In your anger, do not sin — don't let the sun go down still angry, and don't give the devil a foothold! Anyone who has been stealing must steal no longer, but work, doing something useful, so they can share with those in need.\n\nDo not let any unwholesome talk come from your mouth, but only what builds others up. Get rid of bitterness, rage, anger, brawling, slander, and every form of malice — and instead be kind, compassionate, forgiving one another, just as God forgave you in Christ."
+        "en": "Paul insists, in the Lord, that we must no longer live the way we once did — in the futility of empty thinking, darkened in understanding, hearts hardened, having lost all sensitivity. That is NOT the way of life Christ taught! You were taught, in regard to your former way of life, to put off your OLD SELF, which is being corrupted by deceitful desires — and to be made new in the attitude of your mind, putting on the NEW SELF, created to be like God in true righteousness and holiness.\n\nSo Paul gets very practical: PUT OFF falsehood, and speak truthfully, for we are all members of one body. In your anger, do not sin — don't let the sun go down still angry, and don't give the devil a foothold! Anyone who has been stealing must steal no longer, but work, doing something useful, so they can share with those in need.\n\nDo not let any unwholesome talk come from your mouth, but only what builds others up. Get rid of bitterness, rage, anger, brawling, slander, and every form of malice — and instead be kind, compassionate, forgiving one another, just as God forgave you in Christ.",
+        "es": "Pablo insiste, en el Señor, que ya no debemos vivir como antes — en la futilidad del pensamiento vacío, oscurecidos en el entendimiento, corazones endurecidos, habiendo perdido toda sensibilidad. ¡Esa NO es la manera de vivir que enseñó Cristo! Fuisteis enseñados, en cuanto a vuestra anterior manera de vivir, a despojaros de vuestro VIEJO YO, que se corrompe por deseos engañosos — y a renovaros en la actitud de vuestra mente, vistiéndoos del NUEVO YO, creado para ser semejante a Dios en verdadera justicia y santidad.\n\nAsí que Pablo se vuelve muy práctico: DESPÓJENSE de la mentira, y hablen con verdad, porque todos somos miembros de un mismo cuerpo. En su enojo, no pequen — no dejen que el sol se ponga estando aún enojados, ¡y no le den lugar al diablo! El que ha estado robando, que ya no robe, sino que trabaje, haciendo algo útil, para que pueda compartir con los necesitados.\n\nNo dejen que ninguna palabra dañina salga de su boca, sino solo lo que edifique a los demás. Eliminen toda amargura, ira, enojo, pleitos, calumnia, y toda forma de malicia — y en cambio sean bondadosos, compasivos, perdonándose unos a otros, así como Dios los perdonó en Cristo.",
+        "fr": "Paul insiste, dans le Seigneur, que nous ne devons plus vivre comme nous le faisions autrefois — dans la futilité des pensées vides, l'entendement obscurci, les cœurs endurcis, ayant perdu toute sensibilité. Ce n'est PAS la manière de vivre que Christ a enseignée ! Vous avez été enseignés, quant à votre vie passée, à vous dépouiller de votre VIEIL HOMME, qui se corrompt par des convoitises trompeuses — et à être renouvelés dans l'esprit de votre intelligence, à revêtir l'HOMME NOUVEAU, créé selon Dieu dans une justice et une sainteté véritables.\n\nAlors Paul devient très pratique : DÉPOUILLEZ-VOUS du mensonge, et parlez avec vérité, car nous sommes tous membres d'un même corps. Dans votre colère, ne péchez pas — ne laissez pas le soleil se coucher sur votre colère, et ne donnez pas prise au diable ! Que celui qui volait ne vole plus, mais qu'il travaille, faisant quelque chose d'utile, afin de pouvoir donner à celui qui est dans le besoin.\n\nQu'aucune parole malsaine ne sorte de votre bouche, mais seulement ce qui édifie les autres. Bannissez toute amertume, toute fureur, toute colère, toute clameur, toute calomnie, et toute forme de méchanceté — et soyez au contraire bons, compatissants, vous pardonnant les uns aux autres, comme Dieu vous a pardonné en Christ."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "You were taught, with regard to your former way of life, to put off your old self... to be made new in the attitude of your mind; and to put on the new self."
+        "en": "You were taught, with regard to your former way of life, to put off your old self... to be made new in the attitude of your mind; and to put on the new self.",
+        "es": "A que dejéis, cuanto á la pasada manera de vivir, el viejo hombre que está viciado conforme á los deseos de error; Y á renovaros en el espíritu de vuestra mente, Y vestir el nuevo hombre que es criado conforme á Dios en justicia y en santidad de verdad.",
+        "fr": "eu égard à votre vie passée, du vieil homme qui se corrompt par les convoitises trompeuses, à être renouvelés dans l'esprit de votre intelligence, et à revêtir l'homme nouveau, créé selon Dieu dans une justice et une sainteté que produit la vérité."
       },
       "ref": {
-        "en": "Ephesians 4:22-24 (NIV)"
+        "en": "Ephesians 4:22-24 (NIV)",
+        "es": "Efesios 4:22-24 (Valera)",
+        "fr": "Éphésiens 4:22-24 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "the",
           "new",
           "self"
+        ],
+        "es": [
+          "A",
+          "que",
+          "dejéis",
+          "cuanto",
+          "á",
+          "la"
+        ],
+        "fr": [
+          "Eu",
+          "égard",
+          "à",
+          "votre",
+          "vie",
+          "passée"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Old Clothes, New Clothes"
+        "en": "A Song for Old Clothes, New Clothes",
+        "es": "Una Canción para Ropa Vieja, Ropa Nueva",
+        "fr": "Une Chanson pour Vieux Vêtements, Nouveaux Vêtements"
       },
       "audio_en": "/static/audio/ephesians/lesson11_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Paul say to 'put off,' regarding our old way of life?"
+            "en": "What does Paul say to 'put off,' regarding our old way of life?",
+            "es": "¿Qué dice Pablo que debemos 'despojarnos', respecto a nuestra antigua manera de vivir?",
+            "fr": "Que dit Paul que nous devons « dépouiller », concernant notre ancienne manière de vivre ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "The old self, corrupted by deceitful desires",
               "Good habits",
               "Helpful friendships"
+            ],
+            "es": [
+              "Nada en particular",
+              "Al viejo yo, corrompido por deseos engañosos",
+              "Buenos hábitos",
+              "Amistades útiles"
+            ],
+            "fr": [
+              "Rien de particulier",
+              "Le vieil homme, corrompu par des convoitises trompeuses",
+              "Les bonnes habitudes",
+              "Les amitiés utiles"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul warn about staying angry?"
+            "en": "What does Paul warn about staying angry?",
+            "es": "¿Qué advierte Pablo sobre permanecer enojado?",
+            "fr": "Que prévient Paul à propos du fait de rester en colère ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Don't let the sun go down still angry — don't give the devil a foothold",
               "Anger should be held onto forever",
               "It doesn't matter"
+            ],
+            "es": [
+              "Nunca es un problema",
+              "No dejen que el sol se ponga estando aún enojados — no le den lugar al diablo",
+              "El enojo debe guardarse para siempre",
+              "No importa"
+            ],
+            "fr": [
+              "Ce n'est jamais un problème",
+              "Ne laissez pas le soleil se coucher sur votre colère — ne donnez pas prise au diable",
+              "La colère doit être gardée pour toujours",
+              "Cela n'a pas d'importance"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Paul say we should treat one another, instead of bitterness and malice?"
+            "en": "How does Paul say we should treat one another, instead of bitterness and malice?",
+            "es": "¿Cómo dice Pablo que debemos tratarnos unos a otros, en lugar de con amargura y malicia?",
+            "fr": "Comment Paul dit-il que nous devrions nous traiter les uns les autres, au lieu d'amertume et de méchanceté ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "With kindness, compassion, and forgiveness, just as God forgave us",
               "With indifference",
               "With revenge"
+            ],
+            "es": [
+              "Con más enojo",
+              "Con bondad, compasión, y perdón, así como Dios nos perdonó",
+              "Con indiferencia",
+              "Con venganza"
+            ],
+            "fr": [
+              "Avec plus de colère",
+              "Avec bonté, compassion, et pardon, comme Dieu nous a pardonné",
+              "Avec indifférence",
+              "Avec vengeance"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Old Clothes, New Clothes"
+            "en": "Activity sheet: Old Clothes, New Clothes",
+            "es": "Hoja de actividad: Ropa Vieja, Ropa Nueva",
+            "fr": "Fiche d'activité : Vieux Vêtements, Nouveaux Vêtements"
           },
           "file": "/static/printables/ephesians/lesson11_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the decisive 'put off / put on' pattern of holy living — not gradual self-improvement, but a real change of nature evidenced in concrete, practical behaviors: truthful speech, righteous anger, honest work, edifying words, and forgiveness modeled on God's own forgiveness of us. This is holiness made tangible, not abstract.\n\nConversation starters: (1) What's one thing from the \"old self\" you want God's help to put off this week? (2) Why does Paul connect lingering anger with giving the devil a \"foothold\"? (3) How does remembering God's forgiveness of you change how easily you forgive others?\n\nPray for grace to put off the old self and put on the new, in specific, practical ways."
+        "en": "Big idea: the decisive 'put off / put on' pattern of holy living — not gradual self-improvement, but a real change of nature evidenced in concrete, practical behaviors: truthful speech, righteous anger, honest work, edifying words, and forgiveness modeled on God's own forgiveness of us. This is holiness made tangible, not abstract.\n\nConversation starters: (1) What's one thing from the \"old self\" you want God's help to put off this week? (2) Why does Paul connect lingering anger with giving the devil a \"foothold\"? (3) How does remembering God's forgiveness of you change how easily you forgive others?\n\nPray for grace to put off the old self and put on the new, in specific, practical ways.",
+        "es": "Idea principal: el patrón decisivo de \"despojarse / vestirse\" de la vida santa — no una mejora gradual de uno mismo, sino un cambio real de naturaleza evidenciado en comportamientos concretos y prácticos: hablar con verdad, enojo justo, trabajo honesto, palabras edificantes, y perdón modelado según el propio perdón de Dios hacia nosotros. Esta es la santidad hecha tangible, no abstracta.\n\nPara conversar: (1) ¿Cuál es una cosa del \"viejo yo\" que quieres que Dios te ayude a despojar esta semana? (2) ¿Por qué conecta Pablo el enojo persistente con darle \"lugar\" al diablo? (3) ¿Cómo cambia recordar el perdón de Dios hacia ti la facilidad con que perdonas a los demás?\n\nOren por gracia para despojarse del viejo yo y vestirse del nuevo, de maneras específicas y prácticas.",
+        "fr": "Idée principale : le schéma décisif « dépouiller / revêtir » de la vie saine — non une amélioration progressive de soi, mais un véritable changement de nature attesté par des comportements concrets et pratiques : une parole vraie, une colère juste, un travail honnête, des paroles édifiantes, et un pardon modelé sur le propre pardon de Dieu envers nous. C'est la sainteté rendue tangible, et non abstraite.\n\nPour la conversation : (1) Quelle est une chose du « vieil homme » que tu veux que Dieu t'aide à dépouiller cette semaine ? (2) Pourquoi Paul relie-t-il la colère persistante au fait de donner « prise » au diable ? (3) Comment le fait de se souvenir du pardon de Dieu envers toi change-t-il la facilité avec laquelle tu pardonnes aux autres ?\n\nPriez pour recevoir la grâce de dépouiller le vieil homme et de revêtir le nouveau, de manières précises et concrètes."
       }
     }
   ]

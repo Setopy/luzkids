@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Who Do You Say I Am?"
+    "en": "Who Do You Say I Am?",
+    "es": "¿Quién Dices Que Soy Yo?",
+    "fr": "Qui Dites-vous Que Je Suis ?"
   },
   "ref": "Mark 8:22-9:1",
   "section": "Jesus Heals a Blind Man at Bethsaida / Peter's Declaration / Jesus Predicts His Death / The Way of the Cross",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Sight restored in two stages, then the truth that changed everything"
+        "en": "Sight restored in two stages, then the truth that changed everything",
+        "es": "Vista restaurada en dos etapas, luego la verdad que cambió todo",
+        "fr": "La vue restaurée en deux étapes, puis la vérité qui a tout changé"
       },
       "body": {
-        "en": "At Bethsaida, Jesus healed a blind man — but in an unusual two-stage miracle: first the man saw people 'like trees walking around,' blurry, and then Jesus touched his eyes again, and he saw EVERYTHING clearly! On the road, Jesus asked His disciples: 'Who do people say I am?' They answered: John the Baptist, Elijah, one of the prophets.\n\nThen Jesus asked directly: 'But what about you? Who do YOU say I am?' Peter answered: 'You are the Messiah!' Jesus then began to teach plainly that the Son of Man must suffer many things, be rejected, be killed, and after three days rise again. Peter, shocked, pulled Jesus aside and rebuked Him!\n\nJesus turned and rebuked Peter sharply: 'Get behind me, Satan! You do not have in mind the concerns of God, but merely human concerns.' Then, calling the crowd, Jesus said: 'Whoever wants to be my disciple must deny themselves and take up their cross and follow me. What good is it to gain the whole world, yet forfeit your soul?'"
+        "en": "At Bethsaida, Jesus healed a blind man — but in an unusual two-stage miracle: first the man saw people 'like trees walking around,' blurry, and then Jesus touched his eyes again, and he saw EVERYTHING clearly! On the road, Jesus asked His disciples: 'Who do people say I am?' They answered: John the Baptist, Elijah, one of the prophets.\n\nThen Jesus asked directly: 'But what about you? Who do YOU say I am?' Peter answered: 'You are the Messiah!' Jesus then began to teach plainly that the Son of Man must suffer many things, be rejected, be killed, and after three days rise again. Peter, shocked, pulled Jesus aside and rebuked Him!\n\nJesus turned and rebuked Peter sharply: 'Get behind me, Satan! You do not have in mind the concerns of God, but merely human concerns.' Then, calling the crowd, Jesus said: 'Whoever wants to be my disciple must deny themselves and take up their cross and follow me. What good is it to gain the whole world, yet forfeit your soul?'",
+        "es": "En Betsaida, Jesús sanó a un hombre ciego — pero en un milagro inusual de dos etapas: primero el hombre vio a las personas \"como árboles que andaban\", borroso, y luego Jesús tocó sus ojos de nuevo, ¡y vio TODO claramente! En el camino, Jesús preguntó a Sus discípulos: \"¿Quién dice la gente que soy yo?\" Respondieron: Juan el Bautista, Elías, uno de los profetas.\n\nEntonces Jesús preguntó directamente: \"¿Pero quién dicen USTEDES que soy yo?\" Pedro respondió: \"¡Tú eres el Mesías!\" Jesús entonces comenzó a enseñar claramente que el Hijo del Hombre debía sufrir muchas cosas, ser rechazado, ser matado, y después de tres días resucitar. Pedro, conmocionado, llevó a Jesús aparte ¡y lo reprendió!\n\nJesús se volvió y reprendió a Pedro severamente: \"¡Quítate de delante de mí, Satanás! No tienes en mente las cosas de Dios, sino solamente las cosas de los hombres.\" Luego, llamando a la multitud, Jesús dijo: \"Cualquiera que quiera ser mi discípulo debe negarse a sí mismo y tomar su cruz y seguirme. ¿Qué le aprovecha a alguien ganar el mundo entero, pero perder su alma?\" ",
+        "fr": "À Bethsaïda, Jésus guérit un homme aveugle — mais d'une manière inhabituelle, en deux étapes : d'abord l'homme vit les gens « comme des arbres qui marchent », flou, puis Jésus toucha de nouveau ses yeux, et il vit TOUT clairement ! En chemin, Jésus demanda à Ses disciples : « Qui dit-on que je suis ? » Ils répondirent : Jean-Baptiste, Élie, l'un des prophètes.\n\nPuis Jésus demanda directement : « Et pour vous, qui dites-vous que je suis ? » Pierre répondit : « Tu es le Christ ! » Jésus commença alors à enseigner clairement que le Fils de l'homme devait souffrir beaucoup, être rejeté, être tué, et ressusciter après trois jours. Pierre, choqué, prit Jésus à part et Le reprit !\n\nJésus se retourna et reprit sévèrement Pierre : « Arrière de moi, Satan ! Car tu ne conçois pas les choses de Dieu, tu ne conçois que les choses des hommes. » Puis, appelant la foule, Jésus dit : « Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive. Et que sert-il à un homme de gagner tout le monde, s'il perd son âme ? »"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Whoever wants to be my disciple must deny themselves and take up their cross and follow me."
+        "en": "Whoever wants to be my disciple must deny themselves and take up their cross and follow me.",
+        "es": "Y llamando á la gente con sus discípulos, les dijo: Cualquiera que quisiere venir en pos de mí, niéguese á sí mismo, y tome su cruz, y sígame.",
+        "fr": "Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive."
       },
       "ref": {
-        "en": "Mark 8:34 (NIV)"
+        "en": "Mark 8:34 (NIV)",
+        "es": "Marcos 8:34 (Valera)",
+        "fr": "Marc 8:34 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "up",
           "their",
           "cross"
+        ],
+        "es": [
+          "Y",
+          "llamando",
+          "á",
+          "la",
+          "gente",
+          "con"
+        ],
+        "fr": [
+          "Si",
+          "quelqu'un",
+          "veut",
+          "venir",
+          "après",
+          "moi"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Who Do You Say I Am?"
+        "en": "A Song for Who Do You Say I Am?",
+        "es": "Una Canción para ¿Quién Dices Que Soy Yo?",
+        "fr": "Une Chanson pour Qui Dites-vous Que Je Suis ?"
       },
       "audio_en": "/static/audio/mark/lesson21_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What was unusual about how Jesus healed the blind man at Bethsaida?"
+            "en": "What was unusual about how Jesus healed the blind man at Bethsaida?",
+            "es": "¿Qué fue inusual sobre cómo Jesús sanó al ciego en Betsaida?",
+            "fr": "Qu'y avait-il d'inhabituel dans la façon dont Jésus a guéri l'aveugle à Bethsaïda ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "It happened in two stages — blurry sight, then clear sight",
               "He refused to heal him",
               "He healed him from a distance"
+            ],
+            "es": [
+              "Nada inusual",
+              "Sucedió en dos etapas — visión borrosa, luego visión clara",
+              "Se negó a sanarlo",
+              "Lo sanó a distancia"
+            ],
+            "fr": [
+              "Rien d'inhabituel",
+              "Cela s'est produit en deux étapes — vue floue, puis vue claire",
+              "Il a refusé de le guérir",
+              "Il l'a guéri à distance"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did Peter answer when Jesus asked, 'Who do you say I am?'"
+            "en": "How did Peter answer when Jesus asked, 'Who do you say I am?'",
+            "es": "¿Cómo respondió Pedro cuando Jesús preguntó: '¿Quién dicen que soy yo?'",
+            "fr": "Comment Pierre a-t-il répondu quand Jésus a demandé : « Qui dites-vous que je suis ? »"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "You are the Messiah",
               "Just a teacher",
               "He didn't answer"
+            ],
+            "es": [
+              "Solo un profeta",
+              "Tú eres el Mesías",
+              "Solo un maestro",
+              "No respondió"
+            ],
+            "fr": [
+              "Seulement un prophète",
+              "Tu es le Christ",
+              "Seulement un enseignant",
+              "Il n'a pas répondu"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did Jesus respond when Peter rebuked Him for predicting His death?"
+            "en": "How did Jesus respond when Peter rebuked Him for predicting His death?",
+            "es": "¿Cómo respondió Jesús cuando Pedro lo reprendió por predecir Su muerte?",
+            "fr": "Comment Jésus a-t-il répondu quand Pierre L'a réprimandé pour avoir prédit Sa mort ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "Get behind me, Satan! You're not thinking God's thoughts",
               "He ignored Peter",
               "He left immediately"
+            ],
+            "es": [
+              "Estuvo de acuerdo con Pedro",
+              "¡Quítate de delante de mí, Satanás! No piensas como Dios",
+              "Ignoró a Pedro",
+              "Se fue de inmediato"
+            ],
+            "fr": [
+              "Il était d'accord avec Pierre",
+              "Arrière de moi, Satan ! Tu ne penses pas comme Dieu",
+              "Il a ignoré Pierre",
+              "Il est parti immédiatement"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Who Do You Say I Am?"
+            "en": "Activity sheet: Who Do You Say I Am?",
+            "es": "Hoja de actividad: ¿Quién Dices Que Soy Yo?",
+            "fr": "Fiche d'activité : Qui Dites-vous Que Je Suis ?"
           },
           "file": "/static/printables/mark/lesson21_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: this passage marks the turning point of Mark's Gospel — Peter's confession that Jesus is the Messiah is correct, but his understanding of WHAT KIND of Messiah is immediately revealed as incomplete, even resistant to God's actual plan. The two-stage healing of the blind man mirrors this perfectly: the disciples are gaining sight, but it isn't yet fully clear.\n\nConversation starters: (1) Why might Jesus heal the blind man in two stages, rather than instantly and completely? (2) What's the difference between knowing Jesus is the Messiah and understanding what kind of Messiah He actually is? (3) What does \"take up their cross and follow me\" mean for daily life, not just a dramatic moment?\n\nPray for clear spiritual sight, and courage to follow Jesus even when His way is costly."
+        "en": "Big idea: this passage marks the turning point of Mark's Gospel — Peter's confession that Jesus is the Messiah is correct, but his understanding of WHAT KIND of Messiah is immediately revealed as incomplete, even resistant to God's actual plan. The two-stage healing of the blind man mirrors this perfectly: the disciples are gaining sight, but it isn't yet fully clear.\n\nConversation starters: (1) Why might Jesus heal the blind man in two stages, rather than instantly and completely? (2) What's the difference between knowing Jesus is the Messiah and understanding what kind of Messiah He actually is? (3) What does \"take up their cross and follow me\" mean for daily life, not just a dramatic moment?\n\nPray for clear spiritual sight, and courage to follow Jesus even when His way is costly.",
+        "es": "Idea principal: este pasaje marca el punto de inflexión del Evangelio de Marcos — la confesión de Pedro de que Jesús es el Mesías es correcta, pero su entendimiento de QUÉ TIPO de Mesías se revela inmediatamente como incompleto, incluso resistente al plan real de Dios. La sanidad en dos etapas del ciego refleja esto perfectamente: los discípulos están ganando vista, pero todavía no está completamente clara.\n\nPara conversar: (1) ¿Por qué podría Jesús sanar al ciego en dos etapas, en lugar de instantánea y completamente? (2) ¿Cuál es la diferencia entre saber que Jesús es el Mesías y entender qué tipo de Mesías es realmente? (3) ¿Qué significa 'tomar su cruz y seguirme' para la vida diaria, no solo un momento dramático?\n\nOren por vista espiritual clara, y valor para seguir a Jesús incluso cuando Su camino es costoso.",
+        "fr": "Idée principale : ce passage marque le point de bascule de l'Évangile de Marc — la confession de Pierre que Jésus est le Christ est correcte, mais sa compréhension de QUEL GENRE de Christ se révèle immédiatement incomplète, voire résistante au plan réel de Dieu. La guérison en deux étapes de l'aveugle reflète cela parfaitement : les disciples gagnent la vue, mais ce n'est pas encore tout à fait clair.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il guérir l'aveugle en deux étapes, plutôt qu'instantanément et complètement ? (2) Quelle est la différence entre savoir que Jésus est le Christ et comprendre quel genre de Christ Il est réellement ? (3) Que signifie « se charger de sa croix et Le suivre » pour la vie quotidienne, et non seulement un moment dramatique ?\n\nPriez pour une vue spirituelle claire, et le courage de suivre Jésus même quand Son chemin est coûteux."
       }
     }
   ]

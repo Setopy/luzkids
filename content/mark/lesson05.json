@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Lowered Through the Roof"
+    "en": "Lowered Through the Roof",
+    "es": "Bajado a Través del Techo",
+    "fr": "Descendu à Travers le Toit"
   },
   "ref": "Mark 2:1-12",
   "section": "Jesus Forgives and Heals a Paralyzed Man",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Four friends, one big hole in the roof"
+        "en": "Four friends, one big hole in the roof",
+        "es": "Cuatro amigos, un gran hueco en el techo",
+        "fr": "Quatre amis, un grand trou dans le toit"
       },
       "body": {
-        "en": "Jesus was back in Capernaum, and the house was so packed that there was no room left, not even outside the door! Four friends carried a paralysed man on a mat, hoping Jesus would heal him — but they couldn't get anywhere near the door.\n\nSo what did they do? They climbed onto the ROOF, dug through it, and lowered the man on his mat right down in front of Jesus! Jesus saw their faith and said to the paralysed man: 'Son, your sins are forgiven.' Some teachers of the law sitting there thought: 'Why does this fellow talk like that? He's blaspheming! Only God can forgive sins!' Jesus, knowing their thoughts, said: 'Which is easier — to say \"your sins are forgiven\" or \"get up and walk\"? I want you to know the Son of Man has authority on earth to forgive sins.' Then He said to the man: 'Get up, take your mat and go home.' Immediately the man stood up, took his mat, and walked out in front of everyone — completely amazed!"
+        "en": "Jesus was back in Capernaum, and the house was so packed that there was no room left, not even outside the door! Four friends carried a paralysed man on a mat, hoping Jesus would heal him — but they couldn't get anywhere near the door.\n\nSo what did they do? They climbed onto the ROOF, dug through it, and lowered the man on his mat right down in front of Jesus! Jesus saw their faith and said to the paralysed man: 'Son, your sins are forgiven.' Some teachers of the law sitting there thought: 'Why does this fellow talk like that? He's blaspheming! Only God can forgive sins!' Jesus, knowing their thoughts, said: 'Which is easier — to say \"your sins are forgiven\" or \"get up and walk\"? I want you to know the Son of Man has authority on earth to forgive sins.' Then He said to the man: 'Get up, take your mat and go home.' Immediately the man stood up, took his mat, and walked out in front of everyone — completely amazed!",
+        "es": "Jesús estaba de vuelta en Capernaúm, ¡y la casa estaba tan llena que no quedaba espacio, ni siquiera afuera de la puerta! Cuatro amigos llevaban a un hombre paralítico en una camilla, esperando que Jesús lo sanara — pero no podían acercarse en absoluto a la puerta.\n\n¿Entonces qué hicieron? ¡Subieron al TECHO, lo abrieron, y bajaron al hombre en su camilla justo frente a Jesús! Jesús vio su fe y le dijo al paralítico: \"Hijo, tus pecados te son perdonados.\" Algunos maestros de la ley sentados allí pensaron: \"¿Por qué habla este así? ¡Está blasfemando! ¡Solo Dios puede perdonar pecados!\" Jesús, conociendo sus pensamientos, dijo: \"¿Qué es más fácil — decir 'tus pecados te son perdonados' o 'levántate y anda'? Quiero que sepan que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados.\" Entonces le dijo al hombre: \"Levántate, toma tu camilla y vete a casa.\" Inmediatamente el hombre se levantó, tomó su camilla, y salió caminando frente a todos — ¡completamente asombrados!",
+        "fr": "Jésus était de retour à Capernaüm, et la maison était si pleine qu'il n'y avait plus de place, même devant la porte ! Quatre amis portaient un homme paralysé sur une civière, espérant que Jésus le guérirait — mais ils ne pouvaient absolument pas s'approcher de la porte.\n\nAlors qu'ont-ils fait ? Ils sont montés sur le TOIT, l'ont creusé, et ont descendu l'homme sur sa civière juste devant Jésus ! Jésus vit leur foi et dit au paralysé : « Mon enfant, tes péchés te sont pardonnés. » Quelques docteurs de la loi assis là pensèrent : « Pourquoi parle-t-il ainsi ? Il blasphème ! Qui peut pardonner les péchés, si ce n'est Dieu seul ? » Jésus, connaissant leurs pensées, dit : « Qu'est-ce qui est le plus facile — dire \"tes péchés te sont pardonnés\" ou \"lève-toi et marche\" ? Afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés. » Puis Il dit à l'homme : « Lève-toi, prends ton lit, et va dans ta maison. » Immédiatement l'homme se leva, prit sa civière, et sortit en marchant devant tout le monde — complètement stupéfaits !"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "I want you to know that the Son of Man has authority on earth to forgive sins."
+        "en": "I want you to know that the Son of Man has authority on earth to forgive sins.",
+        "es": "Pues para que sepáis que el Hijo del hombre tiene potestad en la tierra de perdonar los pecados, (dice al paralítico):",
+        "fr": "Or, afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés :"
       },
       "ref": {
-        "en": "Mark 2:10 (NIV)"
+        "en": "Mark 2:10 (NIV)",
+        "es": "Marcos 2:10 (Valera)",
+        "fr": "Marc 2:10 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "to",
           "forgive",
           "sins"
+        ],
+        "es": [
+          "Pues",
+          "para",
+          "que",
+          "sepáis",
+          "que",
+          "el"
+        ],
+        "fr": [
+          "Or",
+          "afin",
+          "que",
+          "vous",
+          "sachiez",
+          "que"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Lowered Through the Roof"
+        "en": "A Song for Lowered Through the Roof",
+        "es": "Una Canción para Bajado a Través del Techo",
+        "fr": "Une Chanson pour Descendu à Travers le Toit"
       },
       "audio_en": "/static/audio/mark/lesson05_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "How did the four friends get the paralysed man to Jesus through the packed crowd?"
+            "en": "How did the four friends get the paralysed man to Jesus through the packed crowd?",
+            "es": "¿Cómo lograron los cuatro amigos llevar al paralítico hasta Jesús a través de la multitud?",
+            "fr": "Comment les quatre amis ont-ils réussi à amener le paralysé jusqu'à Jésus à travers la foule ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "They dug through the roof and lowered him down",
               "They waited outside for days",
               "They gave up entirely"
+            ],
+            "es": [
+              "Se abrieron paso entre la multitud",
+              "Cavaron a través del techo y lo bajaron",
+              "Esperaron afuera durante días",
+              "Se rindieron por completo"
+            ],
+            "fr": [
+              "Ils se sont frayé un chemin dans la foule",
+              "Ils ont creusé à travers le toit et l'ont descendu",
+              "Ils ont attendu dehors pendant des jours",
+              "Ils ont complètement abandonné"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say to the paralysed man first, before healing him physically?"
+            "en": "What did Jesus say to the paralysed man first, before healing him physically?",
+            "es": "¿Qué le dijo Jesús primero al paralítico, antes de sanarlo físicamente?",
+            "fr": "Qu'a dit Jésus en premier au paralysé, avant de le guérir physiquement ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Your sins are forgiven",
               "Go home now",
               "Nothing at all"
+            ],
+            "es": [
+              "Levántate y anda",
+              "Tus pecados te son perdonados",
+              "Vete a casa ahora",
+              "Nada en absoluto"
+            ],
+            "fr": [
+              "Lève-toi et marche",
+              "Tes péchés te sont pardonnés",
+              "Va chez toi maintenant",
+              "Rien du tout"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why were the teachers of the law upset by what Jesus said?"
+            "en": "Why were the teachers of the law upset by what Jesus said?",
+            "es": "¿Por qué se molestaron los maestros de la ley por lo que dijo Jesús?",
+            "fr": "Pourquoi les docteurs de la loi étaient-ils contrariés par ce que Jésus a dit ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Only God can forgive sins, and they thought Jesus was blaspheming",
               "They didn't understand the words",
               "They weren't upset at all"
+            ],
+            "es": [
+              "Pensaron que era demasiado callado",
+              "Solo Dios puede perdonar pecados, y pensaron que Jesús blasfemaba",
+              "No entendieron las palabras",
+              "No se molestaron en absoluto"
+            ],
+            "fr": [
+              "Ils ont pensé que c'était trop calme",
+              "Seul Dieu peut pardonner les péchés, et ils pensaient que Jésus blasphémait",
+              "Ils n'ont pas compris les mots",
+              "Ils n'étaient pas du tout contrariés"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Lowered Through the Roof"
+            "en": "Activity sheet: Lowered Through the Roof",
+            "es": "Hoja de actividad: Bajado a Través del Techo",
+            "fr": "Fiche d'activité : Descendu à Travers le Toit"
           },
           "file": "/static/printables/mark/lesson05_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: physical healing and spiritual forgiveness presented together, proving Jesus' authority extends to both — the visible miracle (walking) validates the invisible one (forgiveness) that the religious leaders couldn't see or accept. The friends' resourceful, determined faith (literally breaking through a roof) is itself commended by Jesus before any words are even spoken.\n\nConversation starters: (1) What does the friends' determination — digging through a roof! — teach about bringing people to Jesus? (2) Why does Jesus address forgiveness before physical healing? (3) What does it mean that Jesus has \"authority on earth to forgive sins\"?\n\nPray for friends like these four, and for the same kind of determined faith on behalf of others."
+        "en": "Big idea: physical healing and spiritual forgiveness presented together, proving Jesus' authority extends to both — the visible miracle (walking) validates the invisible one (forgiveness) that the religious leaders couldn't see or accept. The friends' resourceful, determined faith (literally breaking through a roof) is itself commended by Jesus before any words are even spoken.\n\nConversation starters: (1) What does the friends' determination — digging through a roof! — teach about bringing people to Jesus? (2) Why does Jesus address forgiveness before physical healing? (3) What does it mean that Jesus has \"authority on earth to forgive sins\"?\n\nPray for friends like these four, and for the same kind of determined faith on behalf of others.",
+        "es": "Idea principal: la sanidad física y el perdón espiritual presentados juntos, demostrando que la autoridad de Jesús se extiende a ambos — el milagro visible (caminar) valida el invisible (el perdón) que los líderes religiosos no podían ver ni aceptar. La fe ingeniosa y decidida de los amigos (literalmente abriendo un techo) es en sí misma elogiada por Jesús antes de que se pronuncie ninguna palabra.\n\nPara conversar: (1) ¿Qué enseña la determinación de los amigos — cavar a través de un techo — sobre llevar personas a Jesús? (2) ¿Por qué aborda Jesús el perdón antes de la sanidad física? (3) ¿Qué significa que Jesús tiene 'autoridad en la tierra para perdonar pecados'?\n\nOren por amigos como estos cuatro, y por el mismo tipo de fe decidida en favor de otros.",
+        "fr": "Idée principale : la guérison physique et le pardon spirituel présentés ensemble, prouvant que l'autorité de Jésus s'étend aux deux — le miracle visible (marcher) valide celui invisible (le pardon) que les chefs religieux ne pouvaient voir ni accepter. La foi ingénieuse et déterminée des amis (creuser littéralement un toit) est elle-même louée par Jésus avant même que des mots ne soient prononcés.\n\nPour la conversation : (1) Que nous enseigne la détermination des amis — creuser un toit — sur le fait d'amener des gens à Jésus ? (2) Pourquoi Jésus aborde-t-Il le pardon avant la guérison physique ? (3) Que signifie le fait que Jésus a « le pouvoir sur la terre de pardonner les péchés » ?\n\nPriez pour des amis comme ces quatre-là, et pour le même genre de foi déterminée en faveur des autres."
       }
     }
   ]

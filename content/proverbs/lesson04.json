@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Search for Wisdom Like Silver"
+    "en": "Search for Wisdom Like Silver",
+    "es": "Busca la Sabiduría Como la Plata",
+    "fr": "Cherche la Sagesse Comme l'Argent"
   },
   "ref": "Proverbs 2:1-22",
   "section": "Moral Benefits of Wisdom",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Dig for it like buried treasure"
+        "en": "Dig for it like buried treasure",
+        "es": "Excava por ella como tesoro enterrado",
+        "fr": "Creuse pour elle comme un trésor enfoui"
       },
       "body": {
-        "en": "If you accept wisdom's words and store up her commands, the father teaches, and if you call out for insight and cry aloud for understanding — and here's the key part — if you LOOK for it as for silver and SEARCH for it as for hidden treasure, then you will understand the fear of the Lord and find the knowledge of God!\n\nWisdom doesn't usually fall into your lap. It takes the same kind of effort someone would put into digging for buried treasure or hunting for silver in a mine.\n\nFor the Lord gives wisdom; from His mouth come knowledge and understanding. Wisdom will enter your heart, and knowledge will be pleasant to your soul. Discretion will protect you, and understanding will guard you.\n\nWisdom will save you from the ways of wicked men, from those whose words are perverse, who delight in doing wrong, and from the immoral woman with her seductive words.\n\nThe chapter ends with a contrast that runs through the whole book: 'the upright will live in the land... but the wicked will be cut off.' Wisdom genuinely protects the life of the one who searches for it like treasure."
+        "en": "If you accept wisdom's words and store up her commands, the father teaches, and if you call out for insight and cry aloud for understanding — and here's the key part — if you LOOK for it as for silver and SEARCH for it as for hidden treasure, then you will understand the fear of the Lord and find the knowledge of God!\n\nWisdom doesn't usually fall into your lap. It takes the same kind of effort someone would put into digging for buried treasure or hunting for silver in a mine.\n\nFor the Lord gives wisdom; from His mouth come knowledge and understanding. Wisdom will enter your heart, and knowledge will be pleasant to your soul. Discretion will protect you, and understanding will guard you.\n\nWisdom will save you from the ways of wicked men, from those whose words are perverse, who delight in doing wrong, and from the immoral woman with her seductive words.\n\nThe chapter ends with a contrast that runs through the whole book: 'the upright will live in the land... but the wicked will be cut off.' Wisdom genuinely protects the life of the one who searches for it like treasure.",
+        "es": "Si aceptas las palabras de la sabiduría y guardas sus mandamientos, enseña el padre, y si clamas por inteligencia y alzas tu voz por entendimiento — y aquí está la parte clave — si la BUSCAS como á la plata y la ESCUDRIÑAS como á tesoros, ¡entonces entenderás el temor de Jehová, y hallarás el conocimiento de Dios!\n\nLa sabiduría usualmente no cae en tu regazo. Requiere el mismo tipo de esfuerzo que alguien pondría en excavar por un tesoro enterrado o buscar plata en una mina.\n\nPorque Jehová da la sabiduría; de su boca viene el conocimiento y el entendimiento. La sabiduría entrará en tu corazón, y el conocimiento será agradable a tu alma. La discreción te guardará, y el entendimiento te preservará.\n\nLa sabiduría te salvará de los caminos del hombre malo, de los hombres que hablan perversidades, que se complacen en hacer el mal, y de la mujer ajena con sus palabras seductoras.\n\nEl capítulo termina con un contraste que corre por todo el libro: \"los rectos habitarán la tierra... mas los impíos serán talados de ella.\" La sabiduría protege genuinamente la vida de quien la busca como tesoro.",
+        "fr": "Si tu acceptes les paroles de la sagesse et que tu gardes ses commandements, enseigne le père, et si tu appelles l'intelligence et que tu élèves ta voix vers le discernement — et voici la partie clé — si tu la CHERCHES comme l'argent et que tu la POURSUIS comme un trésor, alors tu comprendras la crainte de l'Éternel, et tu trouveras la connaissance de Dieu !\n\nLa sagesse ne te tombe généralement pas dans le giron. Elle requiert le même genre d'effort que quelqu'un mettrait à creuser pour un trésor enfoui ou à chercher de l'argent dans une mine.\n\nCar l'Éternel donne la sagesse ; de sa bouche sortent la connaissance et l'intelligence. La sagesse entrera dans ton cœur, et la connaissance sera agréable à ton âme. La réflexion te gardera, et l'intelligence te protégera.\n\nLa sagesse te sauvera des voies de l'homme mauvais, des hommes qui parlent de choses perverses, qui prennent plaisir à faire le mal, et de la femme étrangère avec ses paroles séduisantes.\n\nLe chapitre se termine par un contraste qui parcourt tout le livre : « les hommes droits habiteront le pays... mais les méchants seront exterminés. » La sagesse protège véritablement la vie de celui qui la cherche comme un trésor."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "If you look for it as for silver and search for it as for hidden treasure... then you will understand the fear of the Lord."
+        "en": "If you look for it as for silver and search for it as for hidden treasure... then you will understand the fear of the Lord.",
+        "es": "Si como á la plata la buscares, y la escudriñares como á tesoros; Entonces entenderás el temor de Jehová, y hallarás el conocimiento de Dios.",
+        "fr": "Si tu la cherches comme l'argent, Si tu la poursuis comme un trésor, Alors tu comprendras la crainte de l'Éternel, Et tu trouveras la connaissance de Dieu."
       },
       "ref": {
-        "en": "Proverbs 2:4-5 (NIV)"
+        "en": "Proverbs 2:4-5 (NIV)",
+        "es": "Proverbios 2:4-5 (Valera)",
+        "fr": "Proverbes 2:4-5 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "for",
           "hidden",
           "treasure"
+        ],
+        "es": [
+          "Si",
+          "como",
+          "á",
+          "la",
+          "plata",
+          "la"
+        ],
+        "fr": [
+          "Si",
+          "tu",
+          "la",
+          "cherches",
+          "comme",
+          "l'argent"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Search for Wisdom Like Silver"
+        "en": "A Song for Search for Wisdom Like Silver",
+        "es": "Una Canción para Busca la Sabiduría Como la Plata",
+        "fr": "Une Chanson pour Cherche la Sagesse Comme l'Argent"
       },
       "audio_en": "/static/audio/proverbs/lesson04_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What two things does the father say to do, to find wisdom?"
+            "en": "What two things does the father say to do, to find wisdom?",
+            "es": "¿Qué dos cosas dice el padre que se deben hacer para hallar la sabiduría?",
+            "fr": "Quelles deux choses le père dit-il de faire pour trouver la sagesse ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "Look for it as for silver, search for it as for hidden treasure",
               "Ignore it completely",
               "Ask only once and give up"
+            ],
+            "es": [
+              "Esperar pasivamente a que llegue",
+              "Buscarla como á la plata, escudriñarla como á tesoros",
+              "Ignorarla completamente",
+              "Pedir solo una vez y rendirse"
+            ],
+            "fr": [
+              "Attendre passivement qu'elle arrive",
+              "La chercher comme l'argent, la poursuivre comme un trésor",
+              "L'ignorer complètement",
+              "Demander une seule fois et abandonner"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Where does Proverbs say wisdom ultimately comes from?"
+            "en": "Where does Proverbs say wisdom ultimately comes from?",
+            "es": "¿De dónde dice Proverbios que viene finalmente la sabiduría?",
+            "fr": "D'où Proverbes dit-il que vient finalement la sagesse ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "The Lord — from His mouth come knowledge and understanding",
               "Books only",
               "No real source"
+            ],
+            "es": [
+              "Solo de la astucia humana",
+              "De Jehová — de su boca viene el conocimiento y el entendimiento",
+              "Solo de los libros",
+              "De ninguna fuente real"
+            ],
+            "fr": [
+              "Seulement de l'intelligence humaine",
+              "De l'Éternel — de sa bouche sortent la connaissance et l'intelligence",
+              "Seulement des livres",
+              "D'aucune source réelle"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs say wisdom can save a person from?"
+            "en": "What does Proverbs say wisdom can save a person from?",
+            "es": "¿De qué dice Proverbios que la sabiduría puede salvar a una persona?",
+            "fr": "De quoi Proverbes dit-il que la sagesse peut sauver une personne ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "The ways of wicked people and perverse, harmful paths",
               "Hard work",
               "Friendship"
+            ],
+            "es": [
+              "Nada significativo",
+              "De los caminos de la gente malvada y de caminos perversos y dañinos",
+              "Del trabajo duro",
+              "De la amistad"
+            ],
+            "fr": [
+              "Rien de significatif",
+              "Des voies des gens méchants et des chemins pervers et nuisibles",
+              "Du travail acharné",
+              "De l'amitié"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Search for Wisdom Like Silver"
+            "en": "Activity sheet: Search for Wisdom Like Silver",
+            "es": "Hoja de actividad: Busca la Sabiduría Como la Plata",
+            "fr": "Fiche d'activité : Cherche la Sagesse Comme l'Argent"
           },
           "file": "/static/printables/proverbs/lesson04_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: wisdom requires active, effortful pursuit — pictured vividly as treasure-hunting, not passive reception — while ultimately originating from God Himself, not human achievement alone. This holds together both genuine human effort and divine source without contradiction, much like the cooperative-grace pattern already taught elsewhere on this platform (Philippians 2:12-13).\n\nConversation starters: (1) What does it mean to search for wisdom \"like silver\" or \"hidden treasure\" — what effort does that picture suggest? (2) Why might wisdom protect someone from harmful people and paths? (3) What's one specific way you could actively \"search\" for wisdom this week (a Bible passage, a wise person's advice)?\n\nPray for hearts willing to dig for wisdom the way a treasure hunter searches for silver."
+        "en": "Big idea: wisdom requires active, effortful pursuit — pictured vividly as treasure-hunting, not passive reception — while ultimately originating from God Himself, not human achievement alone. This holds together both genuine human effort and divine source without contradiction, much like the cooperative-grace pattern already taught elsewhere on this platform (Philippians 2:12-13).\n\nConversation starters: (1) What does it mean to search for wisdom \"like silver\" or \"hidden treasure\" — what effort does that picture suggest? (2) Why might wisdom protect someone from harmful people and paths? (3) What's one specific way you could actively \"search\" for wisdom this week (a Bible passage, a wise person's advice)?\n\nPray for hearts willing to dig for wisdom the way a treasure hunter searches for silver.",
+        "es": "Idea principal: la sabiduría requiere una búsqueda activa y esforzada — representada vívidamente como una búsqueda de tesoros, no una recepción pasiva — mientras que, en última instancia, se origina en Dios mismo, no solo en el logro humano. Esto sostiene tanto el esfuerzo humano genuino como la fuente divina sin contradicción, muy parecido al patrón de gracia cooperativa ya enseñado en otra parte de esta plataforma (Filipenses 2:12-13).\n\nPara conversar: (1) ¿Qué significa buscar la sabiduría \"como á la plata\" o \"como á tesoros\" — qué esfuerzo sugiere esa imagen? (2) ¿Por qué podría la sabiduría proteger a alguien de gente y caminos dañinos? (3) ¿Cuál es una forma específica en que podrías \"buscar\" activamente la sabiduría esta semana (un pasaje bíblico, el consejo de una persona sabia)?\n\nOren por corazones dispuestos a excavar por la sabiduría como un buscador de tesoros busca la plata.",
+        "fr": "Idée principale : la sagesse exige une poursuite active et laborieuse — dépeinte vivement comme une chasse au trésor, non une réception passive — tout en provenant finalement de Dieu Lui-même, et non de la seule réussite humaine. Cela tient ensemble à la fois l'effort humain authentique et la source divine sans contradiction, tout comme le modèle de grâce coopérative déjà enseigné ailleurs sur cette plateforme (Philippiens 2:12-13).\n\nPour la conversation : (1) Que signifie chercher la sagesse « comme l'argent » ou « comme un trésor » — quel effort cette image suggère-t-elle ? (2) Pourquoi la sagesse pourrait-elle protéger quelqu'un de personnes et de chemins nuisibles ? (3) Quelle est une façon spécifique dont tu pourrais activement « chercher » la sagesse cette semaine (un passage biblique, le conseil d'une personne sage) ?\n\nPriez pour des cœurs disposés à creuser pour la sagesse comme un chercheur de trésor cherche l'argent."
       }
     }
   ]

@@ -5,7 +5,9 @@
     "fr": "Éphésiens pour les enfants"
   },
   "subtitle": {
-    "en": "Every chapter, every verse, mapped to the standard sections of the book — 17 adventures through Paul's letter"
+    "en": "Every chapter, every verse, mapped to the standard sections of the book — 17 adventures through Paul's letter",
+    "es": "Cada capítulo, cada versículo, mapeado a las secciones estándar del libro — 17 aventuras a través de la carta de Pablo",
+    "fr": "Chaque chapitre, chaque verset, aligné sur les sections standard du livre — 17 aventures à travers la lettre de Paul"
   },
   "description": {
     "en": "Paul wrote a letter from prison that overflows with joy! From the streets of ancient Ephesus to the full armour of God, we'll journey through all six chapters — discovering who we are in Christ, God's amazing plan, and how to walk in love every day.",
@@ -69,7 +71,9 @@
     {
       "id": "lesson07",
       "title": {
-        "en": "God's Secret Plan"
+        "en": "God's Secret Plan",
+        "es": "El Plan Secreto de Dios",
+        "fr": "Le Plan Secret de Dieu"
       },
       "ref": "Ephesians 3:1-13",
       "section": "God's Marvelous Plan for the Gentiles"
@@ -77,7 +81,9 @@
     {
       "id": "lesson08",
       "title": {
-        "en": "Rooted in Love"
+        "en": "Rooted in Love",
+        "es": "Arraigados en Amor",
+        "fr": "Enracinés dans l'Amour"
       },
       "ref": "Ephesians 3:14-21",
       "section": "A Prayer for the Ephesians"
@@ -85,7 +91,9 @@
     {
       "id": "lesson09",
       "title": {
-        "en": "Walk Worthy, Stay United"
+        "en": "Walk Worthy, Stay United",
+        "es": "Anda Dignamente, Permanece Unido",
+        "fr": "Marche Dignement, Reste Uni"
       },
       "ref": "Ephesians 4:1-6",
       "section": "Unity in the Body of Christ"
@@ -93,7 +101,9 @@
     {
       "id": "lesson10",
       "title": {
-        "en": "Gifts for the Team"
+        "en": "Gifts for the Team",
+        "es": "Dones para el Equipo",
+        "fr": "Des Dons pour l'Équipe"
       },
       "ref": "Ephesians 4:7-16",
       "section": "Unity in the Body of Christ"
@@ -101,7 +111,9 @@
     {
       "id": "lesson11",
       "title": {
-        "en": "Old Clothes, New Clothes"
+        "en": "Old Clothes, New Clothes",
+        "es": "Ropa Vieja, Ropa Nueva",
+        "fr": "Vieux Vêtements, Nouveaux Vêtements"
       },
       "ref": "Ephesians 4:17-32",
       "section": "Instructions for Christian Living"
@@ -109,7 +121,9 @@
     {
       "id": "lesson12",
       "title": {
-        "en": "Imitate God, Walk in Love"
+        "en": "Imitate God, Walk in Love",
+        "es": "Imiten a Dios, Anden en Amor",
+        "fr": "Imitez Dieu, Marchez dans l'Amour"
       },
       "ref": "Ephesians 5:1-7",
       "section": "Instructions for Christian Living"
@@ -117,7 +131,9 @@
     {
       "id": "lesson13",
       "title": {
-        "en": "Children of Light"
+        "en": "Children of Light",
+        "es": "Hijos de Luz",
+        "fr": "Enfants de Lumière"
       },
       "ref": "Ephesians 5:8-14",
       "section": "Children of Light"
@@ -125,7 +141,9 @@
     {
       "id": "lesson14",
       "title": {
-        "en": "Wake Up and Sing"
+        "en": "Wake Up and Sing",
+        "es": "Despierta y Canta",
+        "fr": "Réveille-toi et Chante"
       },
       "ref": "Ephesians 5:15-21",
       "section": "Be Filled with the Spirit"
@@ -133,7 +151,9 @@
     {
       "id": "lesson15",
       "title": {
-        "en": "The Great Mystery of Love"
+        "en": "The Great Mystery of Love",
+        "es": "El Gran Misterio del Amor",
+        "fr": "Le Grand Mystère de l'Amour"
       },
       "ref": "Ephesians 5:22-33",
       "section": "Instructions for Christian Households"
@@ -141,7 +161,9 @@
     {
       "id": "lesson16",
       "title": {
-        "en": "The First Promise"
+        "en": "The First Promise",
+        "es": "La Primera Promesa",
+        "fr": "La Première Promesse"
       },
       "ref": "Ephesians 6:1-9",
       "section": "Instructions for Christian Households"
@@ -149,7 +171,9 @@
     {
       "id": "lesson17",
       "title": {
-        "en": "The Armour of God"
+        "en": "The Armour of God",
+        "es": "La Armadura de Dios",
+        "fr": "L'Armure de Dieu"
       },
       "ref": "Ephesians 6:10-24",
       "section": "The Armor of God"

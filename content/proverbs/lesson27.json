@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Lord Determines Our Steps"
+    "en": "The Lord Determines Our Steps",
+    "es": "Jehová Endereza Nuestros Pasos",
+    "fr": "L'Éternel Dirige Nos Pas"
   },
   "ref": "Proverbs 16:1-3; 16:9; 16:33; 19:21; 21:30-31",
   "section": "Trusting God's Plans (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "You plan, but God directs"
+        "en": "You plan, but God directs",
+        "es": "Tú planeas, pero Dios dirige",
+        "fr": "Tu planifies, mais Dieu dirige"
       },
       "body": {
-        "en": "'To humans belong the plans of the heart, but from the Lord comes the proper answer of the tongue.' Even our best thinking, Proverbs suggests, needs God's involvement to truly land right.\n\n'Commit to the Lord whatever you do, and he will establish your plans.' Notice the order — commit FIRST, and establishment follows; not the other way around.\n\nOne of the clearest statements of God's sovereignty over human planning: 'in their hearts humans plan their course, but the Lord establishes their steps.' We can plan all we want — but God is the one who ultimately directs where our steps actually land.\n\n'The lot is cast into the lap, but its every decision is from the Lord.' Even things that feel random or up to chance, Proverbs says, are ultimately under God's careful direction.\n\n'Many are the plans in a person's heart, but it is the Lord's purpose that prevails.' This theme isn't meant to discourage planning — it's meant to give genuine peace, knowing that even when our plans change unexpectedly, God's purpose is still the one that ultimately wins out."
+        "en": "'To humans belong the plans of the heart, but from the Lord comes the proper answer of the tongue.' Even our best thinking, Proverbs suggests, needs God's involvement to truly land right.\n\n'Commit to the Lord whatever you do, and he will establish your plans.' Notice the order — commit FIRST, and establishment follows; not the other way around.\n\nOne of the clearest statements of God's sovereignty over human planning: 'in their hearts humans plan their course, but the Lord establishes their steps.' We can plan all we want — but God is the one who ultimately directs where our steps actually land.\n\n'The lot is cast into the lap, but its every decision is from the Lord.' Even things that feel random or up to chance, Proverbs says, are ultimately under God's careful direction.\n\n'Many are the plans in a person's heart, but it is the Lord's purpose that prevails.' This theme isn't meant to discourage planning — it's meant to give genuine peace, knowing that even when our plans change unexpectedly, God's purpose is still the one that ultimately wins out.",
+        "es": "\"Del hombre son las disposiciones del corazón: mas de Jehová es la respuesta de la lengua.\" Incluso nuestro mejor pensamiento, sugiere Proverbios, necesita la participación de Dios para realmente aterrizar bien.\n\n\"Encomienda á Jehová tus obras, y tus pensamientos serán afirmados.\" Nota el orden — encomienda PRIMERO, y la firmeza sigue; no al revés.\n\nUna de las declaraciones más claras de la soberanía de Dios sobre la planificación humana: \"el corazón del hombre piensa su camino: mas Jehová endereza sus pasos.\" Podemos planear todo lo que queramos — pero Dios es quien finalmente dirige a dónde realmente llegan nuestros pasos.\n\n\"La suerte se echa en el seno; mas de Jehová es el juicio de ella.\" Incluso las cosas que se sienten aleatorias o al azar, dice Proverbios, están finalmente bajo la dirección cuidadosa de Dios.\n\n\"Muchos pensamientos hay en el corazón del hombre; mas el consejo de Jehová permanecerá.\" Este tema no busca desanimar la planificación — busca dar paz genuina, sabiendo que incluso cuando nuestros planes cambian inesperadamente, el propósito de Dios sigue siendo el que finalmente prevalece.",
+        "fr": "« Les projets que forme le cœur dépendent de l'homme, mais la réponse que donne la bouche vient de l'Éternel. » Même notre meilleure réflexion, suggèrent les Proverbes, a besoin de l'implication de Dieu pour vraiment porter ses fruits.\n\n« Recommande à l'Éternel tes œuvres, et tes projets réussiront. » Remarque l'ordre — recommander D'ABORD, et la réussite suit ; pas l'inverse.\n\nUne des déclarations les plus claires de la souveraineté de Dieu sur la planification humaine : « le cœur de l'homme médite sa voie, mais c'est l'Éternel qui dirige ses pas. » Nous pouvons planifier tout ce que nous voulons — mais c'est Dieu qui dirige finalement où nos pas atterrissent réellement.\n\n« On jette le sort dans le pan de la robe, mais toute décision vient de l'Éternel. » Même les choses qui semblent aléatoires ou laissées au hasard, disent les Proverbes, sont finalement sous la direction attentive de Dieu.\n\n« Il y a dans le cœur de l'homme beaucoup de projets, mais c'est le dessein de l'Éternel qui s'accomplit. » Ce thème ne vise pas à décourager la planification — il vise à donner une paix authentique, sachant que même quand nos projets changent de manière inattendue, le dessein de Dieu reste celui qui finit par prévaloir."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "In their hearts humans plan their course, but the Lord establishes their steps."
+        "en": "In their hearts humans plan their course, but the Lord establishes their steps.",
+        "es": "El corazón del hombre piensa su camino: mas Jehová endereza sus pasos.",
+        "fr": "Le cœur de l'homme médite sa voie, Mais c'est l'Éternel qui dirige ses pas."
       },
       "ref": {
-        "en": "Proverbs 16:9 (NIV)"
+        "en": "Proverbs 16:9 (NIV)",
+        "es": "Proverbios 16:9 (Valera)",
+        "fr": "Proverbes 16:9 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "establishes",
           "their",
           "steps"
+        ],
+        "es": [
+          "El",
+          "corazón",
+          "del",
+          "hombre",
+          "piensa",
+          "su"
+        ],
+        "fr": [
+          "Le",
+          "cœur",
+          "de",
+          "l'homme",
+          "médite",
+          "sa"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Lord Determines Our Steps"
+        "en": "A Song for The Lord Determines Our Steps",
+        "es": "Una Canción para Jehová Endereza Nuestros Pasos",
+        "fr": "Une Chanson pour L'Éternel Dirige Nos Pas"
       },
       "audio_en": "/static/audio/proverbs/lesson27_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 16:9, who ultimately establishes a person's steps?"
+            "en": "According to Proverbs 16:9, who ultimately establishes a person's steps?",
+            "es": "Según Proverbios 16:9, ¿quién finalmente endereza los pasos de una persona?",
+            "fr": "Selon Proverbes 16:9, qui dirige finalement les pas d'une personne ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "The Lord",
               "Pure chance",
               "No one — steps aren't really directed"
+            ],
+            "es": [
+              "Solo la persona",
+              "Jehová",
+              "Pura casualidad",
+              "Nadie — los pasos no son realmente dirigidos"
+            ],
+            "fr": [
+              "La personne seule",
+              "L'Éternel",
+              "Le pur hasard",
+              "Personne — les pas ne sont pas vraiment dirigés"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 16:3 instruct about committing your plans?"
+            "en": "What does Proverbs 16:3 instruct about committing your plans?",
+            "es": "¿Qué instruye Proverbios 16:3 sobre encomendar tus planes?",
+            "fr": "Que recommande Proverbes 16:3 sur le fait de recommander ses projets ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Commit to the Lord whatever you do, and he will establish your plans",
               "Plans don't need any commitment",
               "Avoid making plans at all"
+            ],
+            "es": [
+              "Guarda los planes completamente para ti",
+              "Encomienda á Jehová tus obras, y tus pensamientos serán afirmados",
+              "Los planes no necesitan ningún compromiso",
+              "Evita hacer planes del todo"
+            ],
+            "fr": [
+              "Garde les projets entièrement pour toi",
+              "Recommande à l'Éternel tes œuvres, et tes projets réussiront",
+              "Les projets n'ont besoin d'aucun engagement",
+              "Évite de faire des projets du tout"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 19:21 say about the many plans in a person's heart?"
+            "en": "What does Proverbs 19:21 say about the many plans in a person's heart?",
+            "es": "¿Qué dice Proverbios 19:21 sobre los muchos pensamientos en el corazón de una persona?",
+            "fr": "Que dit Proverbes 19:21 sur les nombreux projets dans le cœur d'une personne ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "It is the Lord's purpose that ultimately prevails",
               "Plans never matter at all",
               "God ignores human plans"
+            ],
+            "es": [
+              "Siempre suceden exactamente como se planearon",
+              "Es el consejo de Jehová el que finalmente permanece",
+              "Los planes nunca importan en absoluto",
+              "Dios ignora los planes humanos"
+            ],
+            "fr": [
+              "Ils se passent toujours exactement comme prévu",
+              "C'est le dessein de l'Éternel qui finit par s'accomplir",
+              "Les projets n'ont jamais d'importance",
+              "Dieu ignore les projets humains"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Lord Determines Our Steps"
+            "en": "Activity sheet: The Lord Determines Our Steps",
+            "es": "Hoja de actividad: Jehová Endereza Nuestros Pasos",
+            "fr": "Fiche d'activité : L'Éternel Dirige Nos Pas"
           },
           "file": "/static/printables/proverbs/lesson27_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: human planning and divine sovereignty are held together without contradiction — Proverbs neither discourages thoughtful planning nor pretends humans control outcomes; instead it offers genuine peace in knowing God's purpose ultimately prevails, even through (and sometimes despite) our own plans. This connects to the same cooperative-grace theme found in Philippians 2:12-13 elsewhere on this platform.\n\nConversation starters: (1) How can committing your plans to God change how you feel about uncertainty? (2) What does it mean that even something as random-feeling as \"the lot cast into the lap\" is under God's direction? (3) Has a plan of yours ever changed unexpectedly, in a way that turned out to be good?\n\nPray, committing your family's plans to the Lord and trusting His purpose to prevail."
+        "en": "Big idea: human planning and divine sovereignty are held together without contradiction — Proverbs neither discourages thoughtful planning nor pretends humans control outcomes; instead it offers genuine peace in knowing God's purpose ultimately prevails, even through (and sometimes despite) our own plans. This connects to the same cooperative-grace theme found in Philippians 2:12-13 elsewhere on this platform.\n\nConversation starters: (1) How can committing your plans to God change how you feel about uncertainty? (2) What does it mean that even something as random-feeling as \"the lot cast into the lap\" is under God's direction? (3) Has a plan of yours ever changed unexpectedly, in a way that turned out to be good?\n\nPray, committing your family's plans to the Lord and trusting His purpose to prevail.",
+        "es": "Idea principal: la planificación humana y la soberanía divina se sostienen juntas sin contradicción — Proverbios no desanima la planificación cuidadosa ni pretende que los humanos controlan los resultados; en cambio, ofrece paz genuina al saber que el propósito de Dios finalmente prevalece, incluso a través de (y a veces a pesar de) nuestros propios planes. Esto se conecta con el mismo tema de gracia cooperativa que se encuentra en Filipenses 2:12-13 en otra parte de esta plataforma.\n\nPara conversar: (1) ¿Cómo puede encomendar tus planes a Dios cambiar cómo te sientes ante la incertidumbre? (2) ¿Qué significa que incluso algo que se siente tan aleatorio como \"la suerte echada en el seno\" está bajo la dirección de Dios? (3) ¿Alguna vez cambió un plan tuyo inesperadamente, de una manera que resultó ser buena?\n\nOren, encomendando los planes de tu familia al Señor y confiando en que Su propósito prevalecerá.",
+        "fr": "Idée principale : la planification humaine et la souveraineté divine se tiennent ensemble sans contradiction — les Proverbes ne découragent pas la planification réfléchie et ne prétendent pas que les humains contrôlent les résultats ; ils offrent plutôt une paix authentique en sachant que le dessein de Dieu finit par prévaloir, même à travers (et parfois en dépit de) nos propres projets. Cela se rattache au même thème de grâce coopérative trouvé dans Philippiens 2:12-13 ailleurs sur cette plateforme.\n\nPour la conversation : (1) Comment le fait de recommander tes projets à Dieu peut-il changer ce que tu ressens face à l'incertitude ? (2) Que signifie le fait que même quelque chose qui semble aussi aléatoire que « le sort jeté dans le pan de la robe » est sous la direction de Dieu ? (3) Un de tes projets a-t-il déjà changé de manière inattendue, d'une façon qui s'est avérée bonne ?\n\nPriez, en recommandant les projets de votre famille au Seigneur et en faisant confiance que Son dessein prévaudra."
       }
     }
   ]

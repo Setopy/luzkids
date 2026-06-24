@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Do Not Boast About Tomorrow"
+    "en": "Do Not Boast About Tomorrow",
+    "es": "No Te Jactes del Día de Mañana",
+    "fr": "Ne Te Vante Pas du Lendemain"
   },
   "ref": "Proverbs 14:12; 14:32; 16:25; 21:16; 27:1",
   "section": "The Brevity of Life and the Two Roads (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A road that seems right, but doesn't lead where you think"
+        "en": "A road that seems right, but doesn't lead where you think",
+        "es": "Un camino que parece derecho, pero no lleva donde piensas",
+        "fr": "Un chemin qui semble droit, mais ne mène pas où tu penses"
       },
       "body": {
-        "en": "'There is a way that appears to be right, but in the end it leads to death.' This sobering proverb appears twice in the book, almost word for word — a sign of how seriously Proverbs wants this warning taken seriously.\n\nThis is genuinely unsettling: a path can FEEL right, seem reasonable, even seem wise — and still lead somewhere destructive. Feeling confident about a direction isn't the same as that direction actually being good.\n\n'The wicked are brought down by their own wickedness, but the righteous have a refuge even in death.' Proverbs is honest that every life, wise or foolish, eventually faces death — but it insists the righteous face it differently, with genuine refuge rather than collapse.\n\n'Whoever strays from the path of prudence will rest in the company of the dead.' Straying from wisdom, even gradually, is treated as a path with a real destination, not a neutral drift with no consequence.\n\nAnd a humble, grounding reminder that closes this whole theme: 'do not boast about tomorrow, for you do not know what a day may bring.' Life is genuinely brief and uncertain — which isn't meant to produce fear, but humility, gratitude for today, and urgency about choosing wisdom now, rather than assuming there will always be time to choose it later."
+        "en": "'There is a way that appears to be right, but in the end it leads to death.' This sobering proverb appears twice in the book, almost word for word — a sign of how seriously Proverbs wants this warning taken seriously.\n\nThis is genuinely unsettling: a path can FEEL right, seem reasonable, even seem wise — and still lead somewhere destructive. Feeling confident about a direction isn't the same as that direction actually being good.\n\n'The wicked are brought down by their own wickedness, but the righteous have a refuge even in death.' Proverbs is honest that every life, wise or foolish, eventually faces death — but it insists the righteous face it differently, with genuine refuge rather than collapse.\n\n'Whoever strays from the path of prudence will rest in the company of the dead.' Straying from wisdom, even gradually, is treated as a path with a real destination, not a neutral drift with no consequence.\n\nAnd a humble, grounding reminder that closes this whole theme: 'do not boast about tomorrow, for you do not know what a day may bring.' Life is genuinely brief and uncertain — which isn't meant to produce fear, but humility, gratitude for today, and urgency about choosing wisdom now, rather than assuming there will always be time to choose it later.",
+        "es": "\"Hay camino que al hombre parece derecho; pero su fin son caminos de muerte.\" Este proverbio sobrio aparece dos veces en el libro, casi palabra por palabra — una señal de cuán seriamente quiere Proverbios que se tome esta advertencia.\n\nEsto es genuinamente inquietante: un camino puede SENTIRSE correcto, parecer razonable, incluso parecer sabio — y aún llevar a algo destructivo. Sentirse confiado sobre una dirección no es lo mismo que esa dirección realmente sea buena.\n\n\"Por su maldad será lanzado el impío: mas el justo en su muerte tiene esperanza.\" Proverbios es honesto en que toda vida, sabia o necia, eventualmente enfrenta la muerte — pero insiste en que los justos la enfrentan diferente, con esperanza genuina en lugar de colapso.\n\n\"El que se apartare del camino de la sabiduría, vendrá á parar en compañía de los muertos.\" Desviarse de la sabiduría, incluso gradualmente, se trata como un camino con un destino real, no una deriva neutral sin consecuencia.\n\nY un recordatorio humilde y aterrizado que cierra todo este tema: \"no te jactes del día de mañana; porque no sabes qué dará de sí el día.\" La vida es genuinamente breve e incierta — lo cual no busca producir miedo, sino humildad, gratitud por el día de hoy, y urgencia sobre elegir la sabiduría ahora, en lugar de asumir que siempre habrá tiempo para elegirla más tarde.",
+        "fr": "« Telle voie paraît droite à un homme, mais son issue, c'est la voie de la mort. » Ce proverbe sobre apparaît deux fois dans le livre, presque mot pour mot — un signe de l'importance avec laquelle les Proverbes veulent que cet avertissement soit pris au sérieux.\n\nC'est véritablement troublant : un chemin peut SEMBLER juste, sembler raisonnable, même sembler sage — et pourtant mener vers quelque chose de destructeur. Se sentir confiant sur une direction n'est pas la même chose que cette direction soit réellement bonne.\n\n« Le méchant est jeté bas par sa méchanceté, mais le juste trouve un refuge même en sa mort. » Les Proverbes sont honnêtes sur le fait que toute vie, sage ou insensée, fait éventuellement face à la mort — mais ils insistent que les justes l'affrontent différemment, avec un véritable refuge plutôt qu'un effondrement.\n\n« L'homme qui s'écarte du chemin de la prudence reposera dans l'assemblée des morts. » S'écarter de la sagesse, même graduellement, est traité comme un chemin avec une véritable destination, pas une dérive neutre sans conséquence.\n\nEt un rappel humble et concret qui clôt tout ce thème : « ne te vante pas du lendemain, car tu ne sais pas ce qu'un jour peut enfanter. » La vie est véritablement brève et incertaine — ce qui ne vise pas à produire la peur, mais l'humilité, la gratitude pour aujourd'hui, et l'urgence de choisir la sagesse maintenant, plutôt que de présumer qu'il y aura toujours du temps pour la choisir plus tard."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Do not boast about tomorrow, for you do not know what a day may bring."
+        "en": "Do not boast about tomorrow, for you do not know what a day may bring.",
+        "es": "No te jactes del día de mañana; porque no sabes qué dará de sí el día.",
+        "fr": "Ne te vante pas du lendemain, Car tu ne sais pas ce qu'un jour peut enfanter."
       },
       "ref": {
-        "en": "Proverbs 27:1 (NIV)"
+        "en": "Proverbs 27:1 (NIV)",
+        "es": "Proverbios 27:1 (Valera)",
+        "fr": "Proverbes 27:1 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -39,6 +49,22 @@
           "day",
           "may",
           "bring"
+        ],
+        "es": [
+          "No",
+          "te",
+          "jactes",
+          "del",
+          "día",
+          "de"
+        ],
+        "fr": [
+          "Ne",
+          "te",
+          "vante",
+          "pas",
+          "du",
+          "lendemain"
         ]
       },
       "typing_challenge": true
@@ -46,7 +72,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Do Not Boast About Tomorrow"
+        "en": "A Song for Do Not Boast About Tomorrow",
+        "es": "Una Canción para No Te Jactes del Día de Mañana",
+        "fr": "Une Chanson pour Ne Te Vante Pas du Lendemain"
       },
       "audio_en": "/static/audio/proverbs/lesson36_en.mp3"
     },
@@ -55,7 +83,9 @@
       "questions": [
         {
           "q": {
-            "en": "What unsettling truth does Proverbs 14:12 teach about a path that 'seems right'?"
+            "en": "What unsettling truth does Proverbs 14:12 teach about a path that 'seems right'?",
+            "es": "¿Qué verdad inquietante enseña Proverbios 14:12 sobre un camino que 'parece derecho'?",
+            "fr": "Quelle vérité troublante enseigne Proverbes 14:12 sur une voie qui « paraît droite » ?"
           },
           "options": {
             "en": [
@@ -63,13 +93,27 @@
               "A path can feel right yet still lead to death in the end",
               "Feelings are always a reliable guide",
               "This verse doesn't exist"
+            ],
+            "es": [
+              "Si se siente correcto, siempre lo es",
+              "Un camino puede sentirse correcto y aún llevar a la muerte al final",
+              "Los sentimientos siempre son una guía confiable",
+              "Este versículo no existe"
+            ],
+            "fr": [
+              "Si cela semble juste, c'est toujours juste",
+              "Une voie peut sembler droite et pourtant mener à la mort à la fin",
+              "Les sentiments sont toujours un guide fiable",
+              "Ce verset n'existe pas"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Proverbs 14:32 say the righteous face death, compared to the wicked?"
+            "en": "How does Proverbs 14:32 say the righteous face death, compared to the wicked?",
+            "es": "¿Cómo dice Proverbios 14:32 que los justos enfrentan la muerte, comparado con los impíos?",
+            "fr": "Comment Proverbes 14:32 dit-il que les justes affrontent la mort, comparés aux méchants ?"
           },
           "options": {
             "en": [
@@ -77,13 +121,27 @@
               "The righteous have a refuge, even in death; the wicked are brought down by their own wickedness",
               "Neither group faces death differently",
               "Death isn't addressed at all"
+            ],
+            "es": [
+              "Exactamente de la misma manera",
+              "Los justos tienen esperanza, incluso en la muerte; los impíos son lanzados por su propia maldad",
+              "Ningún grupo enfrenta la muerte diferente",
+              "La muerte no se aborda en absoluto"
+            ],
+            "fr": [
+              "Exactement de la même manière",
+              "Les justes trouvent un refuge, même dans la mort ; les méchants sont jetés bas par leur propre méchanceté",
+              "Aucun des deux groupes n'affronte la mort différemment",
+              "La mort n'est pas du tout abordée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 27:1 warn about boasting?"
+            "en": "What does Proverbs 27:1 warn about boasting?",
+            "es": "¿Qué advierte Proverbios 27:1 sobre jactarse?",
+            "fr": "Que prévient Proverbes 27:1 sur le fait de se vanter ?"
           },
           "options": {
             "en": [
@@ -91,6 +149,18 @@
               "Do not boast about tomorrow, since you don't know what a day may bring",
               "Boasting about the future is always wise",
               "Nothing is said about boasting"
+            ],
+            "es": [
+              "Jactarse de hoy está bien",
+              "No te jactes del día de mañana, ya que no sabes qué dará de sí el día",
+              "Jactarse del futuro siempre es sabio",
+              "No se dice nada sobre jactarse"
+            ],
+            "fr": [
+              "Se vanter d'aujourd'hui c'est bien",
+              "Ne te vante pas du lendemain, car tu ne sais pas ce qu'un jour peut enfanter",
+              "Se vanter de l'avenir est toujours sage",
+              "Rien n'est dit sur le fait de se vanter"
             ]
           },
           "answer": 1
@@ -102,7 +172,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Do Not Boast About Tomorrow"
+            "en": "Activity sheet: Do Not Boast About Tomorrow",
+            "es": "Hoja de actividad: No Te Jactes del Día de Mañana",
+            "fr": "Fiche d'activité : Ne Te Vante Pas du Lendemain"
           },
           "file": "/static/printables/proverbs/lesson36_sheet.pdf"
         }
@@ -111,7 +183,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs includes a quieter, more sobering thread acknowledging life's genuine brevity and uncertainty — not to produce fear, but humility and urgency about choosing wisdom now rather than presuming on an assumed future. The warning that a path can \"seem right\" yet lead to death is one of the book's most psychologically penetrating insights: confidence in a direction is not proof that the direction is actually good, a vital corrective to simple self-trust.\n\nConversation starters: (1) Can you think of a time something felt like a good decision but turned out not to be? (2) Why might it be unwise to \"boast about tomorrow,\" given we don't know what a day may bring? (3) How does remembering life's brevity change how seriously you take choosing wisdom today, rather than waiting?\n\nPray for humility about the future, and urgency about choosing wisdom today, not someday."
+        "en": "Big idea: Proverbs includes a quieter, more sobering thread acknowledging life's genuine brevity and uncertainty — not to produce fear, but humility and urgency about choosing wisdom now rather than presuming on an assumed future. The warning that a path can \"seem right\" yet lead to death is one of the book's most psychologically penetrating insights: confidence in a direction is not proof that the direction is actually good, a vital corrective to simple self-trust.\n\nConversation starters: (1) Can you think of a time something felt like a good decision but turned out not to be? (2) Why might it be unwise to \"boast about tomorrow,\" given we don't know what a day may bring? (3) How does remembering life's brevity change how seriously you take choosing wisdom today, rather than waiting?\n\nPray for humility about the future, and urgency about choosing wisdom today, not someday.",
+        "es": "Idea principal: Proverbios incluye un hilo más silencioso y sobrio que reconoce la verdadera brevedad e incertidumbre de la vida — no para producir miedo, sino humildad y urgencia sobre elegir la sabiduría ahora en lugar de confiar en un futuro asumido. La advertencia de que un camino puede \"parecer derecho\" y aún llevar a la muerte es una de las percepciones psicológicamente más penetrantes del libro: la confianza en una dirección no es prueba de que la dirección sea realmente buena, una corrección vital al simple autoconfianza.\n\nPara conversar: (1) ¿Puedes pensar en un momento en que algo se sintió como una buena decisión pero resultó no serlo? (2) ¿Por qué podría ser insensato \"jactarse del día de mañana,\" dado que no sabemos qué traerá un día? (3) ¿Cómo cambia recordar la brevedad de la vida cuán seriamente tomas elegir la sabiduría hoy, en lugar de esperar?\n\nOren por humildad sobre el futuro, y urgencia sobre elegir la sabiduría hoy, no algún día.",
+        "fr": "Idée principale : les Proverbes incluent un fil plus tranquille et sobre qui reconnaît la véritable brièveté et incertitude de la vie — non pour produire de la peur, mais de l'humilité et de l'urgence à choisir la sagesse maintenant plutôt qu'à présumer d'un avenir supposé. L'avertissement qu'une voie peut « sembler droite » et pourtant mener à la mort est l'une des perspectives les plus psychologiquement pénétrantes du livre : la confiance en une direction n'est pas la preuve que cette direction est réellement bonne, une correction vitale à la simple confiance en soi.\n\nPour la conversation : (1) Peux-tu penser à un moment où quelque chose semblait être une bonne décision mais s'est avéré ne pas l'être ? (2) Pourquoi pourrait-il être imprudent de « se vanter du lendemain », étant donné que nous ne savons pas ce qu'un jour apportera ? (3) Comment le fait de se souvenir de la brièveté de la vie change-t-il à quel point tu prends au sérieux le choix de la sagesse aujourd'hui, plutôt que d'attendre ?\n\nPriez pour l'humilité face à l'avenir, et l'urgence de choisir la sagesse aujourd'hui, pas un jour."
       }
     }
   ]

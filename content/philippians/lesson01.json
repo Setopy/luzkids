@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A Letter Bursting with Joy"
+    "en": "A Letter Bursting with Joy",
+    "es": "Una Carta Desbordante de Alegría",
+    "fr": "Une Lettre Débordante de Joie"
   },
   "ref": "Philippians 1:1-11",
   "section": "Thanksgiving and Prayer",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Partners from the very first day"
+        "en": "Partners from the very first day",
+        "es": "Compañeros desde el primer día",
+        "fr": "Partenaires dès le premier jour"
       },
       "body": {
-        "en": "Paul writes to the believers in Philippi, a church he loved dearly — and you can feel that love in every line. Every time Paul remembers them, he thanks God, praying with JOY, because they have been his partners in the gospel from the very first day until now. Paul is completely confident that God, who began this good work in them, will carry it on to completion until the day Christ Jesus returns!\n\nThen Paul prays something beautiful for them: that their love would overflow more and more, together with real knowledge and careful insight, so they could discern what truly matters — and be pure and blameless, filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God.\n\nNotice the partnership language: Paul didn't see himself as the only one doing the work. The Philippians PARTNERED with him — through their prayers, their gifts, their friendship — proof that ministry was never meant to be a solo project."
+        "en": "Paul writes to the believers in Philippi, a church he loved dearly — and you can feel that love in every line. Every time Paul remembers them, he thanks God, praying with JOY, because they have been his partners in the gospel from the very first day until now. Paul is completely confident that God, who began this good work in them, will carry it on to completion until the day Christ Jesus returns!\n\nThen Paul prays something beautiful for them: that their love would overflow more and more, together with real knowledge and careful insight, so they could discern what truly matters — and be pure and blameless, filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God.\n\nNotice the partnership language: Paul didn't see himself as the only one doing the work. The Philippians PARTNERED with him — through their prayers, their gifts, their friendship — proof that ministry was never meant to be a solo project.",
+        "es": "Pablo escribe a los creyentes de Filipos, una iglesia que amaba profundamente — y puedes sentir ese amor en cada línea. Cada vez que Pablo los recuerda, da gracias a Dios, orando con ALEGRÍA, porque han sido sus compañeros en el evangelio desde el primer día hasta ahora. ¡Pablo está completamente confiado en que Dios, quien comenzó esta buena obra en ellos, la llevará a cabo hasta completarla en el día de Cristo Jesús!\n\nLuego Pablo ora algo hermoso por ellos: que su amor abundara más y más, junto con conocimiento verdadero y discernimiento cuidadoso, para que pudieran distinguir lo que realmente importa — y ser puros e intachables, llenos del fruto de justicia que viene por medio de Jesucristo, para la gloria y alabanza de Dios.\n\nNota el lenguaje de compañerismo: Pablo no se veía a sí mismo como el único que hacía el trabajo. Los filipenses se ASOCIARON con él — a través de sus oraciones, sus ofrendas, su amistad — prueba de que el ministerio nunca fue pensado para ser un proyecto solitario.",
+        "fr": "Paul écrit aux croyants de Philippes, une église qu'il aimait profondément — et l'on peut sentir cet amour dans chaque ligne. Chaque fois que Paul se souvient d'eux, il rend grâces à Dieu, priant avec JOIE, car ils ont été ses partenaires dans l'Évangile depuis le premier jour jusqu'à maintenant. Paul est pleinement confiant que Dieu, qui a commencé cette bonne œuvre en eux, la mènera à son achèvement jusqu'au jour de Jésus-Christ !\n\nPuis Paul prie quelque chose de magnifique pour eux : que leur amour abonde de plus en plus, avec la connaissance et un discernement profonds, afin qu'ils puissent discerner ce qui compte vraiment — et soient purs et irréprochables, remplis du fruit de justice qui vient par Jésus-Christ, à la gloire et à la louange de Dieu.\n\nRemarque le langage de partenariat : Paul ne se considérait pas comme le seul à accomplir l'œuvre. Les Philippiens se sont ASSOCIÉS à lui — par leurs prières, leurs dons, leur amitié — preuve que le ministère n'a jamais été conçu comme un projet solitaire."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."
+        "en": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.",
+        "es": "Estando confiado de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo.",
+        "fr": "Je suis persuadé que celui qui a commencé en vous cette bonne œuvre la rendra parfaite pour le jour de Jésus-Christ."
       },
       "ref": {
-        "en": "Philippians 1:6 (NIV)"
+        "en": "Philippians 1:6 (NIV)",
+        "es": "Filipenses 1:6 (Valera)",
+        "fr": "Philippiens 1:6 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "a",
           "good",
           "work"
+        ],
+        "es": [
+          "Estando",
+          "confiado",
+          "de",
+          "esto",
+          "que",
+          "el"
+        ],
+        "fr": [
+          "Je",
+          "suis",
+          "persuadé",
+          "que",
+          "celui",
+          "qui"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A Letter Bursting with Joy"
+        "en": "A Song for A Letter Bursting with Joy",
+        "es": "Una Canción para Una Carta Desbordante de Alegría",
+        "fr": "Une Chanson pour Une Lettre Débordante de Joie"
       },
       "audio_en": "/static/audio/philippians/lesson01_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "How does Paul describe the Philippians, in terms of his gospel work?"
+            "en": "How does Paul describe the Philippians, in terms of his gospel work?",
+            "es": "¿Cómo describe Pablo a los filipenses, en cuanto a su obra del evangelio?",
+            "fr": "Comment Paul décrit-il les Philippiens, par rapport à son œuvre évangélique ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "His partners in the gospel from the very first day",
               "People who never helped him",
               "Opponents of his ministry"
+            ],
+            "es": [
+              "Desconocidos que apenas conocía",
+              "Sus compañeros en el evangelio desde el primer día",
+              "Personas que nunca lo ayudaron",
+              "Opositores de su ministerio"
+            ],
+            "fr": [
+              "Des étrangers qu'il connaissait à peine",
+              "Ses partenaires dans l'Évangile depuis le premier jour",
+              "Des gens qui ne l'ont jamais aidé",
+              "Des adversaires de son ministère"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is Paul confident God will do, having begun a good work in the Philippians?"
+            "en": "What is Paul confident God will do, having begun a good work in the Philippians?",
+            "es": "¿De qué está confiado Pablo que Dios hará, habiendo comenzado una buena obra en los filipenses?",
+            "fr": "De quoi Paul est-il confiant que Dieu fera, ayant commencé une bonne œuvre chez les Philippiens ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Carry it on to completion until Christ returns",
               "Forget about it",
               "Undo it"
+            ],
+            "es": [
+              "Abandonarla a medias",
+              "Llevarla a cabo hasta completarla cuando Cristo regrese",
+              "Olvidarla",
+              "Deshacerla"
+            ],
+            "fr": [
+              "L'abandonner à mi-chemin",
+              "La mener à son achèvement jusqu'au retour de Christ",
+              "L'oublier",
+              "L'annuler"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul pray would overflow more and more in the Philippians?"
+            "en": "What does Paul pray would overflow more and more in the Philippians?",
+            "es": "¿Qué ora Pablo que abunde más y más en los filipenses?",
+            "fr": "Que prie Paul pour qu'il abonde de plus en plus chez les Philippiens ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Their love, together with knowledge and insight",
               "Their fame",
               "Their arguments"
+            ],
+            "es": [
+              "Su riqueza",
+              "Su amor, junto con conocimiento y discernimiento",
+              "Su fama",
+              "Sus discusiones"
+            ],
+            "fr": [
+              "Leur richesse",
+              "Leur amour, avec la connaissance et le discernement",
+              "Leur célébrité",
+              "Leurs disputes"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A Letter Bursting with Joy"
+            "en": "Activity sheet: A Letter Bursting with Joy",
+            "es": "Hoja de actividad: Una Carta Desbordante de Alegría",
+            "fr": "Fiche d'activité : Une Lettre Débordante de Joie"
           },
           "file": "/static/printables/philippians/lesson01_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: genuine gospel partnership and confident assurance that God completes what He starts — note the careful balance, since \"he who began a good work...will carry it on\" (1:6) sits alongside the rest of the letter's call to active perseverance (worked out fully in 2:12-13 and 3:12-14). Confidence in God's faithfulness and serious, ongoing effort are not opposites in Paul's mind; they work together.\n\nConversation starters: (1) What does it mean to be someone's \"partner in the gospel,\" not just a bystander? (2) How does it feel to know God doesn't abandon work He's begun in you? (3) What would it look like for your love to \"overflow more and more\" this week?\n\nPray with the same joyful confidence Paul prayed, thanking God for specific people in your life."
+        "en": "Big idea: genuine gospel partnership and confident assurance that God completes what He starts — note the careful balance, since \"he who began a good work...will carry it on\" (1:6) sits alongside the rest of the letter's call to active perseverance (worked out fully in 2:12-13 and 3:12-14). Confidence in God's faithfulness and serious, ongoing effort are not opposites in Paul's mind; they work together.\n\nConversation starters: (1) What does it mean to be someone's \"partner in the gospel,\" not just a bystander? (2) How does it feel to know God doesn't abandon work He's begun in you? (3) What would it look like for your love to \"overflow more and more\" this week?\n\nPray with the same joyful confidence Paul prayed, thanking God for specific people in your life.",
+        "es": "Idea principal: una genuina asociación en el evangelio y la confiada seguridad de que Dios completa lo que comienza — nota el cuidadoso equilibrio, ya que \"el que comenzó en vosotros la buena obra... la perfeccionará\" (1:6) convive con el llamado del resto de la carta a la perseverancia activa (desarrollado plenamente en 2:12-13 y 3:12-14). La confianza en la fidelidad de Dios y el esfuerzo serio y continuo no son opuestos en la mente de Pablo; trabajan juntos.\n\nPara conversar: (1) ¿Qué significa ser \"compañero en el evangelio\" de alguien, y no solo un espectador? (2) ¿Cómo se siente saber que Dios no abandona la obra que ha comenzado en ti? (3) ¿Cómo se vería que tu amor \"abunde más y más\" esta semana?\n\nOren con la misma alegre confianza con que oraba Pablo, dando gracias a Dios por personas específicas en su vida.",
+        "fr": "Idée principale : une authentique association dans l'Évangile et l'assurance confiante que Dieu achève ce qu'Il commence — notez l'équilibre soigneux, puisque « celui qui a commencé en vous cette bonne œuvre... la rendra parfaite » (1.6) coexiste avec l'appel du reste de la lettre à la persévérance active (développé pleinement en 2.12-13 et 3.12-14). La confiance dans la fidélité de Dieu et l'effort sérieux et continu ne sont pas des opposés dans l'esprit de Paul ; ils agissent ensemble.\n\nPour la conversation : (1) Que signifie être le « partenaire dans l'Évangile » de quelqu'un, et non un simple spectateur ? (2) Que ressent-on en sachant que Dieu n'abandonne pas l'œuvre qu'Il a commencée en nous ? (3) À quoi ressemblerait le fait que ton amour « abonde de plus en plus » cette semaine ?\n\nPriez avec la même joyeuse confiance que Paul, en remerciant Dieu pour des personnes précises dans votre vie."
       }
     }
   ]

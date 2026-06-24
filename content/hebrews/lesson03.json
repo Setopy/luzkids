@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Jesus Became Like Us"
+    "en": "Jesus Became Like Us",
+    "es": "Jesús Se Hizo Como Nosotros",
+    "fr": "Jésus Est Devenu Comme Nous"
   },
   "ref": "Hebrews 2:5-18",
   "section": "Jesus Made Like His Brothers",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Not ashamed to call us family"
+        "en": "Not ashamed to call us family",
+        "es": "No se avergüenza de llamarnos familia",
+        "fr": "Pas honte de nous appeler famille"
       },
       "body": {
-        "en": "Jesus did not stay distant in heaven. He became human — fully human — sharing in our weakness, even facing death, so that by His death He might break the power of the one who held the fear of death over humanity. Jesus is not ashamed to call us brothers and sisters!\n\nBecause He suffered and was tempted in every way we are, He is able to help us perfectly when we are tempted too. He stepped into our exact situation, so He could understand completely and be the perfect High Priest."
+        "en": "Jesus did not stay distant in heaven. He became human — fully human — sharing in our weakness, even facing death, so that by His death He might break the power of the one who held the fear of death over humanity. Jesus is not ashamed to call us brothers and sisters!\n\nBecause He suffered and was tempted in every way we are, He is able to help us perfectly when we are tempted too. He stepped into our exact situation, so He could understand completely and be the perfect High Priest.",
+        "es": "Jesús no se quedó distante en el cielo. Se hizo humano — completamente humano — compartiendo nuestra debilidad, enfrentando incluso la muerte, para que por Su muerte pudiera quebrar el poder de aquel que tenía el temor de la muerte sobre la humanidad. ¡Jesús no se avergüenza de llamarnos hermanos y hermanas!\n\nPorque sufrió y fue tentado en todo así como nosotros, puede ayudarnos perfectamente cuando también somos tentados. Él entró en nuestra situación exacta, para poder entender completamente y ser el Sumo Sacerdote perfecto.",
+        "fr": "Jésus n'est pas resté distant dans le ciel. Il est devenu humain — pleinement humain — partageant notre faiblesse, faisant même face à la mort, afin que par Sa mort Il puisse briser le pouvoir de celui qui tenait l'humanité sous la crainte de la mort. Jésus n'a pas honte de nous appeler frères et sœurs !\n\nParce qu'Il a souffert et a été tenté en tout comme nous le sommes, Il est capable de nous aider parfaitement quand nous sommes tentés aussi. Il est entré dans notre situation exacte, afin de pouvoir comprendre complètement et être le souverain sacrificateur parfait."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Because Jesus himself suffered when he was tempted, he is able to help those who are being tempted."
+        "en": "Because Jesus himself suffered when he was tempted, he is able to help those who are being tempted.",
+        "es": "Porque en cuanto él mismo padeció siendo tentado, es poderoso para socorrer á los que son tentados.",
+        "fr": "car, ayant été tenté lui-même dans ce qu'il a souffert, il peut secourir ceux qui sont tentés."
       },
       "ref": {
-        "en": "Hebrews 2:18 (NIV)"
+        "en": "Hebrews 2:18 (NIV)",
+        "es": "Hebreos 2:18 (Valera)",
+        "fr": "Hébreux 2:18 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "able",
           "to",
           "help"
+        ],
+        "es": [
+          "Porque",
+          "en",
+          "cuanto",
+          "él",
+          "mismo",
+          "padeció"
+        ],
+        "fr": [
+          "Car",
+          "ayant",
+          "été",
+          "tenté",
+          "lui-même",
+          "dans"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Jesus Became Like Us"
+        "en": "A Song for Jesus Became Like Us",
+        "es": "Una Canción para Jesús Se Hizo Como Nosotros",
+        "fr": "Une Chanson pour Jésus Est Devenu Comme Nous"
       },
       "audio_en": "/static/audio/hebrews/lesson03_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why did Jesus become fully human?"
+            "en": "Why did Jesus become fully human?",
+            "es": "¿Por qué se hizo Jesús completamente humano?",
+            "fr": "Pourquoi Jésus est-Il devenu pleinement humain ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "To share our weakness and break death's power over us",
               "No choice",
               "To avoid suffering"
+            ],
+            "es": [
+              "Para presumir",
+              "Para compartir nuestra debilidad y quebrar el poder de la muerte sobre nosotros",
+              "Sin tener otra opción",
+              "Para evitar el sufrimiento"
+            ],
+            "fr": [
+              "Pour se faire valoir",
+              "Pour partager notre faiblesse et briser le pouvoir de la mort sur nous",
+              "Sans autre choix",
+              "Pour éviter la souffrance"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Jesus call those He came to save?"
+            "en": "What does Jesus call those He came to save?",
+            "es": "¿Cómo llama Jesús a aquellos que vino a salvar?",
+            "fr": "Comment Jésus appelle-t-Il ceux qu'Il est venu sauver ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "Brothers and sisters",
               "Servants only",
               "Nobody"
+            ],
+            "es": [
+              "Desconocidos",
+              "Hermanos y hermanas",
+              "Solo siervos",
+              "A nadie"
+            ],
+            "fr": [
+              "Des étrangers",
+              "Frères et sœurs",
+              "Seulement des serviteurs",
+              "Personne"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why is Jesus able to help us perfectly when tempted?"
+            "en": "Why is Jesus able to help us perfectly when tempted?",
+            "es": "¿Por qué puede Jesús ayudarnos perfectamente cuando somos tentados?",
+            "fr": "Pourquoi Jésus peut-Il nous aider parfaitement quand nous sommes tentés ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Because He Himself suffered when tempted",
               "He doesn't help",
               "Only perfect people get help"
+            ],
+            "es": [
+              "Nunca fue tentado",
+              "Porque Él mismo sufrió al ser tentado",
+              "Él no ayuda",
+              "Solo las personas perfectas reciben ayuda"
+            ],
+            "fr": [
+              "Il n'a jamais été tenté",
+              "Parce qu'Il a Lui-même souffert en étant tenté",
+              "Il n'aide pas",
+              "Seules les personnes parfaites reçoivent de l'aide"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Jesus Became Like Us"
+            "en": "Activity sheet: Jesus Became Like Us",
+            "es": "Hoja de actividad: Jesús Se Hizo Como Nosotros",
+            "fr": "Fiche d'activité : Jésus Est Devenu Comme Nous"
           },
           "file": "/static/printables/hebrews/lesson03_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Christ's full humanity is the foundation for His sympathetic, effective priesthood (developed in chs. 4-10). Pastoral comfort, not abstract theology.\n\nConversation starters: (1) How does it help to know Jesus faced real temptation? (2) What does it mean He is \"not ashamed\" to call us family? (3) Why does shared experience make a better helper?\n\nPray thanking Jesus for becoming one of us to rescue us fully."
+        "en": "Big idea: Christ's full humanity is the foundation for His sympathetic, effective priesthood (developed in chs. 4-10). Pastoral comfort, not abstract theology.\n\nConversation starters: (1) How does it help to know Jesus faced real temptation? (2) What does it mean He is \"not ashamed\" to call us family? (3) Why does shared experience make a better helper?\n\nPray thanking Jesus for becoming one of us to rescue us fully.",
+        "es": "Idea principal: la plena humanidad de Cristo es el fundamento de Su sacerdocio compasivo y eficaz (desarrollado en los capítulos 4-10). Consuelo pastoral, no teología abstracta.\n\nPara conversar: (1) ¿En qué ayuda saber que Jesús enfrentó tentación real? (2) ¿Qué significa que Él 'no se avergüence' de llamarnos familia? (3) ¿Por qué la experiencia compartida hace de Él un mejor ayudador?\n\nOren agradeciendo a Jesús por hacerse uno de nosotros para rescatarnos por completo.",
+        "fr": "Idée principale : la pleine humanité de Christ est le fondement de Son sacerdoce compatissant et efficace (développé aux chapitres 4-10). Un réconfort pastoral, et non une théologie abstraite.\n\nPour la conversation : (1) En quoi cela aide-t-il de savoir que Jésus a affronté une tentation réelle ? (2) Que signifie le fait qu'Il n'ait « pas honte » de nous appeler famille ? (3) Pourquoi l'expérience partagée fait-elle de Lui un meilleur secours ?\n\nPriez en remerciant Jésus de s'être fait l'un de nous pour nous secourir pleinement."
       }
     }
   ]

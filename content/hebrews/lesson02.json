@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Don't Drift Away!"
+    "en": "Don't Drift Away!",
+    "es": "¡No Te Alejes a la Deriva!",
+    "fr": "Ne Dérive Pas !"
   },
   "ref": "Hebrews 2:1-4",
   "section": "Warning Against Drifting Away",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A boat with no anchor"
+        "en": "A boat with no anchor",
+        "es": "Un bote sin ancla",
+        "fr": "Un bateau sans ancre"
       },
       "body": {
-        "en": "Imagine a small boat floating near shore — no one rowing, no anchor dropped. It doesn't crash suddenly; it just slowly drifts further out until the shore disappears. The writer uses this picture as a warning: pay MUCH closer attention to what we've heard about Jesus, so we don't DRIFT AWAY.\n\nIf the law given through angels carried serious consequences for disobedience, how much more serious is it to ignore the salvation announced by the Lord Himself, confirmed by signs, wonders, and the Holy Spirit?"
+        "en": "Imagine a small boat floating near shore — no one rowing, no anchor dropped. It doesn't crash suddenly; it just slowly drifts further out until the shore disappears. The writer uses this picture as a warning: pay MUCH closer attention to what we've heard about Jesus, so we don't DRIFT AWAY.\n\nIf the law given through angels carried serious consequences for disobedience, how much more serious is it to ignore the salvation announced by the Lord Himself, confirmed by signs, wonders, and the Holy Spirit?",
+        "es": "Imagina un pequeño bote flotando cerca de la orilla — nadie remando, ningún ancla echada. No se estrella de repente; simplemente se aleja lentamente cada vez más hasta que la orilla desaparece. El escritor usa esta imagen como advertencia: pongamos MUCHA más atención a lo que hemos oído acerca de Jesús, para que no nos ALEJEMOS A LA DERIVA.\n\nSi la ley dada por medio de ángeles llevaba consecuencias serias por la desobediencia, ¿cuánto más serio es ignorar la salvación anunciada por el Señor mismo, confirmada con señales, milagros, y el Espíritu Santo?",
+        "fr": "Imagine un petit bateau flottant près du rivage — personne ne rame, aucune ancre n'est jetée. Il ne s'écrase pas soudainement ; il dérive simplement, lentement, de plus en plus loin jusqu'à ce que le rivage disparaisse. L'auteur utilise cette image comme avertissement : prêtons une attention BIEN plus grande à ce que nous avons entendu à propos de Jésus, afin de ne pas DÉRIVER.\n\nSi la loi donnée par des anges entraînait des conséquences sérieuses pour la désobéissance, à quel point est-il plus sérieux d'ignorer le salut annoncé par le Seigneur Lui-même, confirmé par des signes, des miracles, et le Saint-Esprit ?"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away."
+        "en": "We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away.",
+        "es": "POR tanto, es menester que con más diligencia atendamos á las cosas que hemos oído, porque acaso no nos escurramos.",
+        "fr": "C'est pourquoi nous devons d'autant plus nous attacher aux choses que nous avons entendues, de peur que nous ne soyons emportés loin d'elles."
       },
       "ref": {
-        "en": "Hebrews 2:1 (NIV)"
+        "en": "Hebrews 2:1 (NIV)",
+        "es": "Hebreos 2:1 (Valera)",
+        "fr": "Hébreux 2:1 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -31,6 +41,22 @@
           "most",
           "careful",
           "attention"
+        ],
+        "es": [
+          "Por",
+          "tanto",
+          "es",
+          "menester",
+          "que",
+          "con"
+        ],
+        "fr": [
+          "C'est",
+          "pourquoi",
+          "nous",
+          "devons",
+          "d'autant",
+          "plus"
         ]
       },
       "typing_challenge": true
@@ -38,7 +64,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Don't Drift Away!"
+        "en": "A Song for Don't Drift Away!",
+        "es": "Una Canción para ¡No Te Alejes a la Deriva!",
+        "fr": "Une Chanson pour Ne Dérive Pas !"
       },
       "audio_en": "/static/audio/hebrews/lesson02_en.mp3"
     },
@@ -47,7 +75,9 @@
       "questions": [
         {
           "q": {
-            "en": "What warning picture does this lesson use?"
+            "en": "What warning picture does this lesson use?",
+            "es": "¿Qué imagen de advertencia usa esta lección?",
+            "fr": "Quelle image d'avertissement cette leçon utilise-t-elle ?"
           },
           "options": {
             "en": [
@@ -55,13 +85,27 @@
               "A boat slowly drifting from shore",
               "A door slamming",
               "A race"
+            ],
+            "es": [
+              "Un incendio en una casa",
+              "Un bote alejándose lentamente de la orilla",
+              "Una puerta cerrándose de golpe",
+              "Una carrera"
+            ],
+            "fr": [
+              "Un incendie dans une maison",
+              "Un bateau qui dérive lentement du rivage",
+              "Une porte qui claque",
+              "Une course"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why is ignoring the salvation Jesus brought so serious?"
+            "en": "Why is ignoring the salvation Jesus brought so serious?",
+            "es": "¿Por qué es tan serio ignorar la salvación que trajo Jesús?",
+            "fr": "Pourquoi est-il si sérieux d'ignorer le salut que Jésus a apporté ?"
           },
           "options": {
             "en": [
@@ -69,13 +113,27 @@
               "Because it was confirmed by the Lord Himself, signs, and the Spirit",
               "Angels get upset",
               "No reason given"
+            ],
+            "es": [
+              "En realidad no lo es",
+              "Porque fue confirmada por el Señor mismo, señales, y el Espíritu",
+              "Los ángeles se enojan",
+              "No se da ninguna razón"
+            ],
+            "fr": [
+              "En réalité, ça ne l'est pas",
+              "Parce qu'il a été confirmé par le Seigneur Lui-même, des signes, et l'Esprit",
+              "Les anges se fâchent",
+              "Aucune raison n'est donnée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What kind of attention does the writer say we need?"
+            "en": "What kind of attention does the writer say we need?",
+            "es": "¿Qué tipo de atención dice el escritor que necesitamos?",
+            "fr": "Quel genre d'attention l'auteur dit-il que nous devons avoir ?"
           },
           "options": {
             "en": [
@@ -83,6 +141,18 @@
               "Careful, close attention, daily",
               "Attention once a year",
               "Attention only in trouble"
+            ],
+            "es": [
+              "Ninguna — la fe funciona en automático",
+              "Atención cuidadosa y cercana, diaria",
+              "Atención una vez al año",
+              "Atención solo cuando hay problemas"
+            ],
+            "fr": [
+              "Aucune — la foi fonctionne en pilote automatique",
+              "Une attention soigneuse et proche, quotidienne",
+              "Une attention une fois par an",
+              "Une attention seulement en cas de problème"
             ]
           },
           "answer": 1
@@ -94,7 +164,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Don't Drift Away!"
+            "en": "Activity sheet: Don't Drift Away!",
+            "es": "Hoja de actividad: ¡No Te Alejes a la Deriva!",
+            "fr": "Fiche d'activité : Ne Dérive Pas !"
           },
           "file": "/static/printables/hebrews/lesson02_sheet.pdf"
         }
@@ -103,7 +175,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the danger of gradual, quiet spiritual drift — the first of five warning passages in Hebrews. Salvation is not presumed automatic; ongoing attentiveness matters.\n\nConversation starters: (1) What are quiet ways faith could \"drift\" unnoticed? (2) What helps you stay anchored? (3) Why might gradual drift be more dangerous than one big fall?\n\nPray for hearts that stay anchored and attentive."
+        "en": "Big idea: the danger of gradual, quiet spiritual drift — the first of five warning passages in Hebrews. Salvation is not presumed automatic; ongoing attentiveness matters.\n\nConversation starters: (1) What are quiet ways faith could \"drift\" unnoticed? (2) What helps you stay anchored? (3) Why might gradual drift be more dangerous than one big fall?\n\nPray for hearts that stay anchored and attentive.",
+        "es": "Idea principal: el peligro de la deriva espiritual gradual y silenciosa — la primera de cinco advertencias en Hebreos. La salvación no se presume automática; la atención continua importa.\n\nPara conversar: (1) ¿Cuáles son maneras silenciosas en que la fe podría 'alejarse a la deriva' sin que nos demos cuenta? (2) ¿Qué te ayuda a permanecer anclado? (3) ¿Por qué podría la deriva gradual ser más peligrosa que una gran caída de una sola vez?\n\nOren por corazones que permanezcan anclados y atentos.",
+        "fr": "Idée principale : le danger d'une dérive spirituelle progressive et silencieuse — le premier des cinq passages d'avertissement dans Hébreux. Le salut n'est pas présumé automatique ; l'attention continue importe.\n\nPour la conversation : (1) Quelles sont des façons silencieuses dont la foi pourrait « dériver » sans qu'on s'en aperçoive ? (2) Qu'est-ce qui t'aide à rester ancré ? (3) Pourquoi une dérive progressive pourrait-elle être plus dangereuse qu'une grande chute soudaine ?\n\nPriez pour des cœurs qui restent ancrés et attentifs."
       }
     }
   ]

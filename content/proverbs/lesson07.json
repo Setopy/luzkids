@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Sleep Without Fear"
+    "en": "Sleep Without Fear",
+    "es": "Duerme Sin Temor",
+    "fr": "Dors Sans Crainte"
   },
   "ref": "Proverbs 3:21-35",
   "section": "Further Benefits of Wisdom",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Wisdom that lets you rest easy"
+        "en": "Wisdom that lets you rest easy",
+        "es": "Sabiduría que te permite descansar tranquilo",
+        "fr": "Une sagesse qui te permet de te reposer tranquillement"
       },
       "body": {
-        "en": "Keep sound judgment and discernment, the father urges, and they will be life for you — they will keep you safe so you can go on your way unharmed, your foot will not stumble.\n\nWhen you lie down, you won't be afraid — your sleep will be sweet! Don't be afraid of sudden disaster, because the Lord will be your confidence and will keep your foot from being caught in a trap.\n\nDon't withhold good from those who deserve it, when it's in your power to act. Don't tell a neighbour, 'Come back tomorrow' when you could help them right now.\n\nDon't plot harm against your neighbour who trusts you and lives nearby. Don't envy violent or wicked people, or choose any of their ways, because the Lord detests the perverse but takes the upright into His confidence.\n\nThe chapter closes with one of the book's clearest contrasts: the Lord's curse is on the house of the wicked, but He blesses the home of the righteous. He mocks proud mockers but shows favour to the humble."
+        "en": "Keep sound judgment and discernment, the father urges, and they will be life for you — they will keep you safe so you can go on your way unharmed, your foot will not stumble.\n\nWhen you lie down, you won't be afraid — your sleep will be sweet! Don't be afraid of sudden disaster, because the Lord will be your confidence and will keep your foot from being caught in a trap.\n\nDon't withhold good from those who deserve it, when it's in your power to act. Don't tell a neighbour, 'Come back tomorrow' when you could help them right now.\n\nDon't plot harm against your neighbour who trusts you and lives nearby. Don't envy violent or wicked people, or choose any of their ways, because the Lord detests the perverse but takes the upright into His confidence.\n\nThe chapter closes with one of the book's clearest contrasts: the Lord's curse is on the house of the wicked, but He blesses the home of the righteous. He mocks proud mockers but shows favour to the humble.",
+        "es": "Guarda el consejo y la inteligencia, urge el padre, y serán vida para tu alma — te guardarán para que andes seguro por tu camino, y tu pie no resbalará.\n\nCuando te acostares, no tendrás temor — ¡tu sueño será suave! No tengas miedo de pavor repentino, porque Jehová será tu confianza, y guardará tu pie de quedar atrapado en una trampa.\n\nNo retengas el bien de quienes lo merecen, cuando esté en tu poder hacerlo. No le digas a tu vecino, \"anda, y vuelve, y mañana te daré,\" cuando tienes con qué darlo ahora mismo.\n\nNo intentes mal contra tu prójimo, que habita confiado cerca de ti. No envidies al hombre injusto, ni escojas alguno de sus caminos, porque Jehová abomina al perverso, mas con los rectos es su secreto.\n\nEl capítulo cierra con uno de los contrastes más claros del libro: la maldición de Jehová está en la casa del impío, mas Él bendice la morada de los justos. Él escarnece a los escarnecedores, mas a los humildes da gracia.",
+        "fr": "Garde le jugement et la réflexion, insiste le père, et ils seront la vie de ton âme — ils te garderont pour que tu marches en sécurité, et ton pied ne bronchera point.\n\nSi tu te couches, tu seras sans crainte — ton sommeil sera doux ! Ne crains pas l'épouvante subite, car l'Éternel sera ta confiance, et il gardera ton pied d'être pris au piège.\n\nNe refuse pas un bienfait à celui qui y a droit, si tu as le pouvoir de l'accorder. Ne dis pas à ton prochain : « va, et reviens, demain je donnerai ! » quand tu as de quoi donner sur le moment.\n\nNe médite pas le mal contre ton prochain, qui demeure tranquillement près de toi. Ne porte pas envie à l'homme violent, et ne choisis aucune de ses voies, car l'Éternel a en horreur l'homme pervers, mais il est l'ami des hommes droits.\n\nLe chapitre se termine par l'un des contrastes les plus clairs du livre : la malédiction de l'Éternel est dans la maison du méchant, mais il bénit la demeure des justes. Il se moque des moqueurs, mais il fait grâce aux humbles."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "When you lie down, you will not be afraid; when you lie down, your sleep will be sweet."
+        "en": "When you lie down, you will not be afraid; when you lie down, your sleep will be sweet.",
+        "es": "Cuando te acostares, no tendrás temor; antes te acostarás, y tu sueño será suave.",
+        "fr": "Si tu te couches, tu seras sans crainte ; Et quand tu seras couché, ton sommeil sera doux."
       },
       "ref": {
-        "en": "Proverbs 3:24 (NIV)"
+        "en": "Proverbs 3:24 (NIV)",
+        "es": "Proverbios 3:24 (Valera)",
+        "fr": "Proverbes 3:24 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "will",
           "be",
           "sweet"
+        ],
+        "es": [
+          "Cuando",
+          "te",
+          "acostares",
+          "no",
+          "tendrás",
+          "temor"
+        ],
+        "fr": [
+          "Si",
+          "tu",
+          "te",
+          "couches",
+          "tu",
+          "seras"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Sleep Without Fear"
+        "en": "A Song for Sleep Without Fear",
+        "es": "Una Canción para Duerme Sin Temor",
+        "fr": "Une Chanson pour Dors Sans Crainte"
       },
       "audio_en": "/static/audio/proverbs/lesson07_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does this chapter say about the sleep of someone keeping sound judgment?"
+            "en": "What does this chapter say about the sleep of someone keeping sound judgment?",
+            "es": "¿Qué dice este capítulo sobre el sueño de alguien que guarda buen juicio?",
+            "fr": "Que dit ce chapitre sur le sommeil de quelqu'un qui garde le bon jugement ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "Sweet — they will not be afraid",
               "Exactly the same as anyone else's",
               "Always interrupted"
+            ],
+            "es": [
+              "Inquieto y lleno de pesadillas",
+              "Suave — no tendrá temor",
+              "Exactamente igual que el de cualquiera",
+              "Siempre interrumpido"
+            ],
+            "fr": [
+              "Agité et plein de cauchemars",
+              "Doux — il sera sans crainte",
+              "Exactement le même que celui de n'importe qui",
+              "Toujours interrompu"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the father warn against doing to a neighbour who deserves help?"
+            "en": "What does the father warn against doing to a neighbour who deserves help?",
+            "es": "¿Contra qué advierte el padre hacer a un vecino que merece ayuda?",
+            "fr": "Contre quoi le père met-il en garde concernant un prochain qui mérite de l'aide ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Saying 'come back tomorrow' when you could help right now",
               "Ignoring them politely",
               "Nothing is said about neighbours"
+            ],
+            "es": [
+              "Ayudarlo de inmediato",
+              "Decir 'vuelve mañana' cuando podrías ayudar ahora mismo",
+              "Ignorarlo cortésmente",
+              "Nada se dice sobre los vecinos"
+            ],
+            "fr": [
+              "L'aider immédiatement",
+              "Dire 'reviens demain' quand tu pourrais aider tout de suite",
+              "L'ignorer poliment",
+              "Rien n'est dit sur les voisins"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Proverbs describe the Lord's attitude toward proud mockers versus the humble?"
+            "en": "How does Proverbs describe the Lord's attitude toward proud mockers versus the humble?",
+            "es": "¿Cómo describe Proverbios la actitud de Jehová hacia los escarnecedores orgullosos versus los humildes?",
+            "fr": "Comment Proverbes décrit-il l'attitude de l'Éternel envers les moqueurs orgueilleux et les humbles ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "He mocks proud mockers but shows favour to the humble",
               "He ignores both groups",
               "He favours mockers more"
+            ],
+            "es": [
+              "Favorece a los escarnecedores por igual",
+              "Escarnece a los escarnecedores, mas a los humildes da gracia",
+              "Ignora a ambos grupos",
+              "Favorece más a los escarnecedores"
+            ],
+            "fr": [
+              "Il favorise les moqueurs également",
+              "Il se moque des moqueurs, mais fait grâce aux humbles",
+              "Il ignore les deux groupes",
+              "Il favorise davantage les moqueurs"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Sleep Without Fear"
+            "en": "Activity sheet: Sleep Without Fear",
+            "es": "Hoja de actividad: Duerme Sin Temor",
+            "fr": "Fiche d'activité : Dors Sans Crainte"
           },
           "file": "/static/printables/proverbs/lesson07_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: practical wisdom produces tangible peace — even something as simple and universal as sleep — while also calling for active, immediate kindness toward neighbours rather than delayed or withheld generosity. The closing contrast between blessing on the righteous and curse on the wicked sets up a pattern that runs throughout the book's many short proverbs that follow.\n\nConversation starters: (1) Why might wisdom and trust in God lead to literally sleeping better at night? (2) Why is delaying help (\"come back tomorrow\") treated as its own kind of wrongdoing? (3) What does it mean that God \"shows favour to the humble\" but \"mocks proud mockers\"?\n\nPray for peaceful trust that lets you rest well, and for hearts quick to help, not quick to delay."
+        "en": "Big idea: practical wisdom produces tangible peace — even something as simple and universal as sleep — while also calling for active, immediate kindness toward neighbours rather than delayed or withheld generosity. The closing contrast between blessing on the righteous and curse on the wicked sets up a pattern that runs throughout the book's many short proverbs that follow.\n\nConversation starters: (1) Why might wisdom and trust in God lead to literally sleeping better at night? (2) Why is delaying help (\"come back tomorrow\") treated as its own kind of wrongdoing? (3) What does it mean that God \"shows favour to the humble\" but \"mocks proud mockers\"?\n\nPray for peaceful trust that lets you rest well, and for hearts quick to help, not quick to delay.",
+        "es": "Idea principal: la sabiduría práctica produce paz tangible — incluso algo tan simple y universal como el sueño — mientras también llama a la bondad activa e inmediata hacia los vecinos, en lugar de la generosidad retrasada o retenida. El contraste final entre la bendición sobre los justos y la maldición sobre los impíos establece un patrón que recorre los muchos proverbios cortos del libro que siguen.\n\nPara conversar: (1) ¿Por qué podría la sabiduría y la confianza en Dios llevar literalmente a dormir mejor por la noche? (2) ¿Por qué se trata retrasar la ayuda (\"vuelve mañana\") como su propio tipo de maldad? (3) ¿Qué significa que Dios \"da gracia a los humildes\" pero \"escarnece a los escarnecedores\"?\n\nOren por una confianza pacífica que les permita descansar bien, y por corazones rápidos para ayudar, no rápidos para retrasar.",
+        "fr": "Idée principale : la sagesse pratique produit une paix tangible — même quelque chose d'aussi simple et universel que le sommeil — tout en appelant aussi à une bonté active et immédiate envers les voisins, plutôt qu'à une générosité retardée ou retenue. Le contraste final entre la bénédiction sur les justes et la malédiction sur les méchants établit un schéma qui traverse les nombreux courts proverbes du livre qui suivent.\n\nPour la conversation : (1) Pourquoi la sagesse et la confiance en Dieu pourraient-elles mener à mieux dormir, littéralement, la nuit ? (2) Pourquoi retarder l'aide (« reviens demain ») est-il traité comme son propre genre de mal ? (3) Que signifie que Dieu « fait grâce aux humbles » mais « se moque des moqueurs orgueilleux » ?\n\nPriez pour une confiance paisible qui vous permette de bien vous reposer, et pour des cœurs prompts à aider, pas prompts à retarder."
       }
     }
   ]

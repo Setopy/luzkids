@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Quiet Time, Then a Touch No One Else Would Give"
+    "en": "Quiet Time, Then a Touch No One Else Would Give",
+    "es": "Tiempo Tranquilo, Luego un Toque Que Nadie Más Daría",
+    "fr": "Un Moment Calme, Puis un Geste Que Personne d'Autre n'Aurait Fait"
   },
   "ref": "Mark 1:35-45",
   "section": "Jesus Prays in a Solitary Place / Jesus Heals a Man With Leprosy",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Very early, a solitary place"
+        "en": "Very early, a solitary place",
+        "es": "Muy de madrugada, un lugar solitario",
+        "fr": "Très tôt, un lieu solitaire"
       },
       "body": {
-        "en": "Very early the next morning, while it was still dark, Jesus got up, left the house, and went to a solitary place to pray. Simon and the others went looking for Him — 'Everyone is looking for you!' But Jesus said: 'Let us go somewhere else — to the nearby villages — so I can preach there also. That is why I have come.' Even with crowds desperate for more miracles, Jesus knew His mission was bigger than staying in one popular spot.\n\nThen a man with leprosy came to Jesus, begging on his knees: 'If you are willing, you can make me clean.' In that culture, leprosy made a person an outcast — untouchable, isolated, avoided by everyone.\n\nBut Jesus, filled with compassion, reached out His hand and TOUCHED him — something almost no one would dare to do — and said: 'I am willing. Be clean!' Immediately the leprosy left him. Jesus didn't just heal from a distance; He touched the untouchable."
+        "en": "Very early the next morning, while it was still dark, Jesus got up, left the house, and went to a solitary place to pray. Simon and the others went looking for Him — 'Everyone is looking for you!' But Jesus said: 'Let us go somewhere else — to the nearby villages — so I can preach there also. That is why I have come.' Even with crowds desperate for more miracles, Jesus knew His mission was bigger than staying in one popular spot.\n\nThen a man with leprosy came to Jesus, begging on his knees: 'If you are willing, you can make me clean.' In that culture, leprosy made a person an outcast — untouchable, isolated, avoided by everyone.\n\nBut Jesus, filled with compassion, reached out His hand and TOUCHED him — something almost no one would dare to do — and said: 'I am willing. Be clean!' Immediately the leprosy left him. Jesus didn't just heal from a distance; He touched the untouchable.",
+        "es": "Muy de madrugada, mientras aún estaba oscuro, Jesús se levantó, salió de la casa, y fue a un lugar solitario a orar. Simón y los demás fueron a buscarlo — \"¡Todos te buscan!\" Pero Jesús dijo: \"Vayamos a otro lugar — a las aldeas cercanas — para que predique allí también. Para esto he venido.\" Incluso con multitudes desesperadas por más milagros, Jesús sabía que Su misión era más grande que quedarse en un solo lugar popular.\n\nEntonces un hombre con lepra vino a Jesús, rogando de rodillas: \"Si quieres, puedes limpiarme.\" En aquella cultura, la lepra hacía de una persona un marginado — intocable, aislado, evitado por todos.\n\nPero Jesús, lleno de compasión, extendió Su mano y lo TOCÓ — algo que casi nadie se atrevería a hacer — y dijo: \"¡Quiero, sé limpio!\" Inmediatamente la lepra lo dejó. Jesús no solo sanaba a distancia; tocó al intocable.",
+        "fr": "Très tôt le lendemain matin, alors qu'il faisait encore nuit, Jésus se leva, sortit de la maison, et alla dans un lieu solitaire pour prier. Simon et les autres allèrent le chercher — « Tout le monde te cherche ! » Mais Jésus dit : « Allons ailleurs — dans les villages voisins — afin que j'y prêche aussi. Car c'est pour cela que je suis sorti. » Même avec des foules désespérées pour plus de miracles, Jésus savait que Sa mission était plus grande que de rester à un seul endroit populaire.\n\nPuis un homme lépreux vint à Jésus, le supplia à genoux : « Si tu le veux, tu peux me rendre pur. » Dans cette culture, la lèpre faisait d'une personne un exclu — intouchable, isolé, évité par tous.\n\nMais Jésus, ému de compassion, étendit la main et le TOUCHA — quelque chose que presque personne n'aurait osé faire — et dit : « Je le veux, sois pur ! » Immédiatement la lèpre le quitta. Jésus ne guérissait pas seulement à distance ; Il toucha l'intouchable."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Jesus reached out his hand and touched the man. 'I am willing,' he said. 'Be clean!'"
+        "en": "Jesus reached out his hand and touched the man. 'I am willing,' he said. 'Be clean!'",
+        "es": "Y Jesús, teniendo misericordia de él, extendió su mano, y le tocó, y le dice: Quiero, sé limpio.",
+        "fr": "Jésus, ému de compassion, étendit la main, le toucha, et dit : Je le veux, sois pur."
       },
       "ref": {
-        "en": "Mark 1:41 (NIV)"
+        "en": "Mark 1:41 (NIV)",
+        "es": "Marcos 1:41 (Valera)",
+        "fr": "Marc 1:41 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "I",
           "am",
           "willing"
+        ],
+        "es": [
+          "Y",
+          "Jesús",
+          "teniendo",
+          "misericordia",
+          "de",
+          "él"
+        ],
+        "fr": [
+          "Jésus",
+          "ému",
+          "de",
+          "compassion",
+          "étendit",
+          "la"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Quiet Time, Then a Touch No One Else Would Give"
+        "en": "A Song for Quiet Time, Then a Touch No One Else Would Give",
+        "es": "Una Canción para Tiempo Tranquilo, Luego un Toque Que Nadie Más Daría",
+        "fr": "Une Chanson pour Un Moment Calme, Puis un Geste Que Personne d'Autre n'Aurait Fait"
       },
       "audio_en": "/static/audio/mark/lesson04_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus do very early in the morning, before the crowds came?"
+            "en": "What did Jesus do very early in the morning, before the crowds came?",
+            "es": "¿Qué hizo Jesús muy de madrugada, antes de que llegaran las multitudes?",
+            "fr": "Qu'a fait Jésus très tôt le matin, avant que les foules n'arrivent ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "Went to a solitary place to pray",
               "Left Capernaum forever",
               "Avoided everyone"
+            ],
+            "es": [
+              "Se quedó dormido",
+              "Fue a un lugar solitario a orar",
+              "Dejó Capernaúm para siempre",
+              "Evitó a todos"
+            ],
+            "fr": [
+              "Il a dormi tard",
+              "Il est allé dans un lieu solitaire pour prier",
+              "Il a quitté Capernaüm pour toujours",
+              "Il a évité tout le monde"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why was it unusual for Jesus to touch the man with leprosy?"
+            "en": "Why was it unusual for Jesus to touch the man with leprosy?",
+            "es": "¿Por qué era inusual que Jesús tocara al hombre con lepra?",
+            "fr": "Pourquoi était-il inhabituel que Jésus touche l'homme lépreux ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "Leprosy made someone an outcast that almost no one would touch",
               "Touching was forbidden for everyone",
               "Jesus avoided sick people"
+            ],
+            "es": [
+              "No era inusual en absoluto",
+              "La lepra hacía de alguien un marginado a quien casi nadie tocaría",
+              "Tocar estaba prohibido para todos",
+              "Jesús evitaba a los enfermos"
+            ],
+            "fr": [
+              "Ce n'était pas inhabituel du tout",
+              "La lèpre faisait de quelqu'un un exclu que presque personne ne toucherait",
+              "Toucher était interdit pour tous",
+              "Jésus évitait les malades"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say as He touched the man?"
+            "en": "What did Jesus say as He touched the man?",
+            "es": "¿Qué dijo Jesús mientras tocaba al hombre?",
+            "fr": "Qu'a dit Jésus en touchant l'homme ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "I am willing. Be clean!",
               "Nothing at all",
               "Go find someone else"
+            ],
+            "es": [
+              "Aléjate de mí",
+              "¡Quiero, sé limpio!",
+              "Nada en absoluto",
+              "Ve a buscar a otra persona"
+            ],
+            "fr": [
+              "Éloigne-toi de moi",
+              "Je le veux, sois pur !",
+              "Rien du tout",
+              "Va trouver quelqu'un d'autre"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Quiet Time, Then a Touch No One Else Would Give"
+            "en": "Activity sheet: Quiet Time, Then a Touch No One Else Would Give",
+            "es": "Hoja de actividad: Tiempo Tranquilo, Luego un Toque Que Nadie Más Daría",
+            "fr": "Fiche d'activité : Un Moment Calme, Puis un Geste Que Personne d'Autre n'Aurait Fait"
           },
           "file": "/static/printables/mark/lesson04_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus models both disciplined prayer (seeking solitude even amid overwhelming demand) and radical compassion (touching the untouchable). His mission was never reducible to staying where He was popular — He kept moving toward those most in need, even the most excluded.\n\nConversation starters: (1) Why might Jesus need quiet time alone to pray, even though He was God's Son? (2) Who today might feel like an \"untouchable,\" the way lepers were treated? (3) What does Jesus' willingness to touch the man teach us about how to treat people others avoid?\n\nPray for compassion toward people who feel excluded or untouchable, and for disciplined time alone with God."
+        "en": "Big idea: Jesus models both disciplined prayer (seeking solitude even amid overwhelming demand) and radical compassion (touching the untouchable). His mission was never reducible to staying where He was popular — He kept moving toward those most in need, even the most excluded.\n\nConversation starters: (1) Why might Jesus need quiet time alone to pray, even though He was God's Son? (2) Who today might feel like an \"untouchable,\" the way lepers were treated? (3) What does Jesus' willingness to touch the man teach us about how to treat people others avoid?\n\nPray for compassion toward people who feel excluded or untouchable, and for disciplined time alone with God.",
+        "es": "Idea principal: Jesús modela tanto la oración disciplinada (buscando soledad incluso en medio de una demanda abrumadora) como la compasión radical (tocando al intocable). Su misión nunca se redujo a quedarse donde era popular — siguió moviéndose hacia los más necesitados, incluso los más excluidos.\n\nPara conversar: (1) ¿Por qué podría Jesús necesitar tiempo tranquilo a solas para orar, aunque era el Hijo de Dios? (2) ¿Quién hoy podría sentirse como un 'intocable', de la manera en que se trataba a los leprosos? (3) ¿Qué nos enseña la disposición de Jesús a tocar al hombre sobre cómo tratar a las personas que otros evitan?\n\nOren por compasión hacia las personas que se sienten excluidas o intocables, y por tiempo disciplinado a solas con Dios.",
+        "fr": "Idée principale : Jésus modèle à la fois la prière disciplinée (cherchant la solitude même au milieu d'une demande accablante) et la compassion radicale (touchant l'intouchable). Sa mission ne s'est jamais réduite à rester là où Il était populaire — Il continuait à se diriger vers ceux qui en avaient le plus besoin, même les plus exclus.\n\nPour la conversation : (1) Pourquoi Jésus aurait-Il besoin d'un moment calme seul pour prier, alors qu'Il était le Fils de Dieu ? (2) Qui aujourd'hui pourrait se sentir comme un « intouchable », comme on traitait les lépreux ? (3) Que nous enseigne la volonté de Jésus de toucher l'homme sur la façon de traiter les personnes que les autres évitent ?\n\nPriez pour la compassion envers les personnes qui se sentent exclues ou intouchables, et pour un temps disciplinné seul avec Dieu."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Astonished and Alarmed"
+    "en": "Astonished and Alarmed",
+    "es": "Asombrado y Alarmado",
+    "fr": "Stupéfait et Alarmé"
   },
   "ref": "Galatians 1:1-10",
   "section": "No Other Gospel",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A letter that starts with no thank-you"
+        "en": "A letter that starts with no thank-you",
+        "es": "Una carta que comienza sin agradecimiento",
+        "fr": "Une lettre qui commence sans remerciement"
       },
       "body": {
-        "en": "Most of Paul's letters begin with warm thanks for the people he's writing to. This one doesn't. Paul gets straight to the point, because something urgent and dangerous was happening in the churches of Galatia.\n\nHe starts by reminding them he is an apostle — sent not by any human authority, but by Jesus Christ Himself and God the Father, who raised Jesus from the dead.\n\nThen comes the alarm: 'I am astonished that you are so quickly deserting the one who called you by the grace of Christ, and turning to a different gospel!' Some people had come into the Galatian churches teaching that believing in Jesus wasn't quite enough — you also needed to follow extra rules to really be saved.\n\nPaul says clearly: that isn't a different version of the good news. It's NO good news at all, because it twists everything. He says it twice for emphasis: if anyone — even an angel from heaven — preaches a different gospel than the one already given, let them be under God's curse!\n\nThis wasn't Paul being harsh for no reason. He loved the Galatians enough to be alarmed when something dangerous was creeping into their faith."
+        "en": "Most of Paul's letters begin with warm thanks for the people he's writing to. This one doesn't. Paul gets straight to the point, because something urgent and dangerous was happening in the churches of Galatia.\n\nHe starts by reminding them he is an apostle — sent not by any human authority, but by Jesus Christ Himself and God the Father, who raised Jesus from the dead.\n\nThen comes the alarm: 'I am astonished that you are so quickly deserting the one who called you by the grace of Christ, and turning to a different gospel!' Some people had come into the Galatian churches teaching that believing in Jesus wasn't quite enough — you also needed to follow extra rules to really be saved.\n\nPaul says clearly: that isn't a different version of the good news. It's NO good news at all, because it twists everything. He says it twice for emphasis: if anyone — even an angel from heaven — preaches a different gospel than the one already given, let them be under God's curse!\n\nThis wasn't Paul being harsh for no reason. He loved the Galatians enough to be alarmed when something dangerous was creeping into their faith.",
+        "es": "La mayoría de las cartas de Pablo comienzan con cálidos agradecimientos a las personas a quienes escribe. Esta no. Pablo va directo al grano, porque algo urgente y peligroso estaba sucediendo en las iglesias de Galacia.\n\nComienza recordándoles que él es un apóstol — enviado no por ninguna autoridad humana, sino por Jesucristo mismo y Dios el Padre, quien resucitó a Jesús de entre los muertos.\n\nLuego viene la alarma: \"¡Estoy maravillado de que tan pronto os hayáis apartado del que os llamó a la gracia de Cristo, para seguir un evangelio diferente!\" Algunas personas habían llegado a las iglesias de Galacia enseñando que creer en Jesús no era suficiente — también había que seguir reglas adicionales para realmente ser salvo.\n\nPablo dice con claridad: eso no es una versión diferente de las buenas nuevas. NO es ninguna buena noticia en absoluto, porque lo tuerce todo. Lo dice dos veces para enfatizar: si alguien — incluso un ángel del cielo — predica un evangelio diferente del que ya se ha dado, ¡que sea bajo la maldición de Dios!\n\nEsto no era Pablo siendo duro sin razón. Amaba a los gálatas lo suficiente como para alarmarse cuando algo peligroso se infiltraba en su fe.",
+        "fr": "La plupart des lettres de Paul commencent par de chaleureux remerciements envers les personnes auxquelles il écrit. Pas celle-ci. Paul va droit au but, car quelque chose d'urgent et de dangereux se produisait dans les églises de Galatie.\n\nIl commence par leur rappeler qu'il est apôtre — envoyé non par une autorité humaine, mais par Jésus-Christ Lui-même et Dieu le Père, qui a ressuscité Jésus des morts.\n\nPuis vient l'alarme : « Je m'étonne que vous vous détourniez si promptement de celui qui vous a appelés par la grâce de Christ, pour passer à un autre Évangile ! » Certaines personnes étaient venues dans les églises de Galatie enseignant que croire en Jésus ne suffisait pas tout à fait — il fallait aussi suivre des règles supplémentaires pour être vraiment sauvé.\n\nPaul dit clairement : ce n'est pas une version différente de la bonne nouvelle. Ce n'est AUCUNE bonne nouvelle du tout, car cela déforme tout. Il le dit deux fois pour souligner : si quelqu'un — même un ange venu du ciel — annonce un évangile différent de celui déjà donné, qu'il soit sous la malédiction de Dieu !\n\nCe n'était pas Paul étant dur sans raison. Il aimait les Galates suffisamment pour être alarmé quand quelque chose de dangereux s'infiltrait dans leur foi."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "I am astonished that you are so quickly deserting the one who called you to live in the grace of Christ and are turning to a different gospel."
+        "en": "I am astonished that you are so quickly deserting the one who called you to live in the grace of Christ and are turning to a different gospel.",
+        "es": "Estoy maravillado de que tan pronto os hayáis traspasado del que os llamó á la gracia de Cristo, á otro evangelio.",
+        "fr": "Je m'étonne que vous vous détourniez si promptement de celui qui vous a appelés par la grâce de Christ, pour passer à un autre Évangile."
       },
       "ref": {
-        "en": "Galatians 1:6 (NIV)"
+        "en": "Galatians 1:6 (NIV)",
+        "es": "Gálatas 1:6 (Valera)",
+        "fr": "Galates 1:6 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "so",
           "quickly",
           "deserting"
+        ],
+        "es": [
+          "Estoy",
+          "maravillado",
+          "de",
+          "que",
+          "tan",
+          "pronto"
+        ],
+        "fr": [
+          "Je",
+          "m'étonne",
+          "que",
+          "vous",
+          "vous",
+          "détourniez"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Astonished and Alarmed"
+        "en": "A Song for Astonished and Alarmed",
+        "es": "Una Canción para Asombrado y Alarmado",
+        "fr": "Une Chanson pour Stupéfait et Alarmé"
       },
       "audio_en": "/static/audio/galatians/lesson01_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "What was unusual about how Paul started this letter, compared to his others?"
+            "en": "What was unusual about how Paul started this letter, compared to his others?",
+            "es": "¿Qué fue inusual en cómo Pablo comenzó esta carta, comparado con sus otras cartas?",
+            "fr": "Qu'y avait-il d'inhabituel dans la façon dont Paul a commencé cette lettre, comparée à ses autres lettres ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "He skipped the usual thanks and went straight to an urgent warning",
               "He didn't mention Jesus at all",
               "He wrote in a different language"
+            ],
+            "es": [
+              "Comenzó con agradecimientos extra largos",
+              "Omitió el agradecimiento habitual y fue directo a una advertencia urgente",
+              "No mencionó a Jesús en absoluto",
+              "Escribió en un idioma diferente"
+            ],
+            "fr": [
+              "Il a commencé par des remerciements extra longs",
+              "Il a omis le remerciement habituel et est allé droit à un avertissement urgent",
+              "Il n'a pas du tout mentionné Jésus",
+              "Il a écrit dans une langue différente"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What had some people been teaching the Galatians?"
+            "en": "What had some people been teaching the Galatians?",
+            "es": "¿Qué habían estado enseñando algunas personas a los gálatas?",
+            "fr": "Que certaines personnes avaient-elles enseigné aux Galates ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "That Jesus never existed",
               "That they should stop praying",
               "That Paul wasn't really an apostle"
+            ],
+            "es": [
+              "Que creer en Jesús no era suficiente — también se necesitaban reglas adicionales",
+              "Que Jesús nunca existió",
+              "Que debían dejar de orar",
+              "Que Pablo no era realmente un apóstol"
+            ],
+            "fr": [
+              "Que croire en Jésus ne suffisait pas — il fallait aussi des règles supplémentaires",
+              "Que Jésus n'avait jamais existé",
+              "Qu'ils devaient arrêter de prier",
+              "Que Paul n'était pas vraiment apôtre"
             ]
           },
           "answer": 0
         },
         {
           "q": {
-            "en": "How seriously does Paul treat a 'different gospel'?"
+            "en": "How seriously does Paul treat a 'different gospel'?",
+            "es": "¿Con cuánta seriedad trata Pablo un 'evangelio diferente'?",
+            "fr": "Avec quel sérieux Paul traite-t-il un « évangile différent » ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "As something serious enough to warrant God's curse on whoever preaches it",
               "As not important at all",
               "As something to ignore"
+            ],
+            "es": [
+              "Como un desacuerdo menor",
+              "Como algo lo suficientemente serio como para merecer la maldición de Dios sobre quien lo predique",
+              "Como algo nada importante",
+              "Como algo que se debe ignorar"
+            ],
+            "fr": [
+              "Comme un désaccord mineur",
+              "Comme quelque chose d'assez sérieux pour mériter la malédiction de Dieu sur celui qui l'annonce",
+              "Comme quelque chose de pas important du tout",
+              "Comme quelque chose à ignorer"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Astonished and Alarmed"
+            "en": "Activity sheet: Astonished and Alarmed",
+            "es": "Hoja de actividad: Asombrado y Alarmado",
+            "fr": "Fiche d'activité : Stupéfait et Alarmé"
           },
           "file": "/static/printables/galatians/lesson01_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the gospel of grace through faith alone is not negotiable, and Paul's urgency here models righteous alarm over doctrinal drift, motivated by love, not pettiness. The phrase \"a different gospel — which is really no gospel at all\" (1:6-7) sets the theme for the entire letter: anything added to faith in Christ as a requirement for salvation distorts the gospel itself.\n\nConversation starters: (1) Why might Paul skip his usual warm greeting this time? (2) What does it mean that adding rules to \"just believe in Jesus\" can actually distort the good news? (3) How can we tell the difference between loving correction and unnecessary harshness?\n\nPray for discernment to recognize the true gospel and stand firm in it."
+        "en": "Big idea: the gospel of grace through faith alone is not negotiable, and Paul's urgency here models righteous alarm over doctrinal drift, motivated by love, not pettiness. The phrase \"a different gospel — which is really no gospel at all\" (1:6-7) sets the theme for the entire letter: anything added to faith in Christ as a requirement for salvation distorts the gospel itself.\n\nConversation starters: (1) Why might Paul skip his usual warm greeting this time? (2) What does it mean that adding rules to \"just believe in Jesus\" can actually distort the good news? (3) How can we tell the difference between loving correction and unnecessary harshness?\n\nPray for discernment to recognize the true gospel and stand firm in it.",
+        "es": "Idea principal: el evangelio de la gracia solo por fe no es negociable, y la urgencia de Pablo aquí modela una alarma justa ante la desviación doctrinal, motivada por amor, no por mezquindad. La frase \"un evangelio diferente — que en realidad no es ningún evangelio\" (1:6-7) establece el tema de toda la carta: cualquier cosa añadida a la fe en Cristo como requisito para la salvación distorsiona el evangelio mismo.\n\nPara conversar: (1) ¿Por qué podría Pablo omitir su saludo cálido habitual esta vez? (2) ¿Qué significa que añadir reglas a \"simplemente creer en Jesús\" pueda realmente distorsionar las buenas nuevas? (3) ¿Cómo podemos distinguir entre la corrección amorosa y la dureza innecesaria?\n\nOren por discernimiento para reconocer el verdadero evangelio y permanecer firmes en él.",
+        "fr": "Idée principale : l'Évangile de la grâce par la foi seule n'est pas négociable, et l'urgence de Paul ici illustre une juste alarme face à la dérive doctrinale, motivée par l'amour, et non par la mesquinerie. La phrase « un évangile différent — qui n'est en réalité aucun évangile » (1.6-7) établit le thème de toute la lettre : tout ce qui s'ajoute à la foi en Christ comme condition de salut déforme l'Évangile lui-même.\n\nPour la conversation : (1) Pourquoi Paul pourrait-il omettre cette fois sa chaleureuse salutation habituelle ? (2) Que signifie le fait qu'ajouter des règles à « simplement croire en Jésus » puisse réellement déformer la bonne nouvelle ? (3) Comment peut-on distinguer une correction aimante d'une dureté inutile ?\n\nPriez pour le discernement de reconnaître le véritable Évangile et de tenir fermes en lui."
       }
     }
   ]

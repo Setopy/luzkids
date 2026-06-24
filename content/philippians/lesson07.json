@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Garbage, Compared to Knowing Christ"
+    "en": "Garbage, Compared to Knowing Christ",
+    "es": "Basura, Comparado con Conocer a Cristo",
+    "fr": "De la Boue, Comparée à Connaître Christ"
   },
   "ref": "Philippians 3:1-11",
   "section": "No Confidence in the Flesh",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Everything counted as loss"
+        "en": "Everything counted as loss",
+        "es": "Todo contado como pérdida",
+        "fr": "Tout compté comme une perte"
       },
       "body": {
-        "en": "Paul warns: watch out for those who insist you need extra religious credentials, like circumcision, to truly belong to God! 'WE,' Paul says, are the true circumcision — those who worship by the Spirit, glory in Christ Jesus, and put NO confidence in human effort or status. And Paul should know — he had every impressive credential anyone could want: born into the right family, the right tribe, trained perfectly in the law, zealous beyond most, blameless by every external measure!\n\nBut Paul says: whatever was a gain to him, he now considers a LOSS, for the sake of Christ. In fact, he considers EVERYTHING a loss compared to the surpassing worth of knowing Christ Jesus his Lord — he even calls his old credentials GARBAGE, so that he might gain Christ and be found in Him, not having a righteousness earned by the law, but the righteousness that comes through FAITH in Christ.\n\nPaul's deepest desire wasn't more achievements — it was to know Christ, to know the power of His resurrection, and even to share in His sufferings."
+        "en": "Paul warns: watch out for those who insist you need extra religious credentials, like circumcision, to truly belong to God! 'WE,' Paul says, are the true circumcision — those who worship by the Spirit, glory in Christ Jesus, and put NO confidence in human effort or status. And Paul should know — he had every impressive credential anyone could want: born into the right family, the right tribe, trained perfectly in the law, zealous beyond most, blameless by every external measure!\n\nBut Paul says: whatever was a gain to him, he now considers a LOSS, for the sake of Christ. In fact, he considers EVERYTHING a loss compared to the surpassing worth of knowing Christ Jesus his Lord — he even calls his old credentials GARBAGE, so that he might gain Christ and be found in Him, not having a righteousness earned by the law, but the righteousness that comes through FAITH in Christ.\n\nPaul's deepest desire wasn't more achievements — it was to know Christ, to know the power of His resurrection, and even to share in His sufferings.",
+        "es": "Pablo advierte: ¡cuídense de quienes insisten en que necesitan credenciales religiosas adicionales, como la circuncisión, para pertenecer verdaderamente a Dios! \"NOSOTROS\", dice Pablo, somos la verdadera circuncisión — los que adoramos por el Espíritu, nos gloriamos en Cristo Jesús, y no ponemos NINGUNA confianza en el esfuerzo humano ni en el estatus. Y Pablo lo sabía bien — tenía todas las credenciales impresionantes que cualquiera podría querer: nacido en la familia correcta, la tribu correcta, entrenado perfectamente en la ley, celoso más que la mayoría, ¡intachable según toda medida externa!\n\nPero Pablo dice: lo que antes era ganancia para él, ahora lo considera PÉRDIDA, por causa de Cristo. De hecho, considera TODO como pérdida en comparación con el incomparable valor de conocer a Cristo Jesús su Señor — incluso llama BASURA a sus antiguas credenciales, para ganar a Cristo y ser hallado en Él, no teniendo una justicia ganada por la ley, sino la justicia que viene por la FE en Cristo.\n\nEl deseo más profundo de Pablo no era tener más logros — era conocer a Cristo, conocer el poder de Su resurrección, y aun participar en Sus sufrimientos.",
+        "fr": "Paul met en garde : méfiez-vous de ceux qui insistent que vous avez besoin de titres religieux supplémentaires, comme la circoncision, pour vraiment appartenir à Dieu ! « NOUS », dit Paul, sommes la véritable circoncision — ceux qui adorent par l'Esprit, se glorifient en Jésus-Christ, et ne mettent AUCUNE confiance dans l'effort humain ou le statut. Et Paul savait de quoi il parlait — il avait tous les titres impressionnants que l'on pouvait désirer : né dans la bonne famille, la bonne tribu, parfaitement formé dans la loi, zélé plus que la plupart, irréprochable selon toute mesure extérieure !\n\nMais Paul dit : ce qui était un gain pour lui, il le considère maintenant comme une PERTE, à cause de Christ. En fait, il considère TOUT comme une perte comparé à la valeur incomparable de connaître Christ Jésus son Seigneur — il appelle même ses anciens titres de la BOUE, afin de gagner Christ et d'être trouvé en Lui, n'ayant pas une justice obtenue par la loi, mais la justice qui vient par la FOI en Christ.\n\nLe plus profond désir de Paul n'était pas davantage de réussites — c'était de connaître Christ, de connaître la puissance de Sa résurrection, et même de partager Ses souffrances."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "I consider everything a loss because of the surpassing worth of knowing Christ Jesus my Lord."
+        "en": "I consider everything a loss because of the surpassing worth of knowing Christ Jesus my Lord.",
+        "es": "Y ciertamente, aun reputo todas las cosas pérdida por el eminente conocimiento de Cristo Jesús, mi Señor.",
+        "fr": "Et même je regarde toutes choses comme une perte, à cause de l'excellence de la connaissance de Jésus-Christ mon Seigneur."
       },
       "ref": {
-        "en": "Philippians 3:8 (NIV)"
+        "en": "Philippians 3:8 (NIV)",
+        "es": "Filipenses 3:8 (Valera)",
+        "fr": "Philippiens 3:8 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "knowing",
           "Christ",
           "Jesus"
+        ],
+        "es": [
+          "Y",
+          "ciertamente",
+          "aun",
+          "reputo",
+          "todas",
+          "las"
+        ],
+        "fr": [
+          "Et",
+          "même",
+          "je",
+          "regarde",
+          "toutes",
+          "choses"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Garbage, Compared to Knowing Christ"
+        "en": "A Song for Garbage, Compared to Knowing Christ",
+        "es": "Una Canción para Basura, Comparado con Conocer a Cristo",
+        "fr": "Une Chanson pour De la Boue, Comparée à Connaître Christ"
       },
       "audio_en": "/static/audio/philippians/lesson07_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What impressive credentials did Paul have, before he met Christ?"
+            "en": "What impressive credentials did Paul have, before he met Christ?",
+            "es": "¿Qué credenciales impresionantes tenía Pablo, antes de conocer a Cristo?",
+            "fr": "Quels titres impressionnants Paul avait-il, avant de connaître Christ ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Born into the right family, trained perfectly in the law, blameless by external measures",
               "Only wealth",
               "Nothing significant"
+            ],
+            "es": [
+              "Ninguna en absoluto",
+              "Nacido en la familia correcta, entrenado perfectamente en la ley, intachable según medidas externas",
+              "Solo riqueza",
+              "Nada significativo"
+            ],
+            "fr": [
+              "Aucun",
+              "Né dans la bonne famille, parfaitement formé dans la loi, irréprochable selon des mesures extérieures",
+              "Seulement la richesse",
+              "Rien de significatif"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Paul now view his old credentials, compared to knowing Christ?"
+            "en": "How does Paul now view his old credentials, compared to knowing Christ?",
+            "es": "¿Cómo ve Pablo ahora sus antiguas credenciales, comparadas con conocer a Cristo?",
+            "fr": "Comment Paul considère-t-il désormais ses anciens titres, comparés à connaître Christ ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "As garbage, a loss, compared to the surpassing worth of knowing Christ",
               "As still very important",
               "As something to boast about"
+            ],
+            "es": [
+              "Como su mayor tesoro",
+              "Como basura, una pérdida, comparada con el incomparable valor de conocer a Cristo",
+              "Como algo aún muy importante",
+              "Como algo de qué presumir"
+            ],
+            "fr": [
+              "Comme son plus grand trésor",
+              "Comme de la boue, une perte, comparée à la valeur incomparable de connaître Christ",
+              "Comme encore très important",
+              "Comme quelque chose dont se vanter"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What kind of righteousness does Paul say he now has, instead of one earned by the law?"
+            "en": "What kind of righteousness does Paul say he now has, instead of one earned by the law?",
+            "es": "¿Qué tipo de justicia dice Pablo que ahora tiene, en lugar de una ganada por la ley?",
+            "fr": "Quel genre de justice Paul dit-il avoir désormais, au lieu d'une justice obtenue par la loi ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Righteousness that comes through faith in Christ",
               "A righteousness he achieved alone",
               "One based on his family background"
+            ],
+            "es": [
+              "Ninguna justicia en absoluto",
+              "Justicia que viene por la fe en Cristo",
+              "Una justicia que logró solo",
+              "Una basada en su origen familiar"
+            ],
+            "fr": [
+              "Aucune justice du tout",
+              "Une justice qui vient par la foi en Christ",
+              "Une justice qu'il a obtenue seul",
+              "Une fondée sur son origine familiale"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Garbage, Compared to Knowing Christ"
+            "en": "Activity sheet: Garbage, Compared to Knowing Christ",
+            "es": "Hoja de actividad: Basura, Comparado con Conocer a Cristo",
+            "fr": "Fiche d'activité : De la Boue, Comparée à Connaître Christ"
           },
           "file": "/static/printables/philippians/lesson07_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: even impeccable religious credentials are worthless compared to the surpassing worth of actually knowing Christ — Paul's blunt language (\"garbage,\" 3:8) drives home that righteousness by faith, not human achievement or pedigree, is the only foundation that matters. This directly echoes Galatians' core argument, now delivered through deeply personal testimony rather than theological debate.\n\nConversation starters: (1) What kinds of things might people today rely on instead of Christ, the way Paul once relied on his credentials? (2) Why does Paul use such a strong word — \"garbage\" — for his old achievements? (3) What would it mean for YOU to value \"knowing Christ\" above every other achievement or credential?\n\nPray for hearts that treasure knowing Christ above every human achievement or credential."
+        "en": "Big idea: even impeccable religious credentials are worthless compared to the surpassing worth of actually knowing Christ — Paul's blunt language (\"garbage,\" 3:8) drives home that righteousness by faith, not human achievement or pedigree, is the only foundation that matters. This directly echoes Galatians' core argument, now delivered through deeply personal testimony rather than theological debate.\n\nConversation starters: (1) What kinds of things might people today rely on instead of Christ, the way Paul once relied on his credentials? (2) Why does Paul use such a strong word — \"garbage\" — for his old achievements? (3) What would it mean for YOU to value \"knowing Christ\" above every other achievement or credential?\n\nPray for hearts that treasure knowing Christ above every human achievement or credential.",
+        "es": "Idea principal: incluso las credenciales religiosas más impecables no valen nada comparadas con el incomparable valor de conocer realmente a Cristo — el lenguaje directo de Pablo (\"basura\", 3:8) deja claro que la justicia por fe, no el logro humano ni la herencia familiar, es el único fundamento que importa. Esto hace eco directo del argumento central de Gálatas, ahora entregado a través de un testimonio profundamente personal en lugar de un debate teológico.\n\nPara conversar: (1) ¿En qué tipo de cosas podrían confiar las personas hoy en lugar de Cristo, tal como Pablo antes confiaba en sus credenciales? (2) ¿Por qué Pablo usa una palabra tan fuerte — \"basura\" — para sus logros pasados? (3) ¿Qué significaría para TI valorar \"conocer a Cristo\" por encima de cualquier otro logro o credencial?\n\nOren por corazones que atesoren conocer a Cristo por encima de todo logro o credencial humana.",
+        "fr": "Idée principale : même les titres religieux les plus impeccables ne valent rien comparés à la valeur incomparable de connaître réellement Christ — le langage direct de Paul (« de la boue », 3.8) souligne que la justice par la foi, et non l'accomplissement humain ou la lignée, est le seul fondement qui compte. Cela fait directement écho à l'argument central de Galates, livré ici par un témoignage profondément personnel plutôt que par un débat théologique.\n\nPour la conversation : (1) Sur quel genre de choses les gens pourraient-ils compter aujourd'hui à la place de Christ, comme Paul comptait autrefois sur ses titres ? (2) Pourquoi Paul utilise-t-il un mot si fort — « boue » — pour ses anciens accomplissements ? (3) Que signifierait pour TOI de valoriser « connaître Christ » au-dessus de tout autre accomplissement ou titre ?\n\nPriez pour des cœurs qui chérissent connaître Christ au-dessus de tout accomplissement ou titre humain."
       }
     }
   ]

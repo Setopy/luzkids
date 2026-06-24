@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Crowned With Thorns"
+    "en": "Crowned With Thorns",
+    "es": "Coronado de Espinas",
+    "fr": "Couronné d'Épines"
   },
   "ref": "Mark 15:1-20",
   "section": "Jesus Before Pilate / The Soldiers Mock Jesus",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Silent before accusation, mocked as a king"
+        "en": "Silent before accusation, mocked as a king",
+        "es": "Silencioso ante la acusación, burlado como rey",
+        "fr": "Silencieux devant l'accusation, raillé comme un roi"
       },
       "body": {
-        "en": "Early in the morning, Jesus was led to Pilate, the Roman governor. Pilate asked if He was 'King of the Jews' — Jesus answered simply, 'You say so,' but gave no further defence to the many accusations, amazing Pilate. It was custom to release one prisoner during the festival, and the crowd, stirred up by the chief priests, demanded Barabbas — a murderer — be released instead of Jesus!\n\nPilate asked, 'What shall I do with the king of the Jews?' They shouted: 'Crucify him!' Pilate, wanting to satisfy the crowd, had Jesus flogged and handed Him over to be crucified. The soldiers mockingly dressed Jesus in a purple robe, twisted together a crown of THORNS and pressed it on His head, mocking Him: 'Hail, king of the Jews!' They struck Him repeatedly, spat on Him, and knelt before Him in cruel mockery — before leading Him away to crucify Him.\n\nThe very thing they mocked Him for — being King — was exactly true, even as they tried to humiliate Him for claiming it."
+        "en": "Early in the morning, Jesus was led to Pilate, the Roman governor. Pilate asked if He was 'King of the Jews' — Jesus answered simply, 'You say so,' but gave no further defence to the many accusations, amazing Pilate. It was custom to release one prisoner during the festival, and the crowd, stirred up by the chief priests, demanded Barabbas — a murderer — be released instead of Jesus!\n\nPilate asked, 'What shall I do with the king of the Jews?' They shouted: 'Crucify him!' Pilate, wanting to satisfy the crowd, had Jesus flogged and handed Him over to be crucified. The soldiers mockingly dressed Jesus in a purple robe, twisted together a crown of THORNS and pressed it on His head, mocking Him: 'Hail, king of the Jews!' They struck Him repeatedly, spat on Him, and knelt before Him in cruel mockery — before leading Him away to crucify Him.\n\nThe very thing they mocked Him for — being King — was exactly true, even as they tried to humiliate Him for claiming it.",
+        "es": "Temprano en la mañana, Jesús fue llevado ante Pilato, el gobernador romano. Pilato preguntó si Él era \"Rey de los judíos\" — Jesús respondió simplemente, \"Tú lo dices,\" pero no dio más defensa ante las muchas acusaciones, asombrando a Pilato. Era costumbre liberar a un prisionero durante la fiesta, y la multitud, incitada por los principales sacerdotes, ¡exigió que se liberara a Barrabás — un asesino — en lugar de a Jesús!\n\nPilato preguntó: \"¿Qué debo hacer con el rey de los judíos?\" Gritaron: \"¡Crucifícalo!\" Pilato, queriendo satisfacer a la multitud, hizo azotar a Jesús y lo entregó para ser crucificado. Los soldados burlonamente vistieron a Jesús con un manto púrpura, trenzaron juntos una corona de ESPINAS y la presionaron sobre Su cabeza, burlándose de Él: \"¡Salve, rey de los judíos!\" Lo golpearon repetidamente, le escupieron, y se arrodillaron ante Él en cruel burla — antes de llevarlo a crucificar.\n\nLa misma cosa por la que se burlaban de Él — ser Rey — era exactamente verdad, incluso mientras intentaban humillarlo por afirmarlo.",
+        "fr": "Tôt le matin, Jésus fut conduit devant Pilate, le gouverneur romain. Pilate demanda s'Il était le « roi des Juifs » — Jésus répondit simplement : « Tu le dis, » mais ne donna pas d'autre défense face aux nombreuses accusations, étonnant Pilate. C'était la coutume de libérer un prisonnier pendant la fête, et la foule, excitée par les principaux sacrificateurs, exigea que Barabbas — un meurtrier — soit libéré au lieu de Jésus !\n\nPilate demanda : « Que voulez-vous que je fasse du roi des Juifs ? » Ils crièrent : « Crucifie-le ! » Pilate, voulant satisfaire la foule, fit flageller Jésus et Le livra pour être crucifié. Les soldats vêtirent Jésus en se moquant d'un manteau de pourpre, tressèrent une couronne d'ÉPINES et la lui mirent sur la tête, se moquant de Lui : « Salut, roi des Juifs ! » Ils Le frappèrent à plusieurs reprises, Lui crachèrent dessus, et s'agenouillèrent devant Lui dans une cruelle moquerie — avant de L'emmener pour Le crucifier.\n\nLa chose même pour laquelle ils se moquaient de Lui — être Roi — était exactement vraie, même tandis qu'ils essayaient de L'humilier pour l'avoir revendiquée."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "They put a purple robe on him, then twisted together a crown of thorns and set it on him."
+        "en": "They put a purple robe on him, then twisted together a crown of thorns and set it on him.",
+        "es": "Y le visten de púrpura; y poniéndole una corona tejida de espinas,",
+        "fr": "Ils le revêtirent de pourpre, et posèrent sur sa tête une couronne d'épines, qu'ils avaient tressée."
       },
       "ref": {
-        "en": "Mark 15:17 (NIV)"
+        "en": "Mark 15:17 (NIV)",
+        "es": "Marcos 15:17 (Valera)",
+        "fr": "Marc 15:17 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "crown",
           "of",
           "thorns"
+        ],
+        "es": [
+          "Y",
+          "le",
+          "visten",
+          "de",
+          "púrpura",
+          "y"
+        ],
+        "fr": [
+          "Ils",
+          "le",
+          "revêtirent",
+          "de",
+          "pourpre",
+          "et"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Crowned With Thorns"
+        "en": "A Song for Crowned With Thorns",
+        "es": "Una Canción para Coronado de Espinas",
+        "fr": "Une Chanson pour Couronné d'Épines"
       },
       "audio_en": "/static/audio/mark/lesson37_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "How did Jesus respond to the many accusations brought against Him before Pilate?"
+            "en": "How did Jesus respond to the many accusations brought against Him before Pilate?",
+            "es": "¿Cómo respondió Jesús a las muchas acusaciones presentadas contra Él ante Pilato?",
+            "fr": "Comment Jésus a-t-il répondu aux nombreuses accusations portées contre Lui devant Pilate ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "He gave no defence, amazing Pilate",
               "He denied everything",
               "He pleaded for mercy"
+            ],
+            "es": [
+              "Discutió extensamente",
+              "No dio defensa, asombrando a Pilato",
+              "Negó todo",
+              "Rogó misericordia"
+            ],
+            "fr": [
+              "Il a longuement discuté",
+              "Il n'a pas donné de défense, étonnant Pilate",
+              "Il a tout nié",
+              "Il a plaidé pour la miséricorde"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Who did the crowd demand be released instead of Jesus?"
+            "en": "Who did the crowd demand be released instead of Jesus?",
+            "es": "¿A quién exigió la multitud que se liberara en lugar de Jesús?",
+            "fr": "Qui la foule a-t-elle exigé être libéré au lieu de Jésus ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Barabbas, a murderer",
               "A Roman soldier",
               "Pilate himself"
+            ],
+            "es": [
+              "A nadie",
+              "A Barrabás, un asesino",
+              "A un soldado romano",
+              "A Pilato mismo"
+            ],
+            "fr": [
+              "Personne",
+              "Barabbas, un meurtrier",
+              "Un soldat romain",
+              "Pilate lui-même"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did the soldiers mockingly place on Jesus' head?"
+            "en": "What did the soldiers mockingly place on Jesus' head?",
+            "es": "¿Qué pusieron los soldados burlonamente en la cabeza de Jesús?",
+            "fr": "Qu'est-ce que les soldats ont mis en se moquant sur la tête de Jésus ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "A crown of thorns",
               "Nothing at all",
               "A simple hat"
+            ],
+            "es": [
+              "Una corona de oro",
+              "Una corona de espinas",
+              "Nada en absoluto",
+              "Un simple sombrero"
+            ],
+            "fr": [
+              "Une couronne d'or",
+              "Une couronne d'épines",
+              "Rien du tout",
+              "Un simple chapeau"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Crowned With Thorns"
+            "en": "Activity sheet: Crowned With Thorns",
+            "es": "Hoja de actividad: Coronado de Espinas",
+            "fr": "Fiche d'activité : Couronné d'Épines"
           },
           "file": "/static/printables/mark/lesson37_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' silence before false accusation and His mockery as \"king\" both ironically affirm the very truth being denied — He truly is the King, even while being humiliated for the claim. The crowd's choice of Barabbas over Jesus is a stark, almost unbearable picture of humanity choosing violence over the innocent one.\n\nConversation starters: (1) Why might Jesus choose not to defend Himself against false accusations? (2) What's the painful irony in the soldiers mocking Jesus as \"king\" when He actually is the King? (3) How does it feel to read about the crowd choosing a murderer's release over Jesus?\n\nPray, acknowledging the weight of what Jesus endured, and thanking Him for enduring it willingly."
+        "en": "Big idea: Jesus' silence before false accusation and His mockery as \"king\" both ironically affirm the very truth being denied — He truly is the King, even while being humiliated for the claim. The crowd's choice of Barabbas over Jesus is a stark, almost unbearable picture of humanity choosing violence over the innocent one.\n\nConversation starters: (1) Why might Jesus choose not to defend Himself against false accusations? (2) What's the painful irony in the soldiers mocking Jesus as \"king\" when He actually is the King? (3) How does it feel to read about the crowd choosing a murderer's release over Jesus?\n\nPray, acknowledging the weight of what Jesus endured, and thanking Him for enduring it willingly.",
+        "es": "Idea principal: el silencio de Jesús ante la falsa acusación y Su burla como 'rey' afirman irónicamente la misma verdad que se niega — Él verdaderamente es el Rey, incluso mientras es humillado por la afirmación. La elección de la multitud de Barrabás sobre Jesús es una imagen contundente y casi insoportable de la humanidad eligiendo la violencia sobre el inocente.\n\nPara conversar: (1) ¿Por qué podría Jesús elegir no defenderse contra las falsas acusaciones? (2) ¿Cuál es la ironía dolorosa en que los soldados se burlen de Jesús como 'rey' cuando Él realmente lo es? (3) ¿Cómo te hace sentir leer sobre la multitud eligiendo liberar a un asesino en lugar de a Jesús?\n\nOren, reconociendo el peso de lo que Jesús soportó, y agradeciéndole por soportarlo voluntariamente.",
+        "fr": "Idée principale : le silence de Jésus devant une fausse accusation et Sa moquerie comme « roi » affirment ironiquement la vérité même qui est niée — Il est véritablement le Roi, même tandis qu'Il est humilié pour cette revendication. Le choix de la foule de Barabbas plutôt que de Jésus est une image saisissante et presque insupportable de l'humanité choisissant la violence plutôt que l'innocent.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il choisir de ne pas se défendre contre de fausses accusations ? (2) Quelle est l'ironie douloureuse dans le fait que les soldats se moquent de Jésus comme « roi » alors qu'Il l'est réellement ? (3) Que ressens-tu en lisant que la foule a choisi de libérer un meurtrier plutôt que Jésus ?\n\nPriez, en reconnaissant le poids de ce que Jésus a enduré, et en Le remerciant de l'avoir enduré volontairement."
       }
     }
   ]

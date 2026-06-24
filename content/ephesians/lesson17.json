@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Armour of God"
+    "en": "The Armour of God",
+    "es": "La Armadura de Dios",
+    "fr": "L'Armure de Dieu"
   },
   "ref": "Ephesians 6:10-24",
   "section": "The Armor of God",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Suit up — the battle is real, and Jesus is coming soon!"
+        "en": "Suit up — the battle is real, and Jesus is coming soon!",
+        "es": "Prepárate — la batalla es real, ¡y Jesús viene pronto!",
+        "fr": "Équipe-toi — le combat est réel, et Jésus revient bientôt !"
       },
       "body": {
-        "en": "Paul finishes with a picture every child in Ephesus would recognise — a Roman soldier's armour! He says: be strong in the LORD (not yourself!), because we have a real enemy. Not people — the devil and his schemes.\n\nAnd God has given us complete armour: the BELT of truth (holding everything together), the BREASTPLATE of righteousness (guarding your heart — a clean, holy heart is your protection!), the SHOES of the gospel (always ready to share the good news), the SHIELD of faith (quenching every fiery arrow), the HELMET of salvation (protecting your mind), and the SWORD of the Spirit — God's Word!\n\nAnd the armour must be held together by PRAYER — pray at all times, on all occasions, with all kinds of requests! Pray also for Paul, that he would fearlessly make known the mystery of the gospel, even in chains. Paul closes with warm news of Tychicus, sent to encourage them, and a final blessing: peace, love with faith, and grace to all who love our Lord Jesus Christ with an undying love."
+        "en": "Paul finishes with a picture every child in Ephesus would recognise — a Roman soldier's armour! He says: be strong in the LORD (not yourself!), because we have a real enemy. Not people — the devil and his schemes.\n\nAnd God has given us complete armour: the BELT of truth (holding everything together), the BREASTPLATE of righteousness (guarding your heart — a clean, holy heart is your protection!), the SHOES of the gospel (always ready to share the good news), the SHIELD of faith (quenching every fiery arrow), the HELMET of salvation (protecting your mind), and the SWORD of the Spirit — God's Word!\n\nAnd the armour must be held together by PRAYER — pray at all times, on all occasions, with all kinds of requests! Pray also for Paul, that he would fearlessly make known the mystery of the gospel, even in chains. Paul closes with warm news of Tychicus, sent to encourage them, and a final blessing: peace, love with faith, and grace to all who love our Lord Jesus Christ with an undying love.",
+        "es": "Pablo termina con una imagen que todo niño en Éfeso reconocería — ¡la armadura de un soldado romano! Dice: sean fuertes en el SEÑOR (¡no en ustedes mismos!), porque tenemos un enemigo real. No personas — el diablo y sus artimañas.\n\nY Dios nos ha dado una armadura completa: el CINTO de la verdad (que mantiene todo unido), la CORAZA de justicia (que guarda tu corazón — ¡un corazón limpio y santo es tu protección!), el CALZADO del evangelio (siempre listo para compartir las buenas nuevas), el ESCUDO de la fe (que apaga todo dardo de fuego), el YELMO de la salvación (que protege tu mente), y la ESPADA del Espíritu — ¡la Palabra de Dios!\n\nY la armadura debe mantenerse unida por la ORACIÓN — ¡oren en todo tiempo, en toda ocasión, con toda clase de peticiones! Oren también por Pablo, para que dé a conocer sin temor el misterio del evangelio, incluso en cadenas. Pablo termina con noticias cálidas sobre Tíquico, enviado para animarlos, y una bendición final: paz, amor con fe, y gracia a todos los que aman a nuestro Señor Jesucristo con amor incorruptible.",
+        "fr": "Paul termine avec une image que chaque enfant d'Éphèse reconnaîtrait — l'armure d'un soldat romain ! Il dit : soyez forts dans le SEIGNEUR (et non en vous-mêmes !), car nous avons un véritable ennemi. Pas des hommes — le diable et ses artifices.\n\nEt Dieu nous a donné une armure complète : la CEINTURE de la vérité (qui maintient tout ensemble), la CUIRASSE de la justice (qui garde ton cœur — un cœur pur et saint est ta protection !), les CHAUSSURES de l'Évangile (toujours prêt à annoncer la bonne nouvelle), le BOUCLIER de la foi (qui éteint tous les traits enflammés), le CASQUE du salut (qui protège ton esprit), et l'ÉPÉE de l'Esprit — la Parole de Dieu !\n\nEt l'armure doit être tenue ensemble par la PRIÈRE — priez en tout temps, en toute occasion, par toutes sortes de prières et de supplications ! Priez aussi pour Paul, afin qu'il fasse connaître sans crainte le mystère de l'Évangile, même enchaîné. Paul termine avec de chaleureuses nouvelles de Tychique, envoyé pour les encourager, et une bénédiction finale : paix, amour avec la foi, et grâce à tous ceux qui aiment notre Seigneur Jésus-Christ d'un amour impérissable."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil's schemes."
+        "en": "Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil's schemes.",
+        "es": "Por lo demás, hermanos míos, confortaos en el Señor, y en la potencia de su fortaleza. Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo.",
+        "fr": "Au reste, fortifiez-vous dans le Seigneur, et par sa force toute-puissante. Revêtez-vous de toutes les armes de Dieu, afin de pouvoir tenir ferme contre les ruses du diable."
       },
       "ref": {
-        "en": "Ephesians 6:10-11 (NIV)"
+        "en": "Ephesians 6:10-11 (NIV)",
+        "es": "Efesios 6:10-11 (Valera)",
+        "fr": "Éphésiens 6:10-11 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "his",
           "mighty",
           "power"
+        ],
+        "es": [
+          "Por",
+          "lo",
+          "demás",
+          "hermanos",
+          "míos",
+          "confortaos"
+        ],
+        "fr": [
+          "Au",
+          "reste",
+          "fortifiez-vous",
+          "dans",
+          "le",
+          "Seigneur"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Armour of God"
+        "en": "A Song for The Armour of God",
+        "es": "Una Canción para La Armadura de Dios",
+        "fr": "Une Chanson pour L'Armure de Dieu"
       },
       "audio_en": "/static/audio/ephesians/lesson17_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What is the breastplate in the armour of God?"
+            "en": "What is the breastplate in the armour of God?",
+            "es": "¿Qué es la coraza en la armadura de Dios?",
+            "fr": "Qu'est-ce que la cuirasse dans l'armure de Dieu ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "Righteousness — a clean and holy heart",
               "A good reputation at school",
               "Knowing a lot of Bible verses"
+            ],
+            "es": [
+              "Un sentimiento de valentía",
+              "Justicia — un corazón limpio y santo",
+              "Una buena reputación en la escuela",
+              "Conocer muchos versículos bíblicos"
+            ],
+            "fr": [
+              "Un sentiment de bravoure",
+              "La justice — un cœur pur et saint",
+              "Une bonne réputation à l'école",
+              "Connaître beaucoup de versets bibliques"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul say must hold the whole armour together?"
+            "en": "What does Paul say must hold the whole armour together?",
+            "es": "¿Qué dice Pablo que debe mantener unida toda la armadura?",
+            "fr": "Que dit Paul devant tenir ensemble toute l'armure ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Prayer, at all times, on all occasions",
               "Money",
               "Fame"
+            ],
+            "es": [
+              "Solo la fuerza",
+              "La oración, en todo tiempo, en toda ocasión",
+              "El dinero",
+              "La fama"
+            ],
+            "fr": [
+              "La force seule",
+              "La prière, en tout temps, en toute occasion",
+              "L'argent",
+              "La célébrité"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul ask the Ephesians to pray for him, even though he is in chains?"
+            "en": "What does Paul ask the Ephesians to pray for him, even though he is in chains?",
+            "es": "¿Qué pide Pablo a los efesios que oren por él, aunque está en cadenas?",
+            "fr": "Que demande Paul aux Éphésiens de prier pour lui, bien qu'il soit enchaîné ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "That he would fearlessly make known the mystery of the gospel",
               "More comfort",
               "Nothing in particular"
+            ],
+            "es": [
+              "Solo su liberación de la prisión",
+              "Que dé a conocer sin temor el misterio del evangelio",
+              "Más comodidad",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Seulement sa libération de prison",
+              "Qu'il fasse connaître sans crainte le mystère de l'Évangile",
+              "Plus de confort",
+              "Rien de particulier"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Armour of God"
+            "en": "Activity sheet: The Armour of God",
+            "es": "Hoja de actividad: La Armadura de Dios",
+            "fr": "Fiche d'activité : L'Armure de Dieu"
           },
           "file": "/static/printables/ephesians/lesson17_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "armour_game",
       "title": {
-        "en": "Build the Armour of God!"
+        "en": "Build the Armour of God!",
+        "es": "¡Construye la Armadura de Dios!",
+        "fr": "Construis l'Armure de Dieu !"
       },
       "pieces": [
         {
@@ -116,8 +190,12 @@
           "zone": "waist",
           "icon": "🔆",
           "meaning": {
-            "en": "Holds everything together — truth in your heart and mind"
-          }
+            "en": "Holds everything together — truth in your heart and mind",
+            "es": "Mantiene todo unido — la verdad en tu corazón y mente",
+            "fr": "Maintient tout ensemble — la vérité dans ton cœur et ton esprit"
+          },
+          "es": "Cinto de la Verdad",
+          "fr": "Ceinture de la Vérité"
         },
         {
           "id": "breastplate",
@@ -125,8 +203,12 @@
           "zone": "chest",
           "icon": "🛡️",
           "meaning": {
-            "en": "Guards your heart — a holy, clean life is your protection"
-          }
+            "en": "Guards your heart — a holy, clean life is your protection",
+            "es": "Guarda tu corazón — una vida santa y limpia es tu protección",
+            "fr": "Garde ton cœur — une vie saine et pure est ta protection"
+          },
+          "es": "Coraza de Justicia",
+          "fr": "Cuirasse de la Justice"
         },
         {
           "id": "shoes",
@@ -134,8 +216,12 @@
           "zone": "feet",
           "icon": "👟",
           "meaning": {
-            "en": "Ready to carry the good news everywhere"
-          }
+            "en": "Ready to carry the good news everywhere",
+            "es": "Listo para llevar las buenas nuevas a todas partes",
+            "fr": "Prêt à porter la bonne nouvelle partout"
+          },
+          "es": "Calzado del Evangelio",
+          "fr": "Chaussures de l'Évangile"
         },
         {
           "id": "shield",
@@ -143,8 +229,12 @@
           "zone": "arm",
           "icon": "🔵",
           "meaning": {
-            "en": "Stops the enemy's fiery arrows — trust God completely!"
-          }
+            "en": "Stops the enemy's fiery arrows — trust God completely!",
+            "es": "Detiene los dardos de fuego del enemigo — ¡confía completamente en Dios!",
+            "fr": "Arrête les traits enflammés de l'ennemi — fais entièrement confiance à Dieu !"
+          },
+          "es": "Escudo de la Fe",
+          "fr": "Bouclier de la Foi"
         },
         {
           "id": "helmet",
@@ -152,8 +242,12 @@
           "zone": "head",
           "icon": "⛑️",
           "meaning": {
-            "en": "Protects your mind — remember you belong to Jesus!"
-          }
+            "en": "Protects your mind — remember you belong to Jesus!",
+            "es": "Protege tu mente — ¡recuerda que perteneces a Jesús!",
+            "fr": "Protège ton esprit — souviens-toi que tu appartiens à Jésus !"
+          },
+          "es": "Yelmo de la Salvación",
+          "fr": "Casque du Salut"
         },
         {
           "id": "sword",
@@ -161,15 +255,21 @@
           "zone": "hand",
           "icon": "⚔️",
           "meaning": {
-            "en": "God's Word — the only attacking weapon. Know your Bible!"
-          }
+            "en": "God's Word — the only attacking weapon. Know your Bible!",
+            "es": "La Palabra de Dios — la única arma de ataque. ¡Conoce tu Biblia!",
+            "fr": "La Parole de Dieu — la seule arme d'attaque. Connais ta Bible !"
+          },
+          "es": "Espada del Espíritu",
+          "fr": "Épée de l'Esprit"
         }
       ]
     },
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: spiritual warfare and the full armour of God, anchored in prayer rather than self-reliance. The breastplate of RIGHTEOUSNESS (6:14) is not merely imputed righteousness — in context it is the righteous, holy living that protects the believer's heart. A clean, sanctified heart is a protected heart. Note also that the armour is explicitly held together by PRAYER (6:18) — \"at all times... with all kinds of requests\" — making this not a self-powered checklist but a Spirit-dependent stance.\n\nConversation starters: (1) Which piece of the armour do you think you need most right now — and why? (2) Why does Paul connect prayer with every piece of the armour staying in place? (3) What does it mean that Paul, even chained in prison, asks for prayer to keep preaching boldly?\n\nPray together — put on the armour piece by piece, out loud, as a family."
+        "en": "Big idea: spiritual warfare and the full armour of God, anchored in prayer rather than self-reliance. The breastplate of RIGHTEOUSNESS (6:14) is not merely imputed righteousness — in context it is the righteous, holy living that protects the believer's heart. A clean, sanctified heart is a protected heart. Note also that the armour is explicitly held together by PRAYER (6:18) — \"at all times... with all kinds of requests\" — making this not a self-powered checklist but a Spirit-dependent stance.\n\nConversation starters: (1) Which piece of the armour do you think you need most right now — and why? (2) Why does Paul connect prayer with every piece of the armour staying in place? (3) What does it mean that Paul, even chained in prison, asks for prayer to keep preaching boldly?\n\nPray together — put on the armour piece by piece, out loud, as a family.",
+        "es": "Idea principal: la guerra espiritual y la armadura completa de Dios, anclada en la oración en lugar de la autosuficiencia. La coraza de JUSTICIA (6:14) no es meramente justicia imputada — en contexto es la vida justa y santa que protege el corazón del creyente. Un corazón limpio y santificado es un corazón protegido. Nota también que la armadura se mantiene explícitamente unida por la ORACIÓN (6:18) — \"en todo tiempo... con toda clase de peticiones\" — lo cual hace de esto no una lista de tareas autosuficiente sino una postura dependiente del Espíritu.\n\nPara conversar: (1) ¿Qué pieza de la armadura crees que necesitas más en este momento — y por qué? (2) ¿Por qué conecta Pablo la oración con que cada pieza de la armadura permanezca en su lugar? (3) ¿Qué significa que Pablo, incluso encadenado en prisión, pida oración para seguir predicando con valentía?\n\nOren juntos — pónganse la armadura pieza por pieza, en voz alta, en familia.",
+        "fr": "Idée principale : le combat spirituel et l'armure complète de Dieu, ancrée dans la prière plutôt que dans l'autosuffisance. La cuirasse de la JUSTICE (6.14) n'est pas simplement une justice imputée — dans son contexte, c'est la vie juste et sainte qui protège le cœur du croyant. Un cœur pur et sanctifié est un cœur protégé. Remarque aussi que l'armure est explicitement tenue ensemble par la PRIÈRE (6.18) — « en tout temps... par toutes sortes de prières » — faisant de cela non une liste de tâches autosuffisante mais une posture dépendante de l'Esprit.\n\nPour la conversation : (1) Quelle pièce de l'armure penses-tu avoir le plus besoin maintenant — et pourquoi ? (2) Pourquoi Paul relie-t-il la prière au fait que chaque pièce de l'armure reste en place ? (3) Que signifie le fait que Paul, même enchaîné en prison, demande de prier pour continuer à prêcher avec audace ?\n\nPriez ensemble — mettez l'armure pièce par pièce, à voix haute, en famille."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Words That Spread Like Fire"
+    "en": "Words That Spread Like Fire",
+    "es": "Palabras Que se Propagan Como el Fuego",
+    "fr": "Des Paroles Qui Se Propagent Comme le Feu"
   },
   "ref": "Proverbs 11:13; 16:28; 18:8; 20:19; 26:20-22",
   "section": "Gossip and Slander (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "The juicy secret that burns everything down"
+        "en": "The juicy secret that burns everything down",
+        "es": "El secreto jugoso que lo quema todo",
+        "fr": "Le secret juteux qui brûle tout"
       },
       "body": {
-        "en": "'A gossip betrays a confidence, but a trustworthy person keeps a secret.' Proverbs treats gossip as a genuine BETRAYAL, not just idle chatter — someone trusted you with something, and gossip breaks that trust.\n\n'A perverse person stirs up conflict, and a gossip separates close friends.' This is a serious warning — gossip doesn't just spread information, it actively damages and destroys real relationships.\n\nOne especially vivid proverb compares gossip to food: 'the words of a gossip are like choice morsels; they go down to the inmost parts.' Gossip is described this way because it FEELS satisfying to hear — juicy, irresistible — even though it's genuinely harmful.\n\n'Without wood a fire goes out; without a gossip a quarrel dies down.' Just like a fire needs fuel to keep burning, most ongoing conflicts need someone continuing to spread and stir things — remove the gossip, and the conflict often fades on its own.\n\n'A whisperer separates friends.' Proverbs is consistent and clear on this theme: words spoken about someone, behind their back, carry real destructive power — power that's easy to underestimate precisely because it feels so harmless and even enjoyable in the moment."
+        "en": "'A gossip betrays a confidence, but a trustworthy person keeps a secret.' Proverbs treats gossip as a genuine BETRAYAL, not just idle chatter — someone trusted you with something, and gossip breaks that trust.\n\n'A perverse person stirs up conflict, and a gossip separates close friends.' This is a serious warning — gossip doesn't just spread information, it actively damages and destroys real relationships.\n\nOne especially vivid proverb compares gossip to food: 'the words of a gossip are like choice morsels; they go down to the inmost parts.' Gossip is described this way because it FEELS satisfying to hear — juicy, irresistible — even though it's genuinely harmful.\n\n'Without wood a fire goes out; without a gossip a quarrel dies down.' Just like a fire needs fuel to keep burning, most ongoing conflicts need someone continuing to spread and stir things — remove the gossip, and the conflict often fades on its own.\n\n'A whisperer separates friends.' Proverbs is consistent and clear on this theme: words spoken about someone, behind their back, carry real destructive power — power that's easy to underestimate precisely because it feels so harmless and even enjoyable in the moment.",
+        "es": "\"El que anda en chismes, descubre el secreto: mas el de espíritu fiel encubre la cosa.\" Proverbios trata el chisme como una verdadera TRAICIÓN, no solo charla ociosa — alguien te confió algo, y el chisme rompe esa confianza.\n\n\"El hombre perverso levanta contienda; y el chismoso aparta los amigos.\" Esta es una advertencia seria — el chisme no solo difunde información, daña y destruye activamente relaciones reales.\n\nUn proverbio especialmente vívido compara el chisme con la comida: \"las palabras del chismoso parecen blandas, y descienden hasta lo íntimo del vientre.\" El chisme se describe así porque se SIENTE satisfactorio escucharlo — jugoso, irresistible — aunque sea genuinamente dañino.\n\n\"Sin leña se apaga el fuego: y donde no hay chismoso, cesa la contienda.\" Así como un fuego necesita combustible para seguir ardiendo, la mayoría de los conflictos continuos necesitan a alguien que siga difundiendo y agitando las cosas — quita al chismoso, y el conflicto a menudo se desvanece por sí mismo.\n\n\"El que mete chismes, aparta los amigos.\" Proverbios es consistente y claro en este tema: las palabras dichas sobre alguien, a sus espaldas, llevan un poder destructivo real — un poder fácil de subestimar precisamente porque se siente tan inofensivo e incluso agradable en el momento.",
+        "fr": "« Le médisant dévoile les secrets, mais celui qui a l'esprit fidèle les garde. » Les Proverbes traitent la médisance comme une véritable TRAHISON, pas un simple bavardage anodin — quelqu'un t'a fait confiance avec quelque chose, et la médisance brise cette confiance.\n\n« L'homme pervers excite des querelles, et le rapporteur sème la division entre les amis. » C'est un avertissement sérieux — la médisance ne se contente pas de répandre l'information, elle endommage et détruit activement de vraies relations.\n\nUn proverbe particulièrement vif compare la médisance à de la nourriture : « les paroles du rapporteur sont comme des friandises, elles descendent jusqu'au fond des entrailles. » La médisance est décrite ainsi parce qu'elle SEMBLE satisfaisante à entendre — juteuse, irrésistible — même si elle est véritablement nuisible.\n\n« Faute de bois, le feu s'éteint ; et quand il n'y a point de rapporteur, la querelle s'apaise. » Tout comme un feu a besoin de combustible pour continuer à brûler, la plupart des conflits continus ont besoin de quelqu'un qui continue à répandre et à agiter les choses — retire le rapporteur, et le conflit s'éteint souvent de lui-même.\n\n« Celui qui rapporte sème la division entre les amis. » Les Proverbes sont constants et clairs sur ce thème : les mots dits sur quelqu'un, derrière son dos, portent un véritable pouvoir destructeur — un pouvoir facile à sous-estimer précisément parce qu'il semble si anodin et même agréable au moment où on le dit."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Without wood a fire goes out; without a gossip a quarrel dies down."
+        "en": "Without wood a fire goes out; without a gossip a quarrel dies down.",
+        "es": "Sin leña se apaga el fuego: y donde no hay chismoso, cesa la contienda.",
+        "fr": "Faute de bois, le feu s'éteint ; Et quand il n'y a point de rapporteur, la querelle s'apaise."
       },
       "ref": {
-        "en": "Proverbs 26:20 (NIV)"
+        "en": "Proverbs 26:20 (NIV)",
+        "es": "Proverbios 26:20 (Valera)",
+        "fr": "Proverbes 26:20 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "quarrel",
           "dies",
           "down"
+        ],
+        "es": [
+          "Sin",
+          "leña",
+          "se",
+          "apaga",
+          "el",
+          "fuego"
+        ],
+        "fr": [
+          "Faute",
+          "de",
+          "bois",
+          "le",
+          "feu",
+          "s'éteint"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Words That Spread Like Fire"
+        "en": "A Song for Words That Spread Like Fire",
+        "es": "Una Canción para Palabras Que se Propagan Como el Fuego",
+        "fr": "Une Chanson pour Des Paroles Qui Se Propagent Comme le Feu"
       },
       "audio_en": "/static/audio/proverbs/lesson33_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "How does Proverbs 11:13 describe a gossip's behaviour?"
+            "en": "How does Proverbs 11:13 describe a gossip's behaviour?",
+            "es": "¿Cómo describe Proverbios 11:13 el comportamiento de un chismoso?",
+            "fr": "Comment Proverbes 11:13 décrit-il le comportement d'un rapporteur ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "A gossip betrays a confidence; a trustworthy person keeps a secret",
               "Gossip is harmless fun",
               "Nothing significant is said"
+            ],
+            "es": [
+              "Un chismoso siempre es confiable",
+              "Un chismoso descubre el secreto; el de espíritu fiel lo encubre",
+              "El chisme es diversión inofensiva",
+              "No se dice nada significativo"
+            ],
+            "fr": [
+              "Un rapporteur est toujours digne de confiance",
+              "Le médisant dévoile les secrets ; celui qui a l'esprit fidèle les garde",
+              "La médisance est un divertissement inoffensif",
+              "Rien de significatif n'est dit"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why does Proverbs compare gossip to 'choice morsels' of food?"
+            "en": "Why does Proverbs compare gossip to 'choice morsels' of food?",
+            "es": "¿Por qué compara Proverbios el chisme con 'manjares' de comida?",
+            "fr": "Pourquoi Proverbes compare-t-il la médisance à des « friandises » ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "It feels satisfying and irresistible to hear, even though it's harmful",
               "Gossip has nothing to do with food",
               "It's meant as a compliment to gossips"
+            ],
+            "es": [
+              "El chisme en realidad es nutritivo",
+              "Se siente satisfactorio e irresistible escucharlo, aunque sea dañino",
+              "El chisme no tiene nada que ver con la comida",
+              "Se pretende como un cumplido a los chismosos"
+            ],
+            "fr": [
+              "La médisance est en réalité nutritive",
+              "Elle semble satisfaisante et irrésistible à entendre, bien qu'elle soit nuisible",
+              "La médisance n'a rien à voir avec la nourriture",
+              "C'est destiné à être un compliment pour les médisants"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 26:20 say happens 'without a gossip'?"
+            "en": "What does Proverbs 26:20 say happens 'without a gossip'?",
+            "es": "¿Qué dice Proverbios 26:20 que sucede 'donde no hay chismoso'?",
+            "fr": "Que dit Proverbes 26:20 qu'il arrive « quand il n'y a point de rapporteur » ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "A quarrel dies down — like a fire without wood",
               "Nothing changes",
               "Gossip has no effect on quarrels"
+            ],
+            "es": [
+              "Las contiendas empeoran",
+              "La contienda cesa — como un fuego sin leña",
+              "Nada cambia",
+              "El chisme no tiene efecto en las contiendas"
+            ],
+            "fr": [
+              "Les querelles s'aggravent",
+              "La querelle s'apaise — comme un feu sans bois",
+              "Rien ne change",
+              "La médisance n'a aucun effet sur les querelles"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Words That Spread Like Fire"
+            "en": "Activity sheet: Words That Spread Like Fire",
+            "es": "Hoja de actividad: Palabras Que se Propagan Como el Fuego",
+            "fr": "Fiche d'activité : Des Paroles Qui Se Propagent Comme le Feu"
           },
           "file": "/static/printables/proverbs/lesson33_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: gossip is treated as a genuine betrayal of trust and an active destroyer of relationships, not harmless chatter — and Proverbs is psychologically honest that gossip is tempting precisely because it FEELS satisfying (\"choice morsels\"), which is exactly why it requires deliberate resistance rather than casual avoidance.\n\nConversation starters: (1) Why might gossip feel satisfying or interesting to hear, even though it's harmful? (2) What does it mean that gossip is described as a \"betrayal of confidence\" — what's actually being broken? (3) What's the difference between sharing a genuine concern about someone and gossiping about them?\n\nPray for self-control over your words, especially the temptation to share something juicy about someone else."
+        "en": "Big idea: gossip is treated as a genuine betrayal of trust and an active destroyer of relationships, not harmless chatter — and Proverbs is psychologically honest that gossip is tempting precisely because it FEELS satisfying (\"choice morsels\"), which is exactly why it requires deliberate resistance rather than casual avoidance.\n\nConversation starters: (1) Why might gossip feel satisfying or interesting to hear, even though it's harmful? (2) What does it mean that gossip is described as a \"betrayal of confidence\" — what's actually being broken? (3) What's the difference between sharing a genuine concern about someone and gossiping about them?\n\nPray for self-control over your words, especially the temptation to share something juicy about someone else.",
+        "es": "Idea principal: el chisme se trata como una verdadera traición de confianza y un destructor activo de relaciones, no charla inofensiva — y Proverbios es psicológicamente honesto en que el chisme es tentador precisamente porque se SIENTE satisfactorio (\"manjares\"), que es exactamente por qué requiere resistencia deliberada en lugar de evitación casual.\n\nPara conversar: (1) ¿Por qué podría el chisme sentirse satisfactorio o interesante de escuchar, aunque sea dañino? (2) ¿Qué significa que el chisme se describe como una \"traición de confianza\" — qué se está rompiendo realmente? (3) ¿Cuál es la diferencia entre compartir una preocupación genuina sobre alguien y chismear sobre esa persona?\n\nOren por autocontrol sobre tus palabras, especialmente la tentación de compartir algo jugoso sobre otra persona.",
+        "fr": "Idée principale : la médisance est traitée comme une véritable trahison de confiance et un destructeur actif de relations, pas un bavardage inoffensif — et les Proverbes sont psychologiquement honnêtes sur le fait que la médisance est tentante précisément parce qu'elle SEMBLE satisfaisante (« friandises »), ce qui explique exactement pourquoi elle exige une résistance délibérée plutôt qu'un évitement désinvolte.\n\nPour la conversation : (1) Pourquoi la médisance pourrait-elle sembler satisfaisante ou intéressante à entendre, bien qu'elle soit nuisible ? (2) Que signifie le fait que la médisance soit décrite comme une « trahison de confiance » — qu'est-ce qui est réellement brisé ? (3) Quelle est la différence entre partager une inquiétude authentique sur quelqu'un et médire de cette personne ?\n\nPriez pour la maîtrise de soi sur tes paroles, particulièrement la tentation de partager quelque chose de juteux sur quelqu'un d'autre."
       }
     }
   ]

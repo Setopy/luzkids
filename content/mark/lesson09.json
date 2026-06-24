@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Seeds on Different Ground"
+    "en": "Seeds on Different Ground",
+    "es": "Semillas en Diferente Tierra",
+    "fr": "Des Graines sur des Terrains Différents"
   },
   "ref": "Mark 4:1-20",
   "section": "The Parable of the Sower",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Same seed, four different outcomes"
+        "en": "Same seed, four different outcomes",
+        "es": "La misma semilla, cuatro resultados diferentes",
+        "fr": "La même graine, quatre résultats différents"
       },
       "body": {
-        "en": "Such a large crowd gathered that Jesus got into a boat on the lake and taught from there, while everyone stood on the shore. He told a story: a farmer went out to sow seed. Some fell on the PATH, and birds ate it up.\n\nSome fell on ROCKY ground, sprang up quickly, but withered fast because it had no root. Some fell among THORNS, which grew up and choked the plants.\n\nBut some fell on GOOD SOIL, came up, grew, and produced a crop — thirty, sixty, even a hundred times what was sown! Later, His disciples asked what it meant. Jesus explained: the seed is God's Word.\n\nThe path represents those who hear but Satan immediately snatches the message away. The rocky ground represents those who receive it with joy but fall away under any trouble, because they have no root. The thorny ground represents those choked by worries, wealth, and desires for other things.\n\nBut the good soil represents those who truly hear the word, accept it, and produce a remarkable harvest. Same seed, same Sower — but everything depends on the condition of the ground receiving it."
+        "en": "Such a large crowd gathered that Jesus got into a boat on the lake and taught from there, while everyone stood on the shore. He told a story: a farmer went out to sow seed. Some fell on the PATH, and birds ate it up.\n\nSome fell on ROCKY ground, sprang up quickly, but withered fast because it had no root. Some fell among THORNS, which grew up and choked the plants.\n\nBut some fell on GOOD SOIL, came up, grew, and produced a crop — thirty, sixty, even a hundred times what was sown! Later, His disciples asked what it meant. Jesus explained: the seed is God's Word.\n\nThe path represents those who hear but Satan immediately snatches the message away. The rocky ground represents those who receive it with joy but fall away under any trouble, because they have no root. The thorny ground represents those choked by worries, wealth, and desires for other things.\n\nBut the good soil represents those who truly hear the word, accept it, and produce a remarkable harvest. Same seed, same Sower — but everything depends on the condition of the ground receiving it.",
+        "es": "Se reunió una multitud tan grande que Jesús se subió a una barca en el lago y enseñó desde allí, mientras todos estaban de pie en la orilla. Contó una historia: un agricultor salió a sembrar semilla. Parte cayó en el CAMINO, y las aves se la comieron.\n\nParte cayó en suelo PEDREGOSO, brotó rápidamente, pero se secó pronto porque no tenía raíz. Parte cayó entre ESPINOS, que crecieron y ahogaron las plantas.\n\n¡Pero parte cayó en BUENA TIERRA, brotó, creció, y produjo una cosecha — treinta, sesenta, hasta cien veces lo que se sembró! Más tarde, Sus discípulos preguntaron qué significaba. Jesús explicó: la semilla es la Palabra de Dios.\n\nEl camino representa a quienes oyen pero Satanás inmediatamente arrebata el mensaje. El suelo pedregoso representa a quienes la reciben con gozo pero se apartan ante cualquier dificultad, porque no tienen raíz. El suelo espinoso representa a quienes son ahogados por las preocupaciones, la riqueza, y los deseos de otras cosas.\n\nPero la buena tierra representa a quienes verdaderamente oyen la palabra, la aceptan, y producen una cosecha notable. La misma semilla, el mismo Sembrador — pero todo depende de la condición de la tierra que la recibe.",
+        "fr": "Une foule si grande se réunit que Jésus monta dans une barque sur le lac et enseigna de là, tandis que tous se tenaient sur le rivage. Il raconta une histoire : un semeur sortit pour semer. Une partie tomba le long du CHEMIN, et les oiseaux la mangèrent.\n\nUne partie tomba sur un sol PIERREUX, leva rapidement, mais sécha vite car elle n'avait pas de racine. Une partie tomba parmi les ÉPINES, qui poussèrent et étouffèrent les plantes.\n\nMais une partie tomba dans la BONNE TERRE, leva, grandit, et produisit une récolte — trente, soixante, jusqu'à cent fois ce qui avait été semé ! Plus tard, Ses disciples demandèrent ce que cela signifiait. Jésus expliqua : la semence est la Parole de Dieu.\n\nLe chemin représente ceux qui entendent mais à qui Satan arrache immédiatement le message. Le sol pierreux représente ceux qui le reçoivent avec joie mais abandonnent à la première difficulté, car ils n'ont pas de racine. Le sol épineux représente ceux qui sont étouffés par les soucis, la richesse, et les désirs d'autres choses.\n\nMais la bonne terre représente ceux qui entendent vraiment la parole, l'acceptent, et produisent une récolte remarquable. La même semence, le même Semeur — mais tout dépend de l'état de la terre qui la reçoit."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Others, like seed sown on good soil, hear the word, accept it, and produce a crop."
+        "en": "Others, like seed sown on good soil, hear the word, accept it, and produce a crop.",
+        "es": "Y éstos son los que fueron sembrados en buena tierra: los que oyen la palabra, y la reciben, y hacen fruto, uno á treinta, otro á sesenta, y otro á ciento.",
+        "fr": "D'autres reçoivent la semence dans la bonne terre ; ce sont ceux qui entendent la parole, la reçoivent, et portent du fruit, trente, soixante, et cent pour un."
       },
       "ref": {
-        "en": "Mark 4:20 (NIV)"
+        "en": "Mark 4:20 (NIV)",
+        "es": "Marcos 4:20 (Valera)",
+        "fr": "Marc 4:20 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "word",
           "accept",
           "it"
+        ],
+        "es": [
+          "Y",
+          "éstos",
+          "son",
+          "los",
+          "que",
+          "fueron"
+        ],
+        "fr": [
+          "D'autres",
+          "reçoivent",
+          "la",
+          "semence",
+          "dans",
+          "la"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Seeds on Different Ground"
+        "en": "A Song for Seeds on Different Ground",
+        "es": "Una Canción para Semillas en Diferente Tierra",
+        "fr": "Une Chanson pour Des Graines sur des Terrains Différents"
       },
       "audio_en": "/static/audio/mark/lesson09_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "What happened to the seed that fell on the path?"
+            "en": "What happened to the seed that fell on the path?",
+            "es": "¿Qué le pasó a la semilla que cayó en el camino?",
+            "fr": "Qu'est-il arrivé à la graine tombée le long du chemin ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "Birds ate it up immediately",
               "It produced thirty times the crop",
               "Nothing happened to it"
+            ],
+            "es": [
+              "Produjo la cosecha más grande",
+              "Las aves se la comieron inmediatamente",
+              "Produjo treinta veces la cosecha",
+              "No le pasó nada"
+            ],
+            "fr": [
+              "Elle a produit la plus grande récolte",
+              "Les oiseaux l'ont mangée immédiatement",
+              "Elle a produit trente fois la récolte",
+              "Rien ne lui est arrivé"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did the seed on rocky ground wither quickly, even though it sprang up fast?"
+            "en": "Why did the seed on rocky ground wither quickly, even though it sprang up fast?",
+            "es": "¿Por qué se secó rápido la semilla en suelo pedregoso, aunque brotó rápido?",
+            "fr": "Pourquoi la graine sur un sol pierreux a-t-elle séché rapidement, même si elle a levé vite ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "It grew too tall",
               "Birds ate it too",
               "It was watered too much"
+            ],
+            "es": [
+              "No tenía raíz",
+              "Creció demasiado alta",
+              "Las aves también se la comieron",
+              "La regaron demasiado"
+            ],
+            "fr": [
+              "Elle n'avait pas de racine",
+              "Elle a poussé trop haut",
+              "Les oiseaux l'ont mangée aussi",
+              "Elle a été trop arrosée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the 'good soil' represent in Jesus' explanation?"
+            "en": "What does the 'good soil' represent in Jesus' explanation?",
+            "es": "¿Qué representa la 'buena tierra' en la explicación de Jesús?",
+            "fr": "Que représente la « bonne terre » dans l'explication de Jésus ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "Those who truly hear the word, accept it, and produce a crop",
               "Only wealthy people",
               "Nothing significant"
+            ],
+            "es": [
+              "Personas que nunca oyen la palabra",
+              "Quienes verdaderamente oyen la palabra, la aceptan, y producen una cosecha",
+              "Solo personas ricas",
+              "Nada significativo"
+            ],
+            "fr": [
+              "Des gens qui n'entendent jamais la parole",
+              "Ceux qui entendent vraiment la parole, l'acceptent, et produisent une récolte",
+              "Seulement des gens riches",
+              "Rien de significatif"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Seeds on Different Ground"
+            "en": "Activity sheet: Seeds on Different Ground",
+            "es": "Hoja de actividad: Semillas en Diferente Tierra",
+            "fr": "Fiche d'activité : Des Graines sur des Terrains Différents"
           },
           "file": "/static/printables/mark/lesson09_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the condition of the heart determines the fruitfulness of God's Word in a life — the same message can be received with radically different outcomes depending on what's already growing (or not growing) within. This parable functions almost as an explanation for why people respond so differently to the very ministry Mark has been describing.\n\nConversation starters: (1) Which type of \"soil\" do you think best describes your heart right now? (2) What practical things choke spiritual growth like \"thorns\" — worries, busyness, wanting more stuff? (3) What helps \"good soil\" stay good — what keeps your heart receptive?\n\nPray for hearts that are good soil — receiving God's Word and producing real fruit."
+        "en": "Big idea: the condition of the heart determines the fruitfulness of God's Word in a life — the same message can be received with radically different outcomes depending on what's already growing (or not growing) within. This parable functions almost as an explanation for why people respond so differently to the very ministry Mark has been describing.\n\nConversation starters: (1) Which type of \"soil\" do you think best describes your heart right now? (2) What practical things choke spiritual growth like \"thorns\" — worries, busyness, wanting more stuff? (3) What helps \"good soil\" stay good — what keeps your heart receptive?\n\nPray for hearts that are good soil — receiving God's Word and producing real fruit.",
+        "es": "Idea principal: la condición del corazón determina la fructificación de la Palabra de Dios en una vida — el mismo mensaje puede recibirse con resultados radicalmente diferentes dependiendo de lo que ya está creciendo (o no creciendo) dentro. Esta parábola funciona casi como una explicación de por qué las personas responden de manera tan diferente al mismo ministerio que Marcos ha estado describiendo.\n\nPara conversar: (1) ¿Qué tipo de 'tierra' crees que describe mejor tu corazón en este momento? (2) ¿Qué cosas prácticas ahogan el crecimiento espiritual como 'espinos' — preocupaciones, ajetreo, querer más cosas? (3) ¿Qué ayuda a que la 'buena tierra' siga siendo buena — qué mantiene receptivo tu corazón?\n\nOren por corazones que sean buena tierra — recibiendo la Palabra de Dios y produciendo fruto real.",
+        "fr": "Idée principale : l'état du cœur détermine la fécondité de la Parole de Dieu dans une vie — le même message peut être reçu avec des résultats radicalement différents selon ce qui pousse déjà (ou ne pousse pas) à l'intérieur. Cette parabole fonctionne presque comme une explication de la raison pour laquelle les gens réagissent si différemment au ministère même que Marc a décrit.\n\nPour la conversation : (1) Quel type de « terre » penses-tu décrire le mieux ton cœur en ce moment ? (2) Quelles choses pratiques étouffent la croissance spirituelle comme des « épines » — les soucis, l'agitation, le désir d'avoir plus ? (3) Qu'est-ce qui aide la « bonne terre » à rester bonne — qu'est-ce qui garde ton cœur réceptif ?\n\nPriez pour des cœurs qui soient une bonne terre — recevant la Parole de Dieu et produisant un fruit véritable."
       }
     }
   ]

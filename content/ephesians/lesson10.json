@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Gifts for the Team"
+    "en": "Gifts for the Team",
+    "es": "Dones para el Equipo",
+    "fr": "Des Dons pour l'Équipe"
   },
   "ref": "Ephesians 4:7-16",
   "section": "Unity in the Body of Christ",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Equipped to grow up together"
+        "en": "Equipped to grow up together",
+        "es": "Equipados para crecer juntos",
+        "fr": "Équipés pour grandir ensemble"
       },
       "body": {
-        "en": "Think of your favourite sports team. Does everyone play the same position? Of course not!\n\nPaul explains that to EACH of us, grace has been given as Christ apportioned it. After He rose and DESCENDED, then ASCENDED far above the heavens, Jesus gave GIFTS to His church: apostles, prophets, evangelists, pastors and teachers. These are not for personal status — they are ministry tools for equipping every single believer to do the work of the Lord, building up the body of Christ, UNTIL we all reach unity in the faith and become MATURE, attaining to the whole measure of the fullness of Christ!\n\nPaul warns: we must no longer be like infants, tossed back and forth by every wave of new ideas, blown about by clever and deceitful teaching. Instead, speaking the TRUTH in LOVE, we grow up, becoming in every way the mature body of Christ — the whole body joined and held together, each part doing its work, growing and building itself up in love.\n\nEvery believer — including you — has a position on this team!"
+        "en": "Think of your favourite sports team. Does everyone play the same position? Of course not!\n\nPaul explains that to EACH of us, grace has been given as Christ apportioned it. After He rose and DESCENDED, then ASCENDED far above the heavens, Jesus gave GIFTS to His church: apostles, prophets, evangelists, pastors and teachers. These are not for personal status — they are ministry tools for equipping every single believer to do the work of the Lord, building up the body of Christ, UNTIL we all reach unity in the faith and become MATURE, attaining to the whole measure of the fullness of Christ!\n\nPaul warns: we must no longer be like infants, tossed back and forth by every wave of new ideas, blown about by clever and deceitful teaching. Instead, speaking the TRUTH in LOVE, we grow up, becoming in every way the mature body of Christ — the whole body joined and held together, each part doing its work, growing and building itself up in love.\n\nEvery believer — including you — has a position on this team!",
+        "es": "Piensa en tu equipo deportivo favorito. ¿Todos juegan la misma posición? ¡Claro que no!\n\nPablo explica que a CADA uno de nosotros se le ha dado gracia según la medida del don de Cristo. Después de que resucitó y DESCENDIÓ, y luego ASCENDIÓ muy por encima de los cielos, Jesús dio DONES a Su iglesia: apóstoles, profetas, evangelistas, pastores y maestros. Estos no son para estatus personal — son herramientas de ministerio para equipar a cada creyente para hacer la obra del Señor, edificando el cuerpo de Cristo, ¡HASTA que todos alcancemos la unidad de la fe y nos hagamos MADUROS, alcanzando la medida completa de la plenitud de Cristo!\n\nPablo advierte: ya no debemos ser como niños, llevados de aquí para allá por cada ola de ideas nuevas, sacudidos por enseñanzas astutas y engañosas. En cambio, hablando la VERDAD en AMOR, crecemos, llegando a ser en todo el cuerpo maduro de Cristo — todo el cuerpo unido y sostenido, cada parte haciendo su trabajo, creciendo y edificándose a sí mismo en amor.\n\n¡Cada creyente — incluyéndote a ti — tiene una posición en este equipo!",
+        "fr": "Pense à ton équipe sportive préférée. Tout le monde joue-t-il à la même position ? Bien sûr que non !\n\nPaul explique qu'à CHACUN de nous, la grâce a été donnée selon la mesure du don de Christ. Après qu'Il fut ressuscité et DESCENDU, puis MONTÉ bien au-dessus des cieux, Jésus a donné des DONS à Son Église : apôtres, prophètes, évangélistes, pasteurs et docteurs. Ce ne sont pas pour le statut personnel — ce sont des outils de ministère pour équiper chaque croyant à faire l'œuvre du Seigneur, édifiant le corps de Christ, JUSQU'À ce que nous parvenions tous à l'unité de la foi et devenions MATURES, atteignant la mesure entière de la plénitude de Christ !\n\nPaul avertit : nous ne devons plus être comme des enfants, ballottés de tous côtés par chaque vague de nouvelles idées, emportés par un enseignement habile et trompeur. Au contraire, en disant la VÉRITÉ dans l'AMOUR, nous grandissons, devenant en tout le corps mature de Christ — tout le corps uni et tenu ensemble, chaque partie faisant son travail, grandissant et s'édifiant lui-même dans l'amour.\n\nChaque croyant — toi y compris — a une position dans cette équipe !"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers, to equip his people for works of service."
+        "en": "So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers, to equip his people for works of service.",
+        "es": "Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores; Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo.",
+        "fr": "Et il a donné les uns comme apôtres, les autres comme prophètes, les autres comme évangélistes, les autres comme pasteurs et docteurs, pour le perfectionnement des saints en vue de l'œuvre du ministère et de l'édification du corps de Christ."
       },
       "ref": {
-        "en": "Ephesians 4:11-12 (NIV)"
+        "en": "Ephesians 4:11-12 (NIV)",
+        "es": "Efesios 4:11-12 (Valera)",
+        "fr": "Éphésiens 4:11-12 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -32,6 +42,22 @@
           "apostles",
           "the",
           "prophets"
+        ],
+        "es": [
+          "Y",
+          "él",
+          "mismo",
+          "dió",
+          "unos",
+          "ciertamente"
+        ],
+        "fr": [
+          "Et",
+          "il",
+          "a",
+          "donné",
+          "les",
+          "uns"
         ]
       },
       "typing_challenge": true
@@ -39,7 +65,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Gifts for the Team"
+        "en": "A Song for Gifts for the Team",
+        "es": "Una Canción para Dones para el Equipo",
+        "fr": "Une Chanson pour Des Dons pour l'Équipe"
       },
       "audio_en": "/static/audio/ephesians/lesson10_en.mp3"
     },
@@ -48,7 +76,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why did Jesus give gifts like apostles, prophets, evangelists, pastors and teachers to the church?"
+            "en": "Why did Jesus give gifts like apostles, prophets, evangelists, pastors and teachers to the church?",
+            "es": "¿Por qué dio Jesús dones como apóstoles, profetas, evangelistas, pastores y maestros a la iglesia?",
+            "fr": "Pourquoi Jésus a-t-il donné des dons comme des apôtres, des prophètes, des évangélistes, des pasteurs et des docteurs à l'église ?"
           },
           "options": {
             "en": [
@@ -56,13 +86,27 @@
               "To equip His people for works of service, building up the body",
               "To create competition",
               "No real reason"
+            ],
+            "es": [
+              "Por estatus y fama personal",
+              "Para equipar a Su pueblo para obras de servicio, edificando el cuerpo",
+              "Para crear competencia",
+              "Sin razón real"
+            ],
+            "fr": [
+              "Pour le statut et la célébrité personnels",
+              "Pour équiper Son peuple pour des œuvres de service, édifiant le corps",
+              "Pour créer de la compétition",
+              "Sans raison réelle"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul compare believers to, if they are tossed by every wave of new teaching?"
+            "en": "What does Paul compare believers to, if they are tossed by every wave of new teaching?",
+            "es": "¿Con qué compara Pablo a los creyentes si son sacudidos por cada ola de nuevas enseñanzas?",
+            "fr": "À quoi Paul compare-t-il les croyants s'ils sont ballottés par chaque vague de nouveaux enseignements ?"
           },
           "options": {
             "en": [
@@ -70,13 +114,27 @@
               "Infants, tossed back and forth",
               "Wise teachers",
               "Mature leaders"
+            ],
+            "es": [
+              "Soldados fuertes",
+              "Niños, llevados de aquí para allá",
+              "Maestros sabios",
+              "Líderes maduros"
+            ],
+            "fr": [
+              "Des soldats forts",
+              "Des enfants, ballottés de tous côtés",
+              "Des docteurs sages",
+              "Des dirigeants matures"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What combination does Paul say leads to real growth and maturity?"
+            "en": "What combination does Paul say leads to real growth and maturity?",
+            "es": "¿Qué combinación dice Pablo que lleva al crecimiento y madurez verdaderos?",
+            "fr": "Quelle combinaison Paul dit-il menant à une croissance et une maturité réelles ?"
           },
           "options": {
             "en": [
@@ -84,6 +142,18 @@
               "Speaking the truth in love",
               "Love without truth",
               "Silence"
+            ],
+            "es": [
+              "Verdad sin amor",
+              "Hablar la verdad en amor",
+              "Amor sin verdad",
+              "Silencio"
+            ],
+            "fr": [
+              "La vérité sans amour",
+              "Dire la vérité dans l'amour",
+              "L'amour sans vérité",
+              "Le silence"
             ]
           },
           "answer": 1
@@ -95,7 +165,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Gifts for the Team"
+            "en": "Activity sheet: Gifts for the Team",
+            "es": "Hoja de actividad: Dones para el Equipo",
+            "fr": "Fiche d'activité : Des Dons pour l'Équipe"
           },
           "file": "/static/printables/ephesians/lesson10_sheet.pdf"
         }
@@ -104,7 +176,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the fivefold ministry gifts exist for equipping the whole church toward every-member maturity, not for elevating a few leaders. The \"speaking truth in love\" formula (4:15) is the antidote to two errors: truth without love (harsh, driving people away) and love without truth (warm but never calling sin sin).\n\nConversation starters: (1) Every believer has a \"position on the team\" — what gifts has God given YOU for serving others? (2) What does it look like when truth is spoken without love? And love without truth? (3) Why does maturity require growing together, not just alone?\n\nPray together for your church's ministry, and for growth toward maturity as a family."
+        "en": "Big idea: the fivefold ministry gifts exist for equipping the whole church toward every-member maturity, not for elevating a few leaders. The \"speaking truth in love\" formula (4:15) is the antidote to two errors: truth without love (harsh, driving people away) and love without truth (warm but never calling sin sin).\n\nConversation starters: (1) Every believer has a \"position on the team\" — what gifts has God given YOU for serving others? (2) What does it look like when truth is spoken without love? And love without truth? (3) Why does maturity require growing together, not just alone?\n\nPray together for your church's ministry, and for growth toward maturity as a family.",
+        "es": "Idea principal: los dones ministeriales quíntuples existen para equipar a toda la iglesia hacia la madurez de cada miembro, no para elevar a unos pocos líderes. La fórmula \"hablar la verdad en amor\" (4:15) es el antídoto contra dos errores: verdad sin amor (dura, que aleja a las personas) y amor sin verdad (cálido pero que nunca llama al pecado por su nombre).\n\nPara conversar: (1) Cada creyente tiene una \"posición en el equipo\" — ¿qué dones te ha dado Dios a TI para servir a los demás? (2) ¿Cómo se ve cuando se habla la verdad sin amor? ¿Y el amor sin verdad? (3) ¿Por qué la madurez requiere crecer juntos, no solo solos?\n\nOren juntos por el ministerio de su iglesia, y por crecimiento hacia la madurez como familia.",
+        "fr": "Idée principale : les dons ministériels quintuples existent pour équiper toute l'église vers la maturité de chaque membre, et non pour élever quelques dirigeants. La formule « dire la vérité dans l'amour » (4.15) est l'antidote à deux erreurs : la vérité sans amour (dure, qui repousse les gens) et l'amour sans vérité (chaleureux mais qui n'appelle jamais le péché par son nom).\n\nPour la conversation : (1) Chaque croyant a une « position dans l'équipe » — quels dons Dieu t'a-t-Il donnés pour servir les autres ? (2) À quoi ressemble la vérité dite sans amour ? Et l'amour sans vérité ? (3) Pourquoi la maturité exige-t-elle de grandir ensemble, et non seul ?\n\nPriez ensemble pour le ministère de votre église, et pour une croissance vers la maturité en famille."
       }
     }
   ]

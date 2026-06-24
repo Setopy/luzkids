@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Hard for the Rich, Easy for God"
+    "en": "Hard for the Rich, Easy for God",
+    "es": "Difícil para el Rico, Fácil para Dios",
+    "fr": "Difficile pour le Riche, Facile pour Dieu"
   },
   "ref": "Mark 10:17-31",
   "section": "The Rich and the Kingdom of God",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A good question, a hard answer, a camel and a needle"
+        "en": "A good question, a hard answer, a camel and a needle",
+        "es": "Una buena pregunta, una respuesta difícil, un camello y una aguja",
+        "fr": "Une bonne question, une réponse difficile, un chameau et une aiguille"
       },
       "body": {
-        "en": "A rich man ran up to Jesus, fell on his knees, and asked: 'Good teacher, what must I do to inherit eternal life?' Jesus listed several commandments — the man said he'd kept them all since he was young. Jesus, looking at him with LOVE, said: 'One thing you lack. Go, sell everything you have and give to the poor... then come, follow me.' At this, the man's face fell, and he went away sad, because he had great wealth.\n\nJesus looked at His disciples: 'How hard it is for the rich to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God!' The disciples were astonished: 'Who then can be saved?' Jesus said: 'With man this is impossible, but not with God; all things are possible with God.' Peter pointed out they had left everything to follow Jesus.\n\nJesus promised that no one who gives up anything for Him and the gospel will fail to receive a hundred times as much, in this life and the age to come — though many who are first will be last, and the last first."
+        "en": "A rich man ran up to Jesus, fell on his knees, and asked: 'Good teacher, what must I do to inherit eternal life?' Jesus listed several commandments — the man said he'd kept them all since he was young. Jesus, looking at him with LOVE, said: 'One thing you lack. Go, sell everything you have and give to the poor... then come, follow me.' At this, the man's face fell, and he went away sad, because he had great wealth.\n\nJesus looked at His disciples: 'How hard it is for the rich to enter the kingdom of God! It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God!' The disciples were astonished: 'Who then can be saved?' Jesus said: 'With man this is impossible, but not with God; all things are possible with God.' Peter pointed out they had left everything to follow Jesus.\n\nJesus promised that no one who gives up anything for Him and the gospel will fail to receive a hundred times as much, in this life and the age to come — though many who are first will be last, and the last first.",
+        "es": "Un hombre rico corrió hacia Jesús, se postró de rodillas, y preguntó: \"Maestro bueno, ¿qué debo hacer para heredar la vida eterna?\" Jesús enumeró varios mandamientos — el hombre dijo que los había guardado todos desde joven. Jesús, mirándolo con AMOR, dijo: \"Una cosa te falta. Ve, vende todo lo que tienes y dalo a los pobres... luego ven, sígueme.\" Ante esto, el rostro del hombre se entristeció, y se fue triste, porque tenía grandes riquezas.\n\nJesús miró a Sus discípulos: \"¡Qué difícil es para los ricos entrar en el reino de Dios! ¡Es más fácil que un camello pase por el ojo de una aguja que un rico entre en el reino de Dios!\" Los discípulos se asombraron: \"¿Quién, entonces, puede salvarse?\" Jesús dijo: \"Para los hombres esto es imposible, pero no para Dios; todas las cosas son posibles para Dios.\" Pedro señaló que habían dejado todo para seguir a Jesús.\n\nJesús prometió que nadie que renuncie a algo por Él y el evangelio dejará de recibir cien veces más, en esta vida y en la edad venidera — aunque muchos que son primeros serán últimos, y los últimos primeros.",
+        "fr": "Un homme riche courut vers Jésus, se mit à genoux, et demanda : « Bon maître, que dois-je faire pour hériter de la vie éternelle ? » Jésus énuméra plusieurs commandements — l'homme dit qu'il les avait tous gardés depuis sa jeunesse. Jésus, le regardant avec AMOUR, dit : « Il te manque une seule chose. Va, vends tout ce que tu as et donne-le aux pauvres... puis viens, suis-moi. » À ces mots, le visage de l'homme s'assombrit, et il s'en alla tout triste, car il avait de grands biens.\n\nJésus regarda Ses disciples : « Qu'il est difficile à ceux qui se confient dans les richesses d'entrer dans le royaume de Dieu ! Il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu ! » Les disciples furent stupéfaits : « Et qui peut donc être sauvé ? » Jésus dit : « Cela est impossible aux hommes, mais non à Dieu : car tout est possible à Dieu. » Pierre fit remarquer qu'ils avaient tout quitté pour suivre Jésus.\n\nJésus promit que quiconque quitte quoi que ce soit pour Lui et l'Évangile recevra cent fois plus, dans cette vie et dans le siècle à venir — bien que beaucoup de ceux qui sont les premiers seront les derniers, et les derniers les premiers."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "With man this is impossible, but not with God; all things are possible with God."
+        "en": "With man this is impossible, but not with God; all things are possible with God.",
+        "es": "Entonces Jesús mirándolos, dice: Para los hombres es imposible; mas para Dios, no; porque todas las cosas son posibles para Dios.",
+        "fr": "Jésus les regarda, et dit : Cela est impossible aux hommes, mais non à Dieu : car tout est possible à Dieu."
       },
       "ref": {
-        "en": "Mark 10:27 (NIV)"
+        "en": "Mark 10:27 (NIV)",
+        "es": "Marcos 10:27 (Valera)",
+        "fr": "Marc 10:27 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "things",
           "are",
           "possible"
+        ],
+        "es": [
+          "Entonces",
+          "Jesús",
+          "mirándolos",
+          "dice",
+          "Para",
+          "los"
+        ],
+        "fr": [
+          "Jésus",
+          "les",
+          "regarda",
+          "et",
+          "dit",
+          "Cela"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Hard for the Rich, Easy for God"
+        "en": "A Song for Hard for the Rich, Easy for God",
+        "es": "Una Canción para Difícil para el Rico, Fácil para Dios",
+        "fr": "Une Chanson pour Difficile pour le Riche, Facile pour Dieu"
       },
       "audio_en": "/static/audio/mark/lesson26_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus tell the rich man he was lacking, even after keeping all the commandments?"
+            "en": "What did Jesus tell the rich man he was lacking, even after keeping all the commandments?",
+            "es": "¿Qué le dijo Jesús al hombre rico que le faltaba, incluso después de guardar todos los mandamientos?",
+            "fr": "Qu'a dit Jésus à l'homme riche qu'il lui manquait, même après avoir gardé tous les commandements ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "To sell everything and give to the poor, then follow Jesus",
               "More religious knowledge",
               "A bigger house"
+            ],
+            "es": [
+              "Nada — ya estaba completo",
+              "Vender todo y darlo a los pobres, luego seguir a Jesús",
+              "Más conocimiento religioso",
+              "Una casa más grande"
+            ],
+            "fr": [
+              "Rien — il était déjà complet",
+              "Vendre tout et le donner aux pauvres, puis suivre Jésus",
+              "Plus de connaissance religieuse",
+              "Une plus grande maison"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did the rich man respond to Jesus' instruction?"
+            "en": "How did the rich man respond to Jesus' instruction?",
+            "es": "¿Cómo respondió el hombre rico a la instrucción de Jesús?",
+            "fr": "Comment l'homme riche a-t-il répondu à l'instruction de Jésus ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "His face fell, and he went away sad",
               "He argued back",
               "He thanked Jesus"
+            ],
+            "es": [
+              "Obedeció inmediatamente con gozo",
+              "Su rostro se entristeció, y se fue triste",
+              "Discutió de vuelta",
+              "Agradeció a Jesús"
+            ],
+            "fr": [
+              "Il a immédiatement obéi avec joie",
+              "Son visage s'est assombri, et il est parti tout triste",
+              "Il a discuté en retour",
+              "Il a remercié Jésus"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Jesus, who can actually achieve salvation, if it's humanly impossible?"
+            "en": "According to Jesus, who can actually achieve salvation, if it's humanly impossible?",
+            "es": "Según Jesús, ¿quién puede realmente lograr la salvación, si es humanamente imposible?",
+            "fr": "Selon Jésus, qui peut réellement atteindre le salut, si c'est humainement impossible ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "God — all things are possible with God",
               "Only the very wealthy",
               "Only perfect people"
+            ],
+            "es": [
+              "Nadie, jamás",
+              "Dios — todas las cosas son posibles para Dios",
+              "Solo los muy ricos",
+              "Solo las personas perfectas"
+            ],
+            "fr": [
+              "Personne, jamais",
+              "Dieu — tout est possible à Dieu",
+              "Seulement les très riches",
+              "Seulement les personnes parfaites"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Hard for the Rich, Easy for God"
+            "en": "Activity sheet: Hard for the Rich, Easy for God",
+            "es": "Hoja de actividad: Difícil para el Rico, Fácil para Dios",
+            "fr": "Fiche d'activité : Difficile pour le Riche, Facile pour Dieu"
           },
           "file": "/static/printables/mark/lesson26_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: salvation is impossible by human effort or achievement alone — even a genuinely sincere, commandment-keeping person discovers something he cannot let go of, revealing that the real obstacle is the heart's attachment, not a checklist. Jesus' love for the man (explicitly stated) even as He calls for total surrender models that hard truth is not the opposite of compassion.\n\nConversation starters: (1) Why might the rich man's wealth be the exact thing keeping him from following Jesus fully? (2) What's the difference between religious rule-keeping and actually surrendering everything to Jesus? (3) What might be your own \"one thing\" that's hard to let go of for Jesus?\n\nPray for honesty about whatever might be harder to surrender than expected, trusting all things are possible with God."
+        "en": "Big idea: salvation is impossible by human effort or achievement alone — even a genuinely sincere, commandment-keeping person discovers something he cannot let go of, revealing that the real obstacle is the heart's attachment, not a checklist. Jesus' love for the man (explicitly stated) even as He calls for total surrender models that hard truth is not the opposite of compassion.\n\nConversation starters: (1) Why might the rich man's wealth be the exact thing keeping him from following Jesus fully? (2) What's the difference between religious rule-keeping and actually surrendering everything to Jesus? (3) What might be your own \"one thing\" that's hard to let go of for Jesus?\n\nPray for honesty about whatever might be harder to surrender than expected, trusting all things are possible with God.",
+        "es": "Idea principal: la salvación es imposible solo por esfuerzo o logro humano — incluso una persona genuinamente sincera que guarda los mandamientos descubre algo que no puede dejar ir, revelando que el verdadero obstáculo es el apego del corazón, no una lista de verificación. El amor de Jesús por el hombre (explícitamente declarado) incluso al llamarlo a la entrega total modela que la verdad difícil no es lo opuesto de la compasión.\n\nPara conversar: (1) ¿Por qué podría la riqueza del hombre rico ser exactamente lo que lo mantiene alejado de seguir completamente a Jesús? (2) ¿Cuál es la diferencia entre el cumplimiento religioso de reglas y realmente entregarlo todo a Jesús? (3) ¿Cuál podría ser tu propia 'única cosa' que es difícil de dejar ir por Jesús?\n\nOren por honestidad sobre lo que podría ser más difícil de entregar de lo esperado, confiando que todas las cosas son posibles con Dios.",
+        "fr": "Idée principale : le salut est impossible par le seul effort ou accomplissement humain — même une personne véritablement sincère qui garde les commandements découvre quelque chose qu'elle ne peut lâcher, révélant que le véritable obstacle est l'attachement du cœur, et non une liste de contrôle. L'amour de Jésus pour l'homme (explicitement déclaré) même en l'appelant à une totale soumission montre que la vérité difficile n'est pas le contraire de la compassion.\n\nPour la conversation : (1) Pourquoi la richesse de l'homme riche pourrait-elle être exactement ce qui l'empêche de suivre pleinement Jésus ? (2) Quelle est la différence entre l'observance religieuse des règles et le fait de tout abandonner réellement à Jésus ? (3) Quelle pourrait être ta propre « seule chose » qu'il est difficile d'abandonner pour Jésus ?\n\nPriez pour l'honnêteté sur ce qui pourrait être plus difficile à abandonner que prévu, en faisant confiance que tout est possible avec Dieu."
       }
     }
   ]

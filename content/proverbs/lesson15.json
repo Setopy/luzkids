@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Wisdom Was There When God Made the World!"
+    "en": "Wisdom Was There When God Made the World!",
+    "es": "¡La Sabiduría Estaba Allí Cuando Dios Hizo el Mundo!",
+    "fr": "La Sagesse Était Là Quand Dieu a Fait le Monde !"
   },
   "ref": "Proverbs 8:1-36",
   "section": "Wisdom's Call",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Present at creation itself"
+        "en": "Present at creation itself",
+        "es": "Presente en la creación misma",
+        "fr": "Présente à la création même"
       },
       "body": {
-        "en": "Once again Wisdom calls out, this time with one of the most breathtaking speeches in the entire Bible. She speaks of giving prudence, knowledge, and discretion — and says kings reign and rulers make just laws BECAUSE of her.\n\nThen Wisdom makes an astonishing claim about her own origin: 'The Lord brought me forth as the first of his works, before his deeds of old. I was formed long ages ago, at the very beginning, before the world began.'\n\nWisdom describes being present before the mountains were settled, before the hills, before God made the earth or its fields, before He set the heavens in place, before He marked out the foundations of the earth.\n\n'I was there when he set the heavens in place, when he marked out the horizon on the face of the deep... I was filled with delight day after day, rejoicing always in his presence, rejoicing in his whole world and delighting in mankind.'\n\nThe chapter ends with the same kind of urgent invitation we've seen before: 'blessed are those who listen to me, watching daily at my doors... for those who find me find life.' The very wisdom that helped form the universe is the same wisdom offered freely to you."
+        "en": "Once again Wisdom calls out, this time with one of the most breathtaking speeches in the entire Bible. She speaks of giving prudence, knowledge, and discretion — and says kings reign and rulers make just laws BECAUSE of her.\n\nThen Wisdom makes an astonishing claim about her own origin: 'The Lord brought me forth as the first of his works, before his deeds of old. I was formed long ages ago, at the very beginning, before the world began.'\n\nWisdom describes being present before the mountains were settled, before the hills, before God made the earth or its fields, before He set the heavens in place, before He marked out the foundations of the earth.\n\n'I was there when he set the heavens in place, when he marked out the horizon on the face of the deep... I was filled with delight day after day, rejoicing always in his presence, rejoicing in his whole world and delighting in mankind.'\n\nThe chapter ends with the same kind of urgent invitation we've seen before: 'blessed are those who listen to me, watching daily at my doors... for those who find me find life.' The very wisdom that helped form the universe is the same wisdom offered freely to you.",
+        "es": "Una vez más la Sabiduría clama, esta vez con uno de los discursos más asombrosos de toda la Biblia. Ella habla de dar prudencia, conocimiento y discreción — y dice que los reyes reinan y los gobernantes hacen leyes justas GRACIAS a ella.\n\nEntonces la Sabiduría hace una afirmación sorprendente sobre su propio origen: \"Jehová me poseía desde el principio, antes de sus obras, ya de antiguo. Eternalmente tuve el principado, desde el principio, antes de la tierra.\"\n\nLa Sabiduría describe estar presente antes de que los montes fuesen formados, antes que los collados, antes que Dios hiciera la tierra ni los campos, antes que afirmara los cielos arriba, antes que estableciera los fundamentos de la tierra.\n\n\"Cuando afirmaba los cielos arriba... con él estaba yo ordenándolo todo; y fuí su delicia todos los días, teniendo solaz delante de él en todo tiempo.\" La sabiduría describe estar llena de gozo cada día, regocijándose siempre en su presencia, regocijándose en todo su mundo y deleitándose en la humanidad.\n\nEl capítulo termina con el mismo tipo de invitación urgente que hemos visto antes: \"bienaventurado el hombre que me oye, velando á mis puertas cada día... porque el que me hallare, hallará la vida.\" La misma sabiduría que ayudó a formar el universo es la misma sabiduría que se ofrece libremente a ti.",
+        "fr": "De nouveau la Sagesse crie, cette fois avec l'un des discours les plus stupéfiants de toute la Bible. Elle parle de donner prudence, connaissance et discernement — et dit que les rois règnent et les chefs gouvernent avec justice GRÂCE à elle.\n\nPuis la Sagesse fait une affirmation étonnante sur sa propre origine : « L'Éternel m'a créée la première de ses œuvres, avant ses œuvres, dès le commencement. J'ai été établie dès l'éternité, dès le commencement, avant l'origine de la terre. »\n\nLa Sagesse décrit être présente avant que les montagnes ne fussent posées, avant les collines, avant que Dieu ne fît la terre ni les champs, avant qu'il n'eût fixé les nuages en haut, avant qu'il n'eût posé les fondements de la terre.\n\n« Lorsqu'il fixa les nuages en haut... j'étais à l'œuvre auprès de lui, et je faisais tous les jours ses délices, jouant sans cesse en sa présence. » La Sagesse décrit être remplie de joie chaque jour, se réjouissant toujours en sa présence, se réjouissant dans tout son monde et se délectant de l'humanité.\n\nLe chapitre se termine par le même genre d'invitation urgente que nous avons déjà vue : « heureux l'homme qui m'écoute, qui veille chaque jour à mes portes... car celui qui me trouve a trouvé la vie. » La même sagesse qui a aidé à former l'univers est la même sagesse offerte librement à toi."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "I was there when he set the heavens in place... I was filled with delight, rejoicing always in his presence."
+        "en": "I was there when he set the heavens in place... I was filled with delight, rejoicing always in his presence.",
+        "es": "Cuando formaba los cielos, allí estaba yo... Con él estaba yo ordenándolo todo; y fuí su delicia todos los días.",
+        "fr": "Lorsqu'il disposa les cieux, j'étais là... J'étais à l'œuvre auprès de lui, Et je faisais tous les jours ses délices."
       },
       "ref": {
-        "en": "Proverbs 8:27,30 (NIV)"
+        "en": "Proverbs 8:27,30 (NIV)",
+        "es": "Proverbios 8:27,30 (Valera)",
+        "fr": "Proverbes 8:27,30 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "heavens",
           "in",
           "place"
+        ],
+        "es": [
+          "Cuando",
+          "formaba",
+          "los",
+          "cielos",
+          "allí",
+          "estaba"
+        ],
+        "fr": [
+          "Lorsqu'il",
+          "disposa",
+          "les",
+          "cieux",
+          "j'étais",
+          "là"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Wisdom Was There When God Made the World!"
+        "en": "A Song for Wisdom Was There When God Made the World!",
+        "es": "Una Canción para ¡La Sabiduría Estaba Allí Cuando Dios Hizo el Mundo!",
+        "fr": "Une Chanson pour La Sagesse Était Là Quand Dieu a Fait le Monde !"
       },
       "audio_en": "/static/audio/proverbs/lesson15_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Wisdom claim about her own origin in this chapter?"
+            "en": "What does Wisdom claim about her own origin in this chapter?",
+            "es": "¿Qué afirma la Sabiduría sobre su propio origen en este capítulo?",
+            "fr": "Que revendique la Sagesse sur sa propre origine dans ce chapitre ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "She was formed at the very beginning, before the world began",
               "She doesn't really exist",
               "Nothing is said about her origin"
+            ],
+            "es": [
+              "Fue creada muy recientemente",
+              "Fue establecida desde el principio, antes que existiera el mundo",
+              "No existe realmente",
+              "No se dice nada sobre su origen"
+            ],
+            "fr": [
+              "Elle a été créée très récemment",
+              "Elle a été établie dès le commencement, avant l'origine du monde",
+              "Elle n'existe pas réellement",
+              "Rien n'est dit sur son origine"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Wisdom say she was doing while God created the world?"
+            "en": "What does Wisdom say she was doing while God created the world?",
+            "es": "¿Qué dice la Sabiduría que estaba haciendo mientras Dios creaba el mundo?",
+            "fr": "Que dit la Sagesse qu'elle faisait pendant que Dieu créait le monde ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Rejoicing always in God's presence, delighting in His whole world",
               "Sleeping",
               "Nothing at all"
+            ],
+            "es": [
+              "Escondiéndose",
+              "Regocijándose siempre en la presencia de Dios, deleitándose en todo Su mundo",
+              "Durmiendo",
+              "Nada en absoluto"
+            ],
+            "fr": [
+              "Se cachant",
+              "Se réjouissant toujours en la présence de Dieu, se délectant de tout Son monde",
+              "Dormant",
+              "Rien du tout"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Wisdom promise to 'those who find me'?"
+            "en": "What does Wisdom promise to 'those who find me'?",
+            "es": "¿Qué promete la Sabiduría a 'quienes me hallaren'?",
+            "fr": "Que promet la Sagesse à « celui qui me trouve » ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Life",
               "Hardship only",
               "Confusion"
+            ],
+            "es": [
+              "Nada de valor",
+              "La vida",
+              "Solo dificultad",
+              "Confusión"
+            ],
+            "fr": [
+              "Rien de valeur",
+              "La vie",
+              "Seulement la difficulté",
+              "La confusion"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Wisdom Was There When God Made the World!"
+            "en": "Activity sheet: Wisdom Was There When God Made the World!",
+            "es": "Hoja de actividad: ¡La Sabiduría Estaba Allí Cuando Dios Hizo el Mundo!",
+            "fr": "Fiche d'activité : La Sagesse Était Là Quand Dieu a Fait le Monde !"
           },
           "file": "/static/printables/proverbs/lesson15_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Wisdom is poetically pictured as present with God at the dawn of creation itself, rejoicing in His presence and delighting in the world He made — elevating wisdom from mere practical advice to something woven into the very fabric of how God designed reality. Many Christian readers throughout history have seen rich resonances here with Christ Himself, described in John 1 and Colossians 1 as present at creation, through whom all things were made — though Proverbs' own primary point is simply that wisdom is foundational to how the universe actually works.\n\nConversation starters: (1) What does it mean that Wisdom describes herself as rejoicing and delighting, not just instructing? (2) Why might it matter that the same wisdom present at creation is offered freely to you today? (3) What does \"those who find me find life\" promise about the value of seeking wisdom?\n\nPray, marveling together at a God whose wisdom built the universe and is offered freely to His children."
+        "en": "Big idea: Wisdom is poetically pictured as present with God at the dawn of creation itself, rejoicing in His presence and delighting in the world He made — elevating wisdom from mere practical advice to something woven into the very fabric of how God designed reality. Many Christian readers throughout history have seen rich resonances here with Christ Himself, described in John 1 and Colossians 1 as present at creation, through whom all things were made — though Proverbs' own primary point is simply that wisdom is foundational to how the universe actually works.\n\nConversation starters: (1) What does it mean that Wisdom describes herself as rejoicing and delighting, not just instructing? (2) Why might it matter that the same wisdom present at creation is offered freely to you today? (3) What does \"those who find me find life\" promise about the value of seeking wisdom?\n\nPray, marveling together at a God whose wisdom built the universe and is offered freely to His children.",
+        "es": "Idea principal: la Sabiduría se representa poéticamente como presente con Dios en el amanecer de la creación misma, regocijándose en Su presencia y deleitándose en el mundo que Él hizo — elevando la sabiduría de un mero consejo práctico a algo entretejido en el tejido mismo de cómo Dios diseñó la realidad. Muchos lectores cristianos a lo largo de la historia han visto resonancias ricas aquí con Cristo mismo, descrito en Juan 1 y Colosenses 1 como presente en la creación, por medio de quien todas las cosas fueron hechas — aunque el propio punto principal de Proverbios es simplemente que la sabiduría es fundamental para cómo realmente funciona el universo.\n\nPara conversar: (1) ¿Qué significa que la Sabiduría se describa a sí misma regocijándose y deleitándose, no solo instruyendo? (2) ¿Por qué podría importar que la misma sabiduría presente en la creación se ofrezca libremente a ti hoy? (3) ¿Qué promete \"el que me hallare, hallará la vida\" sobre el valor de buscar la sabiduría?\n\nOren, maravillándose juntos ante un Dios cuya sabiduría construyó el universo y se ofrece libremente a Sus hijos.",
+        "fr": "Idée principale : la Sagesse est dépeinte poétiquement comme présente avec Dieu à l'aube de la création même, se réjouissant en Sa présence et se délectant du monde qu'Il a fait — élevant la sagesse d'un simple conseil pratique à quelque chose tissé dans la trame même de la façon dont Dieu a conçu la réalité. De nombreux lecteurs chrétiens à travers l'histoire ont vu ici de riches résonances avec Christ lui-même, décrit dans Jean 1 et Colossiens 1 comme présent à la création, par qui toutes choses ont été faites — bien que le point principal des Proverbes eux-mêmes soit simplement que la sagesse est fondamentale à la façon dont l'univers fonctionne réellement.\n\nPour la conversation : (1) Que signifie le fait que la Sagesse se décrive elle-même se réjouissant et se délectant, pas seulement instruisant ? (2) Pourquoi pourrait-il importer que la même sagesse présente à la création soit offerte librement à toi aujourd'hui ? (3) Que promet « celui qui me trouve a trouvé la vie » sur la valeur de chercher la sagesse ?\n\nPriez, en vous émerveillant ensemble devant un Dieu dont la sagesse a construit l'univers et est offerte librement à Ses enfants."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Ant, the Sluggard, and Seven Things God Hates"
+    "en": "The Ant, the Sluggard, and Seven Things God Hates",
+    "es": "La Hormiga, el Perezoso, y Siete Cosas Que Dios Aborrece",
+    "fr": "La Fourmi, le Paresseux, et Sept Choses Que Dieu Hait"
   },
   "ref": "Proverbs 6:1-19",
   "section": "Warnings Against Folly",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Tiny creature, big lesson"
+        "en": "Tiny creature, big lesson",
+        "es": "Una criatura pequeña, una gran lección",
+        "fr": "Une petite créature, une grande leçon"
       },
       "body": {
-        "en": "This chapter gives several short, punchy warnings. First: don't rashly guarantee someone else's debt without thinking it through carefully — it can trap you in obligations you never meant to take on.\n\nThen comes one of the most famous passages in all of Proverbs: 'Go to the ant, you sluggard; consider its ways and be wise! It has no commander, no overseer or ruler, yet it stores its provisions in summer and gathers its food at harvest.'\n\nThe lazy person is warned directly: 'How long will you lie there, you sluggard? When will you get up from your sleep?' A little sleep, a little slumber, a little folding of the hands to rest — and poverty comes like a thief, suddenly!\n\nThen the chapter lists things the Lord specifically detests: 'haughty eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked schemes, feet that are quick to rush into evil, a false witness who pours out lies, and a person who stirs up conflict in the community.'\n\nSeven specific things, named clearly — a vivid, memorable list of exactly the kind of character God hates, and by contrast, the kind of character wisdom builds instead."
+        "en": "This chapter gives several short, punchy warnings. First: don't rashly guarantee someone else's debt without thinking it through carefully — it can trap you in obligations you never meant to take on.\n\nThen comes one of the most famous passages in all of Proverbs: 'Go to the ant, you sluggard; consider its ways and be wise! It has no commander, no overseer or ruler, yet it stores its provisions in summer and gathers its food at harvest.'\n\nThe lazy person is warned directly: 'How long will you lie there, you sluggard? When will you get up from your sleep?' A little sleep, a little slumber, a little folding of the hands to rest — and poverty comes like a thief, suddenly!\n\nThen the chapter lists things the Lord specifically detests: 'haughty eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked schemes, feet that are quick to rush into evil, a false witness who pours out lies, and a person who stirs up conflict in the community.'\n\nSeven specific things, named clearly — a vivid, memorable list of exactly the kind of character God hates, and by contrast, the kind of character wisdom builds instead.",
+        "es": "Este capítulo da varias advertencias cortas y contundentes. Primero: no garantices apresuradamente la deuda de otro sin pensarlo cuidadosamente — puede atraparte en obligaciones que nunca pretendiste asumir.\n\nEntonces llega uno de los pasajes más famosos de todo Proverbios: \"Ve á la hormiga, oh perezoso, mira sus caminos, y sé sabio; la cual no teniendo capitán, ni gobernador, ni señor, prepara en el verano su comida, y allega en el tiempo de la siega su mantenimiento.\"\n\nSe advierte directamente al perezoso: \"¿Hasta cuándo has de dormir, oh perezoso? ¿Cuándo te levantarás de tu sueño?\" Un poco de sueño, un poco de adormecimiento, cruzar las manos un poco para reposar — ¡y vendrá tu necesidad como caminante, y tu pobreza como hombre de escudo!\n\nEntonces el capítulo enumera cosas que Jehová específicamente aborrece: \"los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente, el corazón que maquina pensamientos inicuos, los pies presurosos para correr al mal, el testigo falso que habla mentiras, y el que mete discordia entre hermanos.\"\n\nSiete cosas específicas, nombradas claramente — una lista vívida y memorable exactamente del tipo de carácter que Dios aborrece, y por contraste, el tipo de carácter que la sabiduría construye en su lugar.",
+        "fr": "Ce chapitre donne plusieurs avertissements courts et percutants. D'abord : ne te porte pas hâtivement garant de la dette d'autrui sans y réfléchir soigneusement — cela peut te piéger dans des obligations que tu n'avais jamais l'intention de prendre.\n\nPuis vient l'un des passages les plus célèbres de tous les Proverbes : « Va vers la fourmi, paresseux ; considère ses voies, et deviens sage. Elle n'a ni chef, ni inspecteur, ni maître ; elle prépare en été sa nourriture, elle amasse pendant la moisson ce qu'elle a à manger. »\n\nLe paresseux est averti directement : « Paresseux, jusqu'à quand seras-tu couché ? Quand te lèveras-tu de ton sommeil ? » Un peu de sommeil, un peu d'assoupissement, un peu croiser les mains pour se reposer — et la pauvreté te surprendra, comme un homme qui dévalise !\n\nPuis le chapitre énumère des choses que l'Éternel hait particulièrement : « les yeux hautains, la langue menteuse, les mains qui répandent le sang innocent, le cœur qui forge des projets iniques, les pieds qui se hâtent pour courir au mal, le faux témoin qui dit des mensonges, et celui qui excite des querelles entre frères. »\n\nSept choses précises, clairement nommées — une liste vive et mémorable exactement du genre de caractère que Dieu hait, et par contraste, le genre de caractère que la sagesse construit à la place."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Go to the ant, you sluggard; consider its ways and be wise!"
+        "en": "Go to the ant, you sluggard; consider its ways and be wise!",
+        "es": "Ve á la hormiga, oh perezoso, mira sus caminos, y sé sabio;",
+        "fr": "Va vers la fourmi, paresseux ; Considère ses voies, et deviens sage."
       },
       "ref": {
-        "en": "Proverbs 6:6 (NIV)"
+        "en": "Proverbs 6:6 (NIV)",
+        "es": "Proverbios 6:6 (Valera)",
+        "fr": "Proverbes 6:6 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "and",
           "be",
           "wise"
+        ],
+        "es": [
+          "Ve",
+          "á",
+          "la",
+          "hormiga",
+          "oh",
+          "perezoso"
+        ],
+        "fr": [
+          "Va",
+          "vers",
+          "la",
+          "fourmi",
+          "paresseux",
+          "considère"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Ant, the Sluggard, and Seven Things God Hates"
+        "en": "A Song for The Ant, the Sluggard, and Seven Things God Hates",
+        "es": "Una Canción para La Hormiga, el Perezoso, y Siete Cosas Que Dios Aborrece",
+        "fr": "Une Chanson pour La Fourmi, le Paresseux, et Sept Choses Que Dieu Hait"
       },
       "audio_en": "/static/audio/proverbs/lesson12_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does the chapter tell a lazy person to learn from the ant?"
+            "en": "What does the chapter tell a lazy person to learn from the ant?",
+            "es": "¿Qué dice el capítulo que el perezoso debe aprender de la hormiga?",
+            "fr": "Que dit le chapitre que le paresseux doit apprendre de la fourmi ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "The ant works hard and stores food without needing a boss to tell it to",
               "Ants are lazy too",
               "Nothing about hard work"
+            ],
+            "es": [
+              "Nada — no se mencionan hormigas",
+              "La hormiga trabaja duro y almacena comida sin necesitar un jefe que le diga qué hacer",
+              "Las hormigas también son perezosas",
+              "Nada sobre el trabajo duro"
+            ],
+            "fr": [
+              "Rien — les fourmis ne sont pas mentionnées",
+              "La fourmi travaille dur et amasse de la nourriture sans avoir besoin d'un chef pour lui dire quoi faire",
+              "Les fourmis sont aussi paresseuses",
+              "Rien sur le travail acharné"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs say comes 'like a thief' to a lazy person who keeps sleeping?"
+            "en": "What does Proverbs say comes 'like a thief' to a lazy person who keeps sleeping?",
+            "es": "¿Qué dice Proverbios que viene 'como caminante' a una persona perezosa que sigue durmiendo?",
+            "fr": "Que dit Proverbes qui surprend « comme un homme qui dévalise » une personne paresseuse qui continue de dormir ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "Poverty",
               "Friendship",
               "Nothing happens"
+            ],
+            "es": [
+              "La riqueza",
+              "La pobreza",
+              "La amistad",
+              "Nada sucede"
+            ],
+            "fr": [
+              "La richesse",
+              "La pauvreté",
+              "L'amitié",
+              "Rien ne se passe"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How many things does this chapter list that the Lord specifically detests?"
+            "en": "How many things does this chapter list that the Lord specifically detests?",
+            "es": "¿Cuántas cosas enumera este capítulo que Jehová específicamente aborrece?",
+            "fr": "Combien de choses ce chapitre énumère-t-il que l'Éternel hait particulièrement ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "Seven",
               "Twenty",
               "None are listed"
+            ],
+            "es": [
+              "Tres",
+              "Siete",
+              "Veinte",
+              "Ninguna se enumera"
+            ],
+            "fr": [
+              "Trois",
+              "Sept",
+              "Vingt",
+              "Aucune n'est énumérée"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Ant, the Sluggard, and Seven Things God Hates"
+            "en": "Activity sheet: The Ant, the Sluggard, and Seven Things God Hates",
+            "es": "Hoja de actividad: La Hormiga, el Perezoso, y Siete Cosas Que Dios Aborrece",
+            "fr": "Fiche d'activité : La Fourmi, le Paresseux, et Sept Choses Que Dieu Hait"
           },
           "file": "/static/printables/proverbs/lesson12_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: two of the most vivid, memorable passages in all of Proverbs — the diligent ant (a brilliant, concrete picture for children of self-motivated hard work) and the specific, named list of things God hates, giving children a clear, tangible vocabulary for character rather than vague generalities. Both passages model Proverbs' characteristic method: making abstract virtue concrete through unforgettable imagery.\n\nConversation starters: (1) What can an ant teach a person about hard work, even without anyone telling it what to do? (2) Why might \"a little\" laziness lead to poverty \"like a thief\" — suddenly and unexpectedly? (3) Which of the seven things God hates in this list do you think is most tempting to overlook as \"not a big deal\"?\n\nPray for diligence like the ant's, and for hearts that genuinely hate what God hates."
+        "en": "Big idea: two of the most vivid, memorable passages in all of Proverbs — the diligent ant (a brilliant, concrete picture for children of self-motivated hard work) and the specific, named list of things God hates, giving children a clear, tangible vocabulary for character rather than vague generalities. Both passages model Proverbs' characteristic method: making abstract virtue concrete through unforgettable imagery.\n\nConversation starters: (1) What can an ant teach a person about hard work, even without anyone telling it what to do? (2) Why might \"a little\" laziness lead to poverty \"like a thief\" — suddenly and unexpectedly? (3) Which of the seven things God hates in this list do you think is most tempting to overlook as \"not a big deal\"?\n\nPray for diligence like the ant's, and for hearts that genuinely hate what God hates.",
+        "es": "Idea principal: dos de los pasajes más vívidos y memorables de todo Proverbios — la hormiga diligente (una imagen brillante y concreta para los niños del trabajo duro automotivado) y la lista específica y nombrada de cosas que Dios aborrece, dando a los niños un vocabulario claro y tangible para el carácter en lugar de generalidades vagas. Ambos pasajes modelan el método característico de Proverbios: hacer concreta la virtud abstracta a través de imágenes inolvidables.\n\nPara conversar: (1) ¿Qué puede enseñarle una hormiga a una persona sobre el trabajo duro, incluso sin que nadie le diga qué hacer? (2) ¿Por qué podría \"un poco\" de pereza llevar a la pobreza \"como caminante\" — de repente e inesperadamente? (3) ¿Cuál de las siete cosas que Dios aborrece en esta lista crees que es más tentador pasar por alto como \"no es gran cosa\"?\n\nOren por diligencia como la de la hormiga, y por corazones que genuinamente aborrezcan lo que Dios aborrece.",
+        "fr": "Idée principale : deux des passages les plus vifs et mémorables de tous les Proverbes — la fourmi diligente (une image brillante et concrète pour les enfants du travail acharné autonome) et la liste spécifique et nommée des choses que Dieu hait, donnant aux enfants un vocabulaire clair et tangible pour le caractère plutôt que des généralités vagues. Les deux passages illustrent la méthode caractéristique des Proverbes : rendre concrète la vertu abstraite à travers des images inoubliables.\n\nPour la conversation : (1) Que peut enseigner une fourmi à une personne sur le travail acharné, même sans que personne ne lui dise quoi faire ? (2) Pourquoi « un peu » de paresse pourrait-il conduire à la pauvreté « comme un homme qui dévalise » — soudainement et de manière inattendue ? (3) Laquelle des sept choses que Dieu hait dans cette liste penses-tu être la plus tentante à négliger comme « pas grave » ?\n\nPriez pour une diligence comme celle de la fourmi, et pour des cœurs qui haïssent véritablement ce que Dieu hait."
       }
     }
   ]

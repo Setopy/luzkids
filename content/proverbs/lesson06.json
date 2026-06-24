@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "More Precious Than Rubies"
+    "en": "More Precious Than Rubies",
+    "es": "Más Preciosa Que las Piedras Preciosas",
+    "fr": "Plus Précieuse Que les Perles"
   },
   "ref": "Proverbs 3:13-20",
   "section": "Wisdom Bestows Well-Being",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Nothing you desire compares"
+        "en": "Nothing you desire compares",
+        "es": "Nada de lo que deseas se compara",
+        "fr": "Rien de ce que tu désires ne se compare"
       },
       "body": {
-        "en": "'Blessed are those who find wisdom,' the chapter declares, 'those who gain understanding, for she is more profitable than silver and yields better returns than gold.'\n\nWisdom is more precious than rubies — nothing you desire can compare with her! Long life is in her right hand, riches and honour in her left. Her ways are pleasant, and all her paths lead to peace.\n\nWisdom is described as a tree of life to those who hold her close — those who hold her fast will be blessed. This is a powerful image, harking back to the very tree of life in the garden of Eden.\n\nThen the chapter zooms out to something enormous: by wisdom the Lord laid the earth's foundations; by understanding He set the heavens in place; by His knowledge the deep waters were divided.\n\nThis means wisdom isn't just a personal nice-to-have — it's woven into the structure of creation itself. The same wisdom that built the universe is offered freely to anyone who seeks it."
+        "en": "'Blessed are those who find wisdom,' the chapter declares, 'those who gain understanding, for she is more profitable than silver and yields better returns than gold.'\n\nWisdom is more precious than rubies — nothing you desire can compare with her! Long life is in her right hand, riches and honour in her left. Her ways are pleasant, and all her paths lead to peace.\n\nWisdom is described as a tree of life to those who hold her close — those who hold her fast will be blessed. This is a powerful image, harking back to the very tree of life in the garden of Eden.\n\nThen the chapter zooms out to something enormous: by wisdom the Lord laid the earth's foundations; by understanding He set the heavens in place; by His knowledge the deep waters were divided.\n\nThis means wisdom isn't just a personal nice-to-have — it's woven into the structure of creation itself. The same wisdom that built the universe is offered freely to anyone who seeks it.",
+        "es": "\"Bienaventurado el hombre que halla la sabiduría,\" declara el capítulo, \"y obtiene el entendimiento, porque es mejor su mercadería que la mercadería de la plata, y sus frutos más que el oro fino.\"\n\nLa sabiduría es más preciosa que las piedras preciosas — ¡nada de lo que deseas se compara con ella! Largura de días está en su mano derecha; en su izquierda, riquezas y honra. Sus caminos son caminos deleitosos, y todas sus veredas paz.\n\nLa sabiduría se describe como un árbol de vida para quienes la abrazan — los que la retienen serán bienaventurados. Esta es una imagen poderosa, que recuerda al mismo árbol de vida en el jardín del Edén.\n\nEntonces el capítulo se amplía hacia algo enorme: con sabiduría fundó Jehová la tierra; afirmó los cielos con inteligencia; con su ciencia se partieron los abismos.\n\nEsto significa que la sabiduría no es solo algo agradable a nivel personal — está entretejida en la estructura misma de la creación. La misma sabiduría que construyó el universo se ofrece libremente a cualquiera que la busque.",
+        "fr": "« Heureux l'homme qui a trouvé la sagesse, » déclare le chapitre, « et l'homme qui possède l'intelligence ! Car le gain qu'elle procure est préférable à celui de l'argent, et le profit qu'elle apporte vaut mieux que l'or. »\n\nElle est plus précieuse que les perles — rien de ce que tu désires ne peut se comparer à elle ! De sa main droite, une longue vie ; de sa main gauche, la richesse et la gloire. Ses voies sont des voies agréables, et tous ses sentiers sont la paix.\n\nLa sagesse est décrite comme un arbre de vie pour ceux qui s'y attachent — ceux qui la retiennent sont heureux. C'est une image puissante, qui rappelle l'arbre de vie même du jardin d'Éden.\n\nPuis le chapitre s'élargit vers quelque chose d'immense : c'est par la sagesse que l'Éternel a fondé la terre, c'est par l'intelligence qu'il a affermi les cieux ; c'est par sa science que les abîmes se sont ouverts.\n\nCela signifie que la sagesse n'est pas seulement un agrément personnel — elle est tissée dans la structure même de la création. La même sagesse qui a construit l'univers est offerte librement à quiconque la recherche."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "She is more precious than rubies; nothing you desire can compare with her."
+        "en": "She is more precious than rubies; nothing you desire can compare with her.",
+        "es": "Más preciosa es que las piedras preciosas; y todo lo que puedes desear, no se puede comparar á ella.",
+        "fr": "Elle est plus précieuse que les perles, Elle a plus de valeur que tous les objets de prix."
       },
       "ref": {
-        "en": "Proverbs 3:15 (NIV)"
+        "en": "Proverbs 3:15 (NIV)",
+        "es": "Proverbios 3:15 (Valera)",
+        "fr": "Proverbes 3:15 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "compare",
           "with",
           "her"
+        ],
+        "es": [
+          "Más",
+          "preciosa",
+          "es",
+          "que",
+          "las",
+          "piedras"
+        ],
+        "fr": [
+          "Elle",
+          "est",
+          "plus",
+          "précieuse",
+          "que",
+          "les"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for More Precious Than Rubies"
+        "en": "A Song for More Precious Than Rubies",
+        "es": "Una Canción para Más Preciosa Que las Piedras Preciosas",
+        "fr": "Une Chanson pour Plus Précieuse Que les Perles"
       },
       "audio_en": "/static/audio/proverbs/lesson06_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to this chapter, how valuable is wisdom compared to silver and gold?"
+            "en": "According to this chapter, how valuable is wisdom compared to silver and gold?",
+            "es": "Según este capítulo, ¿qué tan valiosa es la sabiduría comparada con la plata y el oro?",
+            "fr": "Selon ce chapitre, à quel point la sagesse est-elle précieuse comparée à l'argent et à l'or ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "More profitable than silver, with better returns than gold",
               "Exactly equal",
               "Not valuable at all"
+            ],
+            "es": [
+              "Menos valiosa",
+              "Más rentable que la plata, con mejores frutos que el oro",
+              "Exactamente igual",
+              "Nada valiosa"
+            ],
+            "fr": [
+              "Moins précieuse",
+              "Plus rentable que l'argent, avec un meilleur profit que l'or",
+              "Exactement égale",
+              "Sans aucune valeur"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is wisdom compared to, that gives life to those who hold it close?"
+            "en": "What is wisdom compared to, that gives life to those who hold it close?",
+            "es": "¿Con qué se compara la sabiduría, que da vida a quienes la abrazan?",
+            "fr": "À quoi la sagesse est-elle comparée, donnant la vie à ceux qui s'y attachent ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "A tree of life",
               "A heavy burden",
               "Nothing in particular"
+            ],
+            "es": [
+              "Un cofre del tesoro cerrado",
+              "Un árbol de vida",
+              "Una carga pesada",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Un coffre au trésor verrouillé",
+              "Un arbre de vie",
+              "Un fardeau pesant",
+              "Rien en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does this chapter say wisdom was involved in?"
+            "en": "What does this chapter say wisdom was involved in?",
+            "es": "¿En qué dice este capítulo que estuvo involucrada la sabiduría?",
+            "fr": "À quoi ce chapitre dit-il que la sagesse a participé ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Laying the earth's foundations and setting the heavens in place",
               "Only human decisions",
               "Small, unimportant matters"
+            ],
+            "es": [
+              "Nada significativo",
+              "Fundar la tierra y afirmar los cielos",
+              "Solo decisiones humanas",
+              "Asuntos pequeños y sin importancia"
+            ],
+            "fr": [
+              "Rien de significatif",
+              "Fonder la terre et affermir les cieux",
+              "Seulement les décisions humaines",
+              "Des affaires petites et sans importance"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: More Precious Than Rubies"
+            "en": "Activity sheet: More Precious Than Rubies",
+            "es": "Hoja de actividad: Más Preciosa Que las Piedras Preciosas",
+            "fr": "Fiche d'activité : Plus Précieuse Que les Perles"
           },
           "file": "/static/printables/proverbs/lesson06_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: wisdom's value is framed cosmically, not just personally — the same wisdom by which God created the universe is the wisdom offered to ordinary people for ordinary daily decisions. This elevates the pursuit of wisdom from a self-help exercise into participation in something that reflects God's own creative character.\n\nConversation starters: (1) Why might wisdom be described as \"more precious than rubies\"? (2) What does the \"tree of life\" image suggest about what wisdom does for a person over time? (3) How does it change your view of wisdom to know the same wisdom built the entire universe?\n\nPray, thanking God that the wisdom behind creation itself is available and offered freely to your family."
+        "en": "Big idea: wisdom's value is framed cosmically, not just personally — the same wisdom by which God created the universe is the wisdom offered to ordinary people for ordinary daily decisions. This elevates the pursuit of wisdom from a self-help exercise into participation in something that reflects God's own creative character.\n\nConversation starters: (1) Why might wisdom be described as \"more precious than rubies\"? (2) What does the \"tree of life\" image suggest about what wisdom does for a person over time? (3) How does it change your view of wisdom to know the same wisdom built the entire universe?\n\nPray, thanking God that the wisdom behind creation itself is available and offered freely to your family.",
+        "es": "Idea principal: el valor de la sabiduría se enmarca cósmicamente, no solo personalmente — la misma sabiduría con la que Dios creó el universo es la sabiduría ofrecida a la gente común para las decisiones cotidianas. Esto eleva la búsqueda de la sabiduría de un ejercicio de autoayuda a una participación en algo que refleja el carácter creativo mismo de Dios.\n\nPara conversar: (1) ¿Por qué podría describirse la sabiduría como \"más preciosa que las piedras preciosas\"? (2) ¿Qué sugiere la imagen del \"árbol de vida\" sobre lo que la sabiduría hace por una persona con el tiempo? (3) ¿Cómo cambia tu visión de la sabiduría saber que la misma sabiduría construyó todo el universo?\n\nOren, agradeciendo a Dios que la sabiduría detrás de la creación misma está disponible y se ofrece libremente a tu familia.",
+        "fr": "Idée principale : la valeur de la sagesse est présentée de façon cosmique, pas seulement personnelle — la même sagesse par laquelle Dieu a créé l'univers est la sagesse offerte aux gens ordinaires pour les décisions quotidiennes. Cela élève la quête de la sagesse d'un exercice d'auto-assistance à une participation à quelque chose qui reflète le caractère créateur de Dieu lui-même.\n\nPour la conversation : (1) Pourquoi la sagesse pourrait-elle être décrite comme « plus précieuse que les perles » ? (2) Que suggère l'image de « l'arbre de vie » sur ce que la sagesse fait pour une personne au fil du temps ? (3) Comment cela change-t-il ta vision de la sagesse de savoir que la même sagesse a construit tout l'univers ?\n\nPriez, en remerciant Dieu que la sagesse derrière la création elle-même soit disponible et offerte librement à votre famille."
       }
     }
   ]

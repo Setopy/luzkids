@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A Brand New Covenant"
+    "en": "A Brand New Covenant",
+    "es": "Un Pacto Completamente Nuevo",
+    "fr": "Une Toute Nouvelle Alliance"
   },
   "ref": "Hebrews 8:1-13",
   "section": "The High Priest of a New Covenant",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A promise of a changed heart"
+        "en": "A promise of a changed heart",
+        "es": "Una promesa de un corazón cambiado",
+        "fr": "Une promesse d'un cœur changé"
       },
       "body": {
-        "en": "The writer now shows something amazing: God promised, through the prophet Jeremiah, a NEW COVENANT — not like the old one given at Mount Sinai. This new covenant would mean God's law written on people's HEARTS, not just stone tablets, and complete forgiveness — God promising to remember our sins NO MORE!\n\nJesus is the mediator of this better covenant, established on better promises. If the first covenant had been faultless, there would have been no need to look for another. By calling this covenant 'new,' God made the old one obsolete — not because it was a mistake, but because it always pointed forward to something greater, the way a shadow points to the object that casts it."
+        "en": "The writer now shows something amazing: God promised, through the prophet Jeremiah, a NEW COVENANT — not like the old one given at Mount Sinai. This new covenant would mean God's law written on people's HEARTS, not just stone tablets, and complete forgiveness — God promising to remember our sins NO MORE!\n\nJesus is the mediator of this better covenant, established on better promises. If the first covenant had been faultless, there would have been no need to look for another. By calling this covenant 'new,' God made the old one obsolete — not because it was a mistake, but because it always pointed forward to something greater, the way a shadow points to the object that casts it.",
+        "es": "El escritor muestra ahora algo asombroso: Dios prometió, por medio del profeta Jeremías, un NUEVO PACTO — no como el antiguo dado en el Monte Sinaí. Este nuevo pacto significaría la ley de Dios escrita en los CORAZONES de las personas, no solo en tablas de piedra, y perdón completo — ¡Dios prometiendo no acordarse JAMÁS de nuestros pecados!\n\nJesús es el mediador de este pacto mejor, establecido sobre mejores promesas. Si el primer pacto hubiera sido sin defecto, no habría sido necesario buscar otro. Al llamar a este pacto \"nuevo\", Dios hizo obsoleto al antiguo — no porque fuera un error, sino porque siempre señaló hacia algo más grande, de la misma manera que una sombra señala hacia el objeto que la proyecta.",
+        "fr": "L'auteur montre maintenant quelque chose d'étonnant : Dieu a promis, par le prophète Jérémie, une NOUVELLE ALLIANCE — non pas comme l'ancienne donnée au mont Sinaï. Cette nouvelle alliance signifierait la loi de Dieu écrite dans les CŒURS des gens, et non seulement sur des tables de pierre, et un pardon complet — Dieu promettant de ne PLUS jamais se souvenir de nos péchés !\n\nJésus est le médiateur de cette meilleure alliance, établie sur de meilleures promesses. Si la première alliance avait été sans défaut, il n'aurait pas été nécessaire d'en chercher une autre. En appelant cette alliance « nouvelle », Dieu a rendu l'ancienne obsolète — non parce qu'elle était une erreur, mais parce qu'elle pointait toujours vers quelque chose de plus grand, de la même manière qu'une ombre pointe vers l'objet qui la projette."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "I will put my laws in their minds and write them on their hearts."
+        "en": "I will put my laws in their minds and write them on their hearts.",
+        "es": "Daré mis leyes en el alma de ellos, y sobre el corazón de ellos las escribiré.",
+        "fr": "Je mettrai mes lois dans leur esprit, Je les écrirai dans leur cœur."
       },
       "ref": {
-        "en": "Hebrews 8:10 (NIV)"
+        "en": "Hebrews 8:10 (NIV)",
+        "es": "Hebreos 8:10 (Valera)",
+        "fr": "Hébreux 8:10 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "and",
           "write",
           "them"
+        ],
+        "es": [
+          "Daré",
+          "mis",
+          "leyes",
+          "en",
+          "el",
+          "alma"
+        ],
+        "fr": [
+          "Je",
+          "mettrai",
+          "mes",
+          "lois",
+          "dans",
+          "leur"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A Brand New Covenant"
+        "en": "A Song for A Brand New Covenant",
+        "es": "Una Canción para Un Pacto Completamente Nuevo",
+        "fr": "Une Chanson pour Une Toute Nouvelle Alliance"
       },
       "audio_en": "/static/audio/hebrews/lesson11_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "Where does the new covenant promise God's law will be written?"
+            "en": "Where does the new covenant promise God's law will be written?",
+            "es": "¿Dónde promete el nuevo pacto que será escrita la ley de Dios?",
+            "fr": "Où la nouvelle alliance promet-elle que la loi de Dieu sera écrite ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "On people's hearts and minds",
               "Nowhere",
               "In a book only priests read"
+            ],
+            "es": [
+              "Solo en tablas de piedra",
+              "En los corazones y mentes de las personas",
+              "En ningún lugar",
+              "En un libro que solo leen los sacerdotes"
+            ],
+            "fr": [
+              "Seulement sur des tables de pierre",
+              "Dans les cœurs et les esprits des gens",
+              "Nulle part",
+              "Dans un livre que seuls les sacrificateurs lisent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did God promise to do with sins, under the new covenant?"
+            "en": "What did God promise to do with sins, under the new covenant?",
+            "es": "¿Qué prometió Dios hacer con los pecados, bajo el nuevo pacto?",
+            "fr": "Qu'a promis Dieu de faire avec les péchés, sous la nouvelle alliance ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Remember them no more",
               "Punish them twice",
               "Ignore them without forgiving"
+            ],
+            "es": [
+              "Mantener un registro permanente",
+              "No acordarse más de ellos",
+              "Castigarlos dos veces",
+              "Ignorarlos sin perdonarlos"
+            ],
+            "fr": [
+              "Garder un registre permanent",
+              "Ne plus s'en souvenir",
+              "Les punir deux fois",
+              "Les ignorer sans pardonner"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did God promise a 'new' covenant?"
+            "en": "Why did God promise a 'new' covenant?",
+            "es": "¿Por qué prometió Dios un pacto 'nuevo'?",
+            "fr": "Pourquoi Dieu a-t-Il promis une alliance « nouvelle » ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "The old one always pointed forward to something greater",
               "God changed His mind randomly",
               "No real reason"
+            ],
+            "es": [
+              "El antiguo fue un error total",
+              "El antiguo siempre señaló hacia algo más grande",
+              "Dios cambió de opinión sin razón",
+              "Sin razón real"
+            ],
+            "fr": [
+              "L'ancienne était une erreur totale",
+              "L'ancienne pointait toujours vers quelque chose de plus grand",
+              "Dieu a changé d'avis sans raison",
+              "Sans raison réelle"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A Brand New Covenant"
+            "en": "Activity sheet: A Brand New Covenant",
+            "es": "Hoja de actividad: Un Pacto Completamente Nuevo",
+            "fr": "Fiche d'activité : Une Toute Nouvelle Alliance"
           },
           "file": "/static/printables/hebrews/lesson11_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the new covenant promise (Jeremiah 31:31-34) fulfills what the old covenant structurally could not deliver — transformed hearts, not mere external rule-keeping.\n\nConversation starters: (1) What's the difference between law on stone and law on your heart? (2) Why does God remembering sins \"no more\" matter so much? (3) How was the old covenant still good, even pointing forward?\n\nPray, asking God to write His law deep on each heart."
+        "en": "Big idea: the new covenant promise (Jeremiah 31:31-34) fulfills what the old covenant structurally could not deliver — transformed hearts, not mere external rule-keeping.\n\nConversation starters: (1) What's the difference between law on stone and law on your heart? (2) Why does God remembering sins \"no more\" matter so much? (3) How was the old covenant still good, even pointing forward?\n\nPray, asking God to write His law deep on each heart.",
+        "es": "Idea principal: la promesa del nuevo pacto (Jeremías 31:31-34) cumple lo que el antiguo pacto, por su estructura, no podía entregar — corazones transformados, no mero cumplimiento externo de reglas.\n\nPara conversar: (1) ¿Cuál es la diferencia entre la ley en piedra y la ley en tu corazón? (2) ¿Por qué importa tanto que Dios no se acuerde 'más' de los pecados? (3) ¿Cómo era el antiguo pacto todavía bueno, incluso señalando hacia adelante?\n\nOren, pidiendo a Dios que escriba Su ley profundamente en cada corazón.",
+        "fr": "Idée principale : la promesse de la nouvelle alliance (Jérémie 31.31-34) accomplit ce que l'ancienne alliance, par sa structure même, ne pouvait offrir — des cœurs transformés, et non un simple respect extérieur des règles.\n\nPour la conversation : (1) Quelle est la différence entre la loi sur la pierre et la loi sur ton cœur ? (2) Pourquoi est-il si important que Dieu ne se souvienne « plus » des péchés ? (3) En quoi l'ancienne alliance était-elle malgré tout bonne, pointant déjà vers l'avenir ?\n\nPriez, en demandant à Dieu d'écrire Sa loi profondément sur chaque cœur."
       }
     }
   ]

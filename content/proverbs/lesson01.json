@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Beginning of Wisdom"
+    "en": "The Beginning of Wisdom",
+    "es": "El Principio de la Sabiduría",
+    "fr": "Le Commencement de la Sagesse"
   },
   "ref": "Proverbs 1:1-7",
   "section": "Purpose and Theme",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Why this whole book exists"
+        "en": "Why this whole book exists",
+        "es": "Por qué existe todo este libro",
+        "fr": "Pourquoi tout ce livre existe"
       },
       "body": {
-        "en": "Proverbs opens by telling us exactly why it exists: to give wisdom and instruction, to help us understand words of insight, and to teach us how to live well — with discipline, fairness, and good judgment.\n\nIt's a book written for everyone — for the simple, who need guidance, and for the wise, who can always grow wiser still! Even a young child can gain knowledge and good sense here.\n\nThen comes the single most important sentence in the entire book, the key that unlocks everything else: 'The fear of the Lord is the beginning of knowledge.' Not the END of learning — the BEGINNING.\n\nThis doesn't mean being scared of God the way you'd be scared of something dangerous. It means having such deep respect and awe for who God is that you genuinely want to live His way. Real wisdom always starts there — with God, not with cleverness alone.\n\nThe book ends this opening thought with a warning too: 'fools despise wisdom and instruction.' Wisdom is a gift, freely offered — but it can be rejected."
+        "en": "Proverbs opens by telling us exactly why it exists: to give wisdom and instruction, to help us understand words of insight, and to teach us how to live well — with discipline, fairness, and good judgment.\n\nIt's a book written for everyone — for the simple, who need guidance, and for the wise, who can always grow wiser still! Even a young child can gain knowledge and good sense here.\n\nThen comes the single most important sentence in the entire book, the key that unlocks everything else: 'The fear of the Lord is the beginning of knowledge.' Not the END of learning — the BEGINNING.\n\nThis doesn't mean being scared of God the way you'd be scared of something dangerous. It means having such deep respect and awe for who God is that you genuinely want to live His way. Real wisdom always starts there — with God, not with cleverness alone.\n\nThe book ends this opening thought with a warning too: 'fools despise wisdom and instruction.' Wisdom is a gift, freely offered — but it can be rejected.",
+        "es": "Proverbios comienza diciéndonos exactamente por qué existe: para dar sabiduría e instrucción, para ayudarnos a entender palabras de discernimiento, y para enseñarnos a vivir bien — con disciplina, equidad y buen juicio.\n\nEs un libro escrito para todos — para el sencillo, que necesita guía, y para el sabio, que siempre puede crecer más en sabiduría. ¡Hasta un niño pequeño puede ganar conocimiento y buen sentido aquí!\n\nEntonces llega la frase más importante de todo el libro, la llave que abre todo lo demás: \"El temor de Jehová es el principio de la sabiduría.\" No el FIN del aprendizaje — el PRINCIPIO.\n\nEsto no significa tener miedo de Dios como le tendrías miedo a algo peligroso. Significa tener un respeto y asombro tan profundo por quién es Dios que genuinamente quieres vivir a Su manera. La verdadera sabiduría siempre comienza ahí — con Dios, no solo con la astucia.\n\nEl libro cierra este pensamiento inicial con una advertencia también: \"los insensatos desprecian la sabiduría y la enseñanza.\" La sabiduría es un regalo, ofrecido libremente — pero puede ser rechazado.",
+        "fr": "Les Proverbes commencent par nous dire exactement pourquoi ils existent : pour donner la sagesse et l'instruction, pour nous aider à comprendre des paroles de discernement, et pour nous enseigner à bien vivre — avec discipline, équité et bon jugement.\n\nC'est un livre écrit pour tous — pour le simple, qui a besoin de guidance, et pour le sage, qui peut toujours grandir en sagesse. Même un jeune enfant peut y gagner connaissance et bon sens !\n\nPuis vient la phrase la plus importante de tout le livre, la clé qui ouvre tout le reste : « La crainte de l'Éternel est le commencement de la science. » Pas la FIN de l'apprentissage — le COMMENCEMENT.\n\nCela ne signifie pas avoir peur de Dieu comme on aurait peur de quelque chose de dangereux. Cela signifie avoir un respect et un émerveillement si profonds pour qui est Dieu que l'on veut sincèrement vivre à Sa manière. La vraie sagesse commence toujours là — avec Dieu, pas seulement avec l'intelligence.\n\nLe livre termine cette pensée d'ouverture avec un avertissement aussi : « les insensés méprisent la sagesse et l'instruction. » La sagesse est un don, offert librement — mais elle peut être rejetée."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The fear of the Lord is the beginning of knowledge."
+        "en": "The fear of the Lord is the beginning of knowledge.",
+        "es": "El principio de la sabiduría es el temor de Jehová: los insensatos desprecian la sabiduría y la enseñanza.",
+        "fr": "La crainte de l'Éternel est le commencement de la science ; Les insensés méprisent la sagesse et l'instruction."
       },
       "ref": {
-        "en": "Proverbs 1:7 (NIV)"
+        "en": "Proverbs 1:7 (NIV)",
+        "es": "Proverbios 1:7 (Valera)",
+        "fr": "Proverbes 1:7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "beginning",
           "of",
           "knowledge"
+        ],
+        "es": [
+          "El",
+          "principio",
+          "de",
+          "la",
+          "sabiduría",
+          "es"
+        ],
+        "fr": [
+          "La",
+          "crainte",
+          "de",
+          "l'Éternel",
+          "est",
+          "le"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Beginning of Wisdom"
+        "en": "A Song for The Beginning of Wisdom",
+        "es": "Una Canción para El Principio de la Sabiduría",
+        "fr": "Une Chanson pour Le Commencement de la Sagesse"
       },
       "audio_en": "/static/audio/proverbs/lesson01_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 1:7, what is 'the beginning of knowledge'?"
+            "en": "According to Proverbs 1:7, what is 'the beginning of knowledge'?",
+            "es": "Según Proverbios 1:7, ¿cuál es 'el principio de la sabiduría'?",
+            "fr": "Selon Proverbes 1:7, qu'est-ce que « le commencement de la science » ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "The fear of the Lord",
               "Being very clever",
               "Reading many books"
+            ],
+            "es": [
+              "Ir a la escuela",
+              "El temor de Jehová",
+              "Ser muy astuto",
+              "Leer muchos libros"
+            ],
+            "fr": [
+              "Aller à l'école",
+              "La crainte de l'Éternel",
+              "Être très intelligent",
+              "Lire beaucoup de livres"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Who does the book of Proverbs say can benefit from its wisdom?"
+            "en": "Who does the book of Proverbs say can benefit from its wisdom?",
+            "es": "¿Quién dice el libro de Proverbios que puede beneficiarse de su sabiduría?",
+            "fr": "Selon le livre des Proverbes, qui peut bénéficier de sa sagesse ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Everyone — the simple and the wise alike, even children",
               "Only old people",
               "No one in particular"
+            ],
+            "es": [
+              "Solo los reyes",
+              "Todos — el sencillo y el sabio por igual, incluso los niños",
+              "Solo los ancianos",
+              "Nadie en particular"
+            ],
+            "fr": [
+              "Seulement les rois",
+              "Tous — le simple et le sage également, même les enfants",
+              "Seulement les personnes âgées",
+              "Personne en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs say about people who 'despise wisdom and instruction'?"
+            "en": "What does Proverbs say about people who 'despise wisdom and instruction'?",
+            "es": "¿Qué dice Proverbios sobre quienes 'desprecian la sabiduría y la enseñanza'?",
+            "fr": "Que dit Proverbes de ceux qui « méprisent la sagesse et l'instruction » ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "They are praised",
               "Nothing is said about them",
               "They are the wisest of all"
+            ],
+            "es": [
+              "Se les llama insensatos",
+              "Son alabados",
+              "No se dice nada de ellos",
+              "Son los más sabios de todos"
+            ],
+            "fr": [
+              "On les appelle insensés",
+              "Ils sont louangés",
+              "Rien n'est dit à leur sujet",
+              "Ils sont les plus sages de tous"
             ]
           },
           "answer": 0
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Beginning of Wisdom"
+            "en": "Activity sheet: The Beginning of Wisdom",
+            "es": "Hoja de actividad: El Principio de la Sabiduría",
+            "fr": "Fiche d'activité : Le Commencement de la Sagesse"
           },
           "file": "/static/printables/proverbs/lesson01_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: \"the fear of the Lord\" is the foundational hinge on which the entire book of Proverbs turns — wisdom is never presented as raw intelligence or cleverness, but as a relationship of reverent trust toward God that then shapes every practical decision. This is the lens through which every individual proverb that follows should be read.\n\nConversation starters: (1) What's the difference between being scared of God and having deep, respectful awe for Him? (2) Why might wisdom need to start with God rather than just with being smart? (3) Have you ever rejected good advice, the way a \"fool\" in this verse does?\n\nPray, asking God to give your family hearts that begin with reverence for Him."
+        "en": "Big idea: \"the fear of the Lord\" is the foundational hinge on which the entire book of Proverbs turns — wisdom is never presented as raw intelligence or cleverness, but as a relationship of reverent trust toward God that then shapes every practical decision. This is the lens through which every individual proverb that follows should be read.\n\nConversation starters: (1) What's the difference between being scared of God and having deep, respectful awe for Him? (2) Why might wisdom need to start with God rather than just with being smart? (3) Have you ever rejected good advice, the way a \"fool\" in this verse does?\n\nPray, asking God to give your family hearts that begin with reverence for Him.",
+        "es": "Idea principal: \"el temor de Jehová\" es la bisagra fundamental sobre la que gira todo el libro de Proverbios — la sabiduría nunca se presenta como inteligencia o astucia pura, sino como una relación de confianza reverente hacia Dios que luego moldea cada decisión práctica. Este es el lente a través del cual debe leerse cada proverbio individual que sigue.\n\nPara conversar: (1) ¿Cuál es la diferencia entre tener miedo de Dios y tener un asombro profundo y respetuoso por Él? (2) ¿Por qué podría la sabiduría necesitar comenzar con Dios en lugar de solo con ser inteligente? (3) ¿Alguna vez has rechazado un buen consejo, como hace un \"insensato\" en este versículo?\n\nOren, pidiendo a Dios que dé a tu familia corazones que comiencen con reverencia hacia Él.",
+        "fr": "Idée principale : « la crainte de l'Éternel » est la charnière fondamentale sur laquelle tourne tout le livre des Proverbes — la sagesse n'est jamais présentée comme une intelligence brute ou de l'astuce, mais comme une relation de confiance respectueuse envers Dieu qui façonne ensuite chaque décision pratique. C'est la lentille à travers laquelle chaque proverbe individuel qui suit doit être lu.\n\nPour la conversation : (1) Quelle est la différence entre avoir peur de Dieu et avoir un profond émerveillement respectueux pour Lui ? (2) Pourquoi la sagesse pourrait-elle avoir besoin de commencer avec Dieu plutôt que simplement avec l'intelligence ? (3) As-tu déjà rejeté un bon conseil, comme le fait un « insensé » dans ce verset ?\n\nPriez, en demandant à Dieu de donner à votre famille des cœurs qui commencent par le respect envers Lui."
       }
     }
   ]

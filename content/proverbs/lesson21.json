@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Honesty and Integrity"
+    "en": "Honesty and Integrity",
+    "es": "Honestidad e Integridad",
+    "fr": "Honnêteté et Intégrité"
   },
   "ref": "Proverbs 11:1; 12:22; 16:11; 19:5; 20:23",
   "section": "Honesty and Integrity (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Honest scales, and a hatred for lies"
+        "en": "Honest scales, and a hatred for lies",
+        "es": "Balanzas justas, y un odio por las mentiras",
+        "fr": "Des balances justes, et une haine pour le mensonge"
       },
       "body": {
-        "en": "'The Lord detests dishonest scales, but accurate weights find favour with him.' In a marketplace, a dishonest scale could cheat a buyer without them ever knowing — and Proverbs says God notices and cares deeply about that kind of hidden dishonesty.\n\n'The Lord detests lying lips, but he delights in people who are trustworthy.' Notice the strong language — not just disapproval, but real detestation of dishonesty, and real delight in trustworthiness.\n\n'A false witness will not go unpunished, and whoever pours out lies will not go free.' Proverbs takes lying with serious consequences, not as a minor inconvenience.\n\n'Honest scales and balances belong to the Lord; all the weights in the bag are of his making.' Fairness and honesty aren't just good ideas — they're rooted in God's own character and design.\n\nThe book consistently links integrity to security: 'the integrity of the upright guides them, but the unfaithful are destroyed by their duplicity.' An honest life has a kind of built-in stability that dishonesty can never provide."
+        "en": "'The Lord detests dishonest scales, but accurate weights find favour with him.' In a marketplace, a dishonest scale could cheat a buyer without them ever knowing — and Proverbs says God notices and cares deeply about that kind of hidden dishonesty.\n\n'The Lord detests lying lips, but he delights in people who are trustworthy.' Notice the strong language — not just disapproval, but real detestation of dishonesty, and real delight in trustworthiness.\n\n'A false witness will not go unpunished, and whoever pours out lies will not go free.' Proverbs takes lying with serious consequences, not as a minor inconvenience.\n\n'Honest scales and balances belong to the Lord; all the weights in the bag are of his making.' Fairness and honesty aren't just good ideas — they're rooted in God's own character and design.\n\nThe book consistently links integrity to security: 'the integrity of the upright guides them, but the unfaithful are destroyed by their duplicity.' An honest life has a kind of built-in stability that dishonesty can never provide.",
+        "es": "\"Las pesas falsas abominación son á Jehová: mas la pesa cabal le agrada.\" En un mercado, una balanza deshonesta podría engañar a un comprador sin que él lo supiera jamás — y Proverbios dice que Dios nota y se preocupa profundamente por ese tipo de deshonestidad oculta.\n\n\"Los labios mentirosos son abominación á Jehová: mas los obradores de verdad su contentamiento.\" Nota el lenguaje fuerte — no solo desaprobación, sino abominación real ante la deshonestidad, y deleite real en la fidelidad.\n\n\"El testigo falso no quedará sin castigo; mas el que habla verdad, escapará.\" Proverbios toma la mentira con consecuencias serias, no como un inconveniente menor.\n\n\"Las pesas y las balanzas justas son de Jehová: obra suya son todas las pesas de la bolsa.\" La equidad y la honestidad no son solo buenas ideas — están arraigadas en el carácter y diseño mismo de Dios.\n\nEl libro vincula consistentemente la integridad con la seguridad: \"la integridad de los rectos los encaminará: mas destruirá á los pecadores la perversidad de ellos.\" Una vida honesta tiene un tipo de estabilidad incorporada que la deshonestidad nunca puede proporcionar.",
+        "fr": "« L'Éternel a en horreur la balance fausse, mais le poids juste lui est agréable. » Sur un marché, une balance malhonnête pourrait tromper un acheteur sans qu'il ne le sache jamais — et les Proverbes disent que Dieu remarque et se préoccupe profondément de ce genre de malhonnêteté cachée.\n\n« L'Éternel a en horreur les lèvres fausses, mais il aime ceux qui agissent avec vérité. » Remarque le langage fort — pas seulement de la désapprobation, mais une véritable horreur de la malhonnêteté, et un véritable amour pour la fidélité.\n\n« Le faux témoin ne demeure pas impuni, et celui qui dit des mensonges ne s'en échappe pas. » Les Proverbes prennent le mensonge avec des conséquences sérieuses, pas comme un inconvénient mineur.\n\n« La balance et les poids justes appartiennent à l'Éternel ; tous les poids du sac sont son œuvre. » L'équité et l'honnêteté ne sont pas seulement de bonnes idées — elles sont enracinées dans le caractère et le dessein même de Dieu.\n\nLe livre relie constamment l'intégrité à la sécurité : « l'intégrité des hommes droits les dirige, mais les pervers sont ruinés par leur perversité. » Une vie honnête a une sorte de stabilité intégrée que la malhonnêteté ne peut jamais fournir."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The Lord detests lying lips, but he delights in people who are trustworthy."
+        "en": "The Lord detests lying lips, but he delights in people who are trustworthy.",
+        "es": "Los labios mentirosos son abominación á Jehová: mas los obradores de verdad su contentamiento.",
+        "fr": "L'Éternel a en horreur les lèvres fausses, Mais il aime ceux qui agissent avec vérité."
       },
       "ref": {
-        "en": "Proverbs 12:22 (NIV)"
+        "en": "Proverbs 12:22 (NIV)",
+        "es": "Proverbios 12:22 (Valera)",
+        "fr": "Proverbes 12:22 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "who",
           "are",
           "trustworthy"
+        ],
+        "es": [
+          "Los",
+          "labios",
+          "mentirosos",
+          "son",
+          "abominación",
+          "á"
+        ],
+        "fr": [
+          "L'Éternel",
+          "a",
+          "en",
+          "horreur",
+          "les",
+          "lèvres"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Honesty and Integrity"
+        "en": "A Song for Honesty and Integrity",
+        "es": "Una Canción para Honestidad e Integridad",
+        "fr": "Une Chanson pour Honnêteté et Intégrité"
       },
       "audio_en": "/static/audio/proverbs/lesson21_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Proverbs 11:1 say the Lord detests, in the context of a marketplace?"
+            "en": "What does Proverbs 11:1 say the Lord detests, in the context of a marketplace?",
+            "es": "¿Qué dice Proverbios 11:1 que Jehová aborrece, en el contexto de un mercado?",
+            "fr": "Que dit Proverbes 11:1 que l'Éternel a en horreur, dans le contexte d'un marché ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "Dishonest scales — cheating people through unfair measurements",
               "Loud arguments",
               "Nothing in particular"
+            ],
+            "es": [
+              "El trabajo duro",
+              "Las pesas falsas — engañar a la gente con medidas injustas",
+              "Las discusiones ruidosas",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Le travail acharné",
+              "Les balances fausses — tromper les gens avec des mesures injustes",
+              "Les disputes bruyantes",
+              "Rien en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Proverbs 12:22 describe God's reaction to lying lips versus trustworthy people?"
+            "en": "How does Proverbs 12:22 describe God's reaction to lying lips versus trustworthy people?",
+            "es": "¿Cómo describe Proverbios 12:22 la reacción de Dios a los labios mentirosos versus la gente fiel?",
+            "fr": "Comment Proverbes 12:22 décrit-il la réaction de Dieu envers les lèvres fausses comparées aux gens fidèles ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "He detests lying lips but delights in trustworthy people",
               "He prefers lying lips",
               "Neither matters to Him"
+            ],
+            "es": [
+              "Le es indiferente a ambos",
+              "Aborrece los labios mentirosos pero se deleita en la gente fiel",
+              "Prefiere los labios mentirosos",
+              "Ninguno le importa"
+            ],
+            "fr": [
+              "Il est indifférent aux deux",
+              "Il a en horreur les lèvres fausses mais aime ceux qui agissent avec vérité",
+              "Il préfère les lèvres fausses",
+              "Aucun des deux ne lui importe"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs say happens to a false witness who pours out lies?"
+            "en": "What does Proverbs say happens to a false witness who pours out lies?",
+            "es": "¿Qué dice Proverbios que le sucede a un testigo falso que habla mentiras?",
+            "fr": "Que dit Proverbes qu'il arrive à un faux témoin qui dit des mensonges ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "They will not go unpunished or free",
               "Nothing happens to them",
               "They are rewarded"
+            ],
+            "es": [
+              "Siempre se libra del castigo",
+              "No quedará sin castigo ni escapará",
+              "No le pasa nada",
+              "Es recompensado"
+            ],
+            "fr": [
+              "Il s'échappe toujours sans punition",
+              "Il ne demeure pas impuni et ne s'en échappe pas",
+              "Rien ne lui arrive",
+              "Il est récompensé"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Honesty and Integrity"
+            "en": "Activity sheet: Honesty and Integrity",
+            "es": "Hoja de actividad: Honestidad e Integridad",
+            "fr": "Fiche d'activité : Honnêteté et Intégrité"
           },
           "file": "/static/printables/proverbs/lesson21_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: God's own character is the foundation for honesty — \"honest scales and balances belong to the Lord\" — meaning integrity isn't merely a useful social convention but reflects something true about God's design for fairness in the world. The strong language (\"detests,\" \"delights\") shows this isn't treated as a minor virtue but as something God feels deeply about.\n\nConversation starters: (1) Why might small, hidden dishonesty (like an unfair scale no one would notice) matter just as much to God as obvious lying? (2) What does it mean that honesty \"belongs to the Lord\" — that it reflects His own character? (3) What's one situation where it might be tempting to be slightly dishonest, and how can you choose integrity instead?\n\nPray for hearts that genuinely love honesty, the way God Himself delights in trustworthy people."
+        "en": "Big idea: God's own character is the foundation for honesty — \"honest scales and balances belong to the Lord\" — meaning integrity isn't merely a useful social convention but reflects something true about God's design for fairness in the world. The strong language (\"detests,\" \"delights\") shows this isn't treated as a minor virtue but as something God feels deeply about.\n\nConversation starters: (1) Why might small, hidden dishonesty (like an unfair scale no one would notice) matter just as much to God as obvious lying? (2) What does it mean that honesty \"belongs to the Lord\" — that it reflects His own character? (3) What's one situation where it might be tempting to be slightly dishonest, and how can you choose integrity instead?\n\nPray for hearts that genuinely love honesty, the way God Himself delights in trustworthy people.",
+        "es": "Idea principal: el carácter mismo de Dios es el fundamento de la honestidad — \"las pesas y las balanzas justas son de Jehová\" — lo que significa que la integridad no es simplemente una convención social útil, sino que refleja algo verdadero sobre el diseño de Dios para la equidad en el mundo. El lenguaje fuerte (\"abominación,\" \"contentamiento\") muestra que esto no se trata como una virtud menor sino como algo que Dios siente profundamente.\n\nPara conversar: (1) ¿Por qué podría importarle a Dios la deshonestidad pequeña y oculta (como una balanza injusta que nadie notaría) tanto como una mentira obvia? (2) ¿Qué significa que la honestidad \"es de Jehová\" — que refleja Su propio carácter? (3) ¿Cuál es una situación donde podría ser tentador ser ligeramente deshonesto, y cómo puedes elegir la integridad en su lugar?\n\nOren por corazones que genuinamente amen la honestidad, así como Dios mismo se deleita en la gente fiel.",
+        "fr": "Idée principale : le caractère même de Dieu est le fondement de l'honnêteté — « la balance et les poids justes appartiennent à l'Éternel » — ce qui signifie que l'intégrité n'est pas simplement une convention sociale utile mais reflète quelque chose de vrai sur le dessein de Dieu pour l'équité dans le monde. Le langage fort (« horreur », « il aime ») montre que ceci n'est pas traité comme une vertu mineure mais comme quelque chose que Dieu ressent profondément.\n\nPour la conversation : (1) Pourquoi la malhonnêteté petite et cachée (comme une balance injuste que personne ne remarquerait) pourrait-elle importer à Dieu tout autant qu'un mensonge évident ? (2) Que signifie le fait que l'honnêteté « appartient à l'Éternel » — qu'elle reflète Son propre caractère ? (3) Quelle est une situation où il pourrait être tentant d'être légèrement malhonnête, et comment peux-tu choisir l'intégrité à la place ?\n\nPriez pour des cœurs qui aiment véritablement l'honnêteté, tout comme Dieu lui-même se réjouit des gens fidèles."
       }
     }
   ]

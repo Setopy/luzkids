@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A Mother's Wisdom for a King"
+    "en": "A Mother's Wisdom for a King",
+    "es": "La Sabiduría de una Madre Para un Rey",
+    "fr": "La Sagesse d'une Mère Pour un Roi"
   },
   "ref": "Proverbs 31:1-9",
   "section": "The Sayings of King Lemuel",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Speak up for those who cannot speak for themselves"
+        "en": "Speak up for those who cannot speak for themselves",
+        "es": "Habla por los que no pueden hablar por sí mismos",
+        "fr": "Parle pour ceux qui ne peuvent parler pour eux-mêmes"
       },
       "body": {
-        "en": "This short section gives us something rare in the ancient world: the recorded wisdom of a mother, passed directly to her son, King Lemuel, about how to rule well.\n\n'What are you doing, my son? What, son of my vows? Do not spend your strength on women or your vigour on those who ruin kings.' She warns her son directly about the dangers that destroy rulers — distraction, excess, and losing sight of real responsibility.\n\nShe warns about wine and strong drink too — not because they're evil in themselves, but because a king who is intoxicated cannot remember the law or give fair decisions to those who need justice.\n\nThen comes the heart of her advice, and the real purpose behind the warnings: 'speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.'\n\nThis mother's wisdom for her royal son boils down to something every child can understand and practice, even without a throne: use whatever influence you have — big or small — to speak up for people who have no voice of their own."
+        "en": "This short section gives us something rare in the ancient world: the recorded wisdom of a mother, passed directly to her son, King Lemuel, about how to rule well.\n\n'What are you doing, my son? What, son of my vows? Do not spend your strength on women or your vigour on those who ruin kings.' She warns her son directly about the dangers that destroy rulers — distraction, excess, and losing sight of real responsibility.\n\nShe warns about wine and strong drink too — not because they're evil in themselves, but because a king who is intoxicated cannot remember the law or give fair decisions to those who need justice.\n\nThen comes the heart of her advice, and the real purpose behind the warnings: 'speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy.'\n\nThis mother's wisdom for her royal son boils down to something every child can understand and practice, even without a throne: use whatever influence you have — big or small — to speak up for people who have no voice of their own.",
+        "es": "Esta breve sección nos da algo raro en el mundo antiguo: la sabiduría registrada de una madre, transmitida directamente a su hijo, el rey Lemuel, sobre cómo gobernar bien.\n\n\"¿Qué, hijo mío? ¿y qué, hijo de mi vientre? ¿y qué, hijo de mis deseos? No des á las mujeres tu fuerza, ni tus caminos á lo que es destrucción de los reyes.\" Ella advierte a su hijo directamente sobre los peligros que destruyen a los gobernantes — la distracción, el exceso, y perder de vista la responsabilidad real.\n\nElla también advierte sobre el vino y la bebida fuerte — no porque sean malos en sí mismos, sino porque un rey que está intoxicado no puede recordar la ley ni dar decisiones justas a quienes necesitan justicia.\n\nEntonces llega el corazón de su consejo, y el propósito real detrás de las advertencias: \"abre tu boca por el mudo, en el juicio de todos los hijos de muerte. Abre tu boca, juzga justicia, y el derecho del pobre y menesteroso.\"\n\nLa sabiduría de esta madre para su hijo real se reduce a algo que cada niño puede entender y practicar, incluso sin un trono: usa cualquier influencia que tengas — grande o pequeña — para hablar por la gente que no tiene voz propia.",
+        "fr": "Cette courte section nous donne quelque chose de rare dans le monde antique : la sagesse enregistrée d'une mère, transmise directement à son fils, le roi Lemuel, sur la façon de bien gouverner.\n\n« Que te dirai-je, mon fils ? que te dirai-je, fils de mes entrailles ? que te dirai-je, mon fils, objet de mes vœux ? Ne livre point ta vigueur aux femmes, et tes voies à celles qui perdent les rois. » Elle avertit directement son fils des dangers qui détruisent les dirigeants — la distraction, l'excès, et perdre de vue la véritable responsabilité.\n\nElle met aussi en garde contre le vin et les boissons fortes — non pas qu'elles soient mauvaises en elles-mêmes, mais parce qu'un roi qui est ivre ne peut se souvenir de la loi ni rendre des décisions justes à ceux qui ont besoin de justice.\n\nPuis vient le cœur de son conseil, et le but réel derrière les avertissements : « ouvre ta bouche pour le muet, pour la cause de tous les délaissés. Ouvre ta bouche, juge avec justice, défends le malheureux et l'indigent. »\n\nLa sagesse de cette mère pour son fils royal se résume à quelque chose que chaque enfant peut comprendre et mettre en pratique, même sans trône : utilise quelle que soit l'influence que tu as — grande ou petite — pour parler pour les gens qui n'ont pas de voix propre."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute."
+        "en": "Speak up for those who cannot speak for themselves, for the rights of all who are destitute.",
+        "es": "Abre tu boca por el mudo, en el juicio de todos los hijos de muerte.",
+        "fr": "Ouvre ta bouche pour le muet, Pour la cause de tous les délaissés."
       },
       "ref": {
-        "en": "Proverbs 31:8 (NIV)"
+        "en": "Proverbs 31:8 (NIV)",
+        "es": "Proverbios 31:8 (Valera)",
+        "fr": "Proverbes 31:8 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "speak",
           "for",
           "themselves"
+        ],
+        "es": [
+          "Abre",
+          "tu",
+          "boca",
+          "por",
+          "el",
+          "mudo"
+        ],
+        "fr": [
+          "Ouvre",
+          "ta",
+          "bouche",
+          "pour",
+          "le",
+          "muet"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A Mother's Wisdom for a King"
+        "en": "A Song for A Mother's Wisdom for a King",
+        "es": "Una Canción para La Sabiduría de una Madre Para un Rey",
+        "fr": "Une Chanson pour La Sagesse d'une Mère Pour un Roi"
       },
       "audio_en": "/static/audio/proverbs/lesson38_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "Who gave King Lemuel the wisdom recorded in this chapter?"
+            "en": "Who gave King Lemuel the wisdom recorded in this chapter?",
+            "es": "¿Quién le dio al rey Lemuel la sabiduría registrada en este capítulo?",
+            "fr": "Qui a donné au roi Lemuel la sagesse enregistrée dans ce chapitre ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "His mother",
               "A foreign king",
               "No one in particular"
+            ],
+            "es": [
+              "Un general famoso",
+              "Su madre",
+              "Un rey extranjero",
+              "Nadie en particular"
+            ],
+            "fr": [
+              "Un général célèbre",
+              "Sa mère",
+              "Un roi étranger",
+              "Personne en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did Lemuel's mother warn him about wine and strong drink as a ruler?"
+            "en": "Why did Lemuel's mother warn him about wine and strong drink as a ruler?",
+            "es": "¿Por qué le advirtió la madre de Lemuel sobre el vino y la bebida fuerte como gobernante?",
+            "fr": "Pourquoi la mère de Lemuel l'a-t-elle mis en garde contre le vin et les boissons fortes en tant que dirigeant ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "A king who is intoxicated cannot remember the law or judge fairly",
               "There was no real reason",
               "She encouraged it instead"
+            ],
+            "es": [
+              "Quería que él disfrutara plenamente",
+              "Un rey intoxicado no puede recordar la ley ni juzgar justamente",
+              "No había razón real",
+              "Ella lo animó en su lugar"
+            ],
+            "fr": [
+              "Elle voulait qu'il en profite pleinement",
+              "Un roi ivre ne peut se souvenir de la loi ni juger avec justice",
+              "Il n'y avait pas de vraie raison",
+              "Elle l'y encourageait plutôt"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Lemuel's mother say he should use his position to do?"
+            "en": "What did Lemuel's mother say he should use his position to do?",
+            "es": "¿Para qué dijo la madre de Lemuel que él debía usar su posición?",
+            "fr": "À quoi la mère de Lemuel a-t-elle dit qu'il devait utiliser sa position ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Speak up for those who cannot speak for themselves, and defend the rights of the poor",
               "Ignore the needs of others",
               "Focus only on his own comfort"
+            ],
+            "es": [
+              "Para ganar riqueza personal",
+              "Para abrir su boca por el mudo, y defender el derecho del pobre",
+              "Para ignorar las necesidades de otros",
+              "Para enfocarse solo en su propia comodidad"
+            ],
+            "fr": [
+              "Pour acquérir une richesse personnelle",
+              "Pour ouvrir sa bouche pour le muet, et défendre le malheureux",
+              "Pour ignorer les besoins des autres",
+              "Pour se concentrer uniquement sur son propre confort"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A Mother's Wisdom for a King"
+            "en": "Activity sheet: A Mother's Wisdom for a King",
+            "es": "Hoja de actividad: La Sabiduría de una Madre Para un Rey",
+            "fr": "Fiche d'activité : La Sagesse d'une Mère Pour un Roi"
           },
           "file": "/static/printables/proverbs/lesson38_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: this brief chapter preserves a mother's direct counsel to her royal son, emphasizing that real leadership exists to serve and protect those who are voiceless or vulnerable, not to indulge personal desire. The principle — using whatever influence you have to speak up for others — translates directly to children's own relationships and small spheres of influence, long before any position of formal power.\n\nConversation starters: (1) Why might a king's self-control directly affect his ability to give fair justice to others? (2) Who in your own life or community might need someone to \"speak up\" for them? (3) What's one small way you could use your own influence — even as a child — to help someone who feels voiceless?\n\nPray for courage to speak up for those who cannot speak for themselves, just as Lemuel's mother taught."
+        "en": "Big idea: this brief chapter preserves a mother's direct counsel to her royal son, emphasizing that real leadership exists to serve and protect those who are voiceless or vulnerable, not to indulge personal desire. The principle — using whatever influence you have to speak up for others — translates directly to children's own relationships and small spheres of influence, long before any position of formal power.\n\nConversation starters: (1) Why might a king's self-control directly affect his ability to give fair justice to others? (2) Who in your own life or community might need someone to \"speak up\" for them? (3) What's one small way you could use your own influence — even as a child — to help someone who feels voiceless?\n\nPray for courage to speak up for those who cannot speak for themselves, just as Lemuel's mother taught.",
+        "es": "Idea principal: este breve capítulo preserva el consejo directo de una madre a su hijo real, enfatizando que el verdadero liderazgo existe para servir y proteger a quienes no tienen voz o son vulnerables, no para indulgir el deseo personal. El principio — usar cualquier influencia que tengas para hablar por otros — se traduce directamente a las propias relaciones y pequeñas esferas de influencia de los niños, mucho antes de cualquier posición de poder formal.\n\nPara conversar: (1) ¿Por qué podría el autocontrol de un rey afectar directamente su capacidad de dar justicia justa a otros? (2) ¿Quién en tu propia vida o comunidad podría necesitar que alguien \"hable\" por ellos? (3) ¿Cuál es una pequeña forma en que podrías usar tu propia influencia — incluso como niño — para ayudar a alguien que se siente sin voz?\n\nOren por valor para hablar por quienes no pueden hablar por sí mismos, tal como enseñó la madre de Lemuel.",
+        "fr": "Idée principale : ce bref chapitre préserve le conseil direct d'une mère à son fils royal, soulignant que le véritable leadership existe pour servir et protéger ceux qui sont sans voix ou vulnérables, pas pour satisfaire un désir personnel. Le principe — utiliser quelle que soit l'influence que l'on a pour parler pour les autres — se traduit directement dans les propres relations et petites sphères d'influence des enfants, bien avant toute position de pouvoir formel.\n\nPour la conversation : (1) Pourquoi la maîtrise de soi d'un roi pourrait-elle affecter directement sa capacité à rendre une justice équitable aux autres ? (2) Qui dans ta propre vie ou communauté pourrait avoir besoin que quelqu'un « parle » pour lui ? (3) Quelle est une petite façon dont tu pourrais utiliser ta propre influence — même en tant qu'enfant — pour aider quelqu'un qui se sent sans voix ?\n\nPriez pour le courage de parler pour ceux qui ne peuvent parler pour eux-mêmes, tout comme la mère de Lemuel l'a enseigné."
       }
     }
   ]

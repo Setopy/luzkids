@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Chains That Set the Gospel Free"
+    "en": "Chains That Set the Gospel Free",
+    "es": "Cadenas Que Liberan el Evangelio",
+    "fr": "Des Chaînes Qui Libèrent l'Évangile"
   },
   "ref": "Philippians 1:12-26",
   "section": "Paul's Chains Advance the Gospel",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "To live is Christ"
+        "en": "To live is Christ",
+        "es": "Vivir es Cristo",
+        "fr": "Vivre, c'est Christ"
       },
       "body": {
-        "en": "Paul writes from prison — but instead of despair, he shares astonishing news: what happened to him has actually served to ADVANCE the gospel! Because of his chains, the guards and everyone around have heard about Christ, and many believers have been encouraged to speak God's Word more courageously.\n\nSome people were even preaching Christ out of selfish rivalry, hoping to make Paul's imprisonment harder — but Paul doesn't care about their motives. 'What does it matter?' he says. 'The important thing is that in every way... Christ is preached. And because of this I rejoice!' Then Paul shares one of his most famous lines: 'For to me, to live is Christ and to die is gain.' He's torn between two good things — staying to keep helping the Philippians grow, or going to be with Christ, which would be far better for himself personally.\n\nBut Paul decides it's more necessary for them that he continues living and serving. Even chained to a wall, awaiting trial, Paul's entire identity was so wrapped up in Christ that prison couldn't shrink his joy or his usefulness."
+        "en": "Paul writes from prison — but instead of despair, he shares astonishing news: what happened to him has actually served to ADVANCE the gospel! Because of his chains, the guards and everyone around have heard about Christ, and many believers have been encouraged to speak God's Word more courageously.\n\nSome people were even preaching Christ out of selfish rivalry, hoping to make Paul's imprisonment harder — but Paul doesn't care about their motives. 'What does it matter?' he says. 'The important thing is that in every way... Christ is preached. And because of this I rejoice!' Then Paul shares one of his most famous lines: 'For to me, to live is Christ and to die is gain.' He's torn between two good things — staying to keep helping the Philippians grow, or going to be with Christ, which would be far better for himself personally.\n\nBut Paul decides it's more necessary for them that he continues living and serving. Even chained to a wall, awaiting trial, Paul's entire identity was so wrapped up in Christ that prison couldn't shrink his joy or his usefulness.",
+        "es": "Pablo escribe desde la prisión — pero en lugar de desesperación, comparte una noticia asombrosa: ¡lo que le sucedió en realidad ha servido para HACER AVANZAR el evangelio! Gracias a sus cadenas, los guardias y todos a su alrededor han oído de Cristo, y muchos creyentes se han animado a hablar la Palabra de Dios con más valentía.\n\nAlgunas personas incluso predicaban a Cristo por rivalidad egoísta, esperando hacerle más difícil la prisión a Pablo — pero a Pablo no le importan sus motivos. \"¿Qué importa?\", dice. \"Lo importante es que, de todas formas... Cristo es predicado. ¡Y por eso me alegro!\" Luego Pablo comparte una de sus líneas más famosas: \"Porque para mí el vivir es Cristo, y el morir es ganancia.\" Está dividido entre dos cosas buenas — quedarse para seguir ayudando a crecer a los filipenses, o partir para estar con Cristo, lo cual sería mucho mejor para él personalmente.\n\nPero Pablo decide que es más necesario para ellos que él continúe viviendo y sirviendo. Incluso encadenado a una pared, esperando su juicio, toda la identidad de Pablo estaba tan envuelta en Cristo que la prisión no pudo reducir su gozo ni su utilidad.",
+        "fr": "Paul écrit depuis la prison — mais au lieu du désespoir, il partage une nouvelle étonnante : ce qui lui est arrivé a en réalité servi à FAIRE AVANCER l'Évangile ! Grâce à ses chaînes, les gardes et tous ceux qui l'entourent ont entendu parler de Christ, et beaucoup de croyants ont été encouragés à annoncer la Parole de Dieu avec plus de courage.\n\nCertaines personnes prêchaient même Christ par rivalité égoïste, espérant rendre l'emprisonnement de Paul plus difficile — mais Paul ne se soucie pas de leurs motifs. « Qu'importe ? » dit-il. « L'important, c'est que de toute manière... Christ soit annoncé. Et je m'en réjouis ! » Puis Paul partage l'une de ses phrases les plus célèbres : « Car Christ est ma vie, et la mort m'est un gain. » Il est partagé entre deux bonnes choses — rester pour continuer à aider les Philippiens à grandir, ou partir pour être avec Christ, ce qui serait bien meilleur pour lui personnellement.\n\nMais Paul décide qu'il est plus nécessaire pour eux qu'il continue à vivre et à servir. Même enchaîné à un mur, attendant son procès, toute l'identité de Paul était tellement enracinée en Christ que la prison ne pouvait diminuer ni sa joie ni son utilité."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "For to me, to live is Christ and to die is gain."
+        "en": "For to me, to live is Christ and to die is gain.",
+        "es": "Porque para mí el vivir es Cristo, y el morir es ganancia.",
+        "fr": "Car Christ est ma vie, et la mort m'est un gain."
       },
       "ref": {
-        "en": "Philippians 1:21 (NIV)"
+        "en": "Philippians 1:21 (NIV)",
+        "es": "Filipenses 1:21 (Valera)",
+        "fr": "Philippiens 1:21 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "die",
           "is",
           "gain"
+        ],
+        "es": [
+          "Porque",
+          "para",
+          "mí",
+          "el",
+          "vivir",
+          "es"
+        ],
+        "fr": [
+          "Car",
+          "Christ",
+          "est",
+          "ma",
+          "vie",
+          "et"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Chains That Set the Gospel Free"
+        "en": "A Song for Chains That Set the Gospel Free",
+        "es": "Una Canción para Cadenas Que Liberan el Evangelio",
+        "fr": "Une Chanson pour Des Chaînes Qui Libèrent l'Évangile"
       },
       "audio_en": "/static/audio/philippians/lesson02_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Paul say actually happened because of his imprisonment?"
+            "en": "What did Paul say actually happened because of his imprisonment?",
+            "es": "¿Qué dice Pablo que sucedió realmente a causa de su encarcelamiento?",
+            "fr": "Que dit Paul qu'il s'est réellement passé à cause de son emprisonnement ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "The gospel was advanced — more people heard about Christ",
               "Nothing changed at all",
               "Everyone gave up"
+            ],
+            "es": [
+              "El evangelio fue silenciado",
+              "El evangelio avanzó — más personas oyeron de Cristo",
+              "Nada cambió en absoluto",
+              "Todos se rindieron"
+            ],
+            "fr": [
+              "L'Évangile a été réduit au silence",
+              "L'Évangile a avancé — plus de gens ont entendu parler de Christ",
+              "Rien n'a changé du tout",
+              "Tout le monde a abandonné"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did Paul respond to people preaching Christ from selfish motives, just to make trouble for him?"
+            "en": "How did Paul respond to people preaching Christ from selfish motives, just to make trouble for him?",
+            "es": "¿Cómo respondió Pablo a quienes predicaban a Cristo por motivos egoístas, solo para causarle problemas?",
+            "fr": "Comment Paul a-t-il répondu à ceux qui prêchaient Christ par motifs égoïstes, juste pour lui causer des ennuis ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "He still rejoiced, because Christ was being preached either way",
               "He stopped preaching entirely",
               "He tried to silence them"
+            ],
+            "es": [
+              "Con ira y amargura",
+              "Aun así se alegró, porque Cristo era predicado de cualquier manera",
+              "Dejó de predicar por completo",
+              "Intentó silenciarlos"
+            ],
+            "fr": [
+              "Avec colère et amertume",
+              "Il s'est tout de même réjoui, car Christ était annoncé de toute façon",
+              "Il a cessé de prêcher complètement",
+              "Il a essayé de les faire taire"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul mean by 'to live is Christ and to die is gain'?"
+            "en": "What does Paul mean by 'to live is Christ and to die is gain'?",
+            "es": "¿Qué quiere decir Pablo con 'para mí el vivir es Cristo, y el morir es ganancia'?",
+            "fr": "Que veut dire Paul par « Christ est ma vie, et la mort m'est un gain » ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "His whole life was about Christ, and even death would bring him closer to Christ",
               "He wanted to die quickly",
               "Nothing in particular"
+            ],
+            "es": [
+              "Tenía miedo tanto de vivir como de morir",
+              "Toda su vida giraba en torno a Cristo, e incluso la muerte lo acercaría más a Cristo",
+              "Quería morir rápidamente",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Il avait peur à la fois de vivre et de mourir",
+              "Toute sa vie tournait autour de Christ, et même la mort le rapprocherait de Christ",
+              "Il voulait mourir rapidement",
+              "Rien de particulier"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Chains That Set the Gospel Free"
+            "en": "Activity sheet: Chains That Set the Gospel Free",
+            "es": "Hoja de actividad: Cadenas Que Liberan el Evangelio",
+            "fr": "Fiche d'activité : Des Chaînes Qui Libèrent l'Évangile"
           },
           "file": "/static/printables/philippians/lesson02_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: a perspective so anchored in Christ that even imprisonment becomes gospel opportunity, and even the prospect of death loses its sting. Paul's remarkable indifference to others' mixed motives (1:15-18) — caring only that Christ is preached, not who gets credit — models a maturity worth aspiring to. \"To live is Christ and to die is gain\" (1:21) crystallizes a life so identified with Jesus that neither outcome is something to fear.\n\nConversation starters: (1) How could being in prison actually \"advance\" the gospel? (2) Why didn't Paul let other people's selfish motives bother him? (3) What would it mean for YOUR life to be summed up as \"to live is Christ\"?\n\nPray for the same unshakeable perspective Paul had, whatever circumstances come."
+        "en": "Big idea: a perspective so anchored in Christ that even imprisonment becomes gospel opportunity, and even the prospect of death loses its sting. Paul's remarkable indifference to others' mixed motives (1:15-18) — caring only that Christ is preached, not who gets credit — models a maturity worth aspiring to. \"To live is Christ and to die is gain\" (1:21) crystallizes a life so identified with Jesus that neither outcome is something to fear.\n\nConversation starters: (1) How could being in prison actually \"advance\" the gospel? (2) Why didn't Paul let other people's selfish motives bother him? (3) What would it mean for YOUR life to be summed up as \"to live is Christ\"?\n\nPray for the same unshakeable perspective Paul had, whatever circumstances come.",
+        "es": "Idea principal: una perspectiva tan anclada en Cristo que incluso la prisión se convierte en oportunidad para el evangelio, y hasta la perspectiva de la muerte pierde su aguijón. La notable indiferencia de Pablo ante los motivos mixtos de otros (1:15-18) — preocupándose solo de que Cristo sea predicado, no de quién recibe el crédito — modela una madurez digna de imitar. \"Para mí el vivir es Cristo, y el morir es ganancia\" (1:21) cristaliza una vida tan identificada con Jesús que ninguno de los dos resultados es algo que temer.\n\nPara conversar: (1) ¿Cómo podría estar en prisión realmente \"hacer avanzar\" el evangelio? (2) ¿Por qué Pablo no permitió que los motivos egoístas de otros le molestaran? (3) ¿Qué significaría que TU vida se pudiera resumir como \"vivir es Cristo\"?\n\nOren por la misma perspectiva inquebrantable que tuvo Pablo, cualesquiera que sean las circunstancias.",
+        "fr": "Idée principale : une perspective si ancrée en Christ que même l'emprisonnement devient une occasion pour l'Évangile, et même la perspective de la mort perd son aiguillon. La remarquable indifférence de Paul envers les motifs mêlés des autres (1.15-18) — se souciant seulement que Christ soit annoncé, peu importe qui en reçoit le crédit — illustre une maturité à laquelle aspirer. « Christ est ma vie, et la mort m'est un gain » (1.21) cristallise une vie si identifiée à Jésus qu'aucune des deux issues n'est à craindre.\n\nPour la conversation : (1) Comment être en prison pourrait-il réellement « faire avancer » l'Évangile ? (2) Pourquoi Paul n'a-t-il pas laissé les motifs égoïstes des autres le déranger ? (3) Que signifierait le fait que TA vie puisse se résumer par « vivre, c'est Christ » ?\n\nPriez pour la même perspective inébranlable que Paul avait, quelles que soient les circonstances."
       }
     }
   ]

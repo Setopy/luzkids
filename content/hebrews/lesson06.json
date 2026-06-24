@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A Rest Still Waiting"
+    "en": "A Rest Still Waiting",
+    "es": "Un Reposo Que Todavía Espera",
+    "fr": "Un Repos Qui Attend Encore"
   },
   "ref": "Hebrews 4:1-13",
   "section": "A Sabbath-Rest for the People of God",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Make every effort to enter it"
+        "en": "Make every effort to enter it",
+        "es": "Esfuércense por entrar en él",
+        "fr": "Efforcez-vous d'y entrer"
       },
       "body": {
-        "en": "There is still a REST promised to God's people today — not just a physical land, but a deep rest of trusting God completely. The writer warns: let us be careful that none of us fails to reach that rest through unbelief, the way the wilderness generation did. Let us make every effort to enter it!\n\nAnd here's a sobering truth: God's Word is alive and active, sharper than any double-edged sword, penetrating even to dividing soul and spirit, joints and marrow — able to judge the thoughts and intentions of every heart. Nothing in all creation is hidden from God's sight; everything is uncovered and laid bare before the eyes of Him to whom we must give account.\n\nThis rest isn't laziness — it's the deep confidence of trusting God so completely that striving and worry can finally stop."
+        "en": "There is still a REST promised to God's people today — not just a physical land, but a deep rest of trusting God completely. The writer warns: let us be careful that none of us fails to reach that rest through unbelief, the way the wilderness generation did. Let us make every effort to enter it!\n\nAnd here's a sobering truth: God's Word is alive and active, sharper than any double-edged sword, penetrating even to dividing soul and spirit, joints and marrow — able to judge the thoughts and intentions of every heart. Nothing in all creation is hidden from God's sight; everything is uncovered and laid bare before the eyes of Him to whom we must give account.\n\nThis rest isn't laziness — it's the deep confidence of trusting God so completely that striving and worry can finally stop.",
+        "es": "Todavía hay un REPOSO prometido al pueblo de Dios hoy — no solo una tierra física, sino un reposo profundo de confiar completamente en Dios. El escritor advierte: tengamos cuidado de que ninguno de nosotros deje de alcanzar ese reposo por incredulidad, como hizo la generación del desierto. ¡Esforcémonos por entrar en él!\n\nY aquí hay una verdad que hace reflexionar: la Palabra de Dios es viva y eficaz, más cortante que cualquier espada de dos filos, penetrando hasta partir el alma y el espíritu, las coyunturas y los tuétanos — capaz de juzgar los pensamientos y las intenciones del corazón. Nada en toda la creación está escondido de la vista de Dios; todo está descubierto y desnudo ante los ojos de Aquel a quien debemos dar cuenta.\n\nEste reposo no es pereza — es la profunda confianza de confiar tan completamente en Dios que el afán y la preocupación finalmente puedan cesar.",
+        "fr": "Il y a encore un REPOS promis au peuple de Dieu aujourd'hui — pas seulement une terre physique, mais un repos profond de confiance complète en Dieu. L'auteur avertit : prenons garde que personne parmi nous ne manque d'atteindre ce repos par incrédulité, comme l'a fait la génération du désert. Efforçons-nous d'y entrer !\n\nEt voici une vérité qui fait réfléchir : la Parole de Dieu est vivante et efficace, plus tranchante qu'aucune épée à deux tranchants, pénétrant jusqu'à partager l'âme et l'esprit, les jointures et les moelles — capable de juger les pensées et les intentions du cœur. Rien dans toute la création n'est caché à la vue de Dieu ; tout est découvert et nu devant les yeux de Celui à qui nous devons rendre compte.\n\nCe repos n'est pas la paresse — c'est la confiance profonde de faire confiance à Dieu si complètement que l'effort acharné et l'inquiétude peuvent enfin cesser."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Let us, therefore, make every effort to enter that rest."
+        "en": "Let us, therefore, make every effort to enter that rest.",
+        "es": "Procuremos pues de entrar en aquel reposo; que ninguno caiga en semejante ejemplo de desobediencia.",
+        "fr": "Efforçons-nous donc d'entrer dans ce repos, afin que personne ne tombe en donnant le même exemple de désobéissance."
       },
       "ref": {
-        "en": "Hebrews 4:11 (NIV)"
+        "en": "Hebrews 4:11 (NIV)",
+        "es": "Hebreos 4:11 (Valera)",
+        "fr": "Hébreux 4:11 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "enter",
           "that",
           "rest"
+        ],
+        "es": [
+          "Procuremos",
+          "pues",
+          "de",
+          "entrar",
+          "en",
+          "aquel"
+        ],
+        "fr": [
+          "Efforçons-nous",
+          "donc",
+          "d'entrer",
+          "dans",
+          "ce",
+          "repos"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A Rest Still Waiting"
+        "en": "A Song for A Rest Still Waiting",
+        "es": "Una Canción para Un Reposo Que Todavía Espera",
+        "fr": "Une Chanson pour Un Repos Qui Attend Encore"
       },
       "audio_en": "/static/audio/hebrews/lesson06_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What is the 'rest' the writer says is still available today?"
+            "en": "What is the 'rest' the writer says is still available today?",
+            "es": "¿Cuál es el 'reposo' que el escritor dice que todavía está disponible hoy?",
+            "fr": "Quel est le « repos » que l'auteur dit encore disponible aujourd'hui ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Deep, complete trust in God",
               "A vacation",
               "Only a future physical kingdom"
+            ],
+            "es": [
+              "Una siesta",
+              "Confianza profunda y completa en Dios",
+              "Unas vacaciones",
+              "Solo un futuro reino físico"
+            ],
+            "fr": [
+              "Une sieste",
+              "Une confiance profonde et complète en Dieu",
+              "Des vacances",
+              "Seulement un futur royaume physique"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How is God's Word described in this chapter?"
+            "en": "How is God's Word described in this chapter?",
+            "es": "¿Cómo se describe la Palabra de Dios en este capítulo?",
+            "fr": "Comment la Parole de Dieu est-elle décrite dans ce chapitre ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Alive and active, judging the heart",
               "Hidden from everyone",
               "Only for priests"
+            ],
+            "es": [
+              "Vieja y poco clara",
+              "Viva y eficaz, juzgando el corazón",
+              "Escondida de todos",
+              "Solo para sacerdotes"
+            ],
+            "fr": [
+              "Ancienne et peu claire",
+              "Vivante et efficace, jugeant le cœur",
+              "Cachée à tous",
+              "Seulement pour les sacrificateurs"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the writer urge believers to do regarding this rest?"
+            "en": "What does the writer urge believers to do regarding this rest?",
+            "es": "¿Qué insta el escritor a los creyentes a hacer respecto a este reposo?",
+            "fr": "Qu'est-ce que l'auteur exhorte les croyants à faire concernant ce repos ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Make every effort to enter it",
               "Wait passively, doing nothing",
               "Avoid it"
+            ],
+            "es": [
+              "Ignorarlo por completo",
+              "Esforzarse por entrar en él",
+              "Esperar pasivamente, sin hacer nada",
+              "Evitarlo"
+            ],
+            "fr": [
+              "L'ignorer complètement",
+              "S'efforcer d'y entrer",
+              "Attendre passivement, sans rien faire",
+              "L'éviter"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A Rest Still Waiting"
+            "en": "Activity sheet: A Rest Still Waiting",
+            "es": "Hoja de actividad: Un Reposo Que Todavía Espera",
+            "fr": "Fiche d'activité : Un Repos Qui Attend Encore"
           },
           "file": "/static/printables/hebrews/lesson06_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the \"rest\" theme points beyond Canaan to present trust requiring active pursuit (4:11) — paradoxically, entering true rest takes real effort, the opposite of careless presumption.\n\nConversation starters: (1) What does \"resting\" in God look like while still making effort? (2) Why is striving toward rest not a contradiction? (3) How does it feel to know God's Word can see into your thoughts?\n\nPray for hearts that truly rest in God's trustworthiness."
+        "en": "Big idea: the \"rest\" theme points beyond Canaan to present trust requiring active pursuit (4:11) — paradoxically, entering true rest takes real effort, the opposite of careless presumption.\n\nConversation starters: (1) What does \"resting\" in God look like while still making effort? (2) Why is striving toward rest not a contradiction? (3) How does it feel to know God's Word can see into your thoughts?\n\nPray for hearts that truly rest in God's trustworthiness.",
+        "es": "Idea principal: el tema del 'reposo' señala más allá de Canaán hacia una confianza presente que requiere búsqueda activa (4:11) — paradójicamente, entrar en el verdadero reposo requiere esfuerzo real, lo opuesto a la presunción descuidada.\n\nPara conversar: (1) ¿Cómo se ve 'reposar' en Dios mientras todavía se hace esfuerzo? (2) ¿Por qué no es una contradicción esforzarse hacia el reposo? (3) ¿Cómo se siente saber que la Palabra de Dios puede ver dentro de tus pensamientos?\n\nOren por corazones que verdaderamente reposen en la fidelidad de Dios.",
+        "fr": "Idée principale : le thème du « repos » pointe au-delà de Canaan vers une confiance présente qui exige une recherche active (4.11) — paradoxalement, entrer dans le vrai repos demande un effort réel, le contraire de la présomption négligente.\n\nPour la conversation : (1) À quoi ressemble le fait de « se reposer » en Dieu tout en faisant encore des efforts ? (2) Pourquoi s'efforcer vers le repos n'est-il pas une contradiction ? (3) Que ressent-on en sachant que la Parole de Dieu peut voir dans tes pensées ?\n\nPriez pour des cœurs qui se reposent véritablement dans la fidélité de Dieu."
       }
     }
   ]

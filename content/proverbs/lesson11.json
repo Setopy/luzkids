@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Stay on the Safe Path"
+    "en": "Stay on the Safe Path",
+    "es": "Mantente en el Camino Seguro",
+    "fr": "Reste Sur le Chemin Sûr"
   },
   "ref": "Proverbs 5:1-23",
   "section": "Warning Against Adultery",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A warning about smooth words that lead somewhere dangerous"
+        "en": "A warning about smooth words that lead somewhere dangerous",
+        "es": "Una advertencia sobre palabras suaves que llevan a algún lugar peligroso",
+        "fr": "Un avertissement sur les paroles douces qui conduisent quelque part de dangereux"
       },
       "body": {
-        "en": "The father continues his urgent instruction, warning his son about people whose words sound smooth and sweet, like honey — but whose path actually leads toward bitterness and ruin.\n\nThis chapter is a serious warning about staying faithful — to God, to your family, and to the people who genuinely love you — rather than being pulled away by someone whose flattering words hide a destructive path underneath.\n\n'Keep to a path far from her,' the father warns, 'do not go near the door of her house, lest you lose your honour to others and your dignity to one who is cruel.'\n\nThe wisdom here isn't really about one specific situation — it's a bigger principle: be very careful about people who say exactly what you want to hear, especially when their actual path leads away from faithfulness and toward real harm.\n\nThe chapter ends with a beautiful, positive picture instead: 'may you rejoice in the wife of your youth... may her love alone satisfy you always.' Faithfulness and loyalty, the chapter insists, lead to real joy — far more than any shortcut ever could."
+        "en": "The father continues his urgent instruction, warning his son about people whose words sound smooth and sweet, like honey — but whose path actually leads toward bitterness and ruin.\n\nThis chapter is a serious warning about staying faithful — to God, to your family, and to the people who genuinely love you — rather than being pulled away by someone whose flattering words hide a destructive path underneath.\n\n'Keep to a path far from her,' the father warns, 'do not go near the door of her house, lest you lose your honour to others and your dignity to one who is cruel.'\n\nThe wisdom here isn't really about one specific situation — it's a bigger principle: be very careful about people who say exactly what you want to hear, especially when their actual path leads away from faithfulness and toward real harm.\n\nThe chapter ends with a beautiful, positive picture instead: 'may you rejoice in the wife of your youth... may her love alone satisfy you always.' Faithfulness and loyalty, the chapter insists, lead to real joy — far more than any shortcut ever could.",
+        "es": "El padre continúa su instrucción urgente, advirtiendo a su hijo sobre personas cuyas palabras suenan suaves y dulces, como la miel — pero cuyo camino en realidad lleva hacia la amargura y la ruina.\n\nEste capítulo es una seria advertencia sobre permanecer fiel — a Dios, a tu familia, y a la gente que genuinamente te ama — en lugar de ser arrastrado por alguien cuyas palabras halagadoras esconden un camino destructivo debajo.\n\n\"Aleja de ella tu camino,\" advierte el padre, \"y no te acerques á la puerta de su casa; porque no des á los extraños tu honor, y tus años á cruel.\"\n\nLa sabiduría aquí no se trata realmente de una situación específica — es un principio más grande: ten mucho cuidado con la gente que dice exactamente lo que quieres oír, especialmente cuando su camino real se aleja de la fidelidad y se dirige hacia un daño real.\n\nEl capítulo termina con una imagen positiva y hermosa en su lugar: \"alégrate con la mujer de tu juventud... su amor te embriague para siempre.\" La fidelidad y la lealtad, insiste el capítulo, llevan a un gozo real — mucho más que cualquier atajo jamás podría.",
+        "fr": "Le père continue son instruction urgente, mettant en garde son fils contre des personnes dont les paroles semblent douces et sucrées, comme le miel — mais dont le chemin mène en réalité vers l'amertume et la ruine.\n\nCe chapitre est un sérieux avertissement sur le fait de rester fidèle — à Dieu, à sa famille, et aux personnes qui l'aiment véritablement — plutôt que d'être entraîné par quelqu'un dont les paroles flatteuses cachent un chemin destructeur en dessous.\n\n« Éloigne-toi du chemin qui conduit chez elle, » avertit le père, « et ne t'approche pas de la porte de sa maison, de peur que tu ne livres ta vigueur à d'autres, et tes années à un homme cruel. »\n\nLa sagesse ici ne concerne pas vraiment une situation spécifique — c'est un principe plus large : sois très prudent avec les personnes qui disent exactement ce que tu veux entendre, surtout quand leur chemin réel s'éloigne de la fidélité et mène vers un véritable préjudice.\n\nLe chapitre se termine par une image positive et belle à la place : « réjouis-toi de la femme de ta jeunesse... que son amour t'enivre toujours. » La fidélité et la loyauté, insiste le chapitre, mènent à une vraie joie — bien plus que n'importe quel raccourci ne pourrait jamais offrir."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Keep to a path far from her, do not go near the door of her house."
+        "en": "Keep to a path far from her, do not go near the door of her house.",
+        "es": "Aleja de ella tu camino, y no te acerques á la puerta de su casa;",
+        "fr": "Éloigne-toi du chemin qui conduit chez elle, Et ne t'approche pas de la porte de sa maison,"
       },
       "ref": {
-        "en": "Proverbs 5:8 (NIV)"
+        "en": "Proverbs 5:8 (NIV)",
+        "es": "Proverbios 5:8 (Valera)",
+        "fr": "Proverbes 5:8 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "near",
           "the",
           "door"
+        ],
+        "es": [
+          "Aleja",
+          "de",
+          "ella",
+          "tu",
+          "camino",
+          "y"
+        ],
+        "fr": [
+          "Éloigne-toi",
+          "du",
+          "chemin",
+          "qui",
+          "conduit",
+          "chez"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Stay on the Safe Path"
+        "en": "A Song for Stay on the Safe Path",
+        "es": "Una Canción para Mantente en el Camino Seguro",
+        "fr": "Une Chanson pour Reste Sur le Chemin Sûr"
       },
       "audio_en": "/static/audio/proverbs/lesson11_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "How does this chapter describe the words of the dangerous path it warns about?"
+            "en": "How does this chapter describe the words of the dangerous path it warns about?",
+            "es": "¿Cómo describe este capítulo las palabras del camino peligroso del que advierte?",
+            "fr": "Comment ce chapitre décrit-il les paroles du chemin dangereux dont il met en garde ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "Smooth and sweet like honey, but leading somewhere harmful",
               "Boring and easy to ignore",
               "Always honest"
+            ],
+            "es": [
+              "Duras y obviamente crueles",
+              "Suaves y dulces como la miel, pero llevando a algo dañino",
+              "Aburridas y fáciles de ignorar",
+              "Siempre honestas"
+            ],
+            "fr": [
+              "Dures et visiblement cruelles",
+              "Douces et sucrées comme le miel, mais menant vers quelque chose de nuisible",
+              "Ennuyeuses et faciles à ignorer",
+              "Toujours honnêtes"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What instruction does the father give about this dangerous path?"
+            "en": "What instruction does the father give about this dangerous path?",
+            "es": "¿Qué instrucción da el padre sobre este camino peligroso?",
+            "fr": "Quelle instruction le père donne-t-il sur ce chemin dangereux ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Keep far from it — don't even go near the door",
               "Visit it once, just to see",
               "Follow it eagerly"
+            ],
+            "es": [
+              "Camina hacia él lentamente",
+              "Mantente lejos de él — ni siquiera te acerques a la puerta",
+              "Visítalo una vez, solo para ver",
+              "Síguelo con entusiasmo"
+            ],
+            "fr": [
+              "Marche vers lui lentement",
+              "Reste loin de lui — ne t'approche même pas de la porte",
+              "Visite-le une fois, juste pour voir",
+              "Suis-le avec enthousiasme"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What positive picture does the chapter end with instead?"
+            "en": "What positive picture does the chapter end with instead?",
+            "es": "¿Con qué imagen positiva termina el capítulo en su lugar?",
+            "fr": "Par quelle image positive le chapitre se termine-t-il à la place ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Rejoicing in faithful, loyal love that satisfies always",
               "More warnings only",
               "A different danger"
+            ],
+            "es": [
+              "No se ofrece nada positivo",
+              "Regocijarse en un amor fiel y leal que satisface siempre",
+              "Más advertencias solamente",
+              "Un peligro diferente"
+            ],
+            "fr": [
+              "Rien de positif n'est offert",
+              "Se réjouir d'un amour fidèle et loyal qui satisfait toujours",
+              "Seulement plus d'avertissements",
+              "Un danger différent"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Stay on the Safe Path"
+            "en": "Activity sheet: Stay on the Safe Path",
+            "es": "Hoja de actividad: Mantente en el Camino Seguro",
+            "fr": "Fiche d'activité : Reste Sur le Chemin Sûr"
           },
           "file": "/static/printables/proverbs/lesson11_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: this chapter is part of a sustained warning in Proverbs 1-9 against adultery and sexual sin (the most direct, serious temptation alongside dishonest gain that the original audience — a young man on the threshold of adult life — would face). For children, the principle taught here is faithfulness, loyalty, and wariness of flattering words that lead away from what's genuinely good; the specific content of the original warning is appropriate to discuss more directly with older children or in family conversation, at a parent's discretion. The chapter's positive close — rejoicing in faithful, satisfied love — frames faithfulness as joy, not mere restriction.\n\nConversation starters: (1) Why might someone with bad intentions use very smooth, flattering words rather than obviously harsh ones? (2) What does staying \"far from\" a dangerous path, rather than just avoiding going too far on it, teach about wisdom? (3) What does it mean that faithfulness leads to real joy, not just rule-following?\n\nPray for discernment to recognize flattering words that lead toward harm, and for hearts that treasure faithfulness."
+        "en": "Big idea: this chapter is part of a sustained warning in Proverbs 1-9 against adultery and sexual sin (the most direct, serious temptation alongside dishonest gain that the original audience — a young man on the threshold of adult life — would face). For children, the principle taught here is faithfulness, loyalty, and wariness of flattering words that lead away from what's genuinely good; the specific content of the original warning is appropriate to discuss more directly with older children or in family conversation, at a parent's discretion. The chapter's positive close — rejoicing in faithful, satisfied love — frames faithfulness as joy, not mere restriction.\n\nConversation starters: (1) Why might someone with bad intentions use very smooth, flattering words rather than obviously harsh ones? (2) What does staying \"far from\" a dangerous path, rather than just avoiding going too far on it, teach about wisdom? (3) What does it mean that faithfulness leads to real joy, not just rule-following?\n\nPray for discernment to recognize flattering words that lead toward harm, and for hearts that treasure faithfulness.",
+        "es": "Idea principal: este capítulo forma parte de una advertencia sostenida en Proverbios 1-9 contra el adulterio y el pecado sexual (la tentación directa y seria más importante, junto con la ganancia deshonesta, que enfrentaría el público original — un joven en el umbral de la vida adulta). Para los niños, el principio enseñado aquí es la fidelidad, la lealtad y la cautela ante palabras halagadoras que alejan de lo que genuinamente es bueno; el contenido específico de la advertencia original es apropiado para discutirlo más directamente con niños mayores o en conversación familiar, a discreción de los padres. El cierre positivo del capítulo — regocijarse en un amor fiel y satisfecho — enmarca la fidelidad como gozo, no como mera restricción.\n\nPara conversar: (1) ¿Por qué podría alguien con malas intenciones usar palabras muy suaves y halagadoras en lugar de palabras obviamente duras? (2) ¿Qué enseña sobre la sabiduría el mantenerse \"lejos\" de un camino peligroso, en lugar de solo evitar ir demasiado lejos en él? (3) ¿Qué significa que la fidelidad lleva a un gozo real, no solo a seguir reglas?\n\nOren por discernimiento para reconocer palabras halagadoras que lleven al daño, y por corazones que atesoren la fidelidad.",
+        "fr": "Idée principale : ce chapitre fait partie d'un avertissement soutenu dans Proverbes 1-9 contre l'adultère et le péché sexuel (la tentation directe et sérieuse la plus importante, avec le gain malhonnête, que le public original — un jeune homme au seuil de la vie adulte — aurait affrontée). Pour les enfants, le principe enseigné ici est la fidélité, la loyauté, et la prudence envers les paroles flatteuses qui éloignent de ce qui est véritablement bon ; le contenu spécifique de l'avertissement original convient mieux à être discuté plus directement avec des enfants plus âgés ou en conversation familiale, à la discrétion des parents. La conclusion positive du chapitre — se réjouir d'un amour fidèle et satisfait — présente la fidélité comme une joie, pas une simple restriction.\n\nPour la conversation : (1) Pourquoi quelqu'un avec de mauvaises intentions pourrait-il utiliser des paroles très douces et flatteuses plutôt que des paroles ouvertement dures ? (2) Que nous enseigne sur la sagesse le fait de rester « loin » d'un chemin dangereux, plutôt que d'éviter simplement d'y aller trop loin ? (3) Que signifie le fait que la fidélité mène à une vraie joie, pas seulement au respect des règles ?\n\nPriez pour le discernement de reconnaître les paroles flatteuses qui mènent au préjudice, et pour des cœurs qui chérissent la fidélité."
       }
     }
   ]

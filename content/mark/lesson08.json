@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Jesus' True Family"
+    "en": "Jesus' True Family",
+    "es": "La Verdadera Familia de Jesús",
+    "fr": "La Vraie Famille de Jésus"
   },
   "ref": "Mark 3:20-35",
   "section": "Jesus Accused by His Family and by Teachers of the Law",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Misunderstood by His own"
+        "en": "Misunderstood by His own",
+        "es": "Incomprendido por los Suyos",
+        "fr": "Incompris par les Siens"
       },
       "body": {
-        "en": "The crowd around Jesus was so large that He and His disciples couldn't even eat! His own family heard about it and set out to take charge of Him, because people were saying, 'He is out of his mind.' Teachers of the law from Jerusalem went further, saying Jesus was possessed by Beelzebul, the prince of demons, and that's how He drove out demons.\n\nJesus answered with a simple logic: 'How can Satan drive out Satan? If a kingdom is divided against itself, it cannot stand.' He warned that whoever speaks against the Holy Spirit, attributing God's work to evil, will not be forgiven — a serious warning about deliberately, knowingly calling God's good work evil.\n\nThen His mother and brothers arrived, standing outside, asking for Him. Jesus looked at those seated around Him and said something startling: 'Who are my mother and my brothers? Whoever does God's will is my brother and sister and mother.' Even His own biological family misunderstood Him at first — but Jesus was building a family defined by something deeper than blood."
+        "en": "The crowd around Jesus was so large that He and His disciples couldn't even eat! His own family heard about it and set out to take charge of Him, because people were saying, 'He is out of his mind.' Teachers of the law from Jerusalem went further, saying Jesus was possessed by Beelzebul, the prince of demons, and that's how He drove out demons.\n\nJesus answered with a simple logic: 'How can Satan drive out Satan? If a kingdom is divided against itself, it cannot stand.' He warned that whoever speaks against the Holy Spirit, attributing God's work to evil, will not be forgiven — a serious warning about deliberately, knowingly calling God's good work evil.\n\nThen His mother and brothers arrived, standing outside, asking for Him. Jesus looked at those seated around Him and said something startling: 'Who are my mother and my brothers? Whoever does God's will is my brother and sister and mother.' Even His own biological family misunderstood Him at first — but Jesus was building a family defined by something deeper than blood.",
+        "es": "La multitud alrededor de Jesús era tan grande que ¡Él y Sus discípulos ni siquiera podían comer! Su propia familia oyó de esto y salió a tomar control de Él, porque la gente decía: \"Está fuera de sí.\" Maestros de la ley de Jerusalén fueron más lejos, diciendo que Jesús estaba poseído por Belcebú, el príncipe de los demonios, y que así expulsaba demonios.\n\nJesús respondió con una lógica sencilla: \"¿Cómo puede Satanás expulsar a Satanás? Si un reino está dividido contra sí mismo, no puede permanecer.\" Advirtió que cualquiera que hable contra el Espíritu Santo, atribuyendo la obra de Dios al mal, no será perdonado — una advertencia seria acerca de llamar deliberada y conscientemente malo al buen trabajo de Dios.\n\nEntonces llegaron Su madre y Sus hermanos, parados afuera, preguntando por Él. Jesús miró a los que estaban sentados a Su alrededor y dijo algo sorprendente: \"¿Quiénes son mi madre y mis hermanos? Cualquiera que hace la voluntad de Dios, ese es mi hermano, y mi hermana, y mi madre.\" Incluso Su propia familia biológica lo malinterpretó al principio — pero Jesús estaba construyendo una familia definida por algo más profundo que la sangre.",
+        "fr": "La foule autour de Jésus était si grande qu'Il et Ses disciples ne pouvaient même pas manger ! Sa propre famille l'apprit et sortit pour le prendre en charge, car les gens disaient : « Il est hors de sens. » Des docteurs de la loi venus de Jérusalem allèrent plus loin, disant que Jésus était possédé par Béelzébul, le prince des démons, et que c'est ainsi qu'Il chassait les démons.\n\nJésus répondit avec une logique simple : « Comment Satan peut-il chasser Satan ? Si un royaume est divisé contre lui-même, il ne peut subsister. » Il avertit que quiconque blasphème contre le Saint-Esprit, attribuant l'œuvre de Dieu au mal, ne sera jamais pardonné — un sérieux avertissement contre le fait d'appeler délibérément et sciemment mauvaise la bonne œuvre de Dieu.\n\nPuis Sa mère et Ses frères arrivèrent, se tenant dehors, demandant après Lui. Jésus regarda ceux assis autour de Lui et dit quelque chose de surprenant : « Qui est ma mère, et qui sont mes frères ? Quiconque fait la volonté de Dieu, celui-là est mon frère, et ma sœur, et ma mère. » Même Sa propre famille biologique L'a d'abord mal comprise — mais Jésus construisait une famille définie par quelque chose de plus profond que le sang."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Whoever does God's will is my brother and sister and mother."
+        "en": "Whoever does God's will is my brother and sister and mother.",
+        "es": "Porque cualquiera que hiciere la voluntad de Dios, éste es mi hermano, y mi hermana, y mi madre.",
+        "fr": "Car, quiconque fait la volonté de Dieu, celui-là est mon frère, ma sœur, et ma mère."
       },
       "ref": {
-        "en": "Mark 3:35 (NIV)"
+        "en": "Mark 3:35 (NIV)",
+        "es": "Marcos 3:35 (Valera)",
+        "fr": "Marc 3:35 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "sister",
           "and",
           "mother"
+        ],
+        "es": [
+          "Porque",
+          "cualquiera",
+          "que",
+          "hiciere",
+          "la",
+          "voluntad"
+        ],
+        "fr": [
+          "Car",
+          "quiconque",
+          "fait",
+          "la",
+          "volonté",
+          "de"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Jesus' True Family"
+        "en": "A Song for Jesus' True Family",
+        "es": "Una Canción para La Verdadera Familia de Jesús",
+        "fr": "Une Chanson pour La Vraie Famille de Jésus"
       },
       "audio_en": "/static/audio/mark/lesson08_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus' own family think was happening to Him?"
+            "en": "What did Jesus' own family think was happening to Him?",
+            "es": "¿Qué pensaba la propia familia de Jesús que le estaba sucediendo?",
+            "fr": "Que pensait la propre famille de Jésus qu'il Lui arrivait ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "He was 'out of his mind'",
               "He was perfectly understood by everyone",
               "Nothing concerned them"
+            ],
+            "es": [
+              "Ya era el Mesías",
+              "Estaba 'fuera de sí'",
+              "Todos lo entendían perfectamente",
+              "Nada les preocupaba"
+            ],
+            "fr": [
+              "Il était déjà le Messie",
+              "Il était « hors de sens »",
+              "Tout le monde Le comprenait parfaitement",
+              "Rien ne les inquiétait"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What logical argument did Jesus give against the accusation that He used Satan's power?"
+            "en": "What logical argument did Jesus give against the accusation that He used Satan's power?",
+            "es": "¿Qué argumento lógico dio Jesús contra la acusación de que usaba el poder de Satanás?",
+            "fr": "Quel argument logique Jésus a-t-il donné contre l'accusation qu'Il utilisait le pouvoir de Satan ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "A divided kingdom cannot stand — Satan driving out Satan makes no sense",
               "He agreed with the accusation",
               "He left immediately"
+            ],
+            "es": [
+              "No respondió en absoluto",
+              "Un reino dividido no puede permanecer — Satanás expulsando a Satanás no tiene sentido",
+              "Estuvo de acuerdo con la acusación",
+              "Se fue de inmediato"
+            ],
+            "fr": [
+              "Il n'a pas du tout répondu",
+              "Un royaume divisé ne peut subsister — Satan chassant Satan n'a aucun sens",
+              "Il était d'accord avec l'accusation",
+              "Il est parti immédiatement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Who did Jesus say is His true brother, sister, and mother?"
+            "en": "Who did Jesus say is His true brother, sister, and mother?",
+            "es": "¿A quién dijo Jesús que es Su verdadero hermano, hermana, y madre?",
+            "fr": "Qui Jésus a-t-il dit être Son vrai frère, sœur, et mère ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Whoever does God's will",
               "No one at all",
               "Only the twelve apostles"
+            ],
+            "es": [
+              "Solo a Sus parientes de sangre",
+              "A cualquiera que hace la voluntad de Dios",
+              "A nadie en absoluto",
+              "Solo a los doce apóstoles"
+            ],
+            "fr": [
+              "Seulement Ses parents de sang",
+              "Quiconque fait la volonté de Dieu",
+              "Personne du tout",
+              "Seulement les douze apôtres"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Jesus' True Family"
+            "en": "Activity sheet: Jesus' True Family",
+            "es": "Hoja de actividad: La Verdadera Familia de Jesús",
+            "fr": "Fiche d'activité : La Vraie Famille de Jésus"
           },
           "file": "/static/printables/mark/lesson08_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: even Jesus' closest family initially misunderstood His mission, and Jesus redefines true family around shared obedience to God's will rather than bloodline alone — a profound and costly redefinition for His own mother and brothers to hear in that moment. The warning about speaking against the Holy Spirit (3:28-29) is serious, but addresses deliberate, knowing rejection of God's clear work, not doubt or honest questions.\n\nConversation starters: (1) Why might even Jesus' own family misunderstand Him at first? (2) What does it mean to be part of God's family by \"doing His will,\" not just by birth? (3) Have you ever felt misunderstood for following Jesus?\n\nPray for a family — by blood and by faith — that genuinely seeks to do God's will together."
+        "en": "Big idea: even Jesus' closest family initially misunderstood His mission, and Jesus redefines true family around shared obedience to God's will rather than bloodline alone — a profound and costly redefinition for His own mother and brothers to hear in that moment. The warning about speaking against the Holy Spirit (3:28-29) is serious, but addresses deliberate, knowing rejection of God's clear work, not doubt or honest questions.\n\nConversation starters: (1) Why might even Jesus' own family misunderstand Him at first? (2) What does it mean to be part of God's family by \"doing His will,\" not just by birth? (3) Have you ever felt misunderstood for following Jesus?\n\nPray for a family — by blood and by faith — that genuinely seeks to do God's will together.",
+        "es": "Idea principal: incluso la familia más cercana de Jesús inicialmente malinterpretó Su misión, y Jesús redefine la verdadera familia alrededor de la obediencia compartida a la voluntad de Dios en lugar del linaje únicamente — una redefinición profunda y costosa para que Su propia madre y hermanos la escucharan en ese momento. La advertencia sobre hablar contra el Espíritu Santo (3:28-29) es seria, pero aborda el rechazo deliberado y consciente de la obra clara de Dios, no la duda o las preguntas honestas.\n\nPara conversar: (1) ¿Por qué podría incluso la propia familia de Jesús malinterpretarlo al principio? (2) ¿Qué significa ser parte de la familia de Dios por 'hacer Su voluntad', no solo por nacimiento? (3) ¿Alguna vez te has sentido incomprendido por seguir a Jesús?\n\nOren por una familia — de sangre y de fe — que busque genuinamente hacer la voluntad de Dios juntos.",
+        "fr": "Idée principale : même la famille la plus proche de Jésus a d'abord mal compris Sa mission, et Jésus redéfinit la vraie famille autour de l'obéissance partagée à la volonté de Dieu plutôt que la lignée seule — une redéfinition profonde et coûteuse pour Sa propre mère et Ses frères à entendre à ce moment-là. L'avertissement sur le blasphème contre le Saint-Esprit (3.28-29) est sérieux, mais concerne le rejet délibéré et conscient de l'œuvre claire de Dieu, et non le doute ou les questions honnêtes.\n\nPour la conversation : (1) Pourquoi même la propre famille de Jésus pourrait-elle d'abord Le mal comprendre ? (2) Que signifie faire partie de la famille de Dieu en « faisant Sa volonté », et non seulement par la naissance ? (3) T'es-tu déjà senti incompris pour avoir suivi Jésus ?\n\nPriez pour une famille — par le sang et par la foi — qui recherche véritablement à faire la volonté de Dieu ensemble."
       }
     }
   ]

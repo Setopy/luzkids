@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Sent Out, Two by Two"
+    "en": "Sent Out, Two by Two",
+    "es": "Enviados, de Dos en Dos",
+    "fr": "Envoyés, Deux à Deux"
   },
   "ref": "Mark 6:1-13",
   "section": "A Prophet Without Honor / Jesus Sends Out the Twelve",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Rejected at home, then sent with authority"
+        "en": "Rejected at home, then sent with authority",
+        "es": "Rechazado en casa, luego enviado con autoridad",
+        "fr": "Rejeté chez lui, puis envoyé avec autorité"
       },
       "body": {
-        "en": "Jesus went to His hometown, Nazareth, and began teaching in the synagogue — and people were amazed at His wisdom, but then said dismissively: 'Isn't this the carpenter, Mary's son? Aren't his sisters here with us?' They took offence at Him! Jesus said: 'A prophet is without honour in his own town, among his relatives, and in his own home.' He could do only a few small miracles there, because of their unbelief — and He was amazed at THEIR lack of faith.\n\nThen Jesus called the Twelve and sent them out two by two, giving them authority over impure spirits. He told them to take nothing for the journey except a staff — no bread, no bag, no money — but to wear sandals and not take extra clothes. If a place wouldn't welcome them, they were to shake the dust off their feet as a testimony against that place and move on.\n\nThe disciples went out and preached that people should repent, drove out many demons, and anointed many sick people with oil and healed them. Sent simply, trusting completely, they carried Jesus' authority into towns He hadn't even visited yet."
+        "en": "Jesus went to His hometown, Nazareth, and began teaching in the synagogue — and people were amazed at His wisdom, but then said dismissively: 'Isn't this the carpenter, Mary's son? Aren't his sisters here with us?' They took offence at Him! Jesus said: 'A prophet is without honour in his own town, among his relatives, and in his own home.' He could do only a few small miracles there, because of their unbelief — and He was amazed at THEIR lack of faith.\n\nThen Jesus called the Twelve and sent them out two by two, giving them authority over impure spirits. He told them to take nothing for the journey except a staff — no bread, no bag, no money — but to wear sandals and not take extra clothes. If a place wouldn't welcome them, they were to shake the dust off their feet as a testimony against that place and move on.\n\nThe disciples went out and preached that people should repent, drove out many demons, and anointed many sick people with oil and healed them. Sent simply, trusting completely, they carried Jesus' authority into towns He hadn't even visited yet.",
+        "es": "Jesús fue a Su pueblo natal, Nazaret, y comenzó a enseñar en la sinagoga — y la gente estaba asombrada de Su sabiduría, pero luego dijo con desdén: \"¿No es este el carpintero, el hijo de María? ¿No están sus hermanas aquí con nosotros?\" ¡Se ofendieron con Él! Jesús dijo: \"Un profeta no tiene honra sino en su propia tierra, entre sus familiares, y en su propia casa.\" Solo pudo hacer unos pocos milagros pequeños allí, por su incredulidad — y Él se asombró de la falta de fe de ELLOS.\n\nEntonces Jesús llamó a los Doce y los envió de dos en dos, dándoles autoridad sobre los espíritus impuros. Les dijo que no llevaran nada para el camino excepto un bastón — sin pan, sin bolsa, sin dinero — pero que llevaran sandalias y no llevaran ropa extra. Si un lugar no los recibía, debían sacudir el polvo de sus pies como testimonio contra ese lugar y seguir adelante.\n\nLos discípulos salieron y predicaron que la gente debía arrepentirse, expulsaron muchos demonios, y ungieron con aceite a muchos enfermos y los sanaron. Enviados simplemente, confiando completamente, llevaron la autoridad de Jesús a pueblos que Él ni siquiera había visitado todavía.",
+        "fr": "Jésus alla dans sa ville natale, Nazareth, et commença à enseigner dans la synagogue — et les gens étaient frappés de Sa sagesse, mais dirent ensuite avec mépris : « N'est-ce pas le charpentier, le fils de Marie ? Ses sœurs ne sont-elles pas ici parmi nous ? » Ils furent scandalisés à Son sujet ! Jésus dit : « Un prophète n'est méprisé que dans sa patrie, parmi ses parents, et dans sa maison. » Il ne put faire là que peu de petits miracles, à cause de leur incrédulité — et Il s'étonna de LEUR manque de foi.\n\nPuis Jésus appela les Douze et les envoya deux à deux, leur donnant autorité sur les esprits impurs. Il leur dit de ne rien prendre pour le chemin, sauf un bâton — pas de pain, pas de sac, pas d'argent — mais de porter des sandales et de ne pas prendre de vêtement de plus. Si un lieu ne les accueillait pas, ils devaient secouer la poussière de leurs pieds en témoignage contre ce lieu et continuer leur chemin.\n\nLes disciples partirent et prêchèrent que les gens devaient se repentir, chassèrent beaucoup de démons, et oignirent d'huile beaucoup de malades et les guérirent. Envoyés simplement, faisant entièrement confiance, ils portèrent l'autorité de Jésus dans des villes qu'Il n'avait même pas encore visitées."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "A prophet is without honor in his own town, among his relatives and in his own home."
+        "en": "A prophet is without honor in his own town, among his relatives and in his own home.",
+        "es": "Mas Jesús les decía: No hay profeta deshonrado sino en su tierra, y entre sus parientes, y en su casa.",
+        "fr": "Mais Jésus leur dit : Un prophète n'est méprisé que dans sa patrie, parmi ses parents, et dans sa maison."
       },
       "ref": {
-        "en": "Mark 6:4 (NIV)"
+        "en": "Mark 6:4 (NIV)",
+        "es": "Marcos 6:4 (Valera)",
+        "fr": "Marc 6:4 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "his",
           "own",
           "town"
+        ],
+        "es": [
+          "Mas",
+          "Jesús",
+          "les",
+          "decía",
+          "No",
+          "hay"
+        ],
+        "fr": [
+          "Mais",
+          "Jésus",
+          "leur",
+          "dit",
+          "Un",
+          "prophète"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Sent Out, Two by Two"
+        "en": "A Song for Sent Out, Two by Two",
+        "es": "Una Canción para Enviados, de Dos en Dos",
+        "fr": "Une Chanson pour Envoyés, Deux à Deux"
       },
       "audio_en": "/static/audio/mark/lesson14_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why did the people of Nazareth take offence at Jesus?"
+            "en": "Why did the people of Nazareth take offence at Jesus?",
+            "es": "¿Por qué se ofendió la gente de Nazaret con Jesús?",
+            "fr": "Pourquoi les gens de Nazareth ont-ils été scandalisés par Jésus ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "They only saw Him as 'the carpenter, Mary's son' and dismissed Him",
               "He never visited them",
               "He demanded money"
+            ],
+            "es": [
+              "Era demasiado bondadoso",
+              "Solo lo veían como 'el carpintero, el hijo de María' y lo despreciaban",
+              "Nunca los visitó",
+              "Exigía dinero"
+            ],
+            "fr": [
+              "Il était trop bon",
+              "Ils Le voyaient seulement comme « le charpentier, le fils de Marie » et Le méprisaient",
+              "Il ne les a jamais visités",
+              "Il exigeait de l'argent"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus tell the disciples to take with them on their journey?"
+            "en": "What did Jesus tell the disciples to take with them on their journey?",
+            "es": "¿Qué les dijo Jesús a los discípulos que llevaran en su viaje?",
+            "fr": "Qu'a dit Jésus aux disciples d'emporter pour leur voyage ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "Almost nothing — just a staff, no bread, no bag, no money",
               "Extra clothes for everyone",
               "A large group of helpers"
+            ],
+            "es": [
+              "Tanto dinero como fuera posible",
+              "Casi nada — solo un bastón, sin pan, sin bolsa, sin dinero",
+              "Ropa extra para todos",
+              "Un gran grupo de ayudantes"
+            ],
+            "fr": [
+              "Autant d'argent que possible",
+              "Presque rien — juste un bâton, pas de pain, pas de sac, pas d'argent",
+              "Des vêtements supplémentaires pour tous",
+              "Un grand groupe d'aides"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What were the disciples told to do if a town wouldn't welcome them?"
+            "en": "What were the disciples told to do if a town wouldn't welcome them?",
+            "es": "¿Qué se les dijo a los discípulos que hicieran si un pueblo no los recibía?",
+            "fr": "Que les disciples devaient-ils faire si une ville ne les accueillait pas ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Shake the dust off their feet and move on",
               "Stay anyway and argue",
               "Give up preaching entirely"
+            ],
+            "es": [
+              "Forzar su entrada",
+              "Sacudir el polvo de sus pies y seguir adelante",
+              "Quedarse igual y discutir",
+              "Dejar de predicar por completo"
+            ],
+            "fr": [
+              "Forcer leur entrée",
+              "Secouer la poussière de leurs pieds et continuer",
+              "Rester quand même et discuter",
+              "Arrêter complètement de prêcher"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Sent Out, Two by Two"
+            "en": "Activity sheet: Sent Out, Two by Two",
+            "es": "Hoja de actividad: Enviados, de Dos en Dos",
+            "fr": "Fiche d'activité : Envoyés, Deux à Deux"
           },
           "file": "/static/printables/mark/lesson14_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: familiarity can blind people to who's actually standing in front of them — Jesus' own hometown, who'd watched Him grow up, struggled most to see Him clearly. Sending the disciples out with almost nothing models radical trust in God's provision rather than self-sufficiency, and extends Jesus' authority beyond His own physical presence.\n\nConversation starters: (1) Why might it be hardest to recognize something remarkable in someone you've known your whole life? (2) Why send the disciples out with almost nothing — what does that teach about trust? (3) What does \"shaking the dust off\" show about respecting people's choice to not listen, without forcing it?\n\nPray for eyes that see Jesus clearly, even in familiar, ordinary places."
+        "en": "Big idea: familiarity can blind people to who's actually standing in front of them — Jesus' own hometown, who'd watched Him grow up, struggled most to see Him clearly. Sending the disciples out with almost nothing models radical trust in God's provision rather than self-sufficiency, and extends Jesus' authority beyond His own physical presence.\n\nConversation starters: (1) Why might it be hardest to recognize something remarkable in someone you've known your whole life? (2) Why send the disciples out with almost nothing — what does that teach about trust? (3) What does \"shaking the dust off\" show about respecting people's choice to not listen, without forcing it?\n\nPray for eyes that see Jesus clearly, even in familiar, ordinary places.",
+        "es": "Idea principal: la familiaridad puede cegar a las personas ante quién está realmente frente a ellas — el propio pueblo natal de Jesús, que lo había visto crecer, fue quien más luchó por verlo con claridad. Enviar a los discípulos casi sin nada modela una confianza radical en la provisión de Dios en lugar de la autosuficiencia, y extiende la autoridad de Jesús más allá de Su propia presencia física.\n\nPara conversar: (1) ¿Por qué podría ser más difícil reconocer algo extraordinario en alguien a quien has conocido toda tu vida? (2) ¿Por qué enviar a los discípulos casi sin nada — qué enseña eso sobre la confianza? (3) ¿Qué muestra 'sacudir el polvo' sobre respetar la elección de las personas de no escuchar, sin forzarlo?\n\nOren por ojos que vean a Jesús con claridad, incluso en lugares familiares y ordinarios.",
+        "fr": "Idée principale : la familiarité peut rendre les gens aveugles à qui se trouve réellement devant eux — la propre ville natale de Jésus, qui L'avait vu grandir, a eu le plus de mal à Le voir clairement. Envoyer les disciples avec presque rien modèle une confiance radicale dans la provision de Dieu plutôt que l'autosuffisance, et étend l'autorité de Jésus au-delà de Sa propre présence physique.\n\nPour la conversation : (1) Pourquoi pourrait-il être plus difficile de reconnaître quelque chose de remarquable chez quelqu'un que tu connais depuis toujours ? (2) Pourquoi envoyer les disciples avec presque rien — qu'est-ce que cela enseigne sur la confiance ? (3) Que montre le fait de « secouer la poussière » sur le respect du choix des gens de ne pas écouter, sans forcer ?\n\nPriez pour des yeux qui voient Jésus clairement, même dans des lieux familiers et ordinaires."
       }
     }
   ]

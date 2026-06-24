@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Pride and Humility"
+    "en": "Pride and Humility",
+    "es": "Orgullo y Humildad",
+    "fr": "Orgueil et Humilité"
   },
   "ref": "Proverbs 11:2; 16:18; 16:19; 18:12; 29:23",
   "section": "Pride and Humility (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Before a fall, and before honour"
+        "en": "Before a fall, and before honour",
+        "es": "Antes de una caída, y antes de la honra",
+        "fr": "Avant une chute, et avant l'honneur"
       },
       "body": {
-        "en": "'When pride comes, then comes disgrace, but with humility comes wisdom.' Proverbs sees a direct, almost mathematical relationship: pride and disgrace travel together, while humility and wisdom travel together too.\n\nOne of the most quoted proverbs in the whole book warns: 'Pride goes before destruction, a haughty spirit before a fall.' Notice the order — pride comes FIRST, and trouble follows close behind.\n\n'Better to be lowly in spirit along with the oppressed than to share plunder with the proud.' This is a surprising, countercultural value — Proverbs actually prefers humble poverty to proud wealth!\n\n'Before a downfall the heart is haughty, but humility comes before honour.' Just as pride precedes a fall, humility actually precedes genuine honour — the order matters both ways.\n\n'A person's pride will bring them low, but the lowly in spirit gain honour.' Again and again, the book insists that the path UP runs through humility, not around it."
+        "en": "'When pride comes, then comes disgrace, but with humility comes wisdom.' Proverbs sees a direct, almost mathematical relationship: pride and disgrace travel together, while humility and wisdom travel together too.\n\nOne of the most quoted proverbs in the whole book warns: 'Pride goes before destruction, a haughty spirit before a fall.' Notice the order — pride comes FIRST, and trouble follows close behind.\n\n'Better to be lowly in spirit along with the oppressed than to share plunder with the proud.' This is a surprising, countercultural value — Proverbs actually prefers humble poverty to proud wealth!\n\n'Before a downfall the heart is haughty, but humility comes before honour.' Just as pride precedes a fall, humility actually precedes genuine honour — the order matters both ways.\n\n'A person's pride will bring them low, but the lowly in spirit gain honour.' Again and again, the book insists that the path UP runs through humility, not around it.",
+        "es": "\"Cuando viene la soberbia, viene también la deshonra: mas con los humildes está la sabiduría.\" Proverbios ve una relación directa, casi matemática: el orgullo y la deshonra viajan juntos, mientras la humildad y la sabiduría también viajan juntas.\n\nUno de los proverbios más citados de todo el libro advierte: \"Antes del quebrantamiento es la soberbia; y antes de la caída la altivez de espíritu.\" Nota el orden — el orgullo viene PRIMERO, y el problema sigue de cerca.\n\n\"Mejor es humillar el espíritu con los humildes, que partir despojos con los soberbios.\" Este es un valor sorprendente y contracultural — ¡Proverbios realmente prefiere la pobreza humilde a la riqueza orgullosa!\n\n\"Antes del quebrantamiento se eleva el corazón del hombre, y antes de la honra está la humildad.\" Así como el orgullo precede a una caída, la humildad realmente precede a la honra genuina — el orden importa en ambos sentidos.\n\n\"La soberbia del hombre le abate; pero al humilde de espíritu sustenta la honra.\" Una y otra vez, el libro insiste en que el camino HACIA ARRIBA pasa por la humildad, no la rodea.",
+        "fr": "« Quand vient l'orgueil, vient la honte ; mais la sagesse est avec les humbles. » Les Proverbes voient une relation directe, presque mathématique : l'orgueil et la honte voyagent ensemble, tandis que l'humilité et la sagesse voyagent ensemble aussi.\n\nL'un des proverbes les plus cités de tout le livre avertit : « L'arrogance précède la ruine, et l'orgueil précède la chute. » Remarque l'ordre — l'orgueil vient EN PREMIER, et le malheur suit de près.\n\n« Mieux vaut être humble d'esprit avec les humbles que de partager le butin avec les orgueilleux. » C'est une valeur surprenante et contre-culturelle — les Proverbes préfèrent réellement la pauvreté humble à la richesse orgueilleuse !\n\n« Avant la ruine, le cœur de l'homme s'élève ; mais l'humilité précède la gloire. » Tout comme l'orgueil précède une chute, l'humilité précède réellement la gloire authentique — l'ordre compte dans les deux sens.\n\n« L'orgueil d'un homme l'abaisse, mais celui qui est humble d'esprit obtient la gloire. » Encore et encore, le livre insiste que le chemin VERS LE HAUT passe par l'humilité, pas autour d'elle."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Pride goes before destruction, a haughty spirit before a fall."
+        "en": "Pride goes before destruction, a haughty spirit before a fall.",
+        "es": "Antes del quebrantamiento es la soberbia; y antes de la caída la altivez de espíritu.",
+        "fr": "L'arrogance précède la ruine, Et l'orgueil précède la chute."
       },
       "ref": {
-        "en": "Proverbs 16:18 (NIV)"
+        "en": "Proverbs 16:18 (NIV)",
+        "es": "Proverbios 16:18 (Valera)",
+        "fr": "Proverbes 16:18 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "before",
           "a",
           "fall"
+        ],
+        "es": [
+          "Antes",
+          "del",
+          "quebrantamiento",
+          "es",
+          "la",
+          "soberbia"
+        ],
+        "fr": [
+          "L'arrogance",
+          "précède",
+          "la",
+          "ruine",
+          "et",
+          "l'orgueil"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Pride and Humility"
+        "en": "A Song for Pride and Humility",
+        "es": "Una Canción para Orgullo y Humildad",
+        "fr": "Une Chanson pour Orgueil et Humilité"
       },
       "audio_en": "/static/audio/proverbs/lesson20_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 16:18, what comes before destruction?"
+            "en": "According to Proverbs 16:18, what comes before destruction?",
+            "es": "Según Proverbios 16:18, ¿qué viene antes del quebrantamiento?",
+            "fr": "Selon Proverbes 16:18, qu'est-ce qui précède la ruine ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Pride, a haughty spirit",
               "Kindness",
               "Nothing in particular"
+            ],
+            "es": [
+              "El trabajo duro",
+              "La soberbia, la altivez de espíritu",
+              "La bondad",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Le travail acharné",
+              "L'arrogance, l'orgueil",
+              "La bonté",
+              "Rien en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 18:12 say comes before honour?"
+            "en": "What does Proverbs 18:12 say comes before honour?",
+            "es": "¿Qué dice Proverbios 18:12 que viene antes de la honra?",
+            "fr": "Que dit Proverbes 18:12 qui précède la gloire ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "Humility",
               "Wealth",
               "Nothing comes before it"
+            ],
+            "es": [
+              "Más orgullo",
+              "La humildad",
+              "La riqueza",
+              "Nada viene antes"
+            ],
+            "fr": [
+              "Plus d'orgueil",
+              "L'humilité",
+              "La richesse",
+              "Rien ne la précède"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Proverbs describe the choice between humble poverty and proud wealth?"
+            "en": "How does Proverbs describe the choice between humble poverty and proud wealth?",
+            "es": "¿Cómo describe Proverbios la elección entre la pobreza humilde y la riqueza orgullosa?",
+            "fr": "Comment Proverbes décrit-il le choix entre la pauvreté humble et la richesse orgueilleuse ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Better to be lowly in spirit with the oppressed than share plunder with the proud",
               "They're exactly equal",
               "Neither matters"
+            ],
+            "es": [
+              "La riqueza orgullosa siempre es mejor",
+              "Mejor es humillar el espíritu con los humildes que partir despojos con los soberbios",
+              "Son exactamente iguales",
+              "Ninguna importa"
+            ],
+            "fr": [
+              "La richesse orgueilleuse est toujours meilleure",
+              "Mieux vaut être humble d'esprit avec les humbles que partager le butin avec les orgueilleux",
+              "Elles sont exactement égales",
+              "Aucune n'a d'importance"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Pride and Humility"
+            "en": "Activity sheet: Pride and Humility",
+            "es": "Hoja de actividad: Orgullo y Humildad",
+            "fr": "Fiche d'activité : Orgueil et Humilité"
           },
           "file": "/static/printables/proverbs/lesson20_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs consistently presents humility as the genuine path to honour and stability, while pride — however successful it may look temporarily — reliably precedes downfall. This countercultural value system (preferring humble poverty to proud wealth) challenges children early to measure success by character, not just outward achievement or confidence.\n\nConversation starters: (1) Why might pride \"go before\" a fall — what does that ordering suggest about cause and effect? (2) Can you think of an example (in a story, in real life) where pride led to someone's downfall? (3) What does genuine humility look like, as different from just being timid or having low self-esteem?\n\nPray for hearts that choose humility, trusting that real honour follows it, not pride."
+        "en": "Big idea: Proverbs consistently presents humility as the genuine path to honour and stability, while pride — however successful it may look temporarily — reliably precedes downfall. This countercultural value system (preferring humble poverty to proud wealth) challenges children early to measure success by character, not just outward achievement or confidence.\n\nConversation starters: (1) Why might pride \"go before\" a fall — what does that ordering suggest about cause and effect? (2) Can you think of an example (in a story, in real life) where pride led to someone's downfall? (3) What does genuine humility look like, as different from just being timid or having low self-esteem?\n\nPray for hearts that choose humility, trusting that real honour follows it, not pride.",
+        "es": "Idea principal: Proverbios presenta consistentemente la humildad como el camino genuino hacia la honra y la estabilidad, mientras que el orgullo — sin importar cuán exitoso pueda parecer temporalmente — confiablemente precede a la caída. Este sistema de valores contracultural (preferir la pobreza humilde a la riqueza orgullosa) desafía a los niños desde temprano a medir el éxito por el carácter, no solo por el logro externo o la confianza.\n\nPara conversar: (1) ¿Por qué podría el orgullo \"preceder\" a una caída — qué sugiere ese orden sobre causa y efecto? (2) ¿Puedes pensar en un ejemplo (en una historia, en la vida real) donde el orgullo llevó a la caída de alguien? (3) ¿Cómo se ve la humildad genuina, diferente de simplemente ser tímido o tener baja autoestima?\n\nOren por corazones que eligen la humildad, confiando en que la verdadera honra la sigue, no el orgullo.",
+        "fr": "Idée principale : les Proverbes présentent constamment l'humilité comme le véritable chemin vers la gloire et la stabilité, tandis que l'orgueil — quelle que soit l'apparence de succès temporaire — précède de manière fiable la chute. Ce système de valeurs contre-culturel (préférer la pauvreté humble à la richesse orgueilleuse) défie tôt les enfants à mesurer le succès par le caractère, pas seulement par la réussite extérieure ou la confiance.\n\nPour la conversation : (1) Pourquoi l'orgueil pourrait-il « précéder » une chute — que suggère cet ordre sur la cause et l'effet ? (2) Peux-tu penser à un exemple (dans une histoire, dans la vraie vie) où l'orgueil a conduit à la chute de quelqu'un ? (3) À quoi ressemble l'humilité authentique, différente du simple fait d'être timide ou d'avoir une faible estime de soi ?\n\nPriez pour des cœurs qui choisissent l'humilité, faisant confiance au fait que la véritable gloire la suit, pas l'orgueil."
       }
     }
   ]

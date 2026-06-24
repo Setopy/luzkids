@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Generosity and Caring for the Poor"
+    "en": "Generosity and Caring for the Poor",
+    "es": "Generosidad y Cuidado de los Pobres",
+    "fr": "Générosité et Soin des Pauvres"
   },
   "ref": "Proverbs 11:24-25; 14:21; 14:31; 19:17; 22:9",
   "section": "Generosity and Caring for the Poor (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Lending to God Himself"
+        "en": "Lending to God Himself",
+        "es": "Prestando a Dios mismo",
+        "fr": "Prêter à Dieu lui-même"
       },
       "body": {
-        "en": "'One person gives freely, yet gains even more; another withholds unduly, but comes to poverty.' Proverbs presents a genuinely surprising economic principle: generosity, not hoarding, leads to real flourishing.\n\n'The generous will themselves be blessed, for they share their food with the poor.' Sharing isn't just kind — Proverbs treats it as something that genuinely circles back as blessing to the giver too.\n\nOne of the most powerful verses in the whole book about generosity: 'whoever is kind to the poor lends to the Lord, and he will reward them for what they have done.' Helping someone in need isn't just charity — it's described as lending directly to GOD Himself!\n\nBy contrast, the book warns directly: 'it is a sin to despise one's neighbour, but blessed is the one who is kind to the needy.' Looking down on someone poor isn't treated as a small attitude problem — it's named clearly as sin.\n\n'The generous will themselves be blessed, for they share their food with the poor.' Generosity, throughout Proverbs, is never framed as optional extra credit — it's woven into what genuine wisdom actually looks like in practice."
+        "en": "'One person gives freely, yet gains even more; another withholds unduly, but comes to poverty.' Proverbs presents a genuinely surprising economic principle: generosity, not hoarding, leads to real flourishing.\n\n'The generous will themselves be blessed, for they share their food with the poor.' Sharing isn't just kind — Proverbs treats it as something that genuinely circles back as blessing to the giver too.\n\nOne of the most powerful verses in the whole book about generosity: 'whoever is kind to the poor lends to the Lord, and he will reward them for what they have done.' Helping someone in need isn't just charity — it's described as lending directly to GOD Himself!\n\nBy contrast, the book warns directly: 'it is a sin to despise one's neighbour, but blessed is the one who is kind to the needy.' Looking down on someone poor isn't treated as a small attitude problem — it's named clearly as sin.\n\n'The generous will themselves be blessed, for they share their food with the poor.' Generosity, throughout Proverbs, is never framed as optional extra credit — it's woven into what genuine wisdom actually looks like in practice.",
+        "es": "\"Hay quienes reparten, y les es añadido más: y hay quienes son escasos más de lo justo, mas vienen á pobreza.\" Proverbios presenta un principio económico genuinamente sorprendente: la generosidad, no acaparar, lleva a la verdadera prosperidad.\n\n\"El alma liberal será engordada: y el que saciare, él también será saciado.\" Compartir no es solo amable — Proverbios lo trata como algo que genuinamente regresa como bendición también al dador.\n\nUno de los versículos más poderosos de todo el libro sobre la generosidad: \"á Jehová empresta el que da al pobre, y él le dará su paga.\" ¡Ayudar a alguien necesitado no es solo caridad — se describe como prestarle directamente a DIOS mismo!\n\nPor contraste, el libro advierte directamente: \"el que menosprecia á su prójimo, peca: mas el que tiene misericordia de los pobres, es bienaventurado.\" Mirar con desprecio a alguien pobre no se trata como un pequeño problema de actitud — se nombra claramente como pecado.\n\n\"El alma liberal será engordada: y el que saciare, él también será saciado.\" La generosidad, a través de Proverbios, nunca se presenta como un crédito extra opcional — está entretejida en lo que la sabiduría genuina realmente parece en la práctica.",
+        "fr": "« Tel, qui donne libéralement, devient plus riche ; et tel, qui épargne à l'excès, ne fait que s'appauvrir. » Les Proverbes présentent un principe économique véritablement surprenant : la générosité, et non l'accumulation, mène à la véritable prospérité.\n\n« L'âme bienfaisante sera rassasiée, et celui qui arrose sera lui-même arrosé. » Partager n'est pas seulement gentil — les Proverbes le traitent comme quelque chose qui revient véritablement comme une bénédiction au donateur aussi.\n\nL'un des versets les plus puissants de tout le livre sur la générosité : « celui qui a pitié du pauvre prête à l'Éternel, qui lui rendra selon son œuvre. » Aider quelqu'un dans le besoin n'est pas seulement de la charité — c'est décrit comme prêter directement à DIEU lui-même !\n\nPar contraste, le livre avertit directement : « celui qui méprise son prochain commet un péché, mais heureux celui qui a pitié des malheureux ! » Regarder quelqu'un de pauvre avec mépris n'est pas traité comme un petit problème d'attitude — c'est clairement nommé comme un péché.\n\n« L'âme bienfaisante sera rassasiée, et celui qui arrose sera lui-même arrosé. » La générosité, à travers les Proverbes, n'est jamais présentée comme un crédit supplémentaire optionnel — elle est tissée dans ce à quoi la sagesse véritable ressemble réellement en pratique."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Whoever is kind to the poor lends to the Lord, and he will reward them for what they have done."
+        "en": "Whoever is kind to the poor lends to the Lord, and he will reward them for what they have done.",
+        "es": "A Jehová empresta el que da al pobre, y él le dará su paga.",
+        "fr": "Celui qui a pitié du pauvre prête à l'Éternel, Qui lui rendra selon son œuvre."
       },
       "ref": {
-        "en": "Proverbs 19:17 (NIV)"
+        "en": "Proverbs 19:17 (NIV)",
+        "es": "Proverbios 19:17 (Valera)",
+        "fr": "Proverbes 19:17 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "to",
           "the",
           "Lord"
+        ],
+        "es": [
+          "A",
+          "Jehová",
+          "empresta",
+          "el",
+          "que",
+          "da"
+        ],
+        "fr": [
+          "Celui",
+          "qui",
+          "a",
+          "pitié",
+          "du",
+          "pauvre"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Generosity and Caring for the Poor"
+        "en": "A Song for Generosity and Caring for the Poor",
+        "es": "Una Canción para Generosidad y Cuidado de los Pobres",
+        "fr": "Une Chanson pour Générosité et Soin des Pauvres"
       },
       "audio_en": "/static/audio/proverbs/lesson24_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "What surprising principle does Proverbs 11:24-25 describe about generosity?"
+            "en": "What surprising principle does Proverbs 11:24-25 describe about generosity?",
+            "es": "¿Qué principio sorprendente describe Proverbios 11:24-25 sobre la generosidad?",
+            "fr": "Quel principe surprenant Proverbes 11:24-25 décrit-il sur la générosité ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "One who gives freely gains even more; one who withholds comes to poverty",
               "Hoarding always leads to wealth",
               "Generosity has no real effect"
+            ],
+            "es": [
+              "Las personas generosas siempre pierden todo",
+              "El que reparte recibe más; el que es escaso viene a pobreza",
+              "Acaparar siempre lleva a la riqueza",
+              "La generosidad no tiene efecto real"
+            ],
+            "fr": [
+              "Les personnes généreuses perdent toujours tout",
+              "Celui qui donne libéralement reçoit plus ; celui qui épargne à l'excès s'appauvrit",
+              "L'accumulation mène toujours à la richesse",
+              "La générosité n'a pas d'effet réel"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Proverbs 19:17, who does someone 'lend to' when they're kind to the poor?"
+            "en": "According to Proverbs 19:17, who does someone 'lend to' when they're kind to the poor?",
+            "es": "Según Proverbios 19:17, ¿a quién se le 'presta' cuando alguien es generoso con los pobres?",
+            "fr": "Selon Proverbes 19:17, à qui « prête »-t-on quand on est généreux avec les pauvres ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "The Lord Himself",
               "Only the poor person directly",
               "It's not really lending"
+            ],
+            "es": [
+              "A nadie en particular",
+              "A Jehová mismo",
+              "Solo a la persona pobre directamente",
+              "No es realmente un préstamo"
+            ],
+            "fr": [
+              "À personne en particulier",
+              "À l'Éternel lui-même",
+              "Seulement à la personne pauvre directement",
+              "Ce n'est pas vraiment un prêt"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Proverbs 14:21 describe despising — looking down on — a neighbour?"
+            "en": "How does Proverbs 14:21 describe despising — looking down on — a neighbour?",
+            "es": "¿Cómo describe Proverbios 14:21 menospreciar a un prójimo?",
+            "fr": "Comment Proverbes 14:21 décrit-il le fait de mépriser son prochain ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "A sin",
               "A wise choice",
               "Something encouraged"
+            ],
+            "es": [
+              "Un error menor",
+              "Pecado",
+              "Una elección sabia",
+              "Algo alentado"
+            ],
+            "fr": [
+              "Une erreur mineure",
+              "Un péché",
+              "Un choix sage",
+              "Quelque chose d'encouragé"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Generosity and Caring for the Poor"
+            "en": "Activity sheet: Generosity and Caring for the Poor",
+            "es": "Hoja de actividad: Generosidad y Cuidado de los Pobres",
+            "fr": "Fiche d'activité : Générosité et Soin des Pauvres"
           },
           "file": "/static/printables/proverbs/lesson24_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: generosity toward the poor is framed not as optional charity but as a direct transaction with God Himself — \"lends to the Lord\" — elevating practical kindness to the level of genuine worship and relationship with God, not mere social good. The warning that despising the poor is named explicitly as \"sin\" gives this theme real moral weight, not just practical advice.\n\nConversation starters: (1) What does it mean that being kind to someone in need is like \"lending to the Lord\" Himself? (2) Why might generosity actually lead to MORE, not less, according to Proverbs' surprising economics? (3) What's one way you could be generous to someone in need this week?\n\nPray for generous hearts, remembering that kindness to the needy is kindness shown directly to God."
+        "en": "Big idea: generosity toward the poor is framed not as optional charity but as a direct transaction with God Himself — \"lends to the Lord\" — elevating practical kindness to the level of genuine worship and relationship with God, not mere social good. The warning that despising the poor is named explicitly as \"sin\" gives this theme real moral weight, not just practical advice.\n\nConversation starters: (1) What does it mean that being kind to someone in need is like \"lending to the Lord\" Himself? (2) Why might generosity actually lead to MORE, not less, according to Proverbs' surprising economics? (3) What's one way you could be generous to someone in need this week?\n\nPray for generous hearts, remembering that kindness to the needy is kindness shown directly to God.",
+        "es": "Idea principal: la generosidad hacia los pobres se enmarca no como caridad opcional sino como una transacción directa con Dios mismo — \"presta a Jehová\" — elevando la bondad práctica al nivel de adoración genuina y relación con Dios, no mero bien social. La advertencia de que menospreciar a los pobres se nombra explícitamente como \"pecado\" le da a este tema un peso moral real, no solo consejo práctico.\n\nPara conversar: (1) ¿Qué significa que ser bondadoso con alguien necesitado es como \"prestarle\" al mismo Señor? (2) ¿Por qué podría la generosidad llevar realmente a MÁS, no menos, según la sorprendente economía de Proverbios? (3) ¿Cuál es una forma en que podrías ser generoso con alguien necesitado esta semana?\n\nOren por corazones generosos, recordando que la bondad hacia los necesitados es bondad mostrada directamente a Dios.",
+        "fr": "Idée principale : la générosité envers les pauvres est présentée non comme une charité optionnelle mais comme une transaction directe avec Dieu lui-même — « prête à l'Éternel » — élevant la bonté pratique au niveau d'un véritable culte et d'une relation avec Dieu, et non d'un simple bien social. L'avertissement selon lequel mépriser les pauvres est explicitement nommé « péché » donne à ce thème un véritable poids moral, pas seulement un conseil pratique.\n\nPour la conversation : (1) Que signifie le fait qu'être bon envers quelqu'un dans le besoin est comme « prêter » au Seigneur lui-même ? (2) Pourquoi la générosité pourrait-elle réellement mener à PLUS, et non moins, selon l'économie surprenante des Proverbes ? (3) Quelle est une façon dont tu pourrais être généreux envers quelqu'un dans le besoin cette semaine ?\n\nPriez pour des cœurs généreux, en se rappelant que la bonté envers les nécessiteux est une bonté montrée directement à Dieu."
       }
     }
   ]

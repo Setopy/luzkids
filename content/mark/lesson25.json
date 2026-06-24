@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Let the Children Come"
+    "en": "Let the Children Come",
+    "es": "Dejen Venir a los Niños",
+    "fr": "Laissez Venir les Enfants"
   },
   "ref": "Mark 10:1-16",
   "section": "Divorce / The Little Children and Jesus",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "What God joined, and who Jesus welcomed"
+        "en": "What God joined, and who Jesus welcomed",
+        "es": "Lo que Dios unió, y a quién dio la bienvenida Jesús",
+        "fr": "Ce que Dieu a uni, et qui Jésus a accueilli"
       },
       "body": {
-        "en": "Pharisees tested Jesus, asking if divorce was lawful. Jesus pointed back to creation: 'God made them male and female... a man will be united to his wife, and the two will become one flesh. So they are no longer two, but one. What God has joined together, let no one separate.' Moses permitted divorce because of hardened hearts, but that was never God's original design for marriage.\n\nLater, people brought little children to Jesus for Him to touch, but the disciples rebuked them — children weren't considered important enough to bother Jesus! Jesus was INDIGNANT and said: 'Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these. Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.' Then He took the children in His arms, placed His hands on them, and blessed them.\n\nJesus didn't just tolerate children being brought to Him — He was upset that anyone tried to keep them away."
+        "en": "Pharisees tested Jesus, asking if divorce was lawful. Jesus pointed back to creation: 'God made them male and female... a man will be united to his wife, and the two will become one flesh. So they are no longer two, but one. What God has joined together, let no one separate.' Moses permitted divorce because of hardened hearts, but that was never God's original design for marriage.\n\nLater, people brought little children to Jesus for Him to touch, but the disciples rebuked them — children weren't considered important enough to bother Jesus! Jesus was INDIGNANT and said: 'Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these. Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.' Then He took the children in His arms, placed His hands on them, and blessed them.\n\nJesus didn't just tolerate children being brought to Him — He was upset that anyone tried to keep them away.",
+        "es": "Los fariseos pusieron a prueba a Jesús, preguntando si el divorcio era lícito. Jesús señaló de vuelta a la creación: \"Dios los hizo varón y mujer... un hombre se unirá a su esposa, y los dos serán una sola carne. Así que ya no son dos, sino uno. Lo que Dios ha unido, que nadie lo separe.\" Moisés permitió el divorcio por la dureza de los corazones, pero ese nunca fue el diseño original de Dios para el matrimonio.\n\nMás tarde, la gente trajo niños pequeños a Jesús para que los tocara, pero los discípulos los reprendieron — ¡los niños no se consideraban suficientemente importantes para molestar a Jesús! Jesús se INDIGNÓ y dijo: \"Dejen que los niños vengan a mí, y no se lo impidan, porque de ellos es el reino de Dios. De verdad les digo, cualquiera que no reciba el reino de Dios como un niño pequeño, nunca entrará en él.\" Entonces los tomó en Sus brazos, puso Sus manos sobre ellos, y los bendijo.\n\nJesús no solo toleraba que le trajeran niños — se molestó de que alguien intentara mantenerlos alejados.",
+        "fr": "Les pharisiens mirent Jésus à l'épreuve, demandant si le divorce était permis. Jésus renvoya à la création : « Dieu les fit homme et femme... l'homme s'attachera à sa femme, et les deux deviendront une seule chair. Ainsi ils ne sont plus deux, mais un. Que l'homme ne sépare donc pas ce que Dieu a joint. » Moïse permit le divorce à cause de la dureté des cœurs, mais ce n'a jamais été le dessein originel de Dieu pour le mariage.\n\nPlus tard, les gens amenèrent de petits enfants à Jésus pour qu'Il les touche, mais les disciples les reprirent — les enfants n'étaient pas considérés assez importants pour déranger Jésus ! Jésus fut INDIGNÉ et dit : « Laissez venir à moi les petits enfants, et ne les en empêchez pas ; car le royaume de Dieu est pour ceux qui leur ressemblent. Je vous le dis en vérité, quiconque ne recevra pas le royaume de Dieu comme un petit enfant n'y entrera pas. » Puis Il les prit dans Ses bras, posa Ses mains sur eux, et les bénit.\n\nJésus ne se contentait pas de tolérer qu'on Lui amène des enfants — Il était contrarié que quelqu'un essaie de les tenir éloignés."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these."
+        "en": "Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.",
+        "es": "Y viéndolo Jesús, se enojó, y les dijo: Dejad los niños venir, y no se lo estorbéis; porque de los tales es el reino de Dios.",
+        "fr": "Jésus, voyant cela, fut indigné, et leur dit : Laissez venir à moi les petits enfants, et ne les en empêchez pas ; car le royaume de Dieu est pour ceux qui leur ressemblent."
       },
       "ref": {
-        "en": "Mark 10:14 (NIV)"
+        "en": "Mark 10:14 (NIV)",
+        "es": "Marcos 10:14 (Valera)",
+        "fr": "Marc 10:14 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "not",
           "hinder",
           "them"
+        ],
+        "es": [
+          "Y",
+          "viéndolo",
+          "Jesús",
+          "se",
+          "enojó",
+          "y"
+        ],
+        "fr": [
+          "Jésus",
+          "voyant",
+          "cela",
+          "fut",
+          "indigné",
+          "et"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Let the Children Come"
+        "en": "A Song for Let the Children Come",
+        "es": "Una Canción para Dejen Venir a los Niños",
+        "fr": "Une Chanson pour Laissez Venir les Enfants"
       },
       "audio_en": "/static/audio/mark/lesson25_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus point back to, when asked about divorce?"
+            "en": "What did Jesus point back to, when asked about divorce?",
+            "es": "¿A qué señaló Jesús cuando le preguntaron sobre el divorcio?",
+            "fr": "À quoi Jésus a-t-Il renvoyé quand on Lui a posé une question sur le divorce ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "God's original design at creation — one flesh, joined together",
               "Nothing significant",
               "Personal preference"
+            ],
+            "es": [
+              "Solo a la ley romana",
+              "Al diseño original de Dios en la creación — una sola carne, unidos",
+              "Nada significativo",
+              "A la preferencia personal"
+            ],
+            "fr": [
+              "Seulement à la loi romaine",
+              "Au dessein originel de Dieu à la création — une seule chair, unis",
+              "Rien de significatif",
+              "À la préférence personnelle"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did the disciples initially react when people brought children to Jesus?"
+            "en": "How did the disciples initially react when people brought children to Jesus?",
+            "es": "¿Cómo reaccionaron inicialmente los discípulos cuando trajeron niños a Jesús?",
+            "fr": "Comment les disciples ont-ils initialement réagi quand on a amené des enfants à Jésus ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "They rebuked the people, trying to keep children away",
               "They ignored it",
               "They brought more children themselves"
+            ],
+            "es": [
+              "Los recibieron calurosamente",
+              "Reprendieron a la gente, intentando mantener alejados a los niños",
+              "Lo ignoraron",
+              "Trajeron más niños ellos mismos"
+            ],
+            "fr": [
+              "Ils les ont chaleureusement accueillis",
+              "Ils ont repris les gens, essayant de garder les enfants à distance",
+              "Ils l'ont ignoré",
+              "Ils ont eux-mêmes amené plus d'enfants"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did Jesus feel about the disciples trying to keep children away?"
+            "en": "How did Jesus feel about the disciples trying to keep children away?",
+            "es": "¿Cómo se sintió Jesús sobre los discípulos tratando de mantener alejados a los niños?",
+            "fr": "Comment Jésus s'est-Il senti à propos des disciples essayant de garder les enfants à distance ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "Indignant — upset that they tried to hinder the children",
               "Pleased",
               "He agreed with them"
+            ],
+            "es": [
+              "Indiferente",
+              "Indignado — molesto porque intentaron impedir a los niños",
+              "Complacido",
+              "Estuvo de acuerdo con ellos"
+            ],
+            "fr": [
+              "Indifférent",
+              "Indigné — contrarié qu'ils aient essayé d'empêcher les enfants",
+              "Satisfait",
+              "Il était d'accord avec eux"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Let the Children Come"
+            "en": "Activity sheet: Let the Children Come",
+            "es": "Hoja de actividad: Dejen Venir a los Niños",
+            "fr": "Fiche d'activité : Laissez Venir les Enfants"
           },
           "file": "/static/printables/mark/lesson25_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' strong, visible emotion (\"indignant\") at the disciples' attempt to keep children away reveals how highly He values them — not as an afterthought, but as a living picture of the humble, trusting receptivity the kingdom of God actually requires. The marriage teaching grounds lasting covenant commitment in God's original creation design, not merely cultural or legal convention.\n\nConversation starters: (1) Why might Jesus get genuinely upset, not just mildly correct the disciples, about keeping children away? (2) What does it mean to \"receive the kingdom like a little child\" — what qualities does a child have that adults can lose? (3) How does God's original design for marriage as \"one flesh\" shape how we think about commitment?\n\nPray, thanking Jesus for how much He values children, and asking for childlike trust in Him."
+        "en": "Big idea: Jesus' strong, visible emotion (\"indignant\") at the disciples' attempt to keep children away reveals how highly He values them — not as an afterthought, but as a living picture of the humble, trusting receptivity the kingdom of God actually requires. The marriage teaching grounds lasting covenant commitment in God's original creation design, not merely cultural or legal convention.\n\nConversation starters: (1) Why might Jesus get genuinely upset, not just mildly correct the disciples, about keeping children away? (2) What does it mean to \"receive the kingdom like a little child\" — what qualities does a child have that adults can lose? (3) How does God's original design for marriage as \"one flesh\" shape how we think about commitment?\n\nPray, thanking Jesus for how much He values children, and asking for childlike trust in Him.",
+        "es": "Idea principal: la fuerte y visible emoción de Jesús ('indignado') ante el intento de los discípulos de mantener alejados a los niños revela cuánto los valora — no como una idea secundaria, sino como una imagen viva de la receptividad humilde y confiada que el reino de Dios realmente requiere. La enseñanza sobre el matrimonio fundamenta el compromiso duradero del pacto en el diseño original de la creación de Dios, no meramente en la convención cultural o legal.\n\nPara conversar: (1) ¿Por qué podría Jesús genuinamente molestarse, no solo corregir levemente, a los discípulos por mantener alejados a los niños? (2) ¿Qué significa 'recibir el reino como un niño pequeño' — qué cualidades tiene un niño que los adultos pueden perder? (3) ¿Cómo da forma el diseño original de Dios para el matrimonio como 'una sola carne' a la manera en que pensamos sobre el compromiso?\n\nOren, agradeciendo a Jesús por cuánto valora a los niños, y pidiendo confianza infantil en Él.",
+        "fr": "Idée principale : l'émotion forte et visible de Jésus (« indigné ») face à la tentative des disciples de tenir les enfants à distance révèle combien Il les valorise — non comme une réflexion secondaire, mais comme une image vivante de la réceptivité humble et confiante que le royaume de Dieu exige réellement. L'enseignement sur le mariage fonde l'engagement durable de l'alliance dans le dessein originel de la création de Dieu, et non simplement dans la convention culturelle ou légale.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il être véritablement contrarié, et pas seulement légèrement correctif, envers les disciples qui tenaient les enfants à distance ? (2) Que signifie « recevoir le royaume comme un petit enfant » — quelles qualités un enfant a-t-il que les adultes peuvent perdre ? (3) Comment le dessein originel de Dieu pour le mariage comme « une seule chair » façonne-t-il notre façon de penser à l'engagement ?\n\nPriez, en remerciant Jésus de combien Il valorise les enfants, et en demandant une confiance enfantine en Lui."
       }
     }
   ]

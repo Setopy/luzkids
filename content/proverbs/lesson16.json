@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Two Houses, Two Invitations"
+    "en": "Two Houses, Two Invitations",
+    "es": "Dos Casas, Dos Invitaciones",
+    "fr": "Deux Maisons, Deux Invitations"
   },
   "ref": "Proverbs 9:1-18",
   "section": "Invitations of Wisdom and Folly",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A banquet of life, and a trap dressed up as comfort"
+        "en": "A banquet of life, and a trap dressed up as comfort",
+        "es": "Un banquete de vida, y una trampa disfrazada de comodidad",
+        "fr": "Un festin de vie, et un piège déguisé en confort"
       },
       "body": {
-        "en": "Wisdom has built her house, with seven pillars, and prepared a great feast — meat, wine, a table set beautifully. She sends out her servants to call from the highest points of the city: 'Let all who are simple come in here!'\n\nTo those who lack judgment, Wisdom says: 'Come, eat my food and drink the wine I have mixed. Leave your simple ways and you will live; walk in the way of insight.'\n\nThen comes a sharp contrast: Folly is ALSO loud and undisciplined, sitting at the door of her house, calling out to those who pass by: 'Let all who are simple come in here!' To the unwise she says: 'Stolen water is sweet; food eaten in secret is delicious!'\n\nBut what Folly doesn't tell her guests is the truth: 'little do they know that the dead are there, that her guests are in the very realm of the dead.' Folly's invitation sounds appealing but hides real danger and real death.\n\nTwo houses, two invitations, two very different outcomes — and the choice of which banquet to accept is placed squarely in front of every person who hears the call."
+        "en": "Wisdom has built her house, with seven pillars, and prepared a great feast — meat, wine, a table set beautifully. She sends out her servants to call from the highest points of the city: 'Let all who are simple come in here!'\n\nTo those who lack judgment, Wisdom says: 'Come, eat my food and drink the wine I have mixed. Leave your simple ways and you will live; walk in the way of insight.'\n\nThen comes a sharp contrast: Folly is ALSO loud and undisciplined, sitting at the door of her house, calling out to those who pass by: 'Let all who are simple come in here!' To the unwise she says: 'Stolen water is sweet; food eaten in secret is delicious!'\n\nBut what Folly doesn't tell her guests is the truth: 'little do they know that the dead are there, that her guests are in the very realm of the dead.' Folly's invitation sounds appealing but hides real danger and real death.\n\nTwo houses, two invitations, two very different outcomes — and the choice of which banquet to accept is placed squarely in front of every person who hears the call.",
+        "es": "La Sabiduría ha edificado su casa, con siete columnas, y ha preparado un gran banquete — carne, vino, una mesa puesta hermosamente. Envía a sus criadas a llamar desde los lugares más altos de la ciudad: \"¡Que venga aquí todo el que es sencillo!\"\n\nA los que les falta entendimiento, la Sabiduría dice: \"Venid, comed mi pan, y bebed del vino que yo he mezclado. Dejad las simplezas, y vivid; y andad por el camino de la inteligencia.\"\n\nEntonces llega un contraste agudo: la Necedad también es ruidosa e indisciplinada, sentada a la puerta de su casa, llamando a los que pasan: \"¡Que venga aquí todo el que es sencillo!\" A los faltos de entendimiento dice: \"Las aguas hurtadas son dulces, y el pan comido en oculto es suave.\"\n\nPero lo que la Necedad no le dice a sus invitados es la verdad: \"y no saben que allí están los muertos; que sus convidados están en los profundos de la sepultura.\" La invitación de la Necedad suena atractiva pero esconde un peligro real y la muerte misma.\n\nDos casas, dos invitaciones, dos resultados muy diferentes — y la elección de qué banquete aceptar se coloca directamente frente a cada persona que oye el llamado.",
+        "fr": "La Sagesse a bâti sa maison, avec sept colonnes, et a préparé un grand festin — viande, vin, une table magnifiquement dressée. Elle envoie ses servantes appeler depuis les hauteurs de la ville : « Que celui qui est simple entre ici ! »\n\nÀ ceux qui manquent de sens, la Sagesse dit : « Venez, mangez mon pain, et buvez du vin que j'ai mêlé. Quittez la stupidité, et vous vivrez, et marchez dans la voie de l'intelligence. »\n\nPuis vient un contraste saisissant : la Folie est ELLE AUSSI bruyante et sans retenue, assise à la porte de sa maison, appelant ceux qui passent : « Que celui qui est simple entre ici ! » À celui qui est dépourvu de sens elle dit : « les eaux dérobées sont douces, et le pain du mystère est agréable ! »\n\nMais ce que la Folie ne dit pas à ses invités est la vérité : « et il ne sait pas que là sont les morts, que ses invités sont dans la vallée des ombres. » L'invitation de la Folie sonne attrayante mais cache un danger réel et la mort elle-même.\n\nDeux maisons, deux invitations, deux résultats très différents — et le choix du festin à accepter est placé directement devant chaque personne qui entend l'appel."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Leave your simple ways and you will live; walk in the way of insight."
+        "en": "Leave your simple ways and you will live; walk in the way of insight.",
+        "es": "Dejad las simplezas, y vivid; y andad por el camino de la inteligencia.",
+        "fr": "Quittez la stupidité, et vous vivrez, Et marchez dans la voie de l'intelligence !"
       },
       "ref": {
-        "en": "Proverbs 9:6 (NIV)"
+        "en": "Proverbs 9:6 (NIV)",
+        "es": "Proverbios 9:6 (Valera)",
+        "fr": "Proverbes 9:6 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -38,6 +48,22 @@
           "way",
           "of",
           "insight"
+        ],
+        "es": [
+          "Dejad",
+          "las",
+          "simplezas",
+          "y",
+          "vivid",
+          "y"
+        ],
+        "fr": [
+          "Quittez",
+          "la",
+          "stupidité",
+          "et",
+          "vous",
+          "vivrez"
         ]
       },
       "typing_challenge": true
@@ -45,7 +71,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Two Houses, Two Invitations"
+        "en": "A Song for Two Houses, Two Invitations",
+        "es": "Una Canción para Dos Casas, Dos Invitaciones",
+        "fr": "Une Chanson pour Deux Maisons, Deux Invitations"
       },
       "audio_en": "/static/audio/proverbs/lesson16_en.mp3"
     },
@@ -54,7 +82,9 @@
       "questions": [
         {
           "q": {
-            "en": "What has Wisdom prepared, according to this chapter?"
+            "en": "What has Wisdom prepared, according to this chapter?",
+            "es": "¿Qué ha preparado la Sabiduría, según este capítulo?",
+            "fr": "Qu'est-ce que la Sagesse a préparé, selon ce chapitre ?"
           },
           "options": {
             "en": [
@@ -62,13 +92,27 @@
               "A great feast, with meat, wine, and a beautifully set table",
               "Nothing at all",
               "A punishment"
+            ],
+            "es": [
+              "Una trampa",
+              "Un gran banquete, con carne, vino y una mesa hermosamente puesta",
+              "Nada en absoluto",
+              "Un castigo"
+            ],
+            "fr": [
+              "Un piège",
+              "Un grand festin, avec viande, vin et une table magnifiquement dressée",
+              "Rien du tout",
+              "Une punition"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Folly's invitation in this chapter sound at first?"
+            "en": "How does Folly's invitation in this chapter sound at first?",
+            "es": "¿Cómo suena la invitación de la Necedad en este capítulo al principio?",
+            "fr": "Comment l'invitation de la Folie semble-t-elle d'abord dans ce chapitre ?"
           },
           "options": {
             "en": [
@@ -76,13 +120,27 @@
               "Appealing and sweet — 'stolen water is sweet, food eaten in secret is delicious'",
               "Boring and uninteresting",
               "Identical to Wisdom's invitation in every way"
+            ],
+            "es": [
+              "Obviamente peligrosa y temible",
+              "Atractiva y dulce — 'las aguas hurtadas son dulces, el pan comido en oculto es suave'",
+              "Aburrida y sin interés",
+              "Idéntica a la invitación de la Sabiduría en todo sentido"
+            ],
+            "fr": [
+              "Manifestement dangereuse et effrayante",
+              "Attrayante et douce — 'les eaux dérobées sont douces, le pain du mystère est agréable'",
+              "Ennuyeuse et sans intérêt",
+              "Identique en tout point à l'invitation de la Sagesse"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the chapter reveal is actually hidden behind Folly's appealing invitation?"
+            "en": "What does the chapter reveal is actually hidden behind Folly's appealing invitation?",
+            "es": "¿Qué revela el capítulo que en realidad se esconde detrás de la atractiva invitación de la Necedad?",
+            "fr": "Que révèle le chapitre comme se cachant réellement derrière l'invitation attrayante de la Folie ?"
           },
           "options": {
             "en": [
@@ -90,6 +148,18 @@
               "Death — her guests are in the very realm of the dead",
               "More wisdom",
               "A great reward"
+            ],
+            "es": [
+              "Nada — es completamente seguro",
+              "La muerte — sus convidados están en los profundos de la sepultura",
+              "Más sabiduría",
+              "Una gran recompensa"
+            ],
+            "fr": [
+              "Rien — c'est complètement sûr",
+              "La mort — ses invités sont dans la vallée des ombres",
+              "Plus de sagesse",
+              "Une grande récompense"
             ]
           },
           "answer": 1
@@ -101,7 +171,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Two Houses, Two Invitations"
+            "en": "Activity sheet: Two Houses, Two Invitations",
+            "es": "Hoja de actividad: Dos Casas, Dos Invitaciones",
+            "fr": "Fiche d'activité : Deux Maisons, Deux Invitations"
           },
           "file": "/static/printables/proverbs/lesson16_sheet.pdf"
         }
@@ -110,7 +182,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: this chapter closes the nine-chapter introduction to Proverbs with two parallel, contrasting invitations — Wisdom's genuine feast and Folly's deceptive imitation — teaching that destructive choices often dress themselves up as appealing rather than obviously dangerous, exactly the pattern warned about more narratively in chapter 7. The choice between the two houses functions almost as a summary decision point for everything chapters 1-9 have been building toward.\n\nConversation starters: (1) Why might Folly's invitation use exactly the same kind of public, loud calling as Wisdom's, to seem just as legitimate? (2) What's the danger in something appealing — \"stolen water is sweet\" — actually hiding real harm underneath? (3) Which \"house\" — Wisdom's or Folly's — have you been tempted to enter lately?\n\nPray for discernment to recognize Folly's appealing disguise, and to choose Wisdom's true feast instead."
+        "en": "Big idea: this chapter closes the nine-chapter introduction to Proverbs with two parallel, contrasting invitations — Wisdom's genuine feast and Folly's deceptive imitation — teaching that destructive choices often dress themselves up as appealing rather than obviously dangerous, exactly the pattern warned about more narratively in chapter 7. The choice between the two houses functions almost as a summary decision point for everything chapters 1-9 have been building toward.\n\nConversation starters: (1) Why might Folly's invitation use exactly the same kind of public, loud calling as Wisdom's, to seem just as legitimate? (2) What's the danger in something appealing — \"stolen water is sweet\" — actually hiding real harm underneath? (3) Which \"house\" — Wisdom's or Folly's — have you been tempted to enter lately?\n\nPray for discernment to recognize Folly's appealing disguise, and to choose Wisdom's true feast instead.",
+        "es": "Idea principal: este capítulo cierra la introducción de nueve capítulos a Proverbios con dos invitaciones paralelas y contrastantes — el verdadero banquete de la Sabiduría y la imitación engañosa de la Necedad — enseñando que las decisiones destructivas a menudo se disfrazan de atractivas en lugar de obviamente peligrosas, exactamente el patrón advertido más narrativamente en el capítulo 7. La elección entre las dos casas funciona casi como un punto de decisión resumido para todo lo que los capítulos 1-9 han estado construyendo.\n\nPara conversar: (1) ¿Por qué podría la Necedad usar exactamente el mismo tipo de llamado público y ruidoso que la Sabiduría, para parecer igualmente legítima? (2) ¿Cuál es el peligro en algo atractivo — \"las aguas hurtadas son dulces\" — que en realidad esconde daño real debajo? (3) ¿A cuál \"casa\" — la de la Sabiduría o la de la Necedad — has sido tentado a entrar últimamente?\n\nOren por discernimiento para reconocer el disfraz atractivo de la Necedad, y para elegir el verdadero banquete de la Sabiduría en su lugar.",
+        "fr": "Idée principale : ce chapitre clôt l'introduction de neuf chapitres aux Proverbes avec deux invitations parallèles et contrastantes — le véritable festin de la Sagesse et l'imitation trompeuse de la Folie — enseignant que les choix destructeurs se déguisent souvent en attrayants plutôt qu'en évidemment dangereux, exactement le schéma averti de manière plus narrative au chapitre 7. Le choix entre les deux maisons fonctionne presque comme un point de décision récapitulatif pour tout ce que les chapitres 1-9 ont construit.\n\nPour la conversation : (1) Pourquoi la Folie pourrait-elle utiliser exactement le même genre d'appel public et bruyant que la Sagesse, pour sembler tout aussi légitime ? (2) Quel est le danger dans quelque chose d'attrayant — « les eaux dérobées sont douces » — qui cache en réalité un préjudice réel dessous ? (3) Dans quelle « maison » — celle de la Sagesse ou celle de la Folie — as-tu été tenté d'entrer dernièrement ?\n\nPriez pour le discernement de reconnaître le déguisement attrayant de la Folie, et pour choisir le véritable festin de la Sagesse à la place."
       }
     }
   ]

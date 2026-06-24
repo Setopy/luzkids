@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Don't Walk With Sinners"
+    "en": "Don't Walk With Sinners",
+    "es": "No Andes Con los Pecadores",
+    "fr": "Ne Marche Pas Avec les Pécheurs"
   },
   "ref": "Proverbs 1:8-19",
   "section": "Warning Against the Invitation of Sinful Men",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "When friends invite you down the wrong path"
+        "en": "When friends invite you down the wrong path",
+        "es": "Cuando amigos te invitan por el camino equivocado",
+        "fr": "Quand des amis t'invitent sur le mauvais chemin"
       },
       "body": {
-        "en": "A father gives his son urgent advice: listen to your parents' instruction — it's like a beautiful garland for your head, a gold chain around your neck.\n\nThen comes a real warning, framed almost like a story: imagine sinful friends inviting you, 'Come with us! Let's ambush someone, take their stuff, get rich quick — we'll all share the loot!'\n\nThe father's response is firm: 'My son, do not go along with them, do not set foot on their paths!' He explains why their plan is actually foolish — those who set traps for others often end up caught in their own trap.\n\n'Greed takes away the life of those who get it,' the proverb warns. Easy money gained through hurting others always costs more than it seems to offer.\n\nThis is one of the very first lessons in the whole book, and it's deliberately practical: wisdom shows up first not in deep theology, but in choosing your friends and your path wisely, before you're even old enough to fully understand why it matters."
+        "en": "A father gives his son urgent advice: listen to your parents' instruction — it's like a beautiful garland for your head, a gold chain around your neck.\n\nThen comes a real warning, framed almost like a story: imagine sinful friends inviting you, 'Come with us! Let's ambush someone, take their stuff, get rich quick — we'll all share the loot!'\n\nThe father's response is firm: 'My son, do not go along with them, do not set foot on their paths!' He explains why their plan is actually foolish — those who set traps for others often end up caught in their own trap.\n\n'Greed takes away the life of those who get it,' the proverb warns. Easy money gained through hurting others always costs more than it seems to offer.\n\nThis is one of the very first lessons in the whole book, and it's deliberately practical: wisdom shows up first not in deep theology, but in choosing your friends and your path wisely, before you're even old enough to fully understand why it matters.",
+        "es": "Un padre da a su hijo un consejo urgente: escucha la instrucción de tus padres — es como una hermosa guirnalda para tu cabeza, una cadena de oro alrededor de tu cuello.\n\nEntonces llega una advertencia real, enmarcada casi como un relato: imagina amigos pecadores que te invitan: \"¡Ven con nosotros! Tendamos una emboscada a alguien, tomemos sus cosas, hagámonos ricos rápido — ¡todos compartiremos el botín!\"\n\nLa respuesta del padre es firme: \"Hijo mío, no andes en camino con ellos; aparta tu pie de sus veredas.\" Él explica por qué su plan es realmente insensato — quienes ponen trampas para otros a menudo terminan atrapados en su propia trampa.\n\n\"La avaricia quita la vida de los que la obtienen,\" advierte el proverbio. El dinero fácil ganado lastimando a otros siempre cuesta más de lo que parece ofrecer.\n\nEsta es una de las primeras lecciones de todo el libro, y es deliberadamente práctica: la sabiduría se muestra primero no en teología profunda, sino en elegir bien a tus amigos y tu camino, incluso antes de que tengas edad suficiente para entender completamente por qué importa.",
+        "fr": "Un père donne à son fils un conseil urgent : écoute l'instruction de tes parents — c'est comme une belle guirlande pour ta tête, une chaîne d'or autour de ton cou.\n\nPuis vient un véritable avertissement, présenté presque comme un récit : imagine des amis pécheurs qui t'invitent : « Viens avec nous ! Tendons une embuscade à quelqu'un, prenons ses biens, enrichissons-nous vite — nous partagerons tous le butin ! »\n\nLa réponse du père est ferme : « Mon fils, ne te mets pas en chemin avec eux, détourne ton pied de leur sentier. » Il explique pourquoi leur plan est en fait insensé — ceux qui tendent des pièges aux autres finissent souvent piégés dans leur propre piège.\n\n« La cupidité enlève la vie de ceux qui l'obtiennent, » avertit le proverbe. L'argent facile gagné en faisant du mal aux autres coûte toujours plus qu'il ne semble offrir.\n\nC'est l'une des toutes premières leçons de tout le livre, et elle est délibérément pratique : la sagesse se montre d'abord non pas dans une théologie profonde, mais dans le choix judicieux de ses amis et de son chemin, avant même d'être assez âgé pour comprendre pleinement pourquoi cela importe."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "My son, do not go along with them, do not set foot on their paths."
+        "en": "My son, do not go along with them, do not set foot on their paths.",
+        "es": "Hijo mío, no andes en camino con ellos; aparta tu pie de sus veredas:",
+        "fr": "Mon fils, ne te mets pas en chemin avec eux, Détourne ton pied de leur sentier ;"
       },
       "ref": {
-        "en": "Proverbs 1:15 (NIV)"
+        "en": "Proverbs 1:15 (NIV)",
+        "es": "Proverbios 1:15 (Valera)",
+        "fr": "Proverbes 1:15 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -39,6 +49,22 @@
           "on",
           "their",
           "paths"
+        ],
+        "es": [
+          "Hijo",
+          "mío",
+          "no",
+          "andes",
+          "en",
+          "camino"
+        ],
+        "fr": [
+          "Mon",
+          "fils",
+          "ne",
+          "te",
+          "mets",
+          "pas"
         ]
       },
       "typing_challenge": true
@@ -46,7 +72,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Don't Walk With Sinners"
+        "en": "A Song for Don't Walk With Sinners",
+        "es": "Una Canción para No Andes Con los Pecadores",
+        "fr": "Une Chanson pour Ne Marche Pas Avec les Pécheurs"
       },
       "audio_en": "/static/audio/proverbs/lesson02_en.mp3"
     },
@@ -55,7 +83,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did the sinful friends in this passage invite the son to do?"
+            "en": "What did the sinful friends in this passage invite the son to do?",
+            "es": "¿Qué invitaron los amigos pecadores al hijo a hacer en este pasaje?",
+            "fr": "Qu'est-ce que les amis pécheurs ont invité le fils à faire dans ce passage ?"
           },
           "options": {
             "en": [
@@ -63,13 +93,27 @@
               "Ambush someone and share stolen loot",
               "Help the poor",
               "Go to the temple"
+            ],
+            "es": [
+              "Estudiar juntos",
+              "Tender una emboscada y compartir el botín robado",
+              "Ayudar a los pobres",
+              "Ir al templo"
+            ],
+            "fr": [
+              "Étudier ensemble",
+              "Tendre une embuscade et partager le butin volé",
+              "Aider les pauvres",
+              "Aller au temple"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the father tell his son to do about this invitation?"
+            "en": "What does the father tell his son to do about this invitation?",
+            "es": "¿Qué le dice el padre a su hijo que haga ante esta invitación?",
+            "fr": "Que dit le père à son fils de faire face à cette invitation ?"
           },
           "options": {
             "en": [
@@ -77,13 +121,27 @@
               "Do not go along with them — don't even set foot on their path",
               "Think about it first",
               "Join them just once"
+            ],
+            "es": [
+              "Que vaya con ellos",
+              "Que no vaya con ellos — ni siquiera ponga su pie en su camino",
+              "Que lo piense primero",
+              "Que se una solo una vez"
+            ],
+            "fr": [
+              "D'aller avec eux",
+              "De ne pas aller avec eux — de ne même pas mettre le pied sur leur chemin",
+              "D'y penser d'abord",
+              "De se joindre à eux juste une fois"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the proverb say happens to those who set traps for others?"
+            "en": "What does the proverb say happens to those who set traps for others?",
+            "es": "¿Qué dice el proverbio que les sucede a quienes ponen trampas para otros?",
+            "fr": "Que dit le proverbe qu'il arrive à ceux qui tendent des pièges aux autres ?"
           },
           "options": {
             "en": [
@@ -91,6 +149,18 @@
               "They often end up caught in their own trap",
               "They always get away with it",
               "They become wealthy and happy"
+            ],
+            "es": [
+              "No les pasa nada",
+              "A menudo terminan atrapados en su propia trampa",
+              "Siempre se salen con la suya",
+              "Se vuelven ricos y felices"
+            ],
+            "fr": [
+              "Rien ne leur arrive",
+              "Ils finissent souvent piégés dans leur propre piège",
+              "Ils s'en sortent toujours",
+              "Ils deviennent riches et heureux"
             ]
           },
           "answer": 1
@@ -102,7 +172,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Don't Walk With Sinners"
+            "en": "Activity sheet: Don't Walk With Sinners",
+            "es": "Hoja de actividad: No Andes Con los Pecadores",
+            "fr": "Fiche d'activité : Ne Marche Pas Avec les Pécheurs"
           },
           "file": "/static/printables/proverbs/lesson02_sheet.pdf"
         }
@@ -111,7 +183,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: wisdom literature begins its practical instruction with peer influence — recognizing that the earliest and most common temptation a young person faces is the pull of a group inviting participation in wrongdoing, often framed as exciting or rewarding. The proverb's logic (those who set traps often get caught in them) reflects a recurring theme in Proverbs: wickedness tends to backfire on its own practitioners.\n\nConversation starters: (1) Why might it be especially hard to say no when friends are inviting you to do something wrong? (2) What does it mean that 'greed takes away the life of those who get it'? (3) How can you practice saying a firm \"no\" like this son was taught?\n\nPray for discernment and courage to walk away from the wrong path, even when friends invite you onto it."
+        "en": "Big idea: wisdom literature begins its practical instruction with peer influence — recognizing that the earliest and most common temptation a young person faces is the pull of a group inviting participation in wrongdoing, often framed as exciting or rewarding. The proverb's logic (those who set traps often get caught in them) reflects a recurring theme in Proverbs: wickedness tends to backfire on its own practitioners.\n\nConversation starters: (1) Why might it be especially hard to say no when friends are inviting you to do something wrong? (2) What does it mean that 'greed takes away the life of those who get it'? (3) How can you practice saying a firm \"no\" like this son was taught?\n\nPray for discernment and courage to walk away from the wrong path, even when friends invite you onto it.",
+        "es": "Idea principal: la literatura de sabiduría comienza su instrucción práctica con la influencia de los compañeros — reconociendo que la tentación más temprana y común que enfrenta un joven es el atractivo de un grupo que invita a participar en el mal, a menudo presentado como emocionante o gratificante. La lógica del proverbio (quienes ponen trampas a menudo caen en ellas) refleja un tema recurrente en Proverbios: la maldad tiende a volverse en contra de quienes la practican.\n\nPara conversar: (1) ¿Por qué podría ser especialmente difícil decir no cuando los amigos te invitan a hacer algo malo? (2) ¿Qué significa que \"la avaricia quita la vida de los que la obtienen\"? (3) ¿Cómo puedes practicar decir un \"no\" firme como se le enseñó a este hijo?\n\nOren por discernimiento y valor para alejarse del camino equivocado, incluso cuando los amigos invitan a tomarlo.",
+        "fr": "Idée principale : la littérature de sagesse commence son instruction pratique par l'influence des pairs — reconnaissant que la tentation la plus précoce et la plus commune qu'un jeune affronte est l'attrait d'un groupe invitant à participer au mal, souvent présenté comme excitant ou gratifiant. La logique du proverbe (ceux qui tendent des pièges s'y font souvent prendre) reflète un thème récurrent des Proverbes : la méchanceté tend à se retourner contre ceux qui la pratiquent.\n\nPour la conversation : (1) Pourquoi pourrait-il être particulièrement difficile de dire non quand des amis t'invitent à faire quelque chose de mal ? (2) Que signifie le fait que « la cupidité enlève la vie de ceux qui l'obtiennent » ? (3) Comment peux-tu t'exercer à dire un « non » ferme comme ce fils l'a appris ?\n\nPriez pour le discernement et le courage de s'éloigner du mauvais chemin, même quand des amis y invitent."
       }
     }
   ]

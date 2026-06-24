@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Five Loaves, Two Fish, Thousands Fed"
+    "en": "Five Loaves, Two Fish, Thousands Fed",
+    "es": "Cinco Panes, Dos Peces, Miles Alimentados",
+    "fr": "Cinq Pains, Deux Poissons, des Milliers Nourris"
   },
   "ref": "Mark 6:30-44",
   "section": "Jesus Feeds the Five Thousand",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Not enough, until Jesus held it"
+        "en": "Not enough, until Jesus held it",
+        "es": "No era suficiente, hasta que Jesús lo tomó",
+        "fr": "Pas assez, jusqu'à ce que Jésus le prenne"
       },
       "body": {
-        "en": "The apostles returned from their mission and reported everything to Jesus. He said, 'Come with me by yourselves to a quiet place and get some rest' — but crowds kept coming, and Jesus, having compassion on them, taught them many things anyway. As evening came, the disciples said: 'This is a remote place, send the people away to buy food.' Jesus replied: 'You give them something to eat.' They said: 'That would take eight months of wages! We have only five loaves and two fish.' Jesus had everyone sit down in groups, took the five loaves and two fish, looked up to heaven, gave thanks, and broke the loaves, giving them to the disciples to distribute.\n\nEveryone ate and was SATISFIED — and the disciples picked up twelve basketfuls of leftover pieces! The number who ate? Five thousand men, not even counting women and children!\n\nJesus didn't need abundance to start with — He needed willingness to bring what little they had, and trust that He could make it enough for everyone."
+        "en": "The apostles returned from their mission and reported everything to Jesus. He said, 'Come with me by yourselves to a quiet place and get some rest' — but crowds kept coming, and Jesus, having compassion on them, taught them many things anyway. As evening came, the disciples said: 'This is a remote place, send the people away to buy food.' Jesus replied: 'You give them something to eat.' They said: 'That would take eight months of wages! We have only five loaves and two fish.' Jesus had everyone sit down in groups, took the five loaves and two fish, looked up to heaven, gave thanks, and broke the loaves, giving them to the disciples to distribute.\n\nEveryone ate and was SATISFIED — and the disciples picked up twelve basketfuls of leftover pieces! The number who ate? Five thousand men, not even counting women and children!\n\nJesus didn't need abundance to start with — He needed willingness to bring what little they had, and trust that He could make it enough for everyone.",
+        "es": "Los apóstoles regresaron de su misión y le contaron todo a Jesús. Él dijo: \"Vengan conmigo a solas a un lugar tranquilo y descansen un poco\" — pero las multitudes seguían llegando, y Jesús, teniendo compasión de ellos, les enseñó muchas cosas de todos modos. Al caer la tarde, los discípulos dijeron: \"Este es un lugar remoto, envía a la gente a comprar comida.\" Jesús respondió: \"Dadles vosotros de comer.\" Dijeron: \"¡Eso costaría ocho meses de salario! Solo tenemos cinco panes y dos peces.\" Jesús hizo que todos se sentaran en grupos, tomó los cinco panes y los dos peces, miró al cielo, dio gracias, y partió los panes, dándolos a los discípulos para que los repartieran.\n\n¡Todos comieron y quedaron SATISFECHOS — y los discípulos recogieron doce canastas llenas de pedazos sobrantes! ¿El número de los que comieron? ¡Cinco mil hombres, sin contar a las mujeres y los niños!\n\nJesús no necesitaba abundancia para empezar — necesitaba la disposición de traer lo poco que tenían, y confianza en que Él podría hacer que fuera suficiente para todos.",
+        "fr": "Les apôtres revinrent de leur mission et racontèrent tout à Jésus. Il dit : « Venez à l'écart dans un lieu désert, et vous reposerez un peu » — mais les foules continuaient à venir, et Jésus, ayant compassion d'eux, leur enseigna quand même beaucoup de choses. Comme le soir tombait, les disciples dirent : « Ce lieu est désert, envoie les gens acheter de la nourriture. » Jésus répondit : « Donnez-leur vous-mêmes à manger. » Ils dirent : « Cela coûterait huit mois de salaire ! Nous n'avons que cinq pains et deux poissons. » Jésus fit asseoir tout le monde en groupes, prit les cinq pains et les deux poissons, leva les yeux vers le ciel, rendit grâces, et rompit les pains, les donnant aux disciples pour les distribuer.\n\nTous mangèrent et furent RASSASIÉS — et les disciples emportèrent douze paniers pleins de morceaux ! Le nombre de ceux qui mangèrent ? Cinq mille hommes, sans compter les femmes et les enfants !\n\nJésus n'avait pas besoin d'abondance pour commencer — Il avait besoin de la disposition à apporter le peu qu'ils avaient, et de la confiance qu'Il pouvait le rendre suffisant pour tous."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces."
+        "en": "They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces.",
+        "es": "Y comieron todos, y se hartaron. Y alzaron de los pedazos doce cofines llenos, y de los peces.",
+        "fr": "Tous mangèrent et furent rassasiés, et l'on emporta douze paniers pleins de morceaux de pain et de ce qui restait des poissons."
       },
       "ref": {
-        "en": "Mark 6:42-43 (NIV)"
+        "en": "Mark 6:42-43 (NIV)",
+        "es": "Marcos 6:42-43 (Valera)",
+        "fr": "Marc 6:42-43 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "up",
           "twelve",
           "basketfuls"
+        ],
+        "es": [
+          "Y",
+          "comieron",
+          "todos",
+          "y",
+          "se",
+          "hartaron"
+        ],
+        "fr": [
+          "Tous",
+          "mangèrent",
+          "et",
+          "furent",
+          "rassasiés",
+          "et"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Five Loaves, Two Fish, Thousands Fed"
+        "en": "A Song for Five Loaves, Two Fish, Thousands Fed",
+        "es": "Una Canción para Cinco Panes, Dos Peces, Miles Alimentados",
+        "fr": "Une Chanson pour Cinq Pains, Deux Poissons, des Milliers Nourris"
       },
       "audio_en": "/static/audio/mark/lesson16_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "How much food did the disciples initially have to feed the huge crowd?"
+            "en": "How much food did the disciples initially have to feed the huge crowd?",
+            "es": "¿Cuánta comida tenían inicialmente los discípulos para alimentar a la enorme multitud?",
+            "fr": "Combien de nourriture les disciples avaient-ils initialement pour nourrir l'immense foule ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "Only five loaves and two fish",
               "Nothing at all",
               "A whole banquet"
+            ],
+            "es": [
+              "Suficiente para todos ya",
+              "Solo cinco panes y dos peces",
+              "Nada en absoluto",
+              "Un banquete completo"
+            ],
+            "fr": [
+              "Déjà assez pour tout le monde",
+              "Seulement cinq pains et deux poissons",
+              "Rien du tout",
+              "Un banquet complet"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What happened after Jesus blessed and broke the loaves and fish?"
+            "en": "What happened after Jesus blessed and broke the loaves and fish?",
+            "es": "¿Qué sucedió después de que Jesús bendijo y partió los panes y los peces?",
+            "fr": "Qu'est-il arrivé après que Jésus a béni et rompu les pains et les poissons ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "Everyone ate and was satisfied, with twelve baskets of leftovers",
               "Only a few people got food",
               "The food ran out immediately"
+            ],
+            "es": [
+              "Nada cambió",
+              "Todos comieron y quedaron satisfechos, con doce canastas de sobras",
+              "Solo unas pocas personas recibieron comida",
+              "La comida se acabó inmediatamente"
+            ],
+            "fr": [
+              "Rien n'a changé",
+              "Tous ont mangé et ont été rassasiés, avec douze paniers de restes",
+              "Seules quelques personnes ont reçu de la nourriture",
+              "La nourriture s'est immédiatement épuisée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Roughly how many people were fed, not counting women and children?"
+            "en": "Roughly how many people were fed, not counting women and children?",
+            "es": "¿Aproximadamente cuántas personas fueron alimentadas, sin contar a las mujeres y los niños?",
+            "fr": "Environ combien de personnes ont été nourries, sans compter les femmes et les enfants ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Five thousand men",
               "Five hundred",
               "Only the disciples"
+            ],
+            "es": [
+              "Cincuenta",
+              "Cinco mil hombres",
+              "Quinientos",
+              "Solo los discípulos"
+            ],
+            "fr": [
+              "Cinquante",
+              "Cinq mille hommes",
+              "Cinq cents",
+              "Seulement les disciples"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Five Loaves, Two Fish, Thousands Fed"
+            "en": "Activity sheet: Five Loaves, Two Fish, Thousands Fed",
+            "es": "Hoja de actividad: Cinco Panes, Dos Peces, Miles Alimentados",
+            "fr": "Fiche d'activité : Cinq Pains, Deux Poissons, des Milliers Nourris"
           },
           "file": "/static/printables/mark/lesson16_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus multiplies what's offered, however small, when it's given in faith — the miracle didn't require the disciples to have enough; it required them to bring what little they had. The detail of twelve full baskets of leftovers (echoing the twelve tribes, the twelve apostles) emphasizes abundant, overflowing provision, not just bare sufficiency.\n\nConversation starters: (1) What does it teach you that Jesus used what little the disciples already had, rather than creating food from nothing? (2) Why might Jesus have the people sit down in organized groups before the miracle? (3) What \"little\" do you have that you could offer to God, trusting Him to multiply it?\n\nPray, offering whatever feels small or insufficient in your own life, trusting God to provide."
+        "en": "Big idea: Jesus multiplies what's offered, however small, when it's given in faith — the miracle didn't require the disciples to have enough; it required them to bring what little they had. The detail of twelve full baskets of leftovers (echoing the twelve tribes, the twelve apostles) emphasizes abundant, overflowing provision, not just bare sufficiency.\n\nConversation starters: (1) What does it teach you that Jesus used what little the disciples already had, rather than creating food from nothing? (2) Why might Jesus have the people sit down in organized groups before the miracle? (3) What \"little\" do you have that you could offer to God, trusting Him to multiply it?\n\nPray, offering whatever feels small or insufficient in your own life, trusting God to provide.",
+        "es": "Idea principal: Jesús multiplica lo que se ofrece, sin importar cuán pequeño sea, cuando se da con fe — el milagro no requería que los discípulos tuvieran suficiente; requería que trajeran lo poco que tenían. El detalle de las doce canastas llenas de sobras (haciendo eco de las doce tribus, los doce apóstoles) enfatiza una provisión abundante y desbordante, no solo suficiencia escasa.\n\nPara conversar: (1) ¿Qué te enseña que Jesús usó lo poco que los discípulos ya tenían, en lugar de crear comida de la nada? (2) ¿Por qué podría Jesús hacer que la gente se sentara en grupos organizados antes del milagro? (3) ¿Qué 'poco' tienes que podrías ofrecer a Dios, confiando en que Él lo multiplicará?\n\nOren, ofreciendo lo que se sienta pequeño o insuficiente en su propia vida, confiando en que Dios proveerá.",
+        "fr": "Idée principale : Jésus multiplie ce qui est offert, quelle que soit sa petitesse, quand c'est donné avec foi — le miracle n'exigeait pas que les disciples aient suffisamment ; il exigeait qu'ils apportent le peu qu'ils avaient. Le détail des douze paniers pleins de restes (faisant écho aux douze tribus, aux douze apôtres) souligne une provision abondante et débordante, et non une simple suffisance.\n\nPour la conversation : (1) Que t'enseigne le fait que Jésus ait utilisé le peu que les disciples avaient déjà, plutôt que de créer de la nourriture à partir de rien ? (2) Pourquoi Jésus aurait-Il fait asseoir les gens en groupes organisés avant le miracle ? (3) Quel « peu » as-tu que tu pourrais offrir à Dieu, en faisant confiance qu'Il le multipliera ?\n\nPriez, en offrant ce qui semble petit ou insuffisant dans votre propre vie, en faisant confiance que Dieu y pourvoira."
       }
     }
   ]

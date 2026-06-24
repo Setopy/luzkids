@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Get Ready — Jesus Is Coming!"
+    "en": "Get Ready — Jesus Is Coming!",
+    "es": "¡Prepárense — Jesús Viene!",
+    "fr": "Préparez-vous — Jésus Arrive !"
   },
   "ref": "Mark 1:1-13",
   "section": "John the Baptist Prepares the Way / The Baptism and Testing of Jesus",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A voice in the wilderness"
+        "en": "A voice in the wilderness",
+        "es": "Una voz en el desierto",
+        "fr": "Une voix dans le désert"
       },
       "body": {
-        "en": "Mark doesn't waste a single word. 'The beginning of the good news about Jesus the Messiah, the Son of God' — and straight into the action! A wild prophet named John the Baptist appeared in the wilderness, wearing camel's hair, eating locusts and wild honey, calling people to REPENT and be baptised for the forgiveness of sins.\n\nCrowds came from everywhere! John told them plainly: 'After me comes one more powerful than I, whose sandals I am not worthy to untie. I baptise you with water, but he will baptise you with the Holy Spirit!' Then Jesus Himself came to the Jordan River and was baptised by John.\n\nAs Jesus came up out of the water, the heavens TORE OPEN, the Spirit descended like a dove, and a voice from heaven declared: 'You are my Son, whom I love; with you I am well pleased.' Immediately — Mark's favourite word! — the Spirit sent Jesus into the wilderness, where He was tempted by Satan for forty days, with wild animals around Him, and angels attending Him."
+        "en": "Mark doesn't waste a single word. 'The beginning of the good news about Jesus the Messiah, the Son of God' — and straight into the action! A wild prophet named John the Baptist appeared in the wilderness, wearing camel's hair, eating locusts and wild honey, calling people to REPENT and be baptised for the forgiveness of sins.\n\nCrowds came from everywhere! John told them plainly: 'After me comes one more powerful than I, whose sandals I am not worthy to untie. I baptise you with water, but he will baptise you with the Holy Spirit!' Then Jesus Himself came to the Jordan River and was baptised by John.\n\nAs Jesus came up out of the water, the heavens TORE OPEN, the Spirit descended like a dove, and a voice from heaven declared: 'You are my Son, whom I love; with you I am well pleased.' Immediately — Mark's favourite word! — the Spirit sent Jesus into the wilderness, where He was tempted by Satan for forty days, with wild animals around Him, and angels attending Him.",
+        "es": "Marcos no desperdicia ni una sola palabra. \"El principio del evangelio de Jesucristo, el Hijo de Dios\" — ¡y directo a la acción! Un profeta salvaje llamado Juan el Bautista apareció en el desierto, vestido de pelo de camello, comiendo langostas y miel silvestre, llamando a la gente a ARREPENTIRSE y ser bautizados para el perdón de los pecados.\n\n¡Multitudes venían de todas partes! Juan les dijo claramente: \"Después de mí viene uno más poderoso que yo, de quien no soy digno de desatar las correas de sus sandalias. Yo los bautizo con agua, pero él los bautizará con el Espíritu Santo!\" Entonces Jesús mismo vino al río Jordán y fue bautizado por Juan.\n\nCuando Jesús salía del agua, los cielos se RASGARON, el Espíritu descendió como una paloma, y una voz del cielo declaró: \"Tú eres mi Hijo amado; en ti tengo complacencia.\" Inmediatamente — ¡la palabra favorita de Marcos! — el Espíritu envió a Jesús al desierto, donde fue tentado por Satanás durante cuarenta días, con animales salvajes a Su alrededor, y ángeles que le servían.",
+        "fr": "Marc ne perd pas un seul mot. « Commencement de l'Évangile de Jésus-Christ, Fils de Dieu » — et directement dans l'action ! Un prophète sauvage nommé Jean-Baptiste apparut dans le désert, vêtu de poils de chameau, mangeant des sauterelles et du miel sauvage, appelant les gens à se REPENTIR et à être baptisés pour le pardon des péchés.\n\nDes foules venaient de partout ! Jean leur disait clairement : « Après moi vient celui qui est plus puissant que moi, et je ne suis pas digne de délier les cordons de ses souliers. Moi, je vous baptise d'eau, mais lui vous baptisera du Saint-Esprit ! » Puis Jésus Lui-même vint au fleuve Jourdain et fut baptisé par Jean.\n\nComme Jésus sortait de l'eau, les cieux se DÉCHIRÈRENT, l'Esprit descendit comme une colombe, et une voix venant du ciel déclara : « Tu es mon Fils bien-aimé, en toi j'ai mis toute mon affection. » Immédiatement — le mot préféré de Marc ! — l'Esprit poussa Jésus au désert, où Il fut tenté par Satan pendant quarante jours, entouré de bêtes sauvages, et servi par des anges."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "You are my Son, whom I love; with you I am well pleased."
+        "en": "You are my Son, whom I love; with you I am well pleased.",
+        "es": "Y hubo una voz de los cielos que decía: Tú eres mi Hijo amado; en ti tomo contentamiento.",
+        "fr": "Et une voix fit entendre des cieux ces paroles : Tu es mon Fils bien-aimé, en toi j'ai mis toute mon affection."
       },
       "ref": {
-        "en": "Mark 1:11 (NIV)"
+        "en": "Mark 1:11 (NIV)",
+        "es": "Marcos 1:11 (Valera)",
+        "fr": "Marc 1:11 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "am",
           "well",
           "pleased"
+        ],
+        "es": [
+          "Y",
+          "hubo",
+          "una",
+          "voz",
+          "de",
+          "los"
+        ],
+        "fr": [
+          "Et",
+          "une",
+          "voix",
+          "fit",
+          "entendre",
+          "des"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Get Ready — Jesus Is Coming!"
+        "en": "A Song for Get Ready — Jesus Is Coming!",
+        "es": "Una Canción para ¡Prepárense — Jesús Viene!",
+        "fr": "Une Chanson pour Préparez-vous — Jésus Arrive !"
       },
       "audio_en": "/static/audio/mark/lesson01_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did John the Baptist call people to do?"
+            "en": "What did John the Baptist call people to do?",
+            "es": "¿A qué llamó Juan el Bautista a la gente?",
+            "fr": "À quoi Jean-Baptiste appelait-il les gens ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "Repent and be baptised for the forgiveness of sins",
               "Pay extra taxes",
               "Move to Jerusalem"
+            ],
+            "es": [
+              "Construir un templo",
+              "Arrepentirse y ser bautizados para el perdón de los pecados",
+              "Pagar impuestos extra",
+              "Mudarse a Jerusalén"
+            ],
+            "fr": [
+              "Construire un temple",
+              "Se repentir et être baptisés pour le pardon des péchés",
+              "Payer des impôts supplémentaires",
+              "Déménager à Jérusalem"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What happened when Jesus came up out of the water after being baptised?"
+            "en": "What happened when Jesus came up out of the water after being baptised?",
+            "es": "¿Qué sucedió cuando Jesús salió del agua después de ser bautizado?",
+            "fr": "Que s'est-il passé quand Jésus est sorti de l'eau après avoir été baptisé ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "The heavens tore open, the Spirit descended like a dove, and God spoke",
               "It started raining",
               "The crowd left"
+            ],
+            "es": [
+              "Nada inusual",
+              "Los cielos se rasgaron, el Espíritu descendió como una paloma, y Dios habló",
+              "Comenzó a llover",
+              "La multitud se fue"
+            ],
+            "fr": [
+              "Rien d'inhabituel",
+              "Les cieux se sont déchirés, l'Esprit est descendu comme une colombe, et Dieu a parlé",
+              "Il a commencé à pleuvoir",
+              "La foule est partie"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Where did the Spirit send Jesus right after His baptism?"
+            "en": "Where did the Spirit send Jesus right after His baptism?",
+            "es": "¿A dónde envió el Espíritu a Jesús justo después de Su bautismo?",
+            "fr": "Où l'Esprit a-t-il envoyé Jésus juste après Son baptême ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "Into the wilderness, to be tempted for forty days",
               "Back home to rest",
               "Nowhere in particular"
+            ],
+            "es": [
+              "A Jerusalén a enseñar",
+              "Al desierto, para ser tentado durante cuarenta días",
+              "De vuelta a casa a descansar",
+              "A ningún lugar en particular"
+            ],
+            "fr": [
+              "À Jérusalem pour enseigner",
+              "Au désert, pour être tenté pendant quarante jours",
+              "Chez lui pour se reposer",
+              "Nulle part en particulier"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Get Ready — Jesus Is Coming!"
+            "en": "Activity sheet: Get Ready — Jesus Is Coming!",
+            "es": "Hoja de actividad: ¡Prepárense — Jesús Viene!",
+            "fr": "Fiche d'activité : Préparez-vous — Jésus Arrive !"
           },
           "file": "/static/printables/mark/lesson01_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Mark opens at full speed, establishing Jesus' identity immediately through the Father's own voice and the Spirit's visible descent — the Trinity on full display in the very first scene. John's baptism of repentance prepares the way, but it's Jesus' baptism that reveals who He truly is.\n\nConversation starters: (1) Why might John dress and live so differently from everyone else? (2) What does it mean that God spoke directly from heaven about Jesus? (3) Why would Jesus, who never sinned, go through testing in the wilderness?\n\nPray, asking God to help your family get ready for Jesus the way John prepared the way."
+        "en": "Big idea: Mark opens at full speed, establishing Jesus' identity immediately through the Father's own voice and the Spirit's visible descent — the Trinity on full display in the very first scene. John's baptism of repentance prepares the way, but it's Jesus' baptism that reveals who He truly is.\n\nConversation starters: (1) Why might John dress and live so differently from everyone else? (2) What does it mean that God spoke directly from heaven about Jesus? (3) Why would Jesus, who never sinned, go through testing in the wilderness?\n\nPray, asking God to help your family get ready for Jesus the way John prepared the way.",
+        "es": "Idea principal: Marcos abre a toda velocidad, estableciendo la identidad de Jesús inmediatamente por medio de la propia voz del Padre y el descenso visible del Espíritu — la Trinidad completamente desplegada en la primera escena misma. El bautismo de arrepentimiento de Juan prepara el camino, pero es el bautismo de Jesús el que revela quién es Él verdaderamente.\n\nPara conversar: (1) ¿Por qué podría Juan vestirse y vivir tan diferente de todos los demás? (2) ¿Qué significa que Dios habló directamente desde el cielo acerca de Jesús? (3) ¿Por qué pasaría Jesús, quien nunca pecó, por una prueba en el desierto?\n\nOren, pidiendo a Dios que ayude a su familia a prepararse para Jesús de la manera en que Juan preparó el camino.",
+        "fr": "Idée principale : Marc s'ouvre à pleine vitesse, établissant immédiatement l'identité de Jésus par la propre voix du Père et la descente visible de l'Esprit — la Trinité pleinement déployée dès la première scène. Le baptême de repentance de Jean prépare le chemin, mais c'est le baptême de Jésus qui révèle qui Il est véritablement.\n\nPour la conversation : (1) Pourquoi Jean pourrait-il s'habiller et vivre si différemment de tous les autres ? (2) Que signifie le fait que Dieu ait parlé directement du ciel à propos de Jésus ? (3) Pourquoi Jésus, qui n'a jamais péché, traverserait-Il une épreuve dans le désert ?\n\nPriez, en demandant à Dieu d'aider votre famille à se préparer pour Jésus comme Jean a préparé le chemin."
       }
     }
   ]

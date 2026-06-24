@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "The Last Will Be First"
+    "en": "The Last Will Be First",
+    "es": "El Último Será el Primero",
+    "fr": "Le Dernier Sera le Premier"
   },
   "ref": "Mark 9:33-50",
   "section": "Who Is the Greatest? / Whoever Is Not Against Us / Causing to Stumble",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Arguing about greatness, holding a child instead"
+        "en": "Arguing about greatness, holding a child instead",
+        "es": "Discutiendo sobre grandeza, sosteniendo a un niño en cambio",
+        "fr": "Se disputant sur la grandeur, tenant un enfant à la place"
       },
       "body": {
-        "en": "Back in Capernaum, Jesus asked the disciples what they'd been arguing about on the road — they were silent, embarrassed, because they'd been arguing about who was the GREATEST! Jesus said: 'Anyone who wants to be first must be the very last, and the servant of all.' He took a little child, had the child stand among them, and said: 'Whoever welcomes one of these little children in my name welcomes me.' John told Jesus they'd seen someone driving out demons in Jesus' name and told him to stop, because he wasn't one of their group.\n\nJesus said: 'Do not stop him... whoever is not against us is for us.' Then Jesus gave a serious warning: if anyone causes a little one who believes to stumble, it would be better for them to have a huge millstone tied around their neck and be thrown into the sea! And if your own hand, foot, or eye causes you to sin, get rid of it — better to enter life maimed than to keep something that leads you away from God entirely. 'Salt is good,' Jesus said, 'but if it loses its saltiness... have salt among yourselves, and be at peace with each other.'"
+        "en": "Back in Capernaum, Jesus asked the disciples what they'd been arguing about on the road — they were silent, embarrassed, because they'd been arguing about who was the GREATEST! Jesus said: 'Anyone who wants to be first must be the very last, and the servant of all.' He took a little child, had the child stand among them, and said: 'Whoever welcomes one of these little children in my name welcomes me.' John told Jesus they'd seen someone driving out demons in Jesus' name and told him to stop, because he wasn't one of their group.\n\nJesus said: 'Do not stop him... whoever is not against us is for us.' Then Jesus gave a serious warning: if anyone causes a little one who believes to stumble, it would be better for them to have a huge millstone tied around their neck and be thrown into the sea! And if your own hand, foot, or eye causes you to sin, get rid of it — better to enter life maimed than to keep something that leads you away from God entirely. 'Salt is good,' Jesus said, 'but if it loses its saltiness... have salt among yourselves, and be at peace with each other.'",
+        "es": "De vuelta en Capernaúm, Jesús preguntó a los discípulos sobre qué habían estado discutiendo en el camino — se quedaron en silencio, avergonzados, ¡porque habían estado discutiendo sobre quién era el MÁS GRANDE! Jesús dijo: \"Cualquiera que quiera ser el primero debe ser el último de todos, y el servidor de todos.\" Tomó a un niño pequeño, lo puso de pie entre ellos, y dijo: \"Cualquiera que recibe a uno de estos niños en mi nombre, me recibe a mí.\" Juan le dijo a Jesús que habían visto a alguien expulsando demonios en el nombre de Jesús y le dijeron que se detuviera, porque no era de su grupo.\n\nJesús dijo: \"No lo detengan... el que no está contra nosotros, está por nosotros.\" Entonces Jesús dio una advertencia seria: si alguien hace tropezar a uno de los pequeños que creen, sería mejor para él tener una enorme piedra de molino atada a su cuello y ser arrojado al mar. Y si tu propia mano, pie, u ojo te hace pecar, deséchalo — es mejor entrar en la vida mutilado que conservar algo que te aleja completamente de Dios. \"La sal es buena,\" dijo Jesús, \"pero si pierde su sabor... tengan sal en sí mismos, y estén en paz unos con otros.\" ",
+        "fr": "De retour à Capernaüm, Jésus demanda aux disciples ce dont ils avaient discuté en chemin — ils restèrent silencieux, gênés, car ils avaient discuté de qui était le PLUS GRAND ! Jésus dit : « Si quelqu'un veut être le premier, il doit être le dernier de tous, et le serviteur de tous. » Il prit un petit enfant, le plaça debout au milieu d'eux, et dit : « Quiconque reçoit en mon nom un de ces petits enfants, me reçoit. » Jean dit à Jésus qu'ils avaient vu quelqu'un chasser des démons au nom de Jésus et lui avaient dit d'arrêter, parce qu'il n'était pas de leur groupe.\n\nJésus dit : « Ne l'empêchez pas... celui qui n'est pas contre nous est pour nous. » Puis Jésus donna un avertissement sérieux : si quelqu'un fait tomber un de ces petits qui croient, il vaudrait mieux pour lui qu'on lui jette au cou une grosse meule et qu'on le jette dans la mer. Et si ta propre main, ton pied, ou ton œil te fait pécher, débarrasse-toi-en — il vaut mieux entrer dans la vie estropié que de garder quelque chose qui t'éloigne complètement de Dieu. « Le sel est bon, » dit Jésus, « mais s'il perd sa saveur... ayez du sel en vous-mêmes, et soyez en paix les uns avec les autres. »"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Anyone who wants to be first must be the very last, and the servant of all."
+        "en": "Anyone who wants to be first must be the very last, and the servant of all.",
+        "es": "Entonces sentándose, llamó á los doce, y les dice: Si alguno quiere ser el primero, será el postrero de todos, y el servidor de todos.",
+        "fr": "Alors il s'assit, appela les douze, et leur dit : Si quelqu'un veut être le premier, il sera le dernier de tous et le serviteur de tous."
       },
       "ref": {
-        "en": "Mark 9:35 (NIV)"
+        "en": "Mark 9:35 (NIV)",
+        "es": "Marcos 9:35 (Valera)",
+        "fr": "Marc 9:35 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -40,6 +50,22 @@
           "servant",
           "of",
           "all"
+        ],
+        "es": [
+          "Entonces",
+          "sentándose",
+          "llamó",
+          "á",
+          "los",
+          "doce"
+        ],
+        "fr": [
+          "Alors",
+          "il",
+          "s'assit",
+          "appela",
+          "les",
+          "douze"
         ]
       },
       "typing_challenge": true
@@ -47,7 +73,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for The Last Will Be First"
+        "en": "A Song for The Last Will Be First",
+        "es": "Una Canción para El Último Será el Primero",
+        "fr": "Une Chanson pour Le Dernier Sera le Premier"
       },
       "audio_en": "/static/audio/mark/lesson24_en.mp3"
     },
@@ -56,7 +84,9 @@
       "questions": [
         {
           "q": {
-            "en": "What had the disciples been secretly arguing about on the road?"
+            "en": "What had the disciples been secretly arguing about on the road?",
+            "es": "¿Sobre qué habían estado discutiendo en secreto los discípulos en el camino?",
+            "fr": "De quoi les disciples avaient-ils secrètement discuté en chemin ?"
           },
           "options": {
             "en": [
@@ -64,13 +94,27 @@
               "Who was the greatest among them",
               "Where to travel next",
               "Nothing important"
+            ],
+            "es": [
+              "Qué comer",
+              "Quién era el más grande entre ellos",
+              "A dónde viajar después",
+              "Nada importante"
+            ],
+            "fr": [
+              "Quoi manger",
+              "Qui était le plus grand parmi eux",
+              "Où voyager ensuite",
+              "Rien d'important"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus do to teach them about true greatness?"
+            "en": "What did Jesus do to teach them about true greatness?",
+            "es": "¿Qué hizo Jesús para enseñarles sobre la verdadera grandeza?",
+            "fr": "Qu'a fait Jésus pour leur enseigner la vraie grandeur ?"
           },
           "options": {
             "en": [
@@ -78,13 +122,27 @@
               "Took a little child and held him up as an example",
               "Ignored the question",
               "Argued back"
+            ],
+            "es": [
+              "Dio un largo discurso solamente",
+              "Tomó a un niño pequeño y lo usó como ejemplo",
+              "Ignoró la pregunta",
+              "Discutió también"
+            ],
+            "fr": [
+              "Il a seulement donné un long discours",
+              "Il a pris un petit enfant et l'a tenu comme exemple",
+              "Il a ignoré la question",
+              "Il a aussi discuté"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How seriously does Jesus treat causing a 'little one' to stumble?"
+            "en": "How seriously does Jesus treat causing a 'little one' to stumble?",
+            "es": "¿Con cuánta seriedad trata Jesús el hacer tropezar a un 'pequeño'?",
+            "fr": "Avec quel sérieux Jésus traite-t-il le fait de faire tomber un « petit » ?"
           },
           "options": {
             "en": [
@@ -92,6 +150,18 @@
               "Extremely seriously — better to have a millstone tied around your neck than cause that",
               "It's not addressed",
               "Only adults matter"
+            ],
+            "es": [
+              "No importa mucho",
+              "Extremadamente serio — mejor tener una piedra de molino atada al cuello que causar eso",
+              "No se aborda",
+              "Solo los adultos importan"
+            ],
+            "fr": [
+              "Cela n'a pas beaucoup d'importance",
+              "Extrêmement sérieux — mieux vaut avoir une meule attachée au cou que de causer cela",
+              "Ce n'est pas abordé",
+              "Seuls les adultes comptent"
             ]
           },
           "answer": 1
@@ -103,7 +173,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: The Last Will Be First"
+            "en": "Activity sheet: The Last Will Be First",
+            "es": "Hoja de actividad: El Último Será el Primero",
+            "fr": "Fiche d'activité : Le Dernier Sera le Premier"
           },
           "file": "/static/printables/mark/lesson24_sheet.pdf"
         }
@@ -112,7 +184,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: true greatness in God's kingdom is measured by servanthood, not status — and protecting the faith of \"little ones\" (children, and the spiritually young or vulnerable) is treated with the utmost seriousness, alongside ruthless personal honesty about whatever causes one's own sin. Jesus' tolerance toward the unnamed exorcist (\"whoever is not against us is for us\") models grace toward genuine, even imperfectly-organized, gospel work.\n\nConversation starters: (1) Why might Jesus use a child specifically to teach about greatness and welcome? (2) Why does Jesus take such a strong stance against causing \"little ones\" to stumble? (3) What's something you might need to \"get rid of\" because it leads you toward sin?\n\nPray for hearts that genuinely serve rather than seek status, and for protection over the faith of children."
+        "en": "Big idea: true greatness in God's kingdom is measured by servanthood, not status — and protecting the faith of \"little ones\" (children, and the spiritually young or vulnerable) is treated with the utmost seriousness, alongside ruthless personal honesty about whatever causes one's own sin. Jesus' tolerance toward the unnamed exorcist (\"whoever is not against us is for us\") models grace toward genuine, even imperfectly-organized, gospel work.\n\nConversation starters: (1) Why might Jesus use a child specifically to teach about greatness and welcome? (2) Why does Jesus take such a strong stance against causing \"little ones\" to stumble? (3) What's something you might need to \"get rid of\" because it leads you toward sin?\n\nPray for hearts that genuinely serve rather than seek status, and for protection over the faith of children.",
+        "es": "Idea principal: la verdadera grandeza en el reino de Dios se mide por el servicio, no por el estatus — y proteger la fe de los 'pequeños' (niños, y los espiritualmente jóvenes o vulnerables) se trata con la máxima seriedad, junto con una honestidad personal implacable sobre cualquier cosa que cause el propio pecado de uno. La tolerancia de Jesús hacia el exorcista no identificado ('el que no está contra nosotros está por nosotros') modela gracia hacia un trabajo genuino del evangelio, incluso imperfectamente organizado.\n\nPara conversar: (1) ¿Por qué podría Jesús usar específicamente a un niño para enseñar sobre la grandeza y el recibimiento? (2) ¿Por qué toma Jesús una postura tan fuerte contra hacer tropezar a los 'pequeños'? (3) ¿Qué es algo que podrías necesitar 'desechar' porque te lleva hacia el pecado?\n\nOren por corazones que genuinamente sirvan en lugar de buscar estatus, y por protección sobre la fe de los niños.",
+        "fr": "Idée principale : la vraie grandeur dans le royaume de Dieu se mesure par le service, et non par le statut — et protéger la foi des « petits » (enfants, et les spirituellement jeunes ou vulnérables) est traité avec le plus grand sérieux, avec une honnêteté personnelle implacable sur tout ce qui cause son propre péché. La tolérance de Jésus envers l'exorciste non identifié (« celui qui n'est pas contre nous est pour nous ») modèle la grâce envers une œuvre évangélique authentique, même imparfaitement organisée.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il utiliser spécifiquement un enfant pour enseigner sur la grandeur et l'accueil ? (2) Pourquoi Jésus prend-Il une position si forte contre le fait de faire tomber les « petits » ? (3) Qu'est-ce que tu pourrais avoir besoin de « rejeter » parce que cela te conduit vers le péché ?\n\nPriez pour des cœurs qui servent véritablement plutôt que de rechercher le statut, et pour la protection de la foi des enfants."
       }
     }
   ]

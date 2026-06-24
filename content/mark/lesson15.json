@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "A King's Terrible Promise"
+    "en": "A King's Terrible Promise",
+    "es": "La Terrible Promesa de un Rey",
+    "fr": "La Terrible Promesse d'un Roi"
   },
   "ref": "Mark 6:14-29",
   "section": "John the Baptist Beheaded",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A dance, a vow, a tragic ending"
+        "en": "A dance, a vow, a tragic ending",
+        "es": "Una danza, un juramento, un final trágico",
+        "fr": "Une danse, un serment, une fin tragique"
       },
       "body": {
-        "en": "King Herod had heard about Jesus and wondered if this was John the Baptist, raised from the dead — because Herod himself had had John arrested and beheaded. Herod had married Herodias, his brother's wife, and John had spoken out against it, which made Herodias want John dead.\n\nBut Herod feared John, knowing he was a righteous and holy man, and kept him safe in prison, even though he liked to listen to him. On Herod's birthday, his daughter Herodias danced for the guests, pleasing Herod so much that he promised, with an oath, to give her anything she asked, even half his kingdom!\n\nPrompted by her mother, she asked for John the Baptist's head on a platter. Herod was greatly distressed, but because of his oath and his guests, he gave the order anyway. John's disciples came and took his body and laid it in a tomb.\n\nIt's a sobering, sad story — a king trapped by his own pride and a careless promise, leading to the death of a truly righteous man. Even powerful people can make terrible choices when they fear looking weak more than they fear doing wrong."
+        "en": "King Herod had heard about Jesus and wondered if this was John the Baptist, raised from the dead — because Herod himself had had John arrested and beheaded. Herod had married Herodias, his brother's wife, and John had spoken out against it, which made Herodias want John dead.\n\nBut Herod feared John, knowing he was a righteous and holy man, and kept him safe in prison, even though he liked to listen to him. On Herod's birthday, his daughter Herodias danced for the guests, pleasing Herod so much that he promised, with an oath, to give her anything she asked, even half his kingdom!\n\nPrompted by her mother, she asked for John the Baptist's head on a platter. Herod was greatly distressed, but because of his oath and his guests, he gave the order anyway. John's disciples came and took his body and laid it in a tomb.\n\nIt's a sobering, sad story — a king trapped by his own pride and a careless promise, leading to the death of a truly righteous man. Even powerful people can make terrible choices when they fear looking weak more than they fear doing wrong.",
+        "es": "El rey Herodes había oído de Jesús y se preguntaba si este era Juan el Bautista, resucitado de los muertos — porque Herodes mismo había hecho arrestar y decapitar a Juan. Herodes se había casado con Herodías, la esposa de su hermano, y Juan había hablado en contra de esto, lo cual hizo que Herodías quisiera la muerte de Juan.\n\nPero Herodes temía a Juan, sabiendo que era un hombre justo y santo, y lo mantenía a salvo en prisión, aunque le gustaba escucharlo. En el cumpleaños de Herodes, su hija Herodías bailó para los invitados, agradando tanto a Herodes que prometió, con un juramento, darle cualquier cosa que pidiera, ¡incluso la mitad de su reino!\n\nInstigada por su madre, pidió la cabeza de Juan el Bautista en un plato. Herodes se entristeció profundamente, pero a causa de su juramento y de sus invitados, dio la orden de todos modos. Los discípulos de Juan vinieron y tomaron su cuerpo y lo pusieron en una tumba.\n\nEs una historia seria y triste — un rey atrapado por su propio orgullo y una promesa descuidada, que llevó a la muerte de un hombre verdaderamente justo. Incluso las personas poderosas pueden tomar decisiones terribles cuando temen más parecer débiles que hacer lo malo.",
+        "fr": "Le roi Hérode avait entendu parler de Jésus et se demandait si c'était Jean-Baptiste, ressuscité des morts — car Hérode lui-même avait fait arrêter et décapiter Jean. Hérode avait épousé Hérodiade, la femme de son frère, et Jean avait parlé contre cela, ce qui avait poussé Hérodiade à vouloir la mort de Jean.\n\nMais Hérode craignait Jean, sachant qu'il était un homme juste et saint, et le protégeait en prison, bien qu'il aimât l'écouter. Le jour de son anniversaire, la fille d'Hérode dansa pour les invités, plaisant tant à Hérode qu'il promit, par serment, de lui donner tout ce qu'elle demanderait, même la moitié de son royaume !\n\nPoussée par sa mère, elle demanda la tête de Jean-Baptiste sur un plateau. Hérode fut profondément attristé, mais à cause de son serment et de ses invités, il donna quand même l'ordre. Les disciples de Jean vinrent prendre son corps et le déposèrent dans un tombeau.\n\nC'est une histoire sobre et triste — un roi pris au piège par son propre orgueil et une promesse imprudente, conduisant à la mort d'un homme véritablement juste. Même les personnes puissantes peuvent faire des choix terribles quand elles craignent davantage de paraître faibles que de mal agir."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Herod feared John and protected him, knowing he was a righteous and holy man."
+        "en": "Herod feared John and protected him, knowing he was a righteous and holy man.",
+        "es": "Porque Herodes temía á Juan, sabiendo que era varón justo y santo, y le tenía respeto.",
+        "fr": "Hérode craignait Jean, le connaissant pour un homme juste et saint ; il le protégeait."
       },
       "ref": {
-        "en": "Mark 6:20 (NIV, paraphrased)"
+        "en": "Mark 6:20 (NIV, paraphrased)",
+        "es": "Marcos 6:20 (Valera)",
+        "fr": "Marc 6:20 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "and",
           "holy",
           "man"
+        ],
+        "es": [
+          "Porque",
+          "Herodes",
+          "temía",
+          "á",
+          "Juan",
+          "sabiendo"
+        ],
+        "fr": [
+          "Hérode",
+          "craignait",
+          "Jean",
+          "le",
+          "connaissant",
+          "pour"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for A King's Terrible Promise"
+        "en": "A Song for A King's Terrible Promise",
+        "es": "Una Canción para La Terrible Promesa de un Rey",
+        "fr": "Une Chanson pour La Terrible Promesse d'un Roi"
       },
       "audio_en": "/static/audio/mark/lesson15_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "Why had Herod originally kept John the Baptist safe, even in prison?"
+            "en": "Why had Herod originally kept John the Baptist safe, even in prison?",
+            "es": "¿Por qué había mantenido Herodes a salvo a Juan el Bautista originalmente, incluso en prisión?",
+            "fr": "Pourquoi Hérode avait-il initialement protégé Jean-Baptiste, même en prison ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "He feared John, knowing he was a righteous and holy man",
               "John had no influence",
               "Herod wanted to release him quickly"
+            ],
+            "es": [
+              "No le importaba Juan en absoluto",
+              "Le temía, sabiendo que era un hombre justo y santo",
+              "Juan no tenía influencia",
+              "Herodes quería liberarlo rápidamente"
+            ],
+            "fr": [
+              "Il ne se souciait pas du tout de Jean",
+              "Il le craignait, sachant qu'il était un homme juste et saint",
+              "Jean n'avait aucune influence",
+              "Hérode voulait le libérer rapidement"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What rash promise did Herod make at his birthday celebration?"
+            "en": "What rash promise did Herod make at his birthday celebration?",
+            "es": "¿Qué promesa imprudente hizo Herodes en su celebración de cumpleaños?",
+            "fr": "Quelle promesse imprudente Hérode a-t-il faite lors de sa fête d'anniversaire ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "To give the dancer anything she asked, even half his kingdom",
               "To free all prisoners",
               "To leave the kingdom"
+            ],
+            "es": [
+              "No dar nada a nadie",
+              "Dar a la bailarina cualquier cosa que pidiera, incluso la mitad de su reino",
+              "Liberar a todos los prisioneros",
+              "Dejar el reino"
+            ],
+            "fr": [
+              "Ne rien donner à personne",
+              "Donner à la danseuse tout ce qu'elle demanderait, même la moitié de son royaume",
+              "Libérer tous les prisonniers",
+              "Quitter le royaume"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did Herod ultimately give the order to kill John, even though he was distressed?"
+            "en": "Why did Herod ultimately give the order to kill John, even though he was distressed?",
+            "es": "¿Por qué finalmente dio Herodes la orden de matar a Juan, aunque estaba angustiado?",
+            "fr": "Pourquoi Hérode a-t-il finalement donné l'ordre de tuer Jean, même s'il était affligé ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "Because of his oath and not wanting to look weak in front of his guests",
               "John asked him to",
               "No real reason"
+            ],
+            "es": [
+              "Quería hacerlo",
+              "Por su juramento y por no querer parecer débil frente a sus invitados",
+              "Juan le pidió que lo hiciera",
+              "Sin razón real"
+            ],
+            "fr": [
+              "Il le voulait",
+              "À cause de son serment et pour ne pas vouloir paraître faible devant ses invités",
+              "Jean lui a demandé de le faire",
+              "Sans raison réelle"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: A King's Terrible Promise"
+            "en": "Activity sheet: A King's Terrible Promise",
+            "es": "Hoja de actividad: La Terrible Promesa de un Rey",
+            "fr": "Fiche d'activité : La Terrible Promesse d'un Roi"
           },
           "file": "/static/printables/mark/lesson15_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: a sobering account of how pride, public image, and a careless promise can override even a leader's own conscience — Herod knew John was righteous, yet chose to look strong rather than do right. This story doesn't shy away from real tragedy, and handling it honestly with children teaches an important lesson about the cost of caring more about appearances than truth.\n\nConversation starters: (1) Why do you think Herod made such a rash promise in the first place? (2) What does it mean that Herod felt \"greatly distressed\" but still gave the order? (3) What helps a person do what's right, even when it's embarrassing or costly?\n\nPray for courage to do what's right, even under pressure to save face."
+        "en": "Big idea: a sobering account of how pride, public image, and a careless promise can override even a leader's own conscience — Herod knew John was righteous, yet chose to look strong rather than do right. This story doesn't shy away from real tragedy, and handling it honestly with children teaches an important lesson about the cost of caring more about appearances than truth.\n\nConversation starters: (1) Why do you think Herod made such a rash promise in the first place? (2) What does it mean that Herod felt \"greatly distressed\" but still gave the order? (3) What helps a person do what's right, even when it's embarrassing or costly?\n\nPray for courage to do what's right, even under pressure to save face.",
+        "es": "Idea principal: un relato serio sobre cómo el orgullo, la imagen pública, y una promesa descuidada pueden anular incluso la propia conciencia de un líder — Herodes sabía que Juan era justo, pero eligió parecer fuerte en lugar de hacer lo correcto. Esta historia no evita la tragedia real, y manejarla honestamente con los niños enseña una lección importante sobre el costo de preocuparse más por las apariencias que por la verdad.\n\nPara conversar: (1) ¿Por qué crees que Herodes hizo una promesa tan imprudente en primer lugar? (2) ¿Qué significa que Herodes se sintió 'profundamente angustiado' pero aun así dio la orden? (3) ¿Qué ayuda a una persona a hacer lo correcto, incluso cuando es vergonzoso o costoso?\n\nOren por valor para hacer lo correcto, incluso bajo presión por mantener las apariencias.",
+        "fr": "Idée principale : un récit sobre sur la façon dont l'orgueil, l'image publique, et une promesse imprudente peuvent l'emporter même sur la propre conscience d'un dirigeant — Hérode savait que Jean était juste, mais a choisi de paraître fort plutôt que de bien agir. Cette histoire n'évite pas la véritable tragédie, et l'aborder honnêtement avec les enfants enseigne une leçon importante sur le coût de se préoccuper davantage des apparences que de la vérité.\n\nPour la conversation : (1) Pourquoi penses-tu qu'Hérode a fait une promesse aussi imprudente au départ ? (2) Que signifie le fait qu'Hérode se soit senti « profondément affligé » mais ait quand même donné l'ordre ? (3) Qu'est-ce qui aide une personne à bien agir, même quand c'est embarrassant ou coûteux ?\n\nPriez pour le courage de bien agir, même sous la pression de sauver les apparences."
       }
     }
   ]

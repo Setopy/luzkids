@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Grace Be With Your Spirit"
+    "en": "Grace Be With Your Spirit",
+    "es": "La Gracia Sea Con Tu Espíritu",
+    "fr": "Que la Grâce Soit Avec Ton Esprit"
   },
   "ref": "Philippians 4:21-23",
   "section": "Final Greetings",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A short, warm goodbye"
+        "en": "A short, warm goodbye",
+        "es": "Una despedida corta y cálida",
+        "fr": "Un adieu court et chaleureux"
       },
       "body": {
-        "en": "Paul closes this joyful, personal letter with brief, warm greetings. He asks the Philippians to greet every one of God's holy people in Christ Jesus — and the brothers with him send their greetings too.\n\nThen comes a small but touching detail: 'All God's people here send you greetings, especially those who belong to Caesar's household.' Imagine that — even within the emperor's own household, in the very heart of the Roman government, there were believers who knew and loved this little church far away in Philippi!\n\nThe gospel had reached into the most unexpected, powerful places, carried by ordinary believers serving even in Caesar's own house.\n\nAnd then Paul's final words, simple and complete: 'The grace of the Lord Jesus Christ be with your spirit. Amen.' A letter that began overflowing with joy and partnership, that walked through chains, humility, pressing on, and contentment, ends exactly where every letter should end: with grace, freely given, resting on every reader."
+        "en": "Paul closes this joyful, personal letter with brief, warm greetings. He asks the Philippians to greet every one of God's holy people in Christ Jesus — and the brothers with him send their greetings too.\n\nThen comes a small but touching detail: 'All God's people here send you greetings, especially those who belong to Caesar's household.' Imagine that — even within the emperor's own household, in the very heart of the Roman government, there were believers who knew and loved this little church far away in Philippi!\n\nThe gospel had reached into the most unexpected, powerful places, carried by ordinary believers serving even in Caesar's own house.\n\nAnd then Paul's final words, simple and complete: 'The grace of the Lord Jesus Christ be with your spirit. Amen.' A letter that began overflowing with joy and partnership, that walked through chains, humility, pressing on, and contentment, ends exactly where every letter should end: with grace, freely given, resting on every reader.",
+        "es": "Pablo cierra esta carta gozosa y personal con saludos breves y cálidos. Pide a los filipenses que saluden a cada uno de los santos de Dios en Cristo Jesús — y los hermanos que están con él también envían sus saludos.\n\nLuego viene un detalle pequeño pero conmovedor: \"Todos los santos os saludan, especialmente los que son de la casa del César.\" Imagina eso — ¡incluso dentro de la propia casa del emperador, en el corazón mismo del gobierno romano, había creyentes que conocían y amaban a esta pequeña iglesia tan lejana en Filipos!\n\nEl evangelio había llegado a los lugares más inesperados y poderosos, llevado por creyentes comunes que servían incluso en la propia casa del César.\n\nY luego las palabras finales de Pablo, sencillas y completas: \"La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén.\" Una carta que comenzó desbordante de alegría y compañerismo, que pasó por cadenas, humildad, avance constante y contentamiento, termina exactamente donde toda carta debería terminar: con gracia, dada libremente, descansando sobre cada lector.",
+        "fr": "Paul conclut cette lettre joyeuse et personnelle par de brèves et chaleureuses salutations. Il demande aux Philippiens de saluer chacun des saints en Jésus-Christ — et les frères qui sont avec lui envoient aussi leurs salutations.\n\nPuis vient un détail petit mais touchant : « Tous les saints vous saluent, et principalement ceux de la maison de César. » Imagine cela — même au sein de la maison de l'empereur lui-même, au cœur même du gouvernement romain, il y avait des croyants qui connaissaient et aimaient cette petite église si lointaine, à Philippes !\n\nL'Évangile avait atteint les lieux les plus inattendus et les plus puissants, porté par des croyants ordinaires servant même dans la propre maison de César.\n\nEt puis les derniers mots de Paul, simples et complets : « Que la grâce du Seigneur Jésus-Christ soit avec votre esprit ! » Une lettre qui a commencé débordante de joie et de partenariat, qui a traversé les chaînes, l'humilité, l'avancée persévérante et le contentement, se termine exactement là où toute lettre devrait se terminer : par la grâce, donnée librement, reposant sur chaque lecteur."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The grace of the Lord Jesus Christ be with your spirit."
+        "en": "The grace of the Lord Jesus Christ be with your spirit.",
+        "es": "La gracia de nuestro Señor Jesucristo sea con todos vosotros.",
+        "fr": "Que la grâce du Seigneur Jésus-Christ soit avec votre esprit !"
       },
       "ref": {
-        "en": "Philippians 4:23 (NIV)"
+        "en": "Philippians 4:23 (NIV)",
+        "es": "Filipenses 4:23 (Valera)",
+        "fr": "Philippiens 4:23 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "with",
           "your",
           "spirit"
+        ],
+        "es": [
+          "La",
+          "gracia",
+          "de",
+          "nuestro",
+          "Señor",
+          "Jesucristo"
+        ],
+        "fr": [
+          "Que",
+          "la",
+          "grâce",
+          "du",
+          "Seigneur",
+          "Jésus-Christ"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Grace Be With Your Spirit"
+        "en": "A Song for Grace Be With Your Spirit",
+        "es": "Una Canción para La Gracia Sea Con Tu Espíritu",
+        "fr": "Une Chanson pour Que la Grâce Soit Avec Ton Esprit"
       },
       "audio_en": "/static/audio/philippians/lesson11_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "Who does Paul mention sends greetings, in a surprising detail?"
+            "en": "Who does Paul mention sends greetings, in a surprising detail?",
+            "es": "¿Quién menciona Pablo que envía saludos, en un detalle sorprendente?",
+            "fr": "Qui Paul mentionne-t-il comme envoyant des salutations, dans un détail surprenant ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "Believers in Caesar's own household, in Rome",
               "No one in particular",
               "Only Timothy"
+            ],
+            "es": [
+              "Solo personas en Filipos",
+              "Creyentes de la propia casa del César, en Roma",
+              "Nadie en particular",
+              "Solo Timoteo"
+            ],
+            "fr": [
+              "Seulement des gens à Philippes",
+              "Des croyants de la propre maison de César, à Rome",
+              "Personne en particulier",
+              "Seulement Timothée"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the detail about Caesar's household show about the gospel?"
+            "en": "What does the detail about Caesar's household show about the gospel?",
+            "es": "¿Qué muestra el detalle sobre la casa del César acerca del evangelio?",
+            "fr": "Que montre le détail sur la maison de César à propos de l'Évangile ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "It had reached into even the most powerful, unexpected places",
               "It was only for the poor",
               "It had failed completely"
+            ],
+            "es": [
+              "No se había difundido muy lejos",
+              "Había llegado incluso a los lugares más poderosos e inesperados",
+              "Era solo para los pobres",
+              "Había fracasado por completo"
+            ],
+            "fr": [
+              "Il ne s'était pas répandu très loin",
+              "Il avait atteint même les lieux les plus puissants et inattendus",
+              "Il était seulement pour les pauvres",
+              "Il avait complètement échoué"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What are the very last words of the letter to the Philippians?"
+            "en": "What are the very last words of the letter to the Philippians?",
+            "es": "¿Cuáles son las últimas palabras de la carta a los filipenses?",
+            "fr": "Quels sont les tout derniers mots de la lettre aux Philippiens ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "The grace of the Lord Jesus Christ be with your spirit",
               "Remember me always",
               "Nothing in particular"
+            ],
+            "es": [
+              "Adiós para siempre",
+              "La gracia del Señor Jesucristo sea con tu espíritu",
+              "Recuérdame siempre",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Adieu pour toujours",
+              "Que la grâce du Seigneur Jésus-Christ soit avec ton esprit",
+              "Souviens-toi de moi toujours",
+              "Rien de particulier"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Grace Be With Your Spirit"
+            "en": "Activity sheet: Grace Be With Your Spirit",
+            "es": "Hoja de actividad: La Gracia Sea Con Tu Espíritu",
+            "fr": "Fiche d'activité : Que la Grâce Soit Avec Ton Esprit"
           },
           "file": "/static/printables/philippians/lesson11_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the gospel's reach into even Caesar's household — a small, easily-missed detail — testifies to grace spreading into the most unexpected corners through ordinary, faithful believers, not strategic campaigns. The letter's closing benediction, \"grace... be with your spirit,\" fittingly returns to the theme of grace and joy that has run through the entire letter, from its first verse to its last.\n\nConversation starters: (1) What does it mean that believers even served faithfully inside Caesar's own household? (2) Looking back over the whole letter, what stands out to you most about Paul's joy in hard circumstances? (3) How would you summarize the book of Philippians in one sentence to a friend?\n\nPray the closing blessing of Philippians together as a family: that the grace of the Lord Jesus Christ would be with each person's spirit."
+        "en": "Big idea: the gospel's reach into even Caesar's household — a small, easily-missed detail — testifies to grace spreading into the most unexpected corners through ordinary, faithful believers, not strategic campaigns. The letter's closing benediction, \"grace... be with your spirit,\" fittingly returns to the theme of grace and joy that has run through the entire letter, from its first verse to its last.\n\nConversation starters: (1) What does it mean that believers even served faithfully inside Caesar's own household? (2) Looking back over the whole letter, what stands out to you most about Paul's joy in hard circumstances? (3) How would you summarize the book of Philippians in one sentence to a friend?\n\nPray the closing blessing of Philippians together as a family: that the grace of the Lord Jesus Christ would be with each person's spirit.",
+        "es": "Idea principal: el alcance del evangelio hasta la propia casa del César — un detalle pequeño y fácil de pasar por alto — testifica que la gracia se extiende a los rincones más inesperados a través de creyentes comunes y fieles, no de campañas estratégicas. La bendición final de la carta, \"la gracia... sea con tu espíritu\", retoma apropiadamente el tema de gracia y gozo que ha recorrido toda la carta, desde su primer versículo hasta el último.\n\nPara conversar: (1) ¿Qué significa que hubiera creyentes sirviendo fielmente incluso dentro de la propia casa del César? (2) Mirando atrás sobre toda la carta, ¿qué es lo que más te llama la atención sobre el gozo de Pablo en circunstancias difíciles? (3) ¿Cómo resumirías el libro de Filipenses en una sola frase para un amigo?\n\nOren juntos en familia la bendición final de Filipenses: que la gracia del Señor Jesucristo esté con el espíritu de cada persona.",
+        "fr": "Idée principale : la portée de l'Évangile jusque dans la propre maison de César — un détail petit et facile à manquer — témoigne que la grâce se répand jusque dans les coins les plus inattendus, par des croyants ordinaires et fidèles, et non par des campagnes stratégiques. La bénédiction finale de la lettre, « que la grâce... soit avec votre esprit », revient justement au thème de grâce et de joie qui a parcouru toute la lettre, de son premier verset jusqu'au dernier.\n\nPour la conversation : (1) Que signifie le fait que des croyants aient servi fidèlement même au sein de la propre maison de César ? (2) En regardant en arrière sur toute la lettre, qu'est-ce qui te marque le plus dans la joie de Paul au milieu de circonstances difficiles ? (3) Comment résumerais-tu le livre des Philippiens en une seule phrase à un ami ?\n\nPriez ensemble en famille la bénédiction finale de Philippiens : que la grâce du Seigneur Jésus-Christ soit avec l'esprit de chaque personne."
       }
     }
   ]

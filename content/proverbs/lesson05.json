@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Lean Not on Your Own Understanding"
+    "en": "Lean Not on Your Own Understanding",
+    "es": "No Te Apoyes en Tu Propia Prudencia",
+    "fr": "Ne T'appuie Pas Sur Ta Sagesse"
   },
   "ref": "Proverbs 3:1-12",
   "section": "Trust in the Lord",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Trust with all your heart, not just part of it"
+        "en": "Trust with all your heart, not just part of it",
+        "es": "Confía con todo tu corazón, no solo con parte de él",
+        "fr": "Aie confiance de tout ton cœur, pas seulement d'une partie"
       },
       "body": {
-        "en": "Don't forget the teaching, the father urges, but keep these commands in your heart — they will bring you long life, peace, and prosperity. Let love and faithfulness never leave you.\n\nThen comes one of the most quoted verses in the entire Bible: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'\n\nNotice the contrast: trusting God FULLY versus leaning on your OWN understanding. Our own wisdom, however clever it feels, is never enough on its own. We need God's guidance over our own.\n\nThe chapter continues: don't be wise in your own eyes — instead, fear the Lord and shun evil, and this will bring health to your body and nourishment to your bones. Honour the Lord with your wealth, and trust Him even with the resources you have.\n\nFinally, don't despise the Lord's discipline, because the Lord disciplines those He loves, just as a father disciplines the child he delights in. Even correction is a sign of love, not rejection."
+        "en": "Don't forget the teaching, the father urges, but keep these commands in your heart — they will bring you long life, peace, and prosperity. Let love and faithfulness never leave you.\n\nThen comes one of the most quoted verses in the entire Bible: 'Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.'\n\nNotice the contrast: trusting God FULLY versus leaning on your OWN understanding. Our own wisdom, however clever it feels, is never enough on its own. We need God's guidance over our own.\n\nThe chapter continues: don't be wise in your own eyes — instead, fear the Lord and shun evil, and this will bring health to your body and nourishment to your bones. Honour the Lord with your wealth, and trust Him even with the resources you have.\n\nFinally, don't despise the Lord's discipline, because the Lord disciplines those He loves, just as a father disciplines the child he delights in. Even correction is a sign of love, not rejection.",
+        "es": "No olvides la enseñanza, urge el padre, sino guarda estos mandamientos en tu corazón — te traerán larga vida, paz y prosperidad. Que la misericordia y la verdad nunca te abandonen.\n\nEntonces llega uno de los versículos más citados de toda la Biblia: \"Fíate de Jehová de todo tu corazón, y no estribes en tu prudencia; reconócelo en todos tus caminos, y él enderezará tus veredas.\"\n\nNota el contraste: confiar en Dios COMPLETAMENTE versus apoyarse en TU PROPIA prudencia. Nuestra propia sabiduría, sin importar cuán astuta se sienta, nunca es suficiente por sí sola. Necesitamos la guía de Dios por encima de la nuestra.\n\nEl capítulo continúa: no seas sabio en tu propia opinión — en cambio, teme a Jehová y apártate del mal, y esto traerá salud a tu cuerpo y refrigerio a tus huesos. Honra a Jehová con tus bienes, y confía en Él incluso con los recursos que tienes.\n\nFinalmente, no menosprecies la disciplina de Jehová, porque Jehová disciplina a quienes ama, así como un padre disciplina al hijo que ama. Incluso la corrección es señal de amor, no de rechazo.",
+        "fr": "N'oublie pas l'enseignement, insiste le père, mais garde ces commandements dans ton cœur — ils t'apporteront longue vie, paix et prospérité. Que la bonté et la fidélité ne te quittent jamais.\n\nPuis vient l'un des versets les plus cités de toute la Bible : « Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta sagesse ; reconnais-le dans toutes tes voies, et il aplanira tes sentiers. »\n\nRemarque le contraste : faire confiance à Dieu PLEINEMENT versus s'appuyer sur SA PROPRE sagesse. Notre propre sagesse, aussi astucieuse qu'elle paraisse, n'est jamais suffisante à elle seule. Nous avons besoin de la direction de Dieu plus que de la nôtre.\n\nLe chapitre continue : ne sois pas sage à tes propres yeux — au contraire, crains l'Éternel et détourne-toi du mal, et cela apportera la santé à ton corps et un soulagement à tes os. Honore l'Éternel de tes biens, et fais-lui confiance même avec les ressources que tu as.\n\nEnfin, ne méprise pas la discipline de l'Éternel, car l'Éternel discipline ceux qu'il aime, tout comme un père discipline l'enfant qu'il aime. Même la correction est un signe d'amour, pas de rejet."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Trust in the Lord with all your heart and lean not on your own understanding."
+        "en": "Trust in the Lord with all your heart and lean not on your own understanding.",
+        "es": "Fíate de Jehová de todo tu corazón, y no estribes en tu prudencia.",
+        "fr": "Confie-toi en l'Éternel de tout ton cœur, Et ne t'appuie pas sur ta sagesse ;"
       },
       "ref": {
-        "en": "Proverbs 3:5 (NIV)"
+        "en": "Proverbs 3:5 (NIV)",
+        "es": "Proverbios 3:5 (Valera)",
+        "fr": "Proverbes 3:5 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -39,6 +49,22 @@
           "your",
           "own",
           "understanding"
+        ],
+        "es": [
+          "Fíate",
+          "de",
+          "Jehová",
+          "de",
+          "todo",
+          "tu"
+        ],
+        "fr": [
+          "Confie-toi",
+          "en",
+          "l'Éternel",
+          "de",
+          "tout",
+          "ton"
         ]
       },
       "typing_challenge": true
@@ -46,7 +72,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Lean Not on Your Own Understanding"
+        "en": "A Song for Lean Not on Your Own Understanding",
+        "es": "Una Canción para No Te Apoyes en Tu Propia Prudencia",
+        "fr": "Une Chanson pour Ne T'appuie Pas Sur Ta Sagesse"
       },
       "audio_en": "/static/audio/proverbs/lesson05_en.mp3"
     },
@@ -55,7 +83,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 3:5, what should we trust, and what should we NOT lean on?"
+            "en": "According to Proverbs 3:5, what should we trust, and what should we NOT lean on?",
+            "es": "Según Proverbios 3:5, ¿en qué debemos confiar, y en qué NO debemos apoyarnos?",
+            "fr": "Selon Proverbes 3:5, en quoi devons-nous avoir confiance, et sur quoi ne devons-nous PAS nous appuyer ?"
           },
           "options": {
             "en": [
@@ -63,13 +93,27 @@
               "Trust the Lord with all our heart, not lean on our own understanding",
               "Trust no one at all",
               "Trust only our friends"
+            ],
+            "es": [
+              "Confiar en nosotros mismos, apoyarnos en Dios",
+              "Confiar en Jehová con todo el corazón, no apoyarnos en nuestra propia prudencia",
+              "No confiar en nadie",
+              "Confiar solo en nuestros amigos"
+            ],
+            "fr": [
+              "Faire confiance à soi-même, s'appuyer sur Dieu",
+              "Faire confiance à l'Éternel de tout son cœur, ne pas s'appuyer sur sa propre sagesse",
+              "Ne faire confiance à personne",
+              "Faire confiance seulement à ses amis"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the chapter say happens when the Lord disciplines someone?"
+            "en": "What does the chapter say happens when the Lord disciplines someone?",
+            "es": "¿Qué dice el capítulo que sucede cuando Jehová disciplina a alguien?",
+            "fr": "Que dit le chapitre qu'il arrive quand l'Éternel discipline quelqu'un ?"
           },
           "options": {
             "en": [
@@ -77,13 +121,27 @@
               "It's a sign of love, like a father disciplining the child he delights in",
               "It's always unfair",
               "Nothing significant"
+            ],
+            "es": [
+              "Significa que los ha rechazado",
+              "Es una señal de amor, como un padre que disciplina al hijo que ama",
+              "Siempre es injusto",
+              "Nada significativo"
+            ],
+            "fr": [
+              "Cela signifie qu'il les a rejetés",
+              "C'est un signe d'amour, comme un père qui discipline l'enfant qu'il aime",
+              "C'est toujours injuste",
+              "Rien de significatif"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs say about being 'wise in your own eyes'?"
+            "en": "What does Proverbs say about being 'wise in your own eyes'?",
+            "es": "¿Qué dice Proverbios sobre ser 'sabio en tu propia opinión'?",
+            "fr": "Que dit Proverbes sur le fait d'être « sage à ses propres yeux » ?"
           },
           "options": {
             "en": [
@@ -91,6 +149,18 @@
               "It's discouraged — fear the Lord instead, and shun evil",
               "It doesn't matter either way",
               "It's the safest path"
+            ],
+            "es": [
+              "Se anima fuertemente",
+              "Se desanima — en cambio, teme a Jehová y apártate del mal",
+              "No importa de ninguna manera",
+              "Es el camino más seguro"
+            ],
+            "fr": [
+              "C'est fortement encouragé",
+              "C'est découragé — crains plutôt l'Éternel et détourne-toi du mal",
+              "Cela n'a aucune importance",
+              "C'est le chemin le plus sûr"
             ]
           },
           "answer": 1
@@ -102,7 +172,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Lean Not on Your Own Understanding"
+            "en": "Activity sheet: Lean Not on Your Own Understanding",
+            "es": "Hoja de actividad: No Te Apoyes en Tu Propia Prudencia",
+            "fr": "Fiche d'activité : Ne T'appuie Pas Sur Ta Sagesse"
           },
           "file": "/static/printables/proverbs/lesson05_sheet.pdf"
         }
@@ -111,7 +183,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: complete, wholehearted trust in God rather than self-reliant understanding — and the reframing of discipline as evidence of love rather than rejection, a theme that resurfaces powerfully in Hebrews 12 on this platform. \"Lean not on your own understanding\" doesn't dismiss human reasoning entirely, but refuses to let it be the final authority over God's guidance.\n\nConversation starters: (1) What's the difference between using your own understanding and leaning ENTIRELY on it, without trusting God? (2) Why might discipline actually be a sign that someone loves you, not that they've rejected you? (3) What's one area of your life where you tend to lean on your own understanding instead of trusting God?\n\nPray for hearts that trust God fully, in every area, not just the easy parts."
+        "en": "Big idea: complete, wholehearted trust in God rather than self-reliant understanding — and the reframing of discipline as evidence of love rather than rejection, a theme that resurfaces powerfully in Hebrews 12 on this platform. \"Lean not on your own understanding\" doesn't dismiss human reasoning entirely, but refuses to let it be the final authority over God's guidance.\n\nConversation starters: (1) What's the difference between using your own understanding and leaning ENTIRELY on it, without trusting God? (2) Why might discipline actually be a sign that someone loves you, not that they've rejected you? (3) What's one area of your life where you tend to lean on your own understanding instead of trusting God?\n\nPray for hearts that trust God fully, in every area, not just the easy parts.",
+        "es": "Idea principal: confianza completa y de todo corazón en Dios en lugar de la confianza en uno mismo — y el replanteamiento de la disciplina como evidencia de amor en lugar de rechazo, un tema que resurge poderosamente en Hebreos 12 en esta plataforma. \"No te apoyes en tu propia prudencia\" no descarta el razonamiento humano por completo, sino que se niega a dejarlo como la autoridad final por encima de la guía de Dios.\n\nPara conversar: (1) ¿Cuál es la diferencia entre usar tu propio entendimiento y apoyarte ENTERAMENTE en él, sin confiar en Dios? (2) ¿Por qué podría la disciplina ser en realidad una señal de que alguien te ama, no de que te ha rechazado? (3) ¿Cuál es un área de tu vida donde tiendes a apoyarte en tu propia prudencia en lugar de confiar en Dios?\n\nOren por corazones que confíen completamente en Dios, en cada área, no solo en las partes fáciles.",
+        "fr": "Idée principale : confiance complète et entière en Dieu plutôt qu'en sa propre compréhension — et le recadrage de la discipline comme preuve d'amour plutôt que de rejet, un thème qui ressurgit puissamment dans Hébreux 12 sur cette plateforme. « Ne t'appuie pas sur ta sagesse » ne rejette pas entièrement le raisonnement humain, mais refuse de le laisser être l'autorité finale au-dessus de la direction de Dieu.\n\nPour la conversation : (1) Quelle est la différence entre utiliser sa propre compréhension et s'appuyer ENTIÈREMENT sur elle, sans faire confiance à Dieu ? (2) Pourquoi la discipline pourrait-elle en fait être un signe que quelqu'un t'aime, et non qu'il t'a rejeté ? (3) Quel est un domaine de ta vie où tu as tendance à t'appuyer sur ta propre sagesse plutôt que de faire confiance à Dieu ?\n\nPriez pour des cœurs qui font pleinement confiance à Dieu, dans chaque domaine, pas seulement les parties faciles."
       }
     }
   ]

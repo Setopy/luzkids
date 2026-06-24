@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Not My Will, But Yours"
+    "en": "Not My Will, But Yours",
+    "es": "No Mi Voluntad, Sino la Tuya",
+    "fr": "Pas Ma Volonté, Mais la Tienne"
   },
   "ref": "Mark 14:27-52",
   "section": "Jesus Predicts Peter's Denial / Gethsemane / Jesus Arrested",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Sweat like agony, a kiss of betrayal"
+        "en": "Sweat like agony, a kiss of betrayal",
+        "es": "Sudor como agonía, un beso de traición",
+        "fr": "Une sueur d'agonie, un baiser de trahison"
       },
       "body": {
-        "en": "Jesus told them all would fall away — and Peter insisted he never would, even if it meant death! Jesus said, 'Truly I tell you, today, this very night, before the rooster crows twice, you will disown me three times.' Peter insisted even more strongly. In the Garden of Gethsemane, Jesus, deeply distressed, told Peter, James and John: 'My soul is overwhelmed with sorrow. Stay here and keep watch.' Going a little further, He fell to the ground and prayed that, if possible, this hour might pass from Him: 'Abba, Father, everything is possible for you. Take this cup from me. Yet not what I will, but what you will.' Three times He returned to find the disciples sleeping.\n\nThen Judas arrived with an armed crowd, and identified Jesus with a kiss. Jesus was seized. One disciple tried to defend Him with a sword, but Jesus didn't resist arrest — He went willingly, exactly as Scripture had foretold, while all His disciples deserted Him and fled."
+        "en": "Jesus told them all would fall away — and Peter insisted he never would, even if it meant death! Jesus said, 'Truly I tell you, today, this very night, before the rooster crows twice, you will disown me three times.' Peter insisted even more strongly. In the Garden of Gethsemane, Jesus, deeply distressed, told Peter, James and John: 'My soul is overwhelmed with sorrow. Stay here and keep watch.' Going a little further, He fell to the ground and prayed that, if possible, this hour might pass from Him: 'Abba, Father, everything is possible for you. Take this cup from me. Yet not what I will, but what you will.' Three times He returned to find the disciples sleeping.\n\nThen Judas arrived with an armed crowd, and identified Jesus with a kiss. Jesus was seized. One disciple tried to defend Him with a sword, but Jesus didn't resist arrest — He went willingly, exactly as Scripture had foretold, while all His disciples deserted Him and fled.",
+        "es": "Jesús les dijo que todos se apartarían — ¡y Pedro insistió en que él nunca lo haría, aunque significara la muerte! Jesús dijo: \"De verdad te digo, hoy, esta misma noche, antes de que el gallo cante dos veces, me negarás tres veces.\" Pedro insistió aún con más fuerza. En el huerto de Getsemaní, Jesús, profundamente angustiado, dijo a Pedro, Jacobo y Juan: \"Mi alma está abrumada de tristeza. Quédense aquí y vigilen.\" Yendo un poco más allá, cayó al suelo y oró que, si era posible, esta hora pasara de Él: \"Abba, Padre, todo es posible para ti. Quita de mí esta copa. Pero no lo que yo quiero, sino lo que tú quieras.\" Tres veces regresó y encontró a los discípulos dormidos.\n\nEntonces llegó Judas con una multitud armada, e identificó a Jesús con un beso. Jesús fue apresado. Un discípulo intentó defenderlo con una espada, pero Jesús no resistió el arresto — fue voluntariamente, exactamente como la Escritura había predicho, mientras todos Sus discípulos lo abandonaron y huyeron.",
+        "fr": "Jésus leur dit que tous se détourneraient — et Pierre insista qu'il ne le ferait jamais, même si cela signifiait la mort ! Jésus dit : « Je te le dis en vérité, aujourd'hui, cette nuit même, avant que le coq chante deux fois, tu me renieras trois fois. » Pierre insista encore plus fortement. Au jardin de Gethsémané, Jésus, profondément attristé, dit à Pierre, Jacques et Jean : « Mon âme est triste jusqu'à la mort. Restez ici, et veillez. » Allant un peu plus loin, Il se jeta contre terre, et pria que, s'il était possible, cette heure passât loin de Lui : « Abba, Père, toutes choses te sont possibles, éloigne de moi cette coupe ! Toutefois, non pas ce que je veux, mais ce que tu veux. » Trois fois Il revint et trouva les disciples endormis.\n\nAlors Judas arriva avec une foule armée, et identifia Jésus par un baiser. Jésus fut saisi. Un disciple essaya de Le défendre avec une épée, mais Jésus ne résista pas à l'arrestation — Il y alla volontairement, exactement comme l'Écriture l'avait prédit, tandis que tous Ses disciples L'abandonnèrent et s'enfuirent."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Abba, Father, everything is possible for you. Take this cup from me. Yet not what I will, but what you will."
+        "en": "Abba, Father, everything is possible for you. Take this cup from me. Yet not what I will, but what you will.",
+        "es": "Y decía: Abba, Padre, todas las cosas son á ti posibles; traspasa de mí este vaso; empero no lo que yo quiero, sino lo que tú.",
+        "fr": "Il disait : Abba, Père, toutes choses te sont possibles, éloigne de moi cette coupe ! Toutefois, non pas ce que je veux, mais ce que tu veux."
       },
       "ref": {
-        "en": "Mark 14:36 (NIV)"
+        "en": "Mark 14:36 (NIV)",
+        "es": "Marcos 14:36 (Valera)",
+        "fr": "Marc 14:36 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -39,6 +49,22 @@
           "what",
           "you",
           "will"
+        ],
+        "es": [
+          "Y",
+          "decía",
+          "Abba",
+          "Padre",
+          "todas",
+          "las"
+        ],
+        "fr": [
+          "Il",
+          "disait",
+          "Abba",
+          "Père",
+          "toutes",
+          "choses"
         ]
       },
       "typing_challenge": true
@@ -46,7 +72,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Not My Will, But Yours"
+        "en": "A Song for Not My Will, But Yours",
+        "es": "Una Canción para No Mi Voluntad, Sino la Tuya",
+        "fr": "Une Chanson pour Pas Ma Volonté, Mais la Tienne"
       },
       "audio_en": "/static/audio/mark/lesson35_en.mp3"
     },
@@ -55,7 +83,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus predict Peter would do, despite Peter's strong protest?"
+            "en": "What did Jesus predict Peter would do, despite Peter's strong protest?",
+            "es": "¿Qué predijo Jesús que haría Pedro, a pesar de la fuerte protesta de Pedro?",
+            "fr": "Qu'a prédit Jésus que Pierre ferait, malgré la forte protestation de Pierre ?"
           },
           "options": {
             "en": [
@@ -63,13 +93,27 @@
               "Disown Him three times before the rooster crowed twice",
               "Stay faithful no matter what",
               "Nothing notable"
+            ],
+            "es": [
+              "Defenderlo valientemente",
+              "Negarlo tres veces antes de que el gallo cantara dos veces",
+              "Permanecer fiel sin importar qué",
+              "Nada notable"
+            ],
+            "fr": [
+              "Le défendre vaillamment",
+              "Le renier trois fois avant que le coq chante deux fois",
+              "Rester fidèle quoi qu'il arrive",
+              "Rien de notable"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus pray in Gethsemane, even while being honest about His distress?"
+            "en": "What did Jesus pray in Gethsemane, even while being honest about His distress?",
+            "es": "¿Qué oró Jesús en Getsemaní, incluso mientras era honesto sobre Su angustia?",
+            "fr": "Qu'a prié Jésus à Gethsémané, tout en étant honnête sur Sa détresse ?"
           },
           "options": {
             "en": [
@@ -77,13 +121,27 @@
               "Not what I will, but what you will",
               "I refuse to go through with this",
               "Nothing in particular"
+            ],
+            "es": [
+              "Que esto suceda exactamente como yo quiero",
+              "No lo que yo quiero, sino lo que tú quieras",
+              "Me niego a pasar por esto",
+              "Nada en particular"
+            ],
+            "fr": [
+              "Que cela arrive exactement comme je le veux",
+              "Non pas ce que je veux, mais ce que tu veux",
+              "Je refuse de traverser cela",
+              "Rien en particulier"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did Judas identify Jesus to the armed crowd?"
+            "en": "How did Judas identify Jesus to the armed crowd?",
+            "es": "¿Cómo identificó Judas a Jesús ante la multitud armada?",
+            "fr": "Comment Judas a-t-il identifié Jésus à la foule armée ?"
           },
           "options": {
             "en": [
@@ -91,6 +149,18 @@
               "With a kiss",
               "He shouted His name",
               "He hid from Jesus"
+            ],
+            "es": [
+              "Señaló desde la distancia",
+              "Con un beso",
+              "Gritó Su nombre",
+              "Se escondió de Jesús"
+            ],
+            "fr": [
+              "Il a montré du doigt à distance",
+              "Par un baiser",
+              "Il a crié Son nom",
+              "Il s'est caché de Jésus"
             ]
           },
           "answer": 1
@@ -102,7 +172,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Not My Will, But Yours"
+            "en": "Activity sheet: Not My Will, But Yours",
+            "es": "Hoja de actividad: No Mi Voluntad, Sino la Tuya",
+            "fr": "Fiche d'activité : Pas Ma Volonté, Mais la Tienne"
           },
           "file": "/static/printables/mark/lesson35_sheet.pdf"
         }
@@ -111,7 +183,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus models complete, costly surrender to the Father's will, even while being fully honest about His own distress and reluctance — genuine faith doesn't require pretending difficulty away. His arrest, achieved through betrayal by a close friend, fulfills Scripture exactly while every human relationship around Him fails in that moment.\n\nConversation starters: (1) Why might it matter that Jesus honestly expressed His distress, rather than pretending to be unaffected? (2) What does \"not what I will, but what you will\" teach about surrendering to God even when it's hard? (3) Why might Peter's confident promise fail so completely, despite his sincerity?\n\nPray for the same kind of honest surrender Jesus modeled, trusting God's will even when it's difficult."
+        "en": "Big idea: Jesus models complete, costly surrender to the Father's will, even while being fully honest about His own distress and reluctance — genuine faith doesn't require pretending difficulty away. His arrest, achieved through betrayal by a close friend, fulfills Scripture exactly while every human relationship around Him fails in that moment.\n\nConversation starters: (1) Why might it matter that Jesus honestly expressed His distress, rather than pretending to be unaffected? (2) What does \"not what I will, but what you will\" teach about surrendering to God even when it's hard? (3) Why might Peter's confident promise fail so completely, despite his sincerity?\n\nPray for the same kind of honest surrender Jesus modeled, trusting God's will even when it's difficult.",
+        "es": "Idea principal: Jesús modela una entrega completa y costosa a la voluntad del Padre, incluso mientras es completamente honesto sobre Su propia angustia y reticencia — la fe genuina no requiere fingir que la dificultad desaparece. Su arresto, logrado por la traición de un amigo cercano, cumple exactamente la Escritura mientras cada relación humana a Su alrededor falla en ese momento.\n\nPara conversar: (1) ¿Por qué podría importar que Jesús expresara honestamente Su angustia, en lugar de fingir no verse afectado? (2) ¿Qué enseña 'no lo que yo quiero, sino lo que tú quieras' sobre rendirse a Dios incluso cuando es difícil? (3) ¿Por qué podría fallar tan completamente la promesa confiada de Pedro, a pesar de su sinceridad?\n\nOren por el mismo tipo de entrega honesta que modeló Jesús, confiando en la voluntad de Dios incluso cuando es difícil.",
+        "fr": "Idée principale : Jésus modèle une soumission complète et coûteuse à la volonté du Père, tout en étant entièrement honnête sur Sa propre détresse et Sa réticence — la foi authentique n'exige pas de prétendre que la difficulté disparaît. Son arrestation, obtenue par la trahison d'un ami proche, accomplit exactement l'Écriture alors que chaque relation humaine autour de Lui échoue à ce moment-là.\n\nPour la conversation : (1) Pourquoi pourrait-il être important que Jésus ait honnêtement exprimé Sa détresse, plutôt que de prétendre ne pas être affecté ? (2) Qu'enseigne « non pas ce que je veux, mais ce que tu veux » sur la soumission à Dieu même quand c'est difficile ? (3) Pourquoi la promesse confiante de Pierre pourrait-elle échouer si complètement, malgré sa sincérité ?\n\nPriez pour le même genre de soumission honnête que Jésus a modelée, en faisant confiance à la volonté de Dieu même quand c'est difficile."
       }
     }
   ]

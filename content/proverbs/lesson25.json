@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Train Up a Child"
+    "en": "Train Up a Child",
+    "es": "Instruye al Niño",
+    "fr": "Instruis l'Enfant"
   },
   "ref": "Proverbs 13:24; 15:32; 19:18; 22:6; 29:17",
   "section": "Discipline and Training Children (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "The direction that lasts a lifetime"
+        "en": "The direction that lasts a lifetime",
+        "es": "La dirección que dura toda una vida",
+        "fr": "La direction qui dure toute une vie"
       },
       "body": {
-        "en": "'Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.' Proverbs links discipline directly to love — genuine love includes caring enough to correct, not just to please.\n\n'Whoever disregards discipline despises themselves, but whoever heeds correction gains understanding.' Refusing correction, the book says, isn't strength — it's actually a kind of self-harm.\n\n'Discipline your children while there is hope, and do not be a willing party to their death.' Strong language, showing just how seriously Proverbs takes the long-term stakes of how a child is raised.\n\nOne of the most famous parenting verses in the entire Bible: 'start children off on the way they should go, and even when they are old they will not turn from it.' Early direction, the book promises, shapes the whole trajectory of a life.\n\n'Discipline your children, and they will give you peace; neglect them, and they will bring you shame.' Loving correction, given consistently and early, is presented as one of the greatest gifts a parent can offer."
+        "en": "'Whoever spares the rod hates their children, but the one who loves their children is careful to discipline them.' Proverbs links discipline directly to love — genuine love includes caring enough to correct, not just to please.\n\n'Whoever disregards discipline despises themselves, but whoever heeds correction gains understanding.' Refusing correction, the book says, isn't strength — it's actually a kind of self-harm.\n\n'Discipline your children while there is hope, and do not be a willing party to their death.' Strong language, showing just how seriously Proverbs takes the long-term stakes of how a child is raised.\n\nOne of the most famous parenting verses in the entire Bible: 'start children off on the way they should go, and even when they are old they will not turn from it.' Early direction, the book promises, shapes the whole trajectory of a life.\n\n'Discipline your children, and they will give you peace; neglect them, and they will bring you shame.' Loving correction, given consistently and early, is presented as one of the greatest gifts a parent can offer.",
+        "es": "\"El que detiene el castigo, á su hijo aborrece: mas el que lo ama, madruga á castigarlo.\" Proverbios vincula la disciplina directamente con el amor — el amor genuino incluye preocuparse lo suficiente para corregir, no solo para complacer.\n\n\"El que tiene en poco la disciplina, menosprecia su alma: mas el que escucha la corrección, tiene entendimiento.\" Rechazar la corrección, dice el libro, no es fortaleza — en realidad es un tipo de autolesión.\n\n\"Castiga á tu hijo en tanto que hay esperanza; mas no se excite tu alma para destruirlo.\" Lenguaje fuerte, mostrando cuán seriamente toma Proverbios las consecuencias a largo plazo de cómo se cría a un niño.\n\nUno de los versículos de crianza más famosos de toda la Biblia: \"instruye al niño en su carrera: aun cuando fuere viejo no se apartará de ella.\" La dirección temprana, promete el libro, moldea toda la trayectoria de una vida.\n\n\"Castiga á tu hijo, y te dará descanso; y dará deleite á tu alma.\" La corrección amorosa, dada consistentemente y temprano, se presenta como uno de los mayores regalos que un padre puede ofrecer.",
+        "fr": "« Celui qui ménage sa verge hait son fils, mais celui qui l'aime cherche à le corriger. » Les Proverbes relient directement la discipline à l'amour — l'amour véritable inclut le souci de corriger, pas seulement de plaire.\n\n« Celui qui méprise la correction se méprise lui-même, mais celui qui écoute la réprimande acquiert l'intelligence. » Refuser la correction, dit le livre, n'est pas de la force — c'est en réalité une sorte d'auto-préjudice.\n\n« Châtie ton fils, tandis qu'il y a de l'espérance, mais ne désire point sa mort. » Un langage fort, montrant à quel point les Proverbes prennent au sérieux les enjeux à long terme de la façon dont un enfant est élevé.\n\nL'un des versets sur l'éducation des enfants les plus célèbres de toute la Bible : « instruis l'enfant selon la voie qu'il doit suivre ; et quand il sera vieux, il ne s'en détournera pas. » La direction précoce, promet le livre, façonne toute la trajectoire d'une vie.\n\n« Chastie ton fils, et il te donnera satisfaction, et il procurera des délices à ton âme. » La correction aimante, donnée constamment et tôt, est présentée comme l'un des plus grands dons qu'un parent puisse offrir."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Start children off on the way they should go, and even when they are old they will not turn from it."
+        "en": "Start children off on the way they should go, and even when they are old they will not turn from it.",
+        "es": "Instruye al niño en su carrera: aun cuando fuere viejo no se apartará de ella.",
+        "fr": "Instruis l'enfant selon la voie qu'il doit suivre ; Et quand il sera vieux, il ne s'en détournera pas."
       },
       "ref": {
-        "en": "Proverbs 22:6 (NIV)"
+        "en": "Proverbs 22:6 (NIV)",
+        "es": "Proverbios 22:6 (Valera)",
+        "fr": "Proverbes 22:6 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "they",
           "should",
           "go"
+        ],
+        "es": [
+          "Instruye",
+          "al",
+          "niño",
+          "en",
+          "su",
+          "carrera"
+        ],
+        "fr": [
+          "Instruis",
+          "l'enfant",
+          "selon",
+          "la",
+          "voie",
+          "qu'il"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Train Up a Child"
+        "en": "A Song for Train Up a Child",
+        "es": "Una Canción para Instruye al Niño",
+        "fr": "Une Chanson pour Instruis l'Enfant"
       },
       "audio_en": "/static/audio/proverbs/lesson25_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Proverbs 13:24 say about a parent who 'spares the rod'?"
+            "en": "What does Proverbs 13:24 say about a parent who 'spares the rod'?",
+            "es": "¿Qué dice Proverbios 13:24 sobre un padre que 'detiene el castigo'?",
+            "fr": "Que dit Proverbes 13:24 sur un parent qui « ménage sa verge » ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "They actually hate their children; loving parents discipline carefully",
               "Nothing significant is implied",
               "Discipline never matters"
+            ],
+            "es": [
+              "Muestra amor extra",
+              "En realidad aborrece a sus hijos; los padres amorosos disciplinan con cuidado",
+              "Nada significativo se implica",
+              "La disciplina nunca importa"
+            ],
+            "fr": [
+              "Il montre un amour supplémentaire",
+              "Il hait en réalité ses enfants ; les parents aimants disciplinent avec soin",
+              "Rien de significatif n'est suggéré",
+              "La discipline n'a jamais d'importance"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Proverbs 22:6, what happens when children are started off on the right way?"
+            "en": "According to Proverbs 22:6, what happens when children are started off on the right way?",
+            "es": "Según Proverbios 22:6, ¿qué sucede cuando los niños son instruidos en el camino correcto?",
+            "fr": "Selon Proverbes 22:6, qu'arrive-t-il quand les enfants sont instruits selon la voie qu'ils doivent suivre ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "Even when old, they will not turn from it",
               "They forget it quickly",
               "It makes no difference later in life"
+            ],
+            "es": [
+              "Nada duradero sucede",
+              "Aun cuando fueren viejos no se apartarán de ello",
+              "Lo olvidan rápidamente",
+              "No hace ninguna diferencia más tarde en la vida"
+            ],
+            "fr": [
+              "Rien de durable ne se passe",
+              "Même quand ils seront vieux, ils ne s'en détourneront pas",
+              "Ils l'oublient rapidement",
+              "Cela ne fait aucune différence plus tard dans la vie"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 15:32 say about disregarding discipline?"
+            "en": "What does Proverbs 15:32 say about disregarding discipline?",
+            "es": "¿Qué dice Proverbios 15:32 sobre tener en poco la disciplina?",
+            "fr": "Que dit Proverbes 15:32 sur le fait de mépriser la correction ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Whoever disregards discipline actually despises themselves",
               "It has no real effect",
               "It's always wise"
+            ],
+            "es": [
+              "Es señal de fortaleza",
+              "Quien la tiene en poco menosprecia su propia alma",
+              "No tiene ningún efecto real",
+              "Siempre es sabio"
+            ],
+            "fr": [
+              "C'est un signe de force",
+              "Celui qui la méprise se méprise lui-même",
+              "Cela n'a aucun effet réel",
+              "C'est toujours sage"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Train Up a Child"
+            "en": "Activity sheet: Train Up a Child",
+            "es": "Hoja de actividad: Instruye al Niño",
+            "fr": "Fiche d'activité : Instruis l'Enfant"
           },
           "file": "/static/printables/proverbs/lesson25_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs treats discipline as an essential expression of parental love, not its opposite — the absence of correction is described as a form of neglect or even hatred, while consistent, loving discipline is framed as one of a parent's most important responsibilities, with lasting, lifelong impact (\"even when old, they will not turn from it\"). This theme speaks directly to parents reading these guides as much as to children hearing the lessons.\n\nConversation starters: (1) Why might Proverbs connect discipline so directly to love, rather than seeing them as opposites? (2) What does \"start children off on the way they should go\" suggest about the importance of early years? (3) For parents: how does this shape how you think about discipline in your own home?\n\nPray for wisdom in how discipline and correction are given and received in your family, recognizing it as an expression of genuine love."
+        "en": "Big idea: Proverbs treats discipline as an essential expression of parental love, not its opposite — the absence of correction is described as a form of neglect or even hatred, while consistent, loving discipline is framed as one of a parent's most important responsibilities, with lasting, lifelong impact (\"even when old, they will not turn from it\"). This theme speaks directly to parents reading these guides as much as to children hearing the lessons.\n\nConversation starters: (1) Why might Proverbs connect discipline so directly to love, rather than seeing them as opposites? (2) What does \"start children off on the way they should go\" suggest about the importance of early years? (3) For parents: how does this shape how you think about discipline in your own home?\n\nPray for wisdom in how discipline and correction are given and received in your family, recognizing it as an expression of genuine love.",
+        "es": "Idea principal: Proverbios trata la disciplina como una expresión esencial del amor parental, no su opuesto — la ausencia de corrección se describe como una forma de negligencia o incluso de odio, mientras que la disciplina consistente y amorosa se enmarca como una de las responsabilidades más importantes de un padre, con impacto duradero de por vida (\"aun cuando fuere viejo no se apartará de ella\"). Este tema habla directamente a los padres que leen estas guías tanto como a los niños que escuchan las lecciones.\n\nPara conversar: (1) ¿Por qué podría Proverbios conectar la disciplina tan directamente con el amor, en lugar de verlos como opuestos? (2) ¿Qué sugiere \"instruye al niño en su carrera\" sobre la importancia de los primeros años? (3) Para los padres: ¿cómo moldea esto cómo piensan sobre la disciplina en su propio hogar?\n\nOren por sabiduría en cómo se da y se recibe la disciplina y la corrección en tu familia, reconociéndola como una expresión de amor genuino.",
+        "fr": "Idée principale : les Proverbes traitent la discipline comme une expression essentielle de l'amour parental, pas son opposé — l'absence de correction est décrite comme une forme de négligence ou même de haine, tandis que la discipline cohérente et aimante est présentée comme l'une des responsabilités les plus importantes d'un parent, avec un impact durable toute la vie (« même quand il sera vieux, il ne s'en détournera pas »). Ce thème parle directement aux parents qui lisent ces guides autant qu'aux enfants qui entendent les leçons.\n\nPour la conversation : (1) Pourquoi les Proverbes pourraient-ils relier la discipline si directement à l'amour, plutôt que de les voir comme des opposés ? (2) Que suggère « instruis l'enfant selon la voie qu'il doit suivre » sur l'importance des premières années ? (3) Pour les parents : comment cela façonne-t-il votre façon de penser à la discipline dans votre propre foyer ?\n\nPriez pour la sagesse dans la façon dont la discipline et la correction sont données et reçues dans votre famille, en la reconnaissant comme une expression d'amour authentique."
       }
     }
   ]

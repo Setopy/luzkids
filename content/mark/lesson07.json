@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Choosing the Team"
+    "en": "Choosing the Team",
+    "es": "Eligiendo al Equipo",
+    "fr": "Choisir l'Équipe"
   },
   "ref": "Mark 3:1-19",
   "section": "Jesus Heals on the Sabbath / Crowds Follow Jesus / Jesus Appoints the Twelve",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A withered hand, and twelve ordinary names"
+        "en": "A withered hand, and twelve ordinary names",
+        "es": "Una mano seca, y doce nombres comunes",
+        "fr": "Une main desséchée, et douze noms ordinaires"
       },
       "body": {
-        "en": "In the synagogue, a man with a shrivelled hand was watching — would Jesus heal on the Sabbath? Jesus asked the Pharisees: 'Which is lawful on the Sabbath: to do good or to do evil?' They stayed silent. Jesus, deeply distressed at their hard hearts, said to the man: 'Stretch out your hand.' He did, and it was completely restored!\n\nThe Pharisees were furious and began plotting against Jesus. Meanwhile, huge crowds came from everywhere — Galilee, Judea, Jerusalem, even beyond the Jordan — because they had heard about everything He was doing.\n\nThen Jesus went up a mountainside and called His disciples to Him, appointing TWELVE — designating them apostles — that they might be with Him and that He might send them out to preach and to have authority to drive out demons. Simon (whom He named Peter), James, John, Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot, who would later betray Him.\n\nTwelve ordinary men, chosen to carry something extraordinary."
+        "en": "In the synagogue, a man with a shrivelled hand was watching — would Jesus heal on the Sabbath? Jesus asked the Pharisees: 'Which is lawful on the Sabbath: to do good or to do evil?' They stayed silent. Jesus, deeply distressed at their hard hearts, said to the man: 'Stretch out your hand.' He did, and it was completely restored!\n\nThe Pharisees were furious and began plotting against Jesus. Meanwhile, huge crowds came from everywhere — Galilee, Judea, Jerusalem, even beyond the Jordan — because they had heard about everything He was doing.\n\nThen Jesus went up a mountainside and called His disciples to Him, appointing TWELVE — designating them apostles — that they might be with Him and that He might send them out to preach and to have authority to drive out demons. Simon (whom He named Peter), James, John, Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot, who would later betray Him.\n\nTwelve ordinary men, chosen to carry something extraordinary.",
+        "es": "En la sinagoga, un hombre con una mano paralizada estaba observando — ¿sanaría Jesús en el día de reposo? Jesús preguntó a los fariseos: \"¿Es lícito en el día de reposo hacer el bien o hacer el mal?\" Ellos permanecieron en silencio. Jesús, profundamente angustiado por la dureza de sus corazones, le dijo al hombre: \"Extiende tu mano.\" Él lo hizo, ¡y quedó completamente restaurada!\n\n¡Los fariseos se enfurecieron y comenzaron a conspirar contra Jesús! Mientras tanto, multitudes enormes venían de todas partes — Galilea, Judea, Jerusalén, incluso más allá del Jordán — porque habían oído de todo lo que Él estaba haciendo.\n\nEntonces Jesús subió a una montaña y llamó a Sus discípulos, nombrando a DOCE — designándolos apóstoles — para que estuvieran con Él y para enviarlos a predicar y tener autoridad para expulsar demonios. Simón (a quien llamó Pedro), Jacobo, Juan, Andrés, Felipe, Bartolomé, Mateo, Tomás, Jacobo hijo de Alfeo, Tadeo, Simón el Zelote, y Judas Iscariote, quien después lo traicionaría.\n\nDoce hombres comunes, elegidos para llevar algo extraordinario.",
+        "fr": "Dans la synagogue, un homme avec une main paralysée observait — Jésus guérirait-il un jour de sabbat ? Jésus demanda aux pharisiens : « Est-il permis, le jour du sabbat, de faire du bien ou de faire du mal ? » Ils restèrent silencieux. Jésus, profondément attristé par la dureté de leurs cœurs, dit à l'homme : « Étends ta main. » Il l'étendit, et elle fut complètement guérie !\n\nLes pharisiens furent furieux et commencèrent à conspirer contre Jésus ! Pendant ce temps, d'immenses foules venaient de partout — la Galilée, la Judée, Jérusalem, et même au-delà du Jourdain — car ils avaient entendu parler de tout ce qu'Il faisait.\n\nPuis Jésus monta sur une montagne et appela Ses disciples, en désignant DOUZE — les nommant apôtres — afin qu'ils soient avec Lui et qu'Il les envoie prêcher avec l'autorité de chasser les démons. Simon (qu'Il nomma Pierre), Jacques, Jean, André, Philippe, Barthélemy, Matthieu, Thomas, Jacques fils d'Alphée, Thaddée, Simon le Zélote, et Judas Iscariot, qui le trahirait plus tard.\n\nDouze hommes ordinaires, choisis pour porter quelque chose d'extraordinaire."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "He appointed twelve that they might be with him and that he might send them out to preach."
+        "en": "He appointed twelve that they might be with him and that he might send them out to preach.",
+        "es": "Y estableció doce, para que estuviesen con él, y para enviarlos á predicar.",
+        "fr": "Il en établit douze, pour les avoir avec lui, et pour les envoyer prêcher."
       },
       "ref": {
-        "en": "Mark 3:14 (NIV)"
+        "en": "Mark 3:14 (NIV)",
+        "es": "Marcos 3:14 (Valera)",
+        "fr": "Marc 3:14-15 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "be",
           "with",
           "him"
+        ],
+        "es": [
+          "Y",
+          "estableció",
+          "doce",
+          "para",
+          "que",
+          "estuviesen"
+        ],
+        "fr": [
+          "Il",
+          "en",
+          "établit",
+          "douze",
+          "pour",
+          "les"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Choosing the Team"
+        "en": "A Song for Choosing the Team",
+        "es": "Una Canción para Eligiendo al Equipo",
+        "fr": "Une Chanson pour Choisir l'Équipe"
       },
       "audio_en": "/static/audio/mark/lesson07_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "What question did Jesus ask the Pharisees before healing the man's hand?"
+            "en": "What question did Jesus ask the Pharisees before healing the man's hand?",
+            "es": "¿Qué pregunta hizo Jesús a los fariseos antes de sanar la mano del hombre?",
+            "fr": "Quelle question Jésus a-t-il posée aux pharisiens avant de guérir la main de l'homme ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "Is it lawful on the Sabbath to do good or evil?",
               "Where do you live?",
               "Nothing at all"
+            ],
+            "es": [
+              "¿Qué hora es?",
+              "¿Es lícito en el día de reposo hacer el bien o el mal?",
+              "¿Dónde vives?",
+              "Nada en absoluto"
+            ],
+            "fr": [
+              "Quelle heure est-il ?",
+              "Est-il permis, le jour du sabbat, de faire du bien ou du mal ?",
+              "Où habites-tu ?",
+              "Rien du tout"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why were crowds coming to Jesus from so many regions?"
+            "en": "Why were crowds coming to Jesus from so many regions?",
+            "es": "¿Por qué venían multitudes a Jesús desde tantas regiones?",
+            "fr": "Pourquoi des foules venaient-elles à Jésus de tant de régions ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "They were forced to come",
               "They wanted to arrest Him",
               "No real reason"
+            ],
+            "es": [
+              "Habían oído de todo lo que Él hacía",
+              "Estaban obligados a venir",
+              "Querían arrestarlo",
+              "Sin razón real"
+            ],
+            "fr": [
+              "Elles avaient entendu parler de tout ce qu'Il faisait",
+              "Elles étaient forcées de venir",
+              "Elles voulaient l'arrêter",
+              "Sans raison réelle"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How many apostles did Jesus appoint, and for what purpose?"
+            "en": "How many apostles did Jesus appoint, and for what purpose?",
+            "es": "¿Cuántos apóstoles nombró Jesús, y para qué propósito?",
+            "fr": "Combien d'apôtres Jésus a-t-il désignés, et dans quel but ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Twelve, to be with Him and be sent out to preach with authority",
               "One hundred, just to follow",
               "None — He worked alone"
+            ],
+            "es": [
+              "Tres, para discutir con Él",
+              "Doce, para estar con Él y ser enviados a predicar con autoridad",
+              "Cien, solo para seguirlo",
+              "Ninguno — trabajó solo"
+            ],
+            "fr": [
+              "Trois, pour discuter avec Lui",
+              "Douze, pour être avec Lui et être envoyés prêcher avec autorité",
+              "Cent, juste pour le suivre",
+              "Aucun — Il a travaillé seul"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Choosing the Team"
+            "en": "Activity sheet: Choosing the Team",
+            "es": "Hoja de actividad: Eligiendo al Equipo",
+            "fr": "Fiche d'activité : Choisir l'Équipe"
           },
           "file": "/static/printables/mark/lesson07_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' compassion confronts religious legalism directly, while He simultaneously builds a team of ordinary, flawed people (including Judas, His eventual betrayer) entrusted with extraordinary authority. Choosing twelve — echoing the twelve tribes of Israel — signals the formation of a new community around Jesus.\n\nConversation starters: (1) Why might the Pharisees stay silent when Jesus asked His question? (2) What does it mean that Jesus chose ordinary, unremarkable men as His closest team? (3) Why might Mark mention Judas Iscariot by name this early, before any betrayal happens?\n\nPray for the same compassion Jesus showed, even when it meant confronting unfair rules."
+        "en": "Big idea: Jesus' compassion confronts religious legalism directly, while He simultaneously builds a team of ordinary, flawed people (including Judas, His eventual betrayer) entrusted with extraordinary authority. Choosing twelve — echoing the twelve tribes of Israel — signals the formation of a new community around Jesus.\n\nConversation starters: (1) Why might the Pharisees stay silent when Jesus asked His question? (2) What does it mean that Jesus chose ordinary, unremarkable men as His closest team? (3) Why might Mark mention Judas Iscariot by name this early, before any betrayal happens?\n\nPray for the same compassion Jesus showed, even when it meant confronting unfair rules.",
+        "es": "Idea principal: la compasión de Jesús confronta directamente el legalismo religioso, mientras simultáneamente forma un equipo de personas comunes e imperfectas (incluyendo a Judas, su eventual traidor) confiadas con autoridad extraordinaria. Elegir a doce — haciendo eco de las doce tribus de Israel — señala la formación de una nueva comunidad alrededor de Jesús.\n\nPara conversar: (1) ¿Por qué podrían los fariseos permanecer en silencio cuando Jesús hizo Su pregunta? (2) ¿Qué significa que Jesús eligiera a hombres comunes y poco notables como Su equipo más cercano? (3) ¿Por qué podría Marcos mencionar a Judas Iscariote por nombre tan temprano, antes de que ocurra cualquier traición?\n\nOren por la misma compasión que mostró Jesús, incluso cuando significó confrontar reglas injustas.",
+        "fr": "Idée principale : la compassion de Jésus confronte directement le légalisme religieux, tandis qu'Il forme simultanément une équipe de gens ordinaires et imparfaits (y compris Judas, son futur traître) à qui Il confie une autorité extraordinaire. Choisir douze — faisant écho aux douze tribus d'Israël — signale la formation d'une nouvelle communauté autour de Jésus.\n\nPour la conversation : (1) Pourquoi les pharisiens pourraient-ils rester silencieux quand Jésus a posé Sa question ? (2) Que signifie le fait que Jésus ait choisi des hommes ordinaires et peu remarquables comme Son équipe la plus proche ? (3) Pourquoi Marc pourrait-il mentionner Judas Iscariot par son nom si tôt, avant que toute trahison n'ait lieu ?\n\nPriez pour la même compassion que Jésus a montrée, même quand cela signifiait confronter des règles injustes."
       }
     }
   ]

@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Justice for the Poor and the Wronged"
+    "en": "Justice for the Poor and the Wronged",
+    "es": "Justicia Para los Pobres y los Agraviados",
+    "fr": "Justice Pour les Pauvres et les Lésés"
   },
   "ref": "Proverbs 17:15; 17:26; 21:3; 24:23-25; 29:7",
   "section": "Justice and Fairness (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Acquitting the guilty, condemning the innocent"
+        "en": "Acquitting the guilty, condemning the innocent",
+        "es": "Absolver al culpable, condenar al inocente",
+        "fr": "Acquitter le coupable, condamner l'innocent"
       },
       "body": {
-        "en": "'Acquitting the guilty and condemning the innocent — the Lord detests them both.' Proverbs treats injustice in BOTH directions as equally wrong — letting the guilty go free is just as bad as punishing someone innocent.\n\n'To do what is right and just is more acceptable to the Lord than sacrifice.' Even religious devotion, Proverbs suggests, matters less to God than simple, practical justice and fairness toward others.\n\n'To show partiality in judging is not good... whoever says to the guilty, \"You are innocent\" will be cursed by peoples and denounced by nations.' Favouritism in judgment is treated as a serious moral failure, not a small bias.\n\n'The righteous care about justice for the poor, but the wicked have no such concern.' Genuine righteousness, in Proverbs' view, is measured partly by whether someone actually cares about fairness for people with less power.\n\n'Whoever says to the wicked, \"You are innocent,\" will be cursed by peoples, denounced by nations, but those who convict the guilty will fare well and have a rich blessing come on them.' Standing firmly for what's actually true and fair, even when it's unpopular, leads to genuine blessing."
+        "en": "'Acquitting the guilty and condemning the innocent — the Lord detests them both.' Proverbs treats injustice in BOTH directions as equally wrong — letting the guilty go free is just as bad as punishing someone innocent.\n\n'To do what is right and just is more acceptable to the Lord than sacrifice.' Even religious devotion, Proverbs suggests, matters less to God than simple, practical justice and fairness toward others.\n\n'To show partiality in judging is not good... whoever says to the guilty, \"You are innocent\" will be cursed by peoples and denounced by nations.' Favouritism in judgment is treated as a serious moral failure, not a small bias.\n\n'The righteous care about justice for the poor, but the wicked have no such concern.' Genuine righteousness, in Proverbs' view, is measured partly by whether someone actually cares about fairness for people with less power.\n\n'Whoever says to the wicked, \"You are innocent,\" will be cursed by peoples, denounced by nations, but those who convict the guilty will fare well and have a rich blessing come on them.' Standing firmly for what's actually true and fair, even when it's unpopular, leads to genuine blessing.",
+        "es": "\"El que justifica al impío, y el que condena al justo, ambos á dos son abominación á Jehová.\" Proverbios trata la injusticia en AMBAS direcciones como igualmente mala — dejar libre al culpable es tan malo como castigar a alguien inocente.\n\n\"Hacer justicia y juicio es á Jehová más agradable que sacrificio.\" Incluso la devoción religiosa, sugiere Proverbios, le importa menos a Dios que la justicia y la equidad simples y prácticas hacia los demás.\n\n\"Tener acepción de personas en el juicio no es bueno... el que dice al impío, Justo eres, los pueblos lo maldecirán, y le detestarán las naciones.\" El favoritismo en el juicio se trata como un fallo moral serio, no un pequeño sesgo.\n\n\"El justo conoce la causa de los pobres: mas el impío no entiende sabiduría.\" La justicia genuina, en la visión de Proverbios, se mide en parte por si alguien realmente se preocupa por la equidad hacia gente con menos poder.\n\n\"El que dice al malo, Justo eres, los pueblos lo maldecirán, y le detestarán las naciones: mas los que lo reprenden serán agradables, y sobre ellos vendrá bendición de bien.\" Mantenerse firme por lo que es verdaderamente verdadero y justo, incluso cuando es impopular, lleva a una bendición genuina.",
+        "fr": "« Celui qui absout le coupable et celui qui condamne le juste sont tous deux en abomination à l'Éternel. » Les Proverbes traitent l'injustice dans LES DEUX directions comme également mauvaise — laisser le coupable libre est aussi mauvais que punir un innocent.\n\n« Pratiquer la justice et l'équité, voilà ce que l'Éternel préfère aux sacrifices. » Même la dévotion religieuse, suggèrent les Proverbes, importe moins à Dieu que la justice et l'équité simples et pratiques envers les autres.\n\n« Il n'est pas bon d'avoir égard aux personnes dans le jugement... celui qui dit au méchant : Tu es juste ! les peuples le maudissent, les nations le maudissent. » La partialité dans le jugement est traitée comme un échec moral sérieux, pas un petit biais.\n\n« Le juste se soucie de la cause des pauvres, le méchant ne comprend pas la science. » La justice authentique, dans la vision des Proverbes, se mesure en partie à savoir si quelqu'un se soucie réellement de l'équité envers les gens ayant moins de pouvoir.\n\n« Celui qui dit au méchant : Tu es juste ! les peuples le maudissent, les nations le maudissent. Mais ceux qui le réprimandent s'en trouvent bien, et sur eux vient une bénédiction salutaire. » Se tenir fermement pour ce qui est véritablement vrai et juste, même quand c'est impopulaire, conduit à une véritable bénédiction."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "The righteous care about justice for the poor, but the wicked have no such concern."
+        "en": "The righteous care about justice for the poor, but the wicked have no such concern.",
+        "es": "Conoce el justo la causa de los pobres: mas el impío no entiende sabiduría.",
+        "fr": "Le juste connaît la cause des pauvres, Mais le méchant ne comprend pas la science."
       },
       "ref": {
-        "en": "Proverbs 29:7 (NIV)"
+        "en": "Proverbs 29:7 (NIV)",
+        "es": "Proverbios 29:7 (Valera)",
+        "fr": "Proverbes 29:7 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -32,6 +42,22 @@
           "for",
           "the",
           "poor"
+        ],
+        "es": [
+          "Conoce",
+          "el",
+          "justo",
+          "la",
+          "causa",
+          "de"
+        ],
+        "fr": [
+          "Le",
+          "juste",
+          "connaît",
+          "la",
+          "cause",
+          "des"
         ]
       },
       "typing_challenge": true
@@ -39,7 +65,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Justice for the Poor and the Wronged"
+        "en": "A Song for Justice for the Poor and the Wronged",
+        "es": "Una Canción para Justicia Para los Pobres y los Agraviados",
+        "fr": "Une Chanson pour Justice Pour les Pauvres et les Lésés"
       },
       "audio_en": "/static/audio/proverbs/lesson29_en.mp3"
     },
@@ -48,7 +76,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Proverbs 17:15 say the Lord detests, regarding the guilty and the innocent?"
+            "en": "What does Proverbs 17:15 say the Lord detests, regarding the guilty and the innocent?",
+            "es": "¿Qué dice Proverbios 17:15 que Jehová aborrece, respecto al culpable y al inocente?",
+            "fr": "Que dit Proverbes 17:15 que l'Éternel a en abomination, concernant le coupable et l'innocent ?"
           },
           "options": {
             "en": [
@@ -56,13 +86,27 @@
               "Acquitting the guilty and condemning the innocent — both detested equally",
               "Only condemning the innocent",
               "Only acquitting the guilty"
+            ],
+            "es": [
+              "Nada en particular",
+              "Justificar al impío y condenar al justo — ambos aborrecidos igualmente",
+              "Solo condenar al inocente",
+              "Solo justificar al impío"
+            ],
+            "fr": [
+              "Rien en particulier",
+              "Justifier le coupable et condamner le juste — les deux en abomination également",
+              "Seulement condamner l'innocent",
+              "Seulement justifier le coupable"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "According to Proverbs 21:3, what does the Lord value even more than sacrifice?"
+            "en": "According to Proverbs 21:3, what does the Lord value even more than sacrifice?",
+            "es": "Según Proverbios 21:3, ¿qué valora Jehová incluso más que el sacrificio?",
+            "fr": "Selon Proverbes 21:3, qu'est-ce que l'Éternel préfère même aux sacrifices ?"
           },
           "options": {
             "en": [
@@ -70,13 +114,27 @@
               "Doing what is right and just",
               "Wealth",
               "Loud worship"
+            ],
+            "es": [
+              "Nada más que el sacrificio",
+              "Hacer justicia y juicio",
+              "La riqueza",
+              "La adoración ruidosa"
+            ],
+            "fr": [
+              "Rien de plus que les sacrifices",
+              "Pratiquer la justice et l'équité",
+              "La richesse",
+              "Le culte bruyant"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How does Proverbs 29:7 distinguish the righteous from the wicked?"
+            "en": "How does Proverbs 29:7 distinguish the righteous from the wicked?",
+            "es": "¿Cómo distingue Proverbios 29:7 al justo del impío?",
+            "fr": "Comment Proverbes 29:7 distingue-t-il le juste du méchant ?"
           },
           "options": {
             "en": [
@@ -84,6 +142,18 @@
               "The righteous care about justice for the poor; the wicked have no such concern",
               "The wicked care more about justice",
               "Justice doesn't matter to either group"
+            ],
+            "es": [
+              "No existe diferencia real",
+              "El justo conoce la causa de los pobres; el impío no entiende sabiduría",
+              "El impío se preocupa más por la justicia",
+              "La justicia no le importa a ninguno"
+            ],
+            "fr": [
+              "Il n'y a pas de réelle différence",
+              "Le juste connaît la cause des pauvres ; le méchant ne comprend pas la science",
+              "Le méchant se soucie davantage de la justice",
+              "La justice n'importe à aucun des deux"
             ]
           },
           "answer": 1
@@ -95,7 +165,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Justice for the Poor and the Wronged"
+            "en": "Activity sheet: Justice for the Poor and the Wronged",
+            "es": "Hoja de actividad: Justicia Para los Pobres y los Agraviados",
+            "fr": "Fiche d'activité : Justice Pour les Pauvres et les Lésés"
           },
           "file": "/static/printables/proverbs/lesson29_sheet.pdf"
         }
@@ -104,7 +176,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: genuine righteousness, in Proverbs' view, is inseparable from a concern for justice and fairness, especially toward those with less power — and this concern is valued by God even above religious ritual or sacrifice. Injustice in either direction (excusing the guilty or condemning the innocent) is treated with equal seriousness, refusing any convenient bias.\n\nConversation starters: (1) Why might Proverbs say doing what's right and just matters even more to God than religious sacrifice? (2) What does it mean that excusing the guilty is just as wrong as condemning the innocent? (3) What's one situation where you could actively \"care about justice\" for someone with less power or voice?\n\nPray for hearts that genuinely care about fairness and justice, especially for those who are often overlooked."
+        "en": "Big idea: genuine righteousness, in Proverbs' view, is inseparable from a concern for justice and fairness, especially toward those with less power — and this concern is valued by God even above religious ritual or sacrifice. Injustice in either direction (excusing the guilty or condemning the innocent) is treated with equal seriousness, refusing any convenient bias.\n\nConversation starters: (1) Why might Proverbs say doing what's right and just matters even more to God than religious sacrifice? (2) What does it mean that excusing the guilty is just as wrong as condemning the innocent? (3) What's one situation where you could actively \"care about justice\" for someone with less power or voice?\n\nPray for hearts that genuinely care about fairness and justice, especially for those who are often overlooked.",
+        "es": "Idea principal: la justicia genuina, en la visión de Proverbios, es inseparable de una preocupación por la justicia y la equidad, especialmente hacia quienes tienen menos poder — y esta preocupación es valorada por Dios incluso por encima del ritual religioso o el sacrificio. La injusticia en cualquier dirección (excusar al culpable o condenar al inocente) se trata con igual seriedad, rechazando cualquier sesgo conveniente.\n\nPara conversar: (1) ¿Por qué podría Proverbios decir que hacer lo correcto y justo importa a Dios incluso más que el sacrificio religioso? (2) ¿Qué significa que excusar al culpable es tan malo como condenar al inocente? (3) ¿Cuál es una situación donde podrías activamente \"preocuparte por la justicia\" de alguien con menos poder o voz?\n\nOren por corazones que genuinamente se preocupen por la equidad y la justicia, especialmente para quienes a menudo son ignorados.",
+        "fr": "Idée principale : la justice authentique, dans la vision des Proverbes, est inséparable d'un souci de justice et d'équité, particulièrement envers ceux qui ont moins de pouvoir — et ce souci est valorisé par Dieu même au-dessus du rituel religieux ou du sacrifice. L'injustice dans n'importe quelle direction (excuser le coupable ou condamner l'innocent) est traitée avec une égale gravité, refusant tout biais commode.\n\nPour la conversation : (1) Pourquoi les Proverbes pourraient-ils dire que faire ce qui est juste et équitable importe à Dieu encore plus que le sacrifice religieux ? (2) Que signifie le fait qu'excuser le coupable est tout aussi mauvais que condamner l'innocent ? (3) Quelle est une situation où tu pourrais activement « te soucier de la justice » pour quelqu'un ayant moins de pouvoir ou de voix ?\n\nPriez pour des cœurs qui se soucient véritablement de l'équité et de la justice, particulièrement pour ceux qui sont souvent négligés."
       }
     }
   ]

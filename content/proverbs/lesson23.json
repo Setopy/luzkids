@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Slow to Anger, Quick to Understand"
+    "en": "Slow to Anger, Quick to Understand",
+    "es": "Tardo Para Airarse, Rápido Para Entender",
+    "fr": "Lent à la Colère, Prompt à Comprendre"
   },
   "ref": "Proverbs 14:29; 15:18; 16:32; 19:11; 29:11",
   "section": "Anger and Self-Control (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Stronger than a soldier who conquers a city"
+        "en": "Stronger than a soldier who conquers a city",
+        "es": "Más fuerte que un soldado que conquista una ciudad",
+        "fr": "Plus fort qu'un guerrier qui conquiert une ville"
       },
       "body": {
-        "en": "'Whoever is patient has great understanding, but one who is quick-tempered displays folly.' Patience isn't passive, Proverbs suggests — it's actually a sign of real understanding and depth.\n\n'A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.' One person's temper can ignite an argument; one person's patience can put it out, even in the very same situation.\n\nHere's a remarkable comparison: 'better a patient person than a warrior, one with self-control than one who takes a city.' Proverbs ranks self-control as a GREATER achievement than military conquest!\n\n'A person's wisdom yields patience; it is to one's glory to overlook an offence.' Sometimes the wisest, most honourable response to an insult is simply choosing to let it go.\n\n'Fools give full vent to their rage, but the wise bring calm in the end.' The difference between foolishness and wisdom often shows up most clearly in exactly the moments we're most provoked."
+        "en": "'Whoever is patient has great understanding, but one who is quick-tempered displays folly.' Patience isn't passive, Proverbs suggests — it's actually a sign of real understanding and depth.\n\n'A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.' One person's temper can ignite an argument; one person's patience can put it out, even in the very same situation.\n\nHere's a remarkable comparison: 'better a patient person than a warrior, one with self-control than one who takes a city.' Proverbs ranks self-control as a GREATER achievement than military conquest!\n\n'A person's wisdom yields patience; it is to one's glory to overlook an offence.' Sometimes the wisest, most honourable response to an insult is simply choosing to let it go.\n\n'Fools give full vent to their rage, but the wise bring calm in the end.' The difference between foolishness and wisdom often shows up most clearly in exactly the moments we're most provoked.",
+        "es": "\"El que tarde se aira tiene mucho entendimiento: mas el corto de espíritu engrandece el desatino.\" La paciencia no es pasiva, sugiere Proverbios — en realidad es una señal de entendimiento y profundidad real.\n\n\"El hombre de ira mueve contiendas: mas el que tarde se enoja, apaciguará la rencilla.\" El mal carácter de una persona puede encender una discusión; la paciencia de una persona puede apagarla, incluso en la misma situación.\n\nAquí hay una comparación notable: \"mejor es el que tarde se aira que el fuerte; y el que se enseñorea de su espíritu, que el que toma una ciudad.\" ¡Proverbios clasifica el autocontrol como un LOGRO MAYOR que la conquista militar!\n\n\"La cordura del hombre detiene su furor: y su honra es disimular la ofensa.\" A veces la respuesta más sabia y honorable ante un insulto es simplemente elegir dejarlo pasar.\n\n\"El necio da suelta á toda su ira: mas el sabio al fin la sosiega.\" La diferencia entre la necedad y la sabiduría a menudo se muestra más claramente exactamente en los momentos en que más nos provocan.",
+        "fr": "« Celui qui est lent à la colère a une grande intelligence, mais celui qui est prompt à s'irriter proclame sa folie. » La patience n'est pas passive, suggèrent les Proverbes — c'est en réalité un signe de véritable compréhension et profondeur.\n\n« L'homme violent excite des querelles, mais celui qui est lent à la colère apaise les disputes. » Le tempérament colérique d'une personne peut enflammer une dispute ; la patience d'une personne peut l'éteindre, même dans la même situation.\n\nVoici une comparaison remarquable : « celui qui est lent à la colère vaut mieux qu'un héros, et celui qui est maître de lui-même, que celui qui prend des villes. » Les Proverbes classent la maîtrise de soi comme une RÉALISATION SUPÉRIEURE à la conquête militaire !\n\n« La sagesse de l'homme le rend patient, et c'est à son honneur de pardonner les offenses. » Parfois, la réponse la plus sage et la plus honorable à une insulte est simplement de choisir de la laisser passer.\n\n« L'insensé met en dehors toute sa colère, mais le sage la contient. » La différence entre l'insensé et le sage se montre souvent le plus clairement exactement dans les moments où nous sommes le plus provoqués."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Better a patient person than a warrior, one with self-control than one who takes a city."
+        "en": "Better a patient person than a warrior, one with self-control than one who takes a city.",
+        "es": "Mejor es el que tarde se aira que el fuerte; y el que se enseñorea de su espíritu, que el que toma una ciudad.",
+        "fr": "Celui qui est lent à la colère vaut mieux qu'un héros, Et celui qui est maître de lui-même, que celui qui prend des villes."
       },
       "ref": {
-        "en": "Proverbs 16:32 (NIV)"
+        "en": "Proverbs 16:32 (NIV)",
+        "es": "Proverbios 16:32 (Valera)",
+        "fr": "Proverbes 16:32 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "one",
           "with",
           "self-control"
+        ],
+        "es": [
+          "Mejor",
+          "es",
+          "el",
+          "que",
+          "tarde",
+          "se"
+        ],
+        "fr": [
+          "Celui",
+          "qui",
+          "est",
+          "lent",
+          "à",
+          "la"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Slow to Anger, Quick to Understand"
+        "en": "A Song for Slow to Anger, Quick to Understand",
+        "es": "Una Canción para Tardo Para Airarse, Rápido Para Entender",
+        "fr": "Une Chanson pour Lent à la Colère, Prompt à Comprendre"
       },
       "audio_en": "/static/audio/proverbs/lesson23_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "How does Proverbs 16:32 rank self-control compared to military conquest?"
+            "en": "How does Proverbs 16:32 rank self-control compared to military conquest?",
+            "es": "¿Cómo clasifica Proverbios 16:32 el autocontrol comparado con la conquista militar?",
+            "fr": "Comment Proverbes 16:32 classe-t-il la maîtrise de soi comparée à la conquête militaire ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Self-control is greater — better than a warrior who takes a city",
               "They're exactly equal",
               "Conquest is always more important"
+            ],
+            "es": [
+              "El autocontrol es menos impresionante",
+              "El autocontrol es mayor — mejor que un guerrero que toma una ciudad",
+              "Son exactamente iguales",
+              "La conquista siempre es más importante"
+            ],
+            "fr": [
+              "La maîtrise de soi est moins impressionnante",
+              "La maîtrise de soi est supérieure — meilleure qu'un héros qui prend des villes",
+              "Elles sont exactement égales",
+              "La conquête est toujours plus importante"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 15:18 say about the difference between a hot-tempered and a patient person?"
+            "en": "What does Proverbs 15:18 say about the difference between a hot-tempered and a patient person?",
+            "es": "¿Qué dice Proverbios 15:18 sobre la diferencia entre una persona iracunda y una paciente?",
+            "fr": "Que dit Proverbes 15:18 sur la différence entre une personne violente et une personne patiente ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "A hot-tempered person stirs up conflict; a patient person calms a quarrel",
               "Neither affects conflict",
               "Patience makes things worse"
+            ],
+            "es": [
+              "Ambas provocan conflicto por igual",
+              "Una persona iracunda provoca conflicto; una persona paciente apacigua una disputa",
+              "Ninguna afecta el conflicto",
+              "La paciencia empeora las cosas"
+            ],
+            "fr": [
+              "Les deux provoquent le conflit également",
+              "Une personne violente provoque le conflit ; une personne patiente apaise une dispute",
+              "Aucune des deux n'affecte le conflit",
+              "La patience aggrave les choses"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 19:11 say can be 'to one's glory'?"
+            "en": "What does Proverbs 19:11 say can be 'to one's glory'?",
+            "es": "¿Qué dice Proverbios 19:11 que puede ser 'su honra'?",
+            "fr": "Que dit Proverbes 19:11 qui peut être « à son honneur » ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Overlooking an offence",
               "Getting revenge",
               "Nothing related to forgiveness"
+            ],
+            "es": [
+              "Guardar rencor",
+              "Disimular la ofensa",
+              "Buscar venganza",
+              "Nada relacionado con el perdón"
+            ],
+            "fr": [
+              "Garder rancune",
+              "Pardonner les offenses",
+              "Chercher la vengeance",
+              "Rien lié au pardon"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Slow to Anger, Quick to Understand"
+            "en": "Activity sheet: Slow to Anger, Quick to Understand",
+            "es": "Hoja de actividad: Tardo Para Airarse, Rápido Para Entender",
+            "fr": "Fiche d'activité : Lent à la Colère, Prompt à Comprendre"
           },
           "file": "/static/printables/proverbs/lesson23_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs treats self-control over anger as a higher, more difficult achievement than physical conquest or external success — patience and the willingness to overlook an offence are framed as marks of genuine wisdom, not weakness. This challenges a common cultural assumption that strength is primarily about dominance rather than internal mastery.\n\nConversation starters: (1) Why might self-control actually be harder, and more praiseworthy, than winning a physical battle? (2) Can you think of a recent moment where staying patient (or losing your temper) changed how a situation turned out? (3) What does it mean that overlooking an offence can be \"to one's glory\" — an honourable choice, not a weak one?\n\nPray for patience and self-control, especially in the exact moments you're most provoked."
+        "en": "Big idea: Proverbs treats self-control over anger as a higher, more difficult achievement than physical conquest or external success — patience and the willingness to overlook an offence are framed as marks of genuine wisdom, not weakness. This challenges a common cultural assumption that strength is primarily about dominance rather than internal mastery.\n\nConversation starters: (1) Why might self-control actually be harder, and more praiseworthy, than winning a physical battle? (2) Can you think of a recent moment where staying patient (or losing your temper) changed how a situation turned out? (3) What does it mean that overlooking an offence can be \"to one's glory\" — an honourable choice, not a weak one?\n\nPray for patience and self-control, especially in the exact moments you're most provoked.",
+        "es": "Idea principal: Proverbios trata el autocontrol sobre la ira como un logro mayor y más difícil que la conquista física o el éxito externo — la paciencia y la disposición a disimular una ofensa se enmarcan como marcas de sabiduría genuina, no de debilidad. Esto desafía una suposición cultural común de que la fortaleza se trata principalmente de dominio en lugar de maestría interna.\n\nPara conversar: (1) ¿Por qué podría el autocontrol ser en realidad más difícil, y más digno de elogio, que ganar una batalla física? (2) ¿Puedes pensar en un momento reciente donde mantenerse paciente (o perder los estribos) cambió cómo resultó una situación? (3) ¿Qué significa que disimular una ofensa puede ser \"su honra\" — una elección honorable, no débil?\n\nOren por paciencia y autocontrol, especialmente en los momentos exactos en que más te provocan.",
+        "fr": "Idée principale : les Proverbes traitent la maîtrise de soi sur la colère comme une réalisation supérieure et plus difficile que la conquête physique ou le succès extérieur — la patience et la volonté de pardonner une offense sont présentées comme des marques de sagesse authentique, pas de faiblesse. Cela remet en question une hypothèse culturelle courante selon laquelle la force concerne principalement la domination plutôt que la maîtrise intérieure.\n\nPour la conversation : (1) Pourquoi la maîtrise de soi pourrait-elle être en réalité plus difficile, et plus digne d'éloges, que gagner une bataille physique ? (2) Peux-tu penser à un moment récent où rester patient (ou perdre ton sang-froid) a changé la façon dont une situation s'est déroulée ? (3) Que signifie le fait que pardonner une offense peut être « à son honneur » — un choix honorable, pas faible ?\n\nPriez pour la patience et la maîtrise de soi, particulièrement dans les moments précis où tu es le plus provoqué."
       }
     }
   ]

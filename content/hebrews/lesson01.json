@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "God's Final Word"
+    "en": "God's Final Word",
+    "es": "La Palabra Final de Dios",
+    "fr": "La Parole Finale de Dieu"
   },
   "ref": "Hebrews 1:1-14",
   "section": "The Son Superior to Angels",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "From prophets to the Son"
+        "en": "From prophets to the Son",
+        "es": "De los profetas al Hijo",
+        "fr": "Des prophètes au Fils"
       },
       "body": {
-        "en": "For hundreds of years, God spoke to His people through prophets — Moses, Isaiah, Jeremiah — in many ways: dreams, visions, even a burning bush!\n\nBut now, the writer says, something far greater has happened: in these LAST DAYS, God has spoken to us by His SON — not a messenger, but the One through WHOM God made the universe! Jesus is the radiance of God's glory, sustaining everything by the power of His word. After dealing with sin once for all, Jesus sat down at the right hand of God — the seat of highest honour.\n\nDid God ever say to any angel, 'You are my Son'? No! Angels are mighty, but they are SERVANTS.\n\nJesus is the Son, ruling forever, with a throne that will never end."
+        "en": "For hundreds of years, God spoke to His people through prophets — Moses, Isaiah, Jeremiah — in many ways: dreams, visions, even a burning bush!\n\nBut now, the writer says, something far greater has happened: in these LAST DAYS, God has spoken to us by His SON — not a messenger, but the One through WHOM God made the universe! Jesus is the radiance of God's glory, sustaining everything by the power of His word. After dealing with sin once for all, Jesus sat down at the right hand of God — the seat of highest honour.\n\nDid God ever say to any angel, 'You are my Son'? No! Angels are mighty, but they are SERVANTS.\n\nJesus is the Son, ruling forever, with a throne that will never end.",
+        "es": "Durante cientos de años, Dios habló a Su pueblo por medio de los profetas — Moisés, Isaías, Jeremías — de muchas maneras: sueños, visiones, ¡incluso una zarza ardiente!\n\nPero ahora, dice el escritor, ha sucedido algo mucho más grande: en estos POSTREROS DÍAS, Dios nos ha hablado por Su HIJO — no un mensajero, sino Aquel por medio de QUIEN Dios hizo el universo! Jesús es el resplandor de la gloria de Dios, sosteniendo todas las cosas por el poder de Su palabra. Después de tratar el pecado de una vez para siempre, Jesús se sentó a la diestra de Dios — el lugar de mayor honor.\n\n¿Alguna vez dijo Dios a algún ángel: \"Tú eres mi Hijo\"? ¡No! Los ángeles son poderosos, pero son SIERVOS.\n\nJesús es el Hijo, reinando para siempre, con un trono que nunca tendrá fin.",
+        "fr": "Pendant des centaines d'années, Dieu a parlé à Son peuple par les prophètes — Moïse, Ésaïe, Jérémie — de bien des manières : des rêves, des visions, même un buisson ardent !\n\nMais maintenant, dit l'auteur, quelque chose de bien plus grand s'est produit : dans ces DERNIERS TEMPS, Dieu nous a parlé par Son FILS — non un messager, mais Celui par QUI Dieu a créé l'univers ! Jésus est le rayonnement de la gloire de Dieu, soutenant toutes choses par le pouvoir de Sa parole. Après avoir réglé le péché une fois pour toutes, Jésus s'est assis à la droite de Dieu — la place du plus grand honneur.\n\nDieu a-t-Il jamais dit à un ange : « Tu es mon Fils » ? Non ! Les anges sont puissants, mais ils sont des SERVITEURS.\n\nJésus est le Fils, régnant pour toujours, avec un trône qui n'aura jamais de fin."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "In these last days he has spoken to us by his Son."
+        "en": "In these last days he has spoken to us by his Son.",
+        "es": "En estos postreros días nos ha hablado por el Hijo, al cual constituyó heredero de todo, por el cual asimismo hizo el universo.",
+        "fr": "Dieu, dans ces derniers temps, nous a parlé par le Fils, qu'il a établi héritier de toutes choses, par lequel il a aussi créé le monde."
       },
       "ref": {
-        "en": "Hebrews 1:2 (NIV)"
+        "en": "Hebrews 1:2 (NIV)",
+        "es": "Hebreos 1:2 (Valera)",
+        "fr": "Hébreux 1:2 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -33,6 +43,22 @@
           "spoken",
           "to",
           "us"
+        ],
+        "es": [
+          "En",
+          "estos",
+          "postreros",
+          "días",
+          "nos",
+          "ha"
+        ],
+        "fr": [
+          "Dieu",
+          "dans",
+          "ces",
+          "derniers",
+          "temps",
+          "nous"
         ]
       },
       "typing_challenge": true
@@ -40,7 +66,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for God's Final Word"
+        "en": "A Song for God's Final Word",
+        "es": "Una Canción para La Palabra Final de Dios",
+        "fr": "Une Chanson pour La Parole Finale de Dieu"
       },
       "audio_en": "/static/audio/hebrews/lesson01_en.mp3"
     },
@@ -49,7 +77,9 @@
       "questions": [
         {
           "q": {
-            "en": "How did God speak to His people before Jesus came?"
+            "en": "How did God speak to His people before Jesus came?",
+            "es": "¿Cómo habló Dios a Su pueblo antes de que viniera Jesús?",
+            "fr": "Comment Dieu a-t-Il parlé à Son peuple avant la venue de Jésus ?"
           },
           "options": {
             "en": [
@@ -57,13 +87,27 @@
               "Through the prophets, in many ways",
               "Never",
               "Only angels"
+            ],
+            "es": [
+              "Solo a través de sueños",
+              "A través de los profetas, de muchas maneras",
+              "Nunca",
+              "Solo ángeles"
+            ],
+            "fr": [
+              "Seulement par des rêves",
+              "Par les prophètes, de bien des manières",
+              "Jamais",
+              "Seulement des anges"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus do after dealing with sin once for all?"
+            "en": "What did Jesus do after dealing with sin once for all?",
+            "es": "¿Qué hizo Jesús después de tratar el pecado de una vez para siempre?",
+            "fr": "Qu'a fait Jésus après avoir réglé le péché une fois pour toutes ?"
           },
           "options": {
             "en": [
@@ -71,13 +115,27 @@
               "Sat down at the right hand of God",
               "Disappeared",
               "Became an angel"
+            ],
+            "es": [
+              "Se escondió",
+              "Se sentó a la diestra de Dios",
+              "Desapareció",
+              "Se convirtió en un ángel"
+            ],
+            "fr": [
+              "Il s'est caché",
+              "Il s'est assis à la droite de Dieu",
+              "Il a disparu",
+              "Il est devenu un ange"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What are angels, compared to the Son?"
+            "en": "What are angels, compared to the Son?",
+            "es": "¿Qué son los ángeles, comparados con el Hijo?",
+            "fr": "Que sont les anges, comparés au Fils ?"
           },
           "options": {
             "en": [
@@ -85,6 +143,18 @@
               "Servants, sent to help God's people",
               "More powerful",
               "Unimportant"
+            ],
+            "es": [
+              "Iguales a Él",
+              "Siervos, enviados para ayudar al pueblo de Dios",
+              "Más poderosos",
+              "Sin importancia"
+            ],
+            "fr": [
+              "Égaux à Lui",
+              "Des serviteurs, envoyés pour aider le peuple de Dieu",
+              "Plus puissants",
+              "Sans importance"
             ]
           },
           "answer": 1
@@ -96,7 +166,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: God's Final Word"
+            "en": "Activity sheet: God's Final Word",
+            "es": "Hoja de actividad: La Palabra Final de Dios",
+            "fr": "Fiche d'activité : La Parole Finale de Dieu"
           },
           "file": "/static/printables/hebrews/lesson01_sheet.pdf"
         }
@@ -105,7 +177,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the supremacy of Christ's revelation as God's final, complete Word. The seven Old Testament quotations (1:5-14) prove Christ's deity using Scripture the readers already revered.\n\nConversation starters: (1) Why does it matter that Jesus is God's own Son, not just a messenger? (2) What's the difference between a servant and a son who inherits everything? (3) If God's final word is His Son, how seriously should we take Jesus' words?\n\nPray, thanking God for speaking fully and finally through His Son."
+        "en": "Big idea: the supremacy of Christ's revelation as God's final, complete Word. The seven Old Testament quotations (1:5-14) prove Christ's deity using Scripture the readers already revered.\n\nConversation starters: (1) Why does it matter that Jesus is God's own Son, not just a messenger? (2) What's the difference between a servant and a son who inherits everything? (3) If God's final word is His Son, how seriously should we take Jesus' words?\n\nPray, thanking God for speaking fully and finally through His Son.",
+        "es": "Idea principal: la supremacía de la revelación de Cristo como la Palabra final y completa de Dios. Las siete citas del Antiguo Testamento (1:5-14) demuestran la deidad de Cristo usando la Escritura que los lectores ya reverenciaban.\n\nPara conversar: (1) ¿Por qué importa que Jesús sea el propio Hijo de Dios, y no solo un mensajero? (2) ¿Cuál es la diferencia entre un siervo y un hijo que hereda todo? (3) Si la palabra final de Dios es Su Hijo, ¿con cuánta seriedad deberíamos tomar las palabras de Jesús?\n\nOren, agradeciendo a Dios por hablar plena y finalmente por medio de Su Hijo.",
+        "fr": "Idée principale : la suprématie de la révélation de Christ comme Parole finale et complète de Dieu. Les sept citations de l'Ancien Testament (1.5-14) prouvent la divinité de Christ en utilisant l'Écriture que les lecteurs révéraient déjà.\n\nPour la conversation : (1) Pourquoi est-il important que Jésus soit le propre Fils de Dieu, et non seulement un messager ? (2) Quelle est la différence entre un serviteur et un fils qui hérite de tout ? (3) Si la parole finale de Dieu est Son Fils, avec quel sérieux devrions-nous prendre les paroles de Jésus ?\n\nPriez, en remerciant Dieu d'avoir parlé pleinement et définitivement par Son Fils."
       }
     }
   ]

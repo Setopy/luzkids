@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Content in Any Circumstance"
+    "en": "Content in Any Circumstance",
+    "es": "Contento en Cualquier Circunstancia",
+    "fr": "Content en Toute Circonstance"
   },
   "ref": "Philippians 4:10-20",
   "section": "Thanks for Their Gifts",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "The secret Paul learned"
+        "en": "The secret Paul learned",
+        "es": "El secreto que Pablo aprendió",
+        "fr": "Le secret que Paul a appris"
       },
       "body": {
-        "en": "Paul thanks the Philippians warmly for their gift, renewing their concern for him — though he gently notes they simply hadn't had the opportunity to show it sooner.\n\nThen Paul shares something he had to LEARN, not something that came naturally: 'I have learned to be content whatever the circumstances. I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want.' And then the secret itself, one of the most quoted verses in Scripture: 'I can do all things through Him who gives me strength!' Notice this isn't a promise of unlimited success or achievement — it's about CONTENTMENT and ENDURANCE through Christ's strength, in plenty or in need.\n\nPaul thanks them again for partnering with him in giving, calling their gift a fragrant offering, a sacrifice pleasing to God — and promises that his God will meet all THEIR needs too, according to the riches of His glory in Christ Jesus."
+        "en": "Paul thanks the Philippians warmly for their gift, renewing their concern for him — though he gently notes they simply hadn't had the opportunity to show it sooner.\n\nThen Paul shares something he had to LEARN, not something that came naturally: 'I have learned to be content whatever the circumstances. I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want.' And then the secret itself, one of the most quoted verses in Scripture: 'I can do all things through Him who gives me strength!' Notice this isn't a promise of unlimited success or achievement — it's about CONTENTMENT and ENDURANCE through Christ's strength, in plenty or in need.\n\nPaul thanks them again for partnering with him in giving, calling their gift a fragrant offering, a sacrifice pleasing to God — and promises that his God will meet all THEIR needs too, according to the riches of His glory in Christ Jesus.",
+        "es": "Pablo agradece calurosamente a los filipenses por su ofrenda, que renovó su preocupación por él — aunque señala con delicadeza que simplemente no habían tenido la oportunidad de mostrarlo antes.\n\nLuego Pablo comparte algo que tuvo que APRENDER, no algo que le vino naturalmente: \"He aprendido a estar contento cualesquiera que sean las circunstancias. Sé lo que es pasar necesidad, y sé lo que es tener abundancia. He aprendido el secreto de estar contento en toda y cada situación, sea bien alimentado o hambriento, viviendo en abundancia o en escasez.\" Y luego el secreto mismo, uno de los versículos más citados de la Escritura: \"¡Todo lo puedo en Cristo que me fortalece!\" Nota que esto no es una promesa de éxito ilimitado ni de logros — se trata de CONTENTAMIENTO y RESISTENCIA por medio de la fuerza de Cristo, en abundancia o en necesidad.\n\nPablo les agradece de nuevo por asociarse con él en dar, llamando a su ofrenda un perfume de olor grato, un sacrificio agradable a Dios — y promete que su Dios también suplirá TODAS sus necesidades, conforme a las riquezas de Su gloria en Cristo Jesús.",
+        "fr": "Paul remercie chaleureusement les Philippiens pour leur don, qui a renouvelé leur souci pour lui — bien qu'il note avec délicatesse qu'ils n'avaient simplement pas eu l'occasion de le montrer plus tôt.\n\nPuis Paul partage quelque chose qu'il a dû APPRENDRE, et non quelque chose qui lui venait naturellement : « J'ai appris à être content, quelles que soient les circonstances. Je sais vivre dans la pénurie, et je sais vivre dans l'abondance. J'ai appris le secret d'être content en toute et n'importe quelle situation, que je sois rassasié ou affamé, dans l'abondance ou dans le besoin. » Et puis le secret lui-même, l'un des versets les plus cités de l'Écriture : « Je puis tout par celui qui me fortifie ! » Remarque que ce n'est pas une promesse de succès illimité ou de réussite — il s'agit du CONTENTEMENT et de l'ENDURANCE par la force de Christ, dans l'abondance ou dans le besoin.\n\nPaul les remercie de nouveau de s'être associés à lui en donnant, appelant leur don un parfum de bonne odeur, un sacrifice agréable à Dieu — et promet que son Dieu pourvoira aussi à TOUS leurs besoins, selon les richesses de Sa gloire en Jésus-Christ."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "I can do all this through him who gives me strength."
+        "en": "I can do all this through him who gives me strength.",
+        "es": "Todo lo puedo en Cristo que me fortalece.",
+        "fr": "Je puis tout par celui qui me fortifie."
       },
       "ref": {
-        "en": "Philippians 4:13 (NIV)"
+        "en": "Philippians 4:13 (NIV)",
+        "es": "Filipenses 4:13 (Valera)",
+        "fr": "Philippiens 4:13 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -35,6 +45,22 @@
           "gives",
           "me",
           "strength"
+        ],
+        "es": [
+          "Todo",
+          "lo",
+          "puedo",
+          "en",
+          "Cristo",
+          "que"
+        ],
+        "fr": [
+          "Je",
+          "puis",
+          "tout",
+          "par",
+          "celui",
+          "qui"
         ]
       },
       "typing_challenge": true
@@ -42,7 +68,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Content in Any Circumstance"
+        "en": "A Song for Content in Any Circumstance",
+        "es": "Una Canción para Contento en Cualquier Circunstancia",
+        "fr": "Une Chanson pour Content en Toute Circonstance"
       },
       "audio_en": "/static/audio/philippians/lesson10_en.mp3"
     },
@@ -51,7 +79,9 @@
       "questions": [
         {
           "q": {
-            "en": "What does Paul say he had to LEARN, rather than it coming naturally?"
+            "en": "What does Paul say he had to LEARN, rather than it coming naturally?",
+            "es": "¿Qué dice Pablo que tuvo que APRENDER, en lugar de que le viniera naturalmente?",
+            "fr": "Que dit Paul avoir dû APPRENDRE, plutôt que cela lui soit venu naturellement ?"
           },
           "options": {
             "en": [
@@ -59,13 +89,27 @@
               "How to be content in any and every situation",
               "How to avoid all hardship",
               "How to impress others"
+            ],
+            "es": [
+              "Cómo ser rico",
+              "Cómo estar contento en toda y cada situación",
+              "Cómo evitar toda dificultad",
+              "Cómo impresionar a los demás"
+            ],
+            "fr": [
+              "Comment être riche",
+              "Comment être content en toute et n'importe quelle situation",
+              "Comment éviter toute épreuve",
+              "Comment impressionner les autres"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What is Paul's famous secret, in verse 13?"
+            "en": "What is Paul's famous secret, in verse 13?",
+            "es": "¿Cuál es el famoso secreto de Pablo, en el versículo 13?",
+            "fr": "Quel est le célèbre secret de Paul, au verset 13 ?"
           },
           "options": {
             "en": [
@@ -73,13 +117,27 @@
               "I can do all things through Him who gives me strength",
               "I can do all things if I try hard enough alone",
               "Nothing is actually possible"
+            ],
+            "es": [
+              "Todo lo puedo por mi propia fuerza de voluntad",
+              "Todo lo puedo en Cristo que me fortalece",
+              "Todo lo puedo si me esfuerzo lo suficiente solo",
+              "Nada es realmente posible"
+            ],
+            "fr": [
+              "Je peux tout faire par ma propre volonté",
+              "Je puis tout par celui qui me fortifie",
+              "Je peux tout faire si j'essaie assez fort seul",
+              "Rien n'est vraiment possible"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Paul promise about God meeting the Philippians' needs?"
+            "en": "What does Paul promise about God meeting the Philippians' needs?",
+            "es": "¿Qué promete Pablo acerca de que Dios suplirá las necesidades de los filipenses?",
+            "fr": "Que promet Paul à propos de Dieu pourvoyant aux besoins des Philippiens ?"
           },
           "options": {
             "en": [
@@ -87,6 +145,18 @@
               "God will meet all their needs, according to the riches of His glory",
               "Only some needs will be met",
               "Nothing is promised"
+            ],
+            "es": [
+              "Dios ignorará sus necesidades",
+              "Dios suplirá todas sus necesidades, conforme a las riquezas de Su gloria",
+              "Solo algunas necesidades serán suplidas",
+              "No se promete nada"
+            ],
+            "fr": [
+              "Dieu ignorera leurs besoins",
+              "Dieu pourvoira à tous leurs besoins, selon les richesses de Sa gloire",
+              "Seulement certains besoins seront satisfaits",
+              "Rien n'est promis"
             ]
           },
           "answer": 1
@@ -98,7 +168,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Content in Any Circumstance"
+            "en": "Activity sheet: Content in Any Circumstance",
+            "es": "Hoja de actividad: Contento en Cualquier Circunstancia",
+            "fr": "Fiche d'activité : Content en Toute Circonstance"
           },
           "file": "/static/printables/philippians/lesson10_sheet.pdf"
         }
@@ -107,7 +179,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: contentment, like holiness, is something genuinely LEARNED through Christ-given strength, not a natural personality trait or the product of favorable circumstances. \"I can do all things through him who gives me strength\" (4:13), often misapplied as a promise of unlimited success, is actually Paul's testimony about enduring BOTH plenty and hunger with the same Christ-empowered contentment — a far more durable, mature kind of strength than mere achievement.\n\nConversation starters: (1) What's the difference between contentment that comes naturally and contentment that has to be \"learned\"? (2) Why might learning contentment in want be just as important as learning it in plenty? (3) What does verse 13 actually mean, in its real context, about plenty and need?\n\nPray for the same learned contentment Paul had, whatever circumstances come."
+        "en": "Big idea: contentment, like holiness, is something genuinely LEARNED through Christ-given strength, not a natural personality trait or the product of favorable circumstances. \"I can do all things through him who gives me strength\" (4:13), often misapplied as a promise of unlimited success, is actually Paul's testimony about enduring BOTH plenty and hunger with the same Christ-empowered contentment — a far more durable, mature kind of strength than mere achievement.\n\nConversation starters: (1) What's the difference between contentment that comes naturally and contentment that has to be \"learned\"? (2) Why might learning contentment in want be just as important as learning it in plenty? (3) What does verse 13 actually mean, in its real context, about plenty and need?\n\nPray for the same learned contentment Paul had, whatever circumstances come.",
+        "es": "Idea principal: el contentamiento, como la santidad, es algo que se APRENDE genuinamente por medio de la fuerza que da Cristo, no un rasgo natural de personalidad ni el resultado de circunstancias favorables. \"Todo lo puedo en Cristo que me fortalece\" (4:13), a menudo mal aplicado como una promesa de éxito ilimitado, es en realidad el testimonio de Pablo sobre soportar TANTO la abundancia como el hambre con el mismo contentamiento que da Cristo — un tipo de fuerza mucho más duradero y maduro que el simple logro.\n\nPara conversar: (1) ¿Cuál es la diferencia entre el contentamiento que viene naturalmente y el que hay que \"aprender\"? (2) ¿Por qué podría ser tan importante aprender el contentamiento en la escasez como en la abundancia? (3) ¿Qué significa realmente el versículo 13, en su contexto real, sobre la abundancia y la necesidad?\n\nOren por el mismo contentamiento aprendido que tuvo Pablo, cualesquiera que sean las circunstancias.",
+        "fr": "Idée principale : le contentement, comme la sainteté, est quelque chose de véritablement APPRIS par la force que donne Christ, et non un trait de personnalité naturel ni le fruit de circonstances favorables. « Je puis tout par celui qui me fortifie » (4.13), souvent mal appliqué comme une promesse de succès illimité, est en réalité le témoignage de Paul sur le fait d'endurer À LA FOIS l'abondance et la faim avec le même contentement donné par Christ — un genre de force bien plus durable et mature qu'une simple réussite.\n\nPour la conversation : (1) Quelle est la différence entre le contentement qui vient naturellement et celui qui doit être « appris » ? (2) Pourquoi apprendre le contentement dans le besoin pourrait-il être tout aussi important que l'apprendre dans l'abondance ? (3) Que signifie réellement le verset 13, dans son contexte véritable, à propos de l'abondance et du besoin ?\n\nPriez pour le même contentement appris que Paul avait, quelles que soient les circonstances."
       }
     }
   ]

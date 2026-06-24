@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "This Is My Body, This Is My Blood"
+    "en": "This Is My Body, This Is My Blood",
+    "es": "Esto Es Mi Cuerpo, Esto Es Mi Sangre",
+    "fr": "Ceci Est Mon Corps, Ceci Est Mon Sang"
   },
   "ref": "Mark 14:1-26",
   "section": "Jesus Anointed at Bethany / The Last Supper",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Costly perfume, and a meal that changed forever"
+        "en": "Costly perfume, and a meal that changed forever",
+        "es": "Perfume costoso, y una comida que cambió para siempre",
+        "fr": "Un parfum coûteux, et un repas qui a tout changé pour toujours"
       },
       "body": {
-        "en": "With the Passover near, the chief priests looked for a sneaky way to arrest Jesus. At Simon's house in Bethany, a woman poured very expensive perfume on Jesus' head — some were indignant, calling it wasteful, but Jesus defended her: 'She has done a beautiful thing... she poured perfume on my body beforehand to prepare for my burial. Wherever the gospel is preached, what she has done will also be told, in memory of her.' Then Judas Iscariot went to the chief priests, offering to betray Jesus, and they were delighted, promising him money.\n\nOn the first day of the Feast, Jesus arranged the Passover meal. As they ate, Jesus took bread, gave thanks, broke it, and said: 'Take it; this is my body.' Then He took a cup, gave thanks, and said: 'This is my blood of the covenant, which is poured out for many.' He said He would not drink wine again until the day He drinks it new in God's kingdom.\n\nThey sang a hymn together and went out to the Mount of Olives — Jesus had given them a new way to remember Him forever."
+        "en": "With the Passover near, the chief priests looked for a sneaky way to arrest Jesus. At Simon's house in Bethany, a woman poured very expensive perfume on Jesus' head — some were indignant, calling it wasteful, but Jesus defended her: 'She has done a beautiful thing... she poured perfume on my body beforehand to prepare for my burial. Wherever the gospel is preached, what she has done will also be told, in memory of her.' Then Judas Iscariot went to the chief priests, offering to betray Jesus, and they were delighted, promising him money.\n\nOn the first day of the Feast, Jesus arranged the Passover meal. As they ate, Jesus took bread, gave thanks, broke it, and said: 'Take it; this is my body.' Then He took a cup, gave thanks, and said: 'This is my blood of the covenant, which is poured out for many.' He said He would not drink wine again until the day He drinks it new in God's kingdom.\n\nThey sang a hymn together and went out to the Mount of Olives — Jesus had given them a new way to remember Him forever.",
+        "es": "Con la Pascua cerca, los principales sacerdotes buscaban una manera astuta de arrestar a Jesús. En la casa de Simón en Betania, una mujer derramó un perfume muy costoso sobre la cabeza de Jesús — algunos se indignaron, llamándolo derroche, pero Jesús la defendió: \"Ha hecho algo hermoso... derramó perfume sobre mi cuerpo de antemano para prepararme para mi sepultura. Dondequiera que se predique el evangelio, lo que ella ha hecho también se contará, en memoria de ella.\" Entonces Judas Iscariote fue a los principales sacerdotes, ofreciendo traicionar a Jesús, y se alegraron, prometiéndole dinero.\n\nEn el primer día de la Fiesta, Jesús organizó la comida de la Pascua. Mientras comían, Jesús tomó pan, dio gracias, lo partió, y dijo: \"Tomad; esto es mi cuerpo.\" Luego tomó una copa, dio gracias, y dijo: \"Esto es mi sangre del pacto, que es derramada por muchos.\" Dijo que no volvería a beber vino hasta el día en que lo bebiera nuevo en el reino de Dios.\n\nCantaron un himno juntos y salieron al Monte de los Olivos — Jesús les había dado una nueva manera de recordarlo para siempre.",
+        "fr": "Comme la Pâque approchait, les principaux sacrificateurs cherchaient un moyen astucieux d'arrêter Jésus. Chez Simon, à Béthanie, une femme versa un parfum très précieux sur la tête de Jésus — certains furent indignés, appelant cela du gaspillage, mais Jésus la défendit : « Elle a fait une bonne action... elle a d'avance embaumé mon corps pour la sépulture. Partout où l'Évangile sera prêché, ce qu'elle a fait sera aussi raconté, en mémoire d'elle. » Puis Judas Iscariot alla trouver les principaux sacrificateurs, offrant de livrer Jésus, et ils se réjouirent, lui promettant de l'argent.\n\nLe premier jour de la fête, Jésus organisa le repas de la Pâque. Pendant qu'ils mangeaient, Jésus prit du pain, rendit grâces, le rompit, et dit : « Prenez, ceci est mon corps. » Puis Il prit une coupe, rendit grâces, et dit : « Ceci est mon sang, le sang de l'alliance, qui est répandu pour plusieurs. » Il dit qu'Il ne boirait plus de vin jusqu'au jour où Il en boirait du nouveau dans le royaume de Dieu.\n\nIls chantèrent un cantique ensemble et sortirent vers le mont des Oliviers — Jésus leur avait donné une nouvelle façon de se souvenir de Lui pour toujours."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "This is my blood of the covenant, which is poured out for many."
+        "en": "This is my blood of the covenant, which is poured out for many.",
+        "es": "Y les dice: Esto es mi sangre del nuevo pacto, que por muchos es derramada.",
+        "fr": "Et il leur dit : Ceci est mon sang, le sang de l'alliance, qui est répandu pour plusieurs."
       },
       "ref": {
-        "en": "Mark 14:24 (NIV)"
+        "en": "Mark 14:24 (NIV)",
+        "es": "Marcos 14:24 (Valera)",
+        "fr": "Marc 14:24 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -37,6 +47,22 @@
           "out",
           "for",
           "many"
+        ],
+        "es": [
+          "Y",
+          "les",
+          "dice",
+          "Esto",
+          "es",
+          "mi"
+        ],
+        "fr": [
+          "Et",
+          "il",
+          "leur",
+          "dit",
+          "Ceci",
+          "est"
         ]
       },
       "typing_challenge": true
@@ -44,7 +70,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for This Is My Body, This Is My Blood"
+        "en": "A Song for This Is My Body, This Is My Blood",
+        "es": "Una Canción para Esto Es Mi Cuerpo, Esto Es Mi Sangre",
+        "fr": "Une Chanson pour Ceci Est Mon Corps, Ceci Est Mon Sang"
       },
       "audio_en": "/static/audio/mark/lesson34_en.mp3"
     },
@@ -53,7 +81,9 @@
       "questions": [
         {
           "q": {
-            "en": "How did Jesus describe the woman's act of pouring expensive perfume on Him?"
+            "en": "How did Jesus describe the woman's act of pouring expensive perfume on Him?",
+            "es": "¿Cómo describió Jesús el acto de la mujer de derramar perfume costoso sobre Él?",
+            "fr": "Comment Jésus a-t-il décrit le geste de la femme versant un parfum coûteux sur Lui ?"
           },
           "options": {
             "en": [
@@ -61,13 +91,27 @@
               "A beautiful thing, preparing His body for burial",
               "Something to be ashamed of",
               "Nothing significant"
+            ],
+            "es": [
+              "Un acto derrochador y tonto",
+              "Algo hermoso, preparando Su cuerpo para la sepultura",
+              "Algo de qué avergonzarse",
+              "Nada significativo"
+            ],
+            "fr": [
+              "Un geste gaspilleur et insensé",
+              "Une bonne action, préparant Son corps pour la sépulture",
+              "Quelque chose dont avoir honte",
+              "Rien de significatif"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Judas Iscariot do, in exchange for money?"
+            "en": "What did Judas Iscariot do, in exchange for money?",
+            "es": "¿Qué hizo Judas Iscariote, a cambio de dinero?",
+            "fr": "Qu'a fait Judas Iscariot, en échange d'argent ?"
           },
           "options": {
             "en": [
@@ -75,13 +119,27 @@
               "Agreed to betray Jesus to the chief priests",
               "Left the disciples permanently",
               "Nothing notable"
+            ],
+            "es": [
+              "Defendió a Jesús",
+              "Aceptó traicionar a Jesús ante los principales sacerdotes",
+              "Dejó a los discípulos permanentemente",
+              "Nada notable"
+            ],
+            "fr": [
+              "Il a défendu Jésus",
+              "Il a accepté de livrer Jésus aux principaux sacrificateurs",
+              "Il a quitté les disciples définitivement",
+              "Rien de notable"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus say the bread and the cup represented at the Last Supper?"
+            "en": "What did Jesus say the bread and the cup represented at the Last Supper?",
+            "es": "¿Qué dijo Jesús que representaban el pan y la copa en la Última Cena?",
+            "fr": "Qu'a dit Jésus que représentaient le pain et la coupe lors de la Dernière Cène ?"
           },
           "options": {
             "en": [
@@ -89,6 +147,18 @@
               "His body and His blood of the covenant",
               "Nothing significant",
               "A simple meal tradition"
+            ],
+            "es": [
+              "Solo comida ordinaria",
+              "Su cuerpo y Su sangre del pacto",
+              "Nada significativo",
+              "Una simple tradición de comida"
+            ],
+            "fr": [
+              "Seulement de la nourriture ordinaire",
+              "Son corps et Son sang de l'alliance",
+              "Rien de significatif",
+              "Une simple tradition de repas"
             ]
           },
           "answer": 1
@@ -100,7 +170,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: This Is My Body, This Is My Blood"
+            "en": "Activity sheet: This Is My Body, This Is My Blood",
+            "es": "Hoja de actividad: Esto Es Mi Cuerpo, Esto Es Mi Sangre",
+            "fr": "Fiche d'activité : Ceci Est Mon Corps, Ceci Est Mon Sang"
           },
           "file": "/static/printables/mark/lesson34_sheet.pdf"
         }
@@ -109,7 +181,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the Last Supper institutes what would become the church's central, ongoing remembrance — Jesus reinterprets the Passover meal around His own body and blood, establishing a new covenant sealed by His sacrifice. The woman's costly devotion and Judas's costly betrayal sit side by side, two starkly opposite responses to the same Jesus.\n\nConversation starters: (1) Why might Jesus call the woman's extravagant act \"beautiful,\" even though others called it wasteful? (2) What does it mean that Jesus' blood establishes a \"new covenant\"? (3) Why might Judas, who had walked with Jesus for years, ultimately betray Him?\n\nPray, thanking Jesus for His body and blood given for us, remembering Him the way He asked."
+        "en": "Big idea: the Last Supper institutes what would become the church's central, ongoing remembrance — Jesus reinterprets the Passover meal around His own body and blood, establishing a new covenant sealed by His sacrifice. The woman's costly devotion and Judas's costly betrayal sit side by side, two starkly opposite responses to the same Jesus.\n\nConversation starters: (1) Why might Jesus call the woman's extravagant act \"beautiful,\" even though others called it wasteful? (2) What does it mean that Jesus' blood establishes a \"new covenant\"? (3) Why might Judas, who had walked with Jesus for years, ultimately betray Him?\n\nPray, thanking Jesus for His body and blood given for us, remembering Him the way He asked.",
+        "es": "Idea principal: la Última Cena instituye lo que se convertiría en el recuerdo central y continuo de la iglesia — Jesús reinterpreta la comida de la Pascua alrededor de Su propio cuerpo y sangre, estableciendo un nuevo pacto sellado por Su sacrificio. La devoción costosa de la mujer y la traición costosa de Judas se sitúan lado a lado, dos respuestas marcadamente opuestas al mismo Jesús.\n\nPara conversar: (1) ¿Por qué podría Jesús llamar 'hermoso' al acto extravagante de la mujer, aunque otros lo llamaron derroche? (2) ¿Qué significa que la sangre de Jesús establezca un 'nuevo pacto'? (3) ¿Por qué podría Judas, quien había caminado con Jesús durante años, traicionarlo finalmente?\n\nOren, agradeciendo a Jesús por Su cuerpo y sangre dados por nosotros, recordándolo de la manera en que Él pidió.",
+        "fr": "Idée principale : la Dernière Cène institue ce qui deviendrait le souvenir central et continu de l'église — Jésus réinterprète le repas de la Pâque autour de Son propre corps et de Son sang, établissant une nouvelle alliance scellée par Son sacrifice. La dévotion coûteuse de la femme et la trahison coûteuse de Judas se côtoient, deux réponses diamétralement opposées au même Jésus.\n\nPour la conversation : (1) Pourquoi Jésus pourrait-Il appeler « bonne » l'action extravagante de la femme, alors que d'autres l'ont appelée gaspillage ? (2) Que signifie le fait que le sang de Jésus établisse une « nouvelle alliance » ? (3) Pourquoi Judas, qui avait marché avec Jésus pendant des années, pourrait-Il finalement Le trahir ?\n\nPriez, en remerciant Jésus pour Son corps et Son sang donnés pour nous, en Le commémorant comme Il l'a demandé."
       }
     }
   ]

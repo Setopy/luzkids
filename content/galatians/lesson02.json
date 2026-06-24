@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "From Persecutor to Preacher"
+    "en": "From Persecutor to Preacher",
+    "es": "De Perseguidor a Predicador",
+    "fr": "De Persécuteur à Prédicateur"
   },
   "ref": "Galatians 1:11-24",
   "section": "Paul Called by God",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "The most unlikely apostle"
+        "en": "The most unlikely apostle",
+        "es": "El apóstol más improbable",
+        "fr": "L'apôtre le plus improbable"
       },
       "body": {
-        "en": "Paul explains where his gospel actually came from: not from any human teacher, not something he made up — he received it directly through a revelation of Jesus Christ!\n\nAnd then Paul tells his own incredible story. Before he met Jesus, Paul was famous for one thing: hunting down Christians and trying to destroy the church, intensely, zealously. He was about as unlikely a candidate for apostle as anyone could imagine — the last person you'd expect to spend his life preaching the very faith he once tried to wipe out.\n\nBut God, who set Paul apart even before he was born, was pleased to reveal His Son to Paul and call him by grace, sending him specifically to preach to the Gentiles. After this, Paul didn't rush to consult human teachers — he went away, then eventually visited Peter and James briefly.\n\nWhen the believers in Judea heard what had happened to Paul, they praised God! The man who once persecuted the faith was now preaching it. If God's grace could reach and transform someone like Paul, completely reversing the direction of his entire life, there is no person too far gone for God's grace to reach."
+        "en": "Paul explains where his gospel actually came from: not from any human teacher, not something he made up — he received it directly through a revelation of Jesus Christ!\n\nAnd then Paul tells his own incredible story. Before he met Jesus, Paul was famous for one thing: hunting down Christians and trying to destroy the church, intensely, zealously. He was about as unlikely a candidate for apostle as anyone could imagine — the last person you'd expect to spend his life preaching the very faith he once tried to wipe out.\n\nBut God, who set Paul apart even before he was born, was pleased to reveal His Son to Paul and call him by grace, sending him specifically to preach to the Gentiles. After this, Paul didn't rush to consult human teachers — he went away, then eventually visited Peter and James briefly.\n\nWhen the believers in Judea heard what had happened to Paul, they praised God! The man who once persecuted the faith was now preaching it. If God's grace could reach and transform someone like Paul, completely reversing the direction of his entire life, there is no person too far gone for God's grace to reach.",
+        "es": "Pablo explica de dónde vino realmente su evangelio: no de ningún maestro humano, no algo que él inventó — ¡lo recibió directamente por una revelación de Jesucristo!\n\nY entonces Pablo cuenta su propia historia increíble. Antes de conocer a Jesús, Pablo era famoso por una cosa: perseguir a los cristianos y tratar de destruir la iglesia, intensa y celosamente. Era el candidato más improbable a apóstol que cualquiera pudiera imaginar — la última persona de quien esperarías que pasara su vida predicando la misma fe que antes trataba de aniquilar.\n\nPero Dios, quien apartó a Pablo aun antes de que naciera, tuvo a bien revelarle a Su Hijo y llamarlo por gracia, enviándolo específicamente a predicar a los gentiles. Después de esto, Pablo no se apresuró a consultar a maestros humanos — se fue, y eventualmente visitó brevemente a Pedro y a Jacobo.\n\nCuando los creyentes en Judea oyeron lo que le había sucedido a Pablo, ¡glorificaron a Dios! El hombre que antes perseguía la fe ahora la predicaba. Si la gracia de Dios pudo alcanzar y transformar a alguien como Pablo, revirtiendo completamente el rumbo de toda su vida, no hay ninguna persona demasiado perdida para que la gracia de Dios la alcance.",
+        "fr": "Paul explique d'où vient réellement son Évangile : pas d'un maître humain, pas quelque chose qu'il aurait inventé — il l'a reçu directement par une révélation de Jésus-Christ !\n\nEt puis Paul raconte sa propre histoire incroyable. Avant de connaître Jésus, Paul était connu pour une chose : pourchasser les chrétiens et essayer de détruire l'église, intensément, avec zèle. Il était le candidat le plus improbable à l'apostolat que l'on puisse imaginer — la dernière personne dont on aurait pensé qu'elle passerait sa vie à prêcher la foi même qu'elle avait jadis essayé d'anéantir.\n\nMais Dieu, qui avait mis Paul à part avant même sa naissance, trouva bon de lui révéler Son Fils et de l'appeler par grâce, l'envoyant spécifiquement prêcher aux non-Juifs. Après cela, Paul ne s'est pas empressé de consulter des maîtres humains — il est parti, puis a finalement visité brièvement Pierre et Jacques.\n\nQuand les croyants de Judée apprirent ce qui était arrivé à Paul, ils glorifièrent Dieu ! L'homme qui avait autrefois persécuté la foi la prêchait désormais. Si la grâce de Dieu a pu atteindre et transformer quelqu'un comme Paul, inversant complètement le cours de toute sa vie, il n'y a personne de trop perdu pour que la grâce de Dieu l'atteigne."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "They praised God because of me."
+        "en": "They praised God because of me.",
+        "es": "Y glorificaban á Dios en mí.",
+        "fr": "Et elles glorifiaient Dieu à mon sujet."
       },
       "ref": {
-        "en": "Galatians 1:24 (NIV)"
+        "en": "Galatians 1:24 (NIV)",
+        "es": "Gálatas 1:24 (Valera)",
+        "fr": "Galates 1:24 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -30,6 +40,22 @@
           "because",
           "of",
           "me"
+        ],
+        "es": [
+          "Y",
+          "glorificaban",
+          "á",
+          "Dios",
+          "en",
+          "mí"
+        ],
+        "fr": [
+          "Et",
+          "elles",
+          "glorifiaient",
+          "Dieu",
+          "à",
+          "mon"
         ]
       },
       "typing_challenge": true
@@ -37,7 +63,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for From Persecutor to Preacher"
+        "en": "A Song for From Persecutor to Preacher",
+        "es": "Una Canción para De Perseguidor a Predicador",
+        "fr": "Une Chanson pour De Persécuteur à Prédicateur"
       },
       "audio_en": "/static/audio/galatians/lesson02_en.mp3"
     },
@@ -46,7 +74,9 @@
       "questions": [
         {
           "q": {
-            "en": "Where did Paul say his gospel message came from?"
+            "en": "Where did Paul say his gospel message came from?",
+            "es": "¿De dónde dijo Pablo que provenía su mensaje del evangelio?",
+            "fr": "D'où Paul a-t-il dit que venait son message évangélique ?"
           },
           "options": {
             "en": [
@@ -54,13 +84,27 @@
               "A revelation of Jesus Christ, not from any human teacher",
               "Other apostles taught him everything",
               "A book he found"
+            ],
+            "es": [
+              "Lo inventó él mismo",
+              "Una revelación de Jesucristo, no de ningún maestro humano",
+              "Otros apóstoles le enseñaron todo",
+              "Un libro que encontró"
+            ],
+            "fr": [
+              "Il l'a inventé lui-même",
+              "Une révélation de Jésus-Christ, et non d'un maître humain",
+              "D'autres apôtres lui ont tout enseigné",
+              "Un livre qu'il a trouvé"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What was Paul known for before he met Jesus?"
+            "en": "What was Paul known for before he met Jesus?",
+            "es": "¿Por qué era conocido Pablo antes de conocer a Jesús?",
+            "fr": "Pour quoi Paul était-il connu avant de connaître Jésus ?"
           },
           "options": {
             "en": [
@@ -68,13 +112,27 @@
               "Intensely persecuting and trying to destroy the church",
               "Teaching in the synagogue peacefully",
               "Nothing notable"
+            ],
+            "es": [
+              "Ayudar a crecer a la iglesia",
+              "Perseguir intensamente y tratar de destruir la iglesia",
+              "Enseñar pacíficamente en la sinagoga",
+              "Nada notable"
+            ],
+            "fr": [
+              "Aider l'église à grandir",
+              "Persécuter intensément et essayer de détruire l'église",
+              "Enseigner paisiblement dans la synagogue",
+              "Rien de notable"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "How did the believers in Judea respond when they heard about Paul's transformation?"
+            "en": "How did the believers in Judea respond when they heard about Paul's transformation?",
+            "es": "¿Cómo respondieron los creyentes en Judea cuando oyeron sobre la transformación de Pablo?",
+            "fr": "Comment les croyants de Judée ont-ils réagi en apprenant la transformation de Paul ?"
           },
           "options": {
             "en": [
@@ -82,6 +140,18 @@
               "They praised God",
               "They ignored the news",
               "They argued with him"
+            ],
+            "es": [
+              "Estaban suspicaces y atemorizados",
+              "Glorificaron a Dios",
+              "Ignoraron la noticia",
+              "Discutieron con él"
+            ],
+            "fr": [
+              "Ils étaient méfiants et effrayés",
+              "Ils ont glorifié Dieu",
+              "Ils ont ignoré la nouvelle",
+              "Ils se sont disputés avec lui"
             ]
           },
           "answer": 1
@@ -93,7 +163,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: From Persecutor to Preacher"
+            "en": "Activity sheet: From Persecutor to Preacher",
+            "es": "Hoja de actividad: De Perseguidor a Predicador",
+            "fr": "Fiche d'activité : De Persécuteur à Prédicateur"
           },
           "file": "/static/printables/galatians/lesson02_sheet.pdf"
         }
@@ -102,7 +174,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: the gospel's authority comes from direct revelation, not human consensus, and Paul's own radical transformation (persecutor to apostle) becomes living proof of grace's power to completely redirect a life. This personal testimony strengthens his authority to defend the gospel against those questioning it.\n\nConversation starters: (1) Why does Paul's dramatic change from persecutor to preacher matter as evidence for the gospel? (2) What does it mean that God set Paul apart \"before he was born\"? (3) Is there anyone you think is \"too far gone\" for God's grace — and how does Paul's story answer that?\n\nPray, thanking God that no one is beyond the reach of His transforming grace."
+        "en": "Big idea: the gospel's authority comes from direct revelation, not human consensus, and Paul's own radical transformation (persecutor to apostle) becomes living proof of grace's power to completely redirect a life. This personal testimony strengthens his authority to defend the gospel against those questioning it.\n\nConversation starters: (1) Why does Paul's dramatic change from persecutor to preacher matter as evidence for the gospel? (2) What does it mean that God set Paul apart \"before he was born\"? (3) Is there anyone you think is \"too far gone\" for God's grace — and how does Paul's story answer that?\n\nPray, thanking God that no one is beyond the reach of His transforming grace.",
+        "es": "Idea principal: la autoridad del evangelio proviene de la revelación directa, no del consenso humano, y la propia transformación radical de Pablo (de perseguidor a apóstol) se convierte en prueba viva del poder de la gracia para cambiar completamente el rumbo de una vida. Este testimonio personal refuerza su autoridad para defender el evangelio ante quienes lo cuestionaban.\n\nPara conversar: (1) ¿Por qué importa el cambio drástico de Pablo, de perseguidor a predicador, como evidencia del evangelio? (2) ¿Qué significa que Dios apartara a Pablo \"antes de que naciera\"? (3) ¿Hay alguien a quien consideres \"demasiado perdido\" para la gracia de Dios — y cómo responde a eso la historia de Pablo?\n\nOren, agradeciendo a Dios que nadie está fuera del alcance de Su gracia transformadora.",
+        "fr": "Idée principale : l'autorité de l'Évangile vient d'une révélation directe, et non d'un consensus humain, et la propre transformation radicale de Paul (de persécuteur à apôtre) devient une preuve vivante du pouvoir de la grâce à rediriger complètement une vie. Ce témoignage personnel renforce son autorité pour défendre l'Évangile face à ceux qui le remettaient en question.\n\nPour la conversation : (1) Pourquoi le changement spectaculaire de Paul, de persécuteur à prédicateur, compte-t-il comme preuve de l'Évangile ? (2) Que signifie le fait que Dieu ait mis Paul à part « avant sa naissance » ? (3) Y a-t-il quelqu'un que tu considères « trop perdu » pour la grâce de Dieu — et comment l'histoire de Paul répond-elle à cela ?\n\nPriez, en remerciant Dieu que personne ne soit hors de portée de Sa grâce transformatrice."
       }
     }
   ]

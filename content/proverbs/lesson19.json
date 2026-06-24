@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Hard Work and Laziness"
+    "en": "Hard Work and Laziness",
+    "es": "Trabajo Duro y Pereza",
+    "fr": "Travail Acharné et Paresse"
   },
   "ref": "Proverbs 10:4-5; 12:24; 13:4; 21:25; 24:30-34",
   "section": "Hard Work and Laziness (Proverbs of Solomon)",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "A field overgrown with thorns"
+        "en": "A field overgrown with thorns",
+        "es": "Un campo cubierto de espinos",
+        "fr": "Un champ envahi par les épines"
       },
       "body": {
-        "en": "'Lazy hands make for poverty, but diligent hands bring wealth,' the book states simply. 'One who gathers crops in summer is wise, but one who sleeps during harvest is a disgrace.'\n\n'Diligent hands will rule, but laziness ends in slave labour.' This isn't just about money — Proverbs sees diligence and laziness as shaping the whole direction of a life.\n\n'The sluggard craves and gets nothing, but the desires of the diligent are fully satisfied.' Wanting something isn't the same as working for it — only diligence actually satisfies the craving.\n\n'The craving of a sluggard will be the death of him, because his hands refuse to work.' This is a serious, almost startling warning about how destructive ongoing laziness can be.\n\nOne passage paints a vivid picture: the writer walked past the field of a sluggard, and found it overgrown with thorns, covered with weeds, its stone wall broken down. 'A little sleep, a little slumber, a little folding of the hands to rest — and poverty will come on you like a thief.'"
+        "en": "'Lazy hands make for poverty, but diligent hands bring wealth,' the book states simply. 'One who gathers crops in summer is wise, but one who sleeps during harvest is a disgrace.'\n\n'Diligent hands will rule, but laziness ends in slave labour.' This isn't just about money — Proverbs sees diligence and laziness as shaping the whole direction of a life.\n\n'The sluggard craves and gets nothing, but the desires of the diligent are fully satisfied.' Wanting something isn't the same as working for it — only diligence actually satisfies the craving.\n\n'The craving of a sluggard will be the death of him, because his hands refuse to work.' This is a serious, almost startling warning about how destructive ongoing laziness can be.\n\nOne passage paints a vivid picture: the writer walked past the field of a sluggard, and found it overgrown with thorns, covered with weeds, its stone wall broken down. 'A little sleep, a little slumber, a little folding of the hands to rest — and poverty will come on you like a thief.'",
+        "es": "\"La mano negligente hace pobre: mas la mano de los diligentes enriquece,\" afirma el libro sencillamente. \"El que recoge en el verano es hombre entendido: mas el que duerme en el tiempo de la siega es hombre avergonzado.\"\n\n\"La mano de los diligentes señoreará: mas la negligencia será servidumbre.\" Esto no es solo sobre dinero — Proverbios ve la diligencia y la pereza como moldeando toda la dirección de una vida.\n\n\"El alma del perezoso desea, y nada alcanza: mas el alma de los diligentes será engordada.\" Querer algo no es lo mismo que trabajar por ello — solo la diligencia realmente satisface el deseo.\n\n\"El deseo de los perezosos los matará, porque sus manos no quieren trabajar.\" Esta es una advertencia seria, casi sorprendente, sobre cuán destructiva puede ser la pereza continua.\n\nUn pasaje pinta una imagen vívida: el escritor pasó por el campo del perezoso, y lo encontró cubierto de espinos, lleno de ortigas, su cerca de piedra derribada. \"Un poco de sueño, un poco de adormecimiento, cruzar las manos un poco para reposar — y vendrá como caminante tu necesidad, y tu pobreza se vendrá como hombre de escudo.\"\n\n",
+        "fr": "« La main négligente appauvrit, mais la main des diligents enrichit, » affirme simplement le livre. « Celui qui amasse pendant l'été est un fils intelligent, celui qui dort pendant la moisson est un fils qui fait honte. »\n\n« La main des diligents domine, mais la main négligente reste sous le bras. » Ce n'est pas seulement une question d'argent — les Proverbes voient la diligence et la paresse comme façonnant toute la direction d'une vie.\n\n« L'âme du paresseux a des désirs qu'il ne peut satisfaire ; mais l'âme des hommes diligents sera rassasiée. » Désirer quelque chose n'est pas la même chose que travailler pour l'obtenir — seule la diligence satisfait vraiment le désir.\n\n« Les désirs du paresseux le tuent, parce que ses mains refusent de travailler. » C'est un avertissement sérieux, presque saisissant, sur la destruction que la paresse continue peut causer.\n\nUn passage dresse un tableau vivant : l'écrivain passa près du champ du paresseux, et il était envahi par les épines, couvert d'orties, et son mur de pierres était écroulé. « Un peu de sommeil, un peu d'assoupissement, les mains un peu croisées pour se reposer — et la pauvreté te surprendra, comme un voleur. »\n\n"
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Lazy hands make for poverty, but diligent hands bring wealth."
+        "en": "Lazy hands make for poverty, but diligent hands bring wealth.",
+        "es": "La mano negligente hace pobre: mas la mano de los diligentes enriquece.",
+        "fr": "Celui qui agit d'une main lâche s'appauvrit, Mais la main des diligents enrichit."
       },
       "ref": {
-        "en": "Proverbs 10:4 (NIV)"
+        "en": "Proverbs 10:4 (NIV)",
+        "es": "Proverbios 10:4 (Valera)",
+        "fr": "Proverbes 10:4 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -34,6 +44,22 @@
           "hands",
           "bring",
           "wealth"
+        ],
+        "es": [
+          "La",
+          "mano",
+          "negligente",
+          "hace",
+          "pobre",
+          "mas"
+        ],
+        "fr": [
+          "Celui",
+          "qui",
+          "agit",
+          "d'une",
+          "main",
+          "lâche"
         ]
       },
       "typing_challenge": true
@@ -41,7 +67,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Hard Work and Laziness"
+        "en": "A Song for Hard Work and Laziness",
+        "es": "Una Canción para Trabajo Duro y Pereza",
+        "fr": "Une Chanson pour Travail Acharné et Paresse"
       },
       "audio_en": "/static/audio/proverbs/lesson19_en.mp3"
     },
@@ -50,7 +78,9 @@
       "questions": [
         {
           "q": {
-            "en": "According to Proverbs 10:4, what do lazy hands lead to, and what do diligent hands lead to?"
+            "en": "According to Proverbs 10:4, what do lazy hands lead to, and what do diligent hands lead to?",
+            "es": "Según Proverbios 10:4, ¿a qué lleva la mano negligente, y a qué lleva la mano diligente?",
+            "fr": "Selon Proverbes 10:4, à quoi mène la main négligente, et à quoi mène la main diligente ?"
           },
           "options": {
             "en": [
@@ -58,13 +88,27 @@
               "Lazy hands lead to poverty; diligent hands lead to wealth",
               "Lazy hands lead to wealth instead",
               "Neither matters at all"
+            ],
+            "es": [
+              "Ambas llevan al mismo resultado",
+              "La mano negligente lleva a la pobreza; la mano diligente lleva a la riqueza",
+              "La mano negligente lleva a la riqueza en cambio",
+              "Ninguna de las dos importa"
+            ],
+            "fr": [
+              "Les deux mènent au même résultat",
+              "La main négligente mène à la pauvreté ; la main diligente mène à la richesse",
+              "La main négligente mène plutôt à la richesse",
+              "Aucune des deux n'a d'importance"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does the writer find when he walks past the sluggard's field?"
+            "en": "What does the writer find when he walks past the sluggard's field?",
+            "es": "¿Qué encuentra el escritor cuando pasa por el campo del perezoso?",
+            "fr": "Que trouve l'écrivain en passant près du champ du paresseux ?"
           },
           "options": {
             "en": [
@@ -72,13 +116,27 @@
               "A field overgrown with thorns, weeds, and a broken-down wall",
               "Nothing unusual",
               "A thriving harvest"
+            ],
+            "es": [
+              "Un jardín hermosamente cuidado",
+              "Un campo cubierto de espinos, ortigas, y una cerca derribada",
+              "Nada inusual",
+              "Una cosecha próspera"
+            ],
+            "fr": [
+              "Un jardin magnifiquement entretenu",
+              "Un champ envahi par les épines, les orties, et un mur écroulé",
+              "Rien d'inhabituel",
+              "Une récolte prospère"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What does Proverbs 13:4 say about the sluggard's desires versus the diligent person's?"
+            "en": "What does Proverbs 13:4 say about the sluggard's desires versus the diligent person's?",
+            "es": "¿Qué dice Proverbios 13:4 sobre los deseos del perezoso versus los del diligente?",
+            "fr": "Que dit Proverbes 13:4 sur les désirs du paresseux comparés à ceux du diligent ?"
           },
           "options": {
             "en": [
@@ -86,6 +144,18 @@
               "Both get exactly what they want",
               "Neither gets what they want",
               "The sluggard gets more"
+            ],
+            "es": [
+              "El perezoso desea y nada alcanza; el diligente será engordado",
+              "Ambos obtienen exactamente lo que quieren",
+              "Ninguno obtiene lo que quiere",
+              "El perezoso obtiene más"
+            ],
+            "fr": [
+              "Le paresseux désire et n'obtient rien ; le diligent sera rassasié",
+              "Les deux obtiennent exactement ce qu'ils veulent",
+              "Aucun des deux n'obtient ce qu'il veut",
+              "Le paresseux en obtient plus"
             ]
           },
           "answer": 1
@@ -97,7 +167,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Hard Work and Laziness"
+            "en": "Activity sheet: Hard Work and Laziness",
+            "es": "Hoja de actividad: Trabajo Duro y Pereza",
+            "fr": "Fiche d'activité : Travail Acharné et Paresse"
           },
           "file": "/static/printables/proverbs/lesson19_sheet.pdf"
         }
@@ -106,7 +178,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Proverbs treats diligence and laziness as having genuinely different trajectories, not just different feelings — laziness is depicted with vivid, almost shocking imagery (a thorn-choked field, \"the death of him\") to drive home that ongoing idleness has real, serious consequences, while diligence leads to satisfaction and stability.\n\nConversation starters: (1) What does the picture of the overgrown, neglected field teach about what happens when work is consistently put off? (2) What's the difference between craving something and actually working for it? (3) What's one area where you could choose diligence over laziness this week — homework, chores, a responsibility?\n\nPray for diligent hands and hearts, willing to do the work rather than just wishing for the outcome."
+        "en": "Big idea: Proverbs treats diligence and laziness as having genuinely different trajectories, not just different feelings — laziness is depicted with vivid, almost shocking imagery (a thorn-choked field, \"the death of him\") to drive home that ongoing idleness has real, serious consequences, while diligence leads to satisfaction and stability.\n\nConversation starters: (1) What does the picture of the overgrown, neglected field teach about what happens when work is consistently put off? (2) What's the difference between craving something and actually working for it? (3) What's one area where you could choose diligence over laziness this week — homework, chores, a responsibility?\n\nPray for diligent hands and hearts, willing to do the work rather than just wishing for the outcome.",
+        "es": "Idea principal: Proverbios trata la diligencia y la pereza como teniendo trayectorias genuinamente diferentes, no solo sentimientos diferentes — la pereza se representa con imágenes vívidas, casi impactantes (un campo ahogado por espinos, \"lo matará\") para subrayar que la ociosidad continua tiene consecuencias reales y serias, mientras que la diligencia lleva a la satisfacción y la estabilidad.\n\nPara conversar: (1) ¿Qué enseña la imagen del campo cubierto de espinos y abandonado sobre lo que sucede cuando el trabajo se posterga constantemente? (2) ¿Cuál es la diferencia entre desear algo y realmente trabajar por ello? (3) ¿Cuál es un área donde podrías elegir la diligencia sobre la pereza esta semana — tarea, quehaceres, una responsabilidad?\n\nOren por manos y corazones diligentes, dispuestos a hacer el trabajo en lugar de solo desear el resultado.",
+        "fr": "Idée principale : les Proverbes traitent la diligence et la paresse comme ayant des trajectoires véritablement différentes, pas seulement des sentiments différents — la paresse est représentée avec des images vives, presque choquantes (un champ étouffé par les épines, « le tuent ») pour souligner que l'oisiveté continue a de vraies conséquences sérieuses, tandis que la diligence mène à la satisfaction et à la stabilité.\n\nPour la conversation : (1) Que nous enseigne l'image du champ envahi par les épines et abandonné sur ce qui se passe quand le travail est constamment reporté ? (2) Quelle est la différence entre désirer quelque chose et travailler réellement pour l'obtenir ? (3) Quel est un domaine où tu pourrais choisir la diligence plutôt que la paresse cette semaine — devoirs, tâches ménagères, une responsabilité ?\n\nPriez pour des mains et des cœurs diligents, disposés à faire le travail plutôt que de simplement souhaiter le résultat."
       }
     }
   ]

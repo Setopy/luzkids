@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Take Courage! It Is I"
+    "en": "Take Courage! It Is I",
+    "es": "¡Tened Ánimo! Yo Soy",
+    "fr": "Rassurez-vous, C'est Moi"
   },
   "ref": "Mark 6:45-56",
   "section": "Jesus Walks on the Water",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Walking toward them on the waves"
+        "en": "Walking toward them on the waves",
+        "es": "Caminando hacia ellos sobre las olas",
+        "fr": "Marchant vers eux sur les vagues"
       },
       "body": {
-        "en": "After feeding the crowd, Jesus sent the disciples ahead by boat while He went up a mountainside to pray.\n\nLater that night, He saw the disciples straining against the wind, rowing hard on the lake. About the fourth watch of the night, Jesus went out to them, WALKING ON THE LAKE! He was about to pass by them, but they saw Him and were terrified, thinking He was a ghost!\n\nJesus immediately said: 'Take courage! It is I. Don't be afraid.' He climbed into the boat with them, and the wind died down!\n\nThey were completely amazed — they still hadn't fully understood the feeding of the five thousand, and their hearts were hardened. When they landed, people recognised Jesus immediately and brought the sick to Him from the surrounding area, on mats, just to lay near Him — wherever He went, people begged just to touch even the edge of His cloak, and all who touched Him were healed."
+        "en": "After feeding the crowd, Jesus sent the disciples ahead by boat while He went up a mountainside to pray.\n\nLater that night, He saw the disciples straining against the wind, rowing hard on the lake. About the fourth watch of the night, Jesus went out to them, WALKING ON THE LAKE! He was about to pass by them, but they saw Him and were terrified, thinking He was a ghost!\n\nJesus immediately said: 'Take courage! It is I. Don't be afraid.' He climbed into the boat with them, and the wind died down!\n\nThey were completely amazed — they still hadn't fully understood the feeding of the five thousand, and their hearts were hardened. When they landed, people recognised Jesus immediately and brought the sick to Him from the surrounding area, on mats, just to lay near Him — wherever He went, people begged just to touch even the edge of His cloak, and all who touched Him were healed.",
+        "es": "Después de alimentar a la multitud, Jesús envió a los discípulos por delante en una barca mientras Él subía a una montaña a orar.\n\nMás tarde esa noche, vio a los discípulos esforzándose contra el viento, remando duro en el lago. Hacia la cuarta vigilia de la noche, Jesús salió hacia ellos, ¡CAMINANDO SOBRE EL LAGO! Estaba a punto de pasar junto a ellos, pero lo vieron y se aterrorizaron, ¡pensando que era un fantasma!\n\nJesús dijo de inmediato: \"¡Tened ánimo! Yo soy. No temáis.\" Subió a la barca con ellos, ¡y el viento se calmó!\n\nEstaban completamente asombrados — todavía no habían entendido completamente la alimentación de los cinco mil, y sus corazones estaban endurecidos. Cuando llegaron a tierra, la gente reconoció a Jesús de inmediato y le trajeron a los enfermos desde toda la región circundante, en camillas, solo para estar cerca de Él — adonde fuera que iba, la gente rogaba solo tocar el borde de Su manto, y todos los que lo tocaban eran sanados.",
+        "fr": "Après avoir nourri la foule, Jésus envoya les disciples en avant dans une barque tandis qu'Il montait sur une montagne pour prier.\n\nPlus tard cette nuit-là, Il vit les disciples se débattre contre le vent, peinant à ramer sur le lac. Vers la quatrième veille de la nuit, Jésus sortit vers eux, MARCHANT SUR LE LAC ! Il allait passer près d'eux, mais ils Le virent et furent terrifiés, pensant que c'était un fantôme !\n\nJésus dit immédiatement : « Rassurez-vous, c'est moi, n'ayez pas peur ! » Il monta dans la barque avec eux, et le vent cessa !\n\nIls furent complètement stupéfaits — ils n'avaient pas encore pleinement compris la multiplication des pains pour les cinq mille, et leurs cœurs étaient endurcis. Quand ils débarquèrent, les gens reconnurent immédiatement Jésus et Lui amenèrent les malades de toute la région environnante, sur des civières, juste pour être près de Lui — partout où Il allait, les gens suppliaient juste de toucher le bord de Son vêtement, et tous ceux qui Le touchaient étaient guéris."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Take courage! It is I. Don't be afraid."
+        "en": "Take courage! It is I. Don't be afraid.",
+        "es": "Porque todos le veían, y se turbaron. Mas luego habló con ellos, y les dijo: Alentaos; yo soy, no temáis.",
+        "fr": "car ils le voyaient tous, et ils étaient troublés. Aussitôt Jésus leur parla, et leur dit : Rassurez-vous, c'est moi, n'ayez pas peur !"
       },
       "ref": {
-        "en": "Mark 6:50 (NIV)"
+        "en": "Mark 6:50 (NIV)",
+        "es": "Marcos 6:50 (Valera)",
+        "fr": "Marc 6:50 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -32,6 +42,22 @@
           "don't",
           "be",
           "afraid"
+        ],
+        "es": [
+          "Porque",
+          "todos",
+          "le",
+          "veían",
+          "y",
+          "se"
+        ],
+        "fr": [
+          "Aussitôt",
+          "Jésus",
+          "leur",
+          "parla",
+          "et",
+          "leur"
         ]
       },
       "typing_challenge": true
@@ -39,7 +65,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Take Courage! It Is I"
+        "en": "A Song for Take Courage! It Is I",
+        "es": "Una Canción para ¡Tened Ánimo! Yo Soy",
+        "fr": "Une Chanson pour Rassurez-vous, C'est Moi"
       },
       "audio_en": "/static/audio/mark/lesson17_en.mp3"
     },
@@ -48,7 +76,9 @@
       "questions": [
         {
           "q": {
-            "en": "What did Jesus do that terrified the disciples in the boat?"
+            "en": "What did Jesus do that terrified the disciples in the boat?",
+            "es": "¿Qué hizo Jesús que aterrorizó a los discípulos en la barca?",
+            "fr": "Qu'a fait Jésus qui a terrifié les disciples dans la barque ?"
           },
           "options": {
             "en": [
@@ -56,13 +86,27 @@
               "He walked on the lake toward them",
               "He left them alone",
               "He capsized the boat"
+            ],
+            "es": [
+              "Les gritó",
+              "Caminó sobre el lago hacia ellos",
+              "Los dejó solos",
+              "Volcó la barca"
+            ],
+            "fr": [
+              "Il leur a crié dessus",
+              "Il a marché sur le lac vers eux",
+              "Il les a laissés seuls",
+              "Il a fait chavirer la barque"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did the disciples first think Jesus was, when they saw Him?"
+            "en": "What did the disciples first think Jesus was, when they saw Him?",
+            "es": "¿Qué pensaron primero los discípulos que era Jesús, cuando lo vieron?",
+            "fr": "Que pensaient d'abord les disciples que Jésus était, quand ils Le virent ?"
           },
           "options": {
             "en": [
@@ -70,13 +114,27 @@
               "A ghost",
               "An enemy",
               "Nothing unusual"
+            ],
+            "es": [
+              "Su amigo acercándose",
+              "Un fantasma",
+              "Un enemigo",
+              "Nada inusual"
+            ],
+            "fr": [
+              "Leur ami qui approchait",
+              "Un fantôme",
+              "Un ennemi",
+              "Rien d'inhabituel"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What happened when Jesus climbed into the boat?"
+            "en": "What happened when Jesus climbed into the boat?",
+            "es": "¿Qué sucedió cuando Jesús subió a la barca?",
+            "fr": "Qu'est-il arrivé quand Jésus est monté dans la barque ?"
           },
           "options": {
             "en": [
@@ -84,6 +142,18 @@
               "The wind died down immediately",
               "The storm got worse",
               "The boat sank"
+            ],
+            "es": [
+              "Nada cambió",
+              "El viento se calmó inmediatamente",
+              "La tormenta empeoró",
+              "La barca se hundió"
+            ],
+            "fr": [
+              "Rien n'a changé",
+              "Le vent a cessé immédiatement",
+              "La tempête s'est aggravée",
+              "La barque a sombré"
             ]
           },
           "answer": 1
@@ -95,7 +165,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Take Courage! It Is I"
+            "en": "Activity sheet: Take Courage! It Is I",
+            "es": "Hoja de actividad: ¡Tened Ánimo! Yo Soy",
+            "fr": "Fiche d'activité : Rassurez-vous, C'est Moi"
           },
           "file": "/static/printables/mark/lesson17_sheet.pdf"
         }
@@ -104,7 +176,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: Jesus' mastery over creation continues — walking on water, like calming the storm earlier, reveals divine authority over the natural world. His words \"Take courage, it is I\" carry deeper resonance than simple reassurance, echoing God's own self-identification language; recognizing who is truly present transforms fear into peace.\n\nConversation starters: (1) Why might the disciples be terrified even though it was Jesus coming to help them? (2) What does it mean that Jesus says \"It is I\" — why might that phrase matter? (3) What fear in your own life needs to hear Jesus say \"Take courage, don't be afraid\"?\n\nPray for courage in the middle of fear, recognizing Jesus is present even when He seems unexpected."
+        "en": "Big idea: Jesus' mastery over creation continues — walking on water, like calming the storm earlier, reveals divine authority over the natural world. His words \"Take courage, it is I\" carry deeper resonance than simple reassurance, echoing God's own self-identification language; recognizing who is truly present transforms fear into peace.\n\nConversation starters: (1) Why might the disciples be terrified even though it was Jesus coming to help them? (2) What does it mean that Jesus says \"It is I\" — why might that phrase matter? (3) What fear in your own life needs to hear Jesus say \"Take courage, don't be afraid\"?\n\nPray for courage in the middle of fear, recognizing Jesus is present even when He seems unexpected.",
+        "es": "Idea principal: el dominio de Jesús sobre la creación continúa — caminar sobre el agua, como calmar la tormenta antes, revela autoridad divina sobre el mundo natural. Sus palabras 'Tened ánimo, yo soy' llevan una resonancia más profunda que un simple consuelo, haciendo eco del propio lenguaje de identificación de Dios; reconocer quién está verdaderamente presente transforma el miedo en paz.\n\nPara conversar: (1) ¿Por qué podrían los discípulos aterrorizarse aunque era Jesús viniendo a ayudarlos? (2) ¿Qué significa que Jesús diga 'Yo soy' — por qué podría importar esa frase? (3) ¿Qué temor en tu propia vida necesita escuchar a Jesús decir 'Tened ánimo, no temáis'?\n\nOren por valor en medio del miedo, reconociendo que Jesús está presente incluso cuando parece inesperado.",
+        "fr": "Idée principale : la maîtrise de Jésus sur la création continue — marcher sur l'eau, comme calmer la tempête plus tôt, révèle une autorité divine sur le monde naturel. Ses paroles « Rassurez-vous, c'est moi » portent une résonance plus profonde qu'un simple réconfort, faisant écho au propre langage d'identification de Dieu ; reconnaître qui est véritablement présent transforme la peur en paix.\n\nPour la conversation : (1) Pourquoi les disciples pourraient-ils être terrifiés alors que c'était Jésus qui venait les aider ? (2) Que signifie le fait que Jésus dise « c'est moi » — pourquoi cette phrase pourrait-elle compter ? (3) Quelle peur dans ta propre vie a besoin d'entendre Jésus dire « Rassure-toi, n'aie pas peur » ?\n\nPriez pour le courage au milieu de la peur, reconnaissant que Jésus est présent même quand Il semble inattendu."
       }
     }
   ]

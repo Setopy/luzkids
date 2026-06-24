@@ -1,6 +1,8 @@
 {
   "title": {
-    "en": "Watch Out for the Wrong Yeast"
+    "en": "Watch Out for the Wrong Yeast",
+    "es": "Cuídate de la Levadura Equivocada",
+    "fr": "Méfie-toi du Mauvais Levain"
   },
   "ref": "Mark 8:1-21",
   "section": "Jesus Feeds the Four Thousand / The Yeast of the Pharisees and Herod",
@@ -8,19 +10,27 @@
     {
       "type": "story",
       "heading": {
-        "en": "Another miracle, another warning"
+        "en": "Another miracle, another warning",
+        "es": "Otro milagro, otra advertencia",
+        "fr": "Un autre miracle, un autre avertissement"
       },
       "body": {
-        "en": "Another huge crowd had nothing to eat, and Jesus, having compassion, didn't want to send them away hungry — they might collapse on the way home! With seven loaves and a few small fish, Jesus gave thanks, broke them, and fed about FOUR THOUSAND people, with seven basketfuls left over!\n\nEven after seeing this miracle (and the earlier feeding of five thousand), the Pharisees came demanding a sign from heaven to test Jesus. Jesus, deeply sighing, refused — no sign would be given to that generation. Later, in the boat, Jesus warned His disciples: 'Watch out for the yeast of the Pharisees and the yeast of Herod.' The disciples, missing the point entirely, thought He was talking about bread, because they'd forgotten to bring any!\n\nJesus, somewhat exasperated, asked: 'Do you still not see or understand? Don't you remember the five loaves for the five thousand, and the seven for the four thousand? Are your hearts hardened?' Yeast spreads quietly through dough — Jesus was warning about how corrupted thinking spreads quietly too, if you're not watching for it."
+        "en": "Another huge crowd had nothing to eat, and Jesus, having compassion, didn't want to send them away hungry — they might collapse on the way home! With seven loaves and a few small fish, Jesus gave thanks, broke them, and fed about FOUR THOUSAND people, with seven basketfuls left over!\n\nEven after seeing this miracle (and the earlier feeding of five thousand), the Pharisees came demanding a sign from heaven to test Jesus. Jesus, deeply sighing, refused — no sign would be given to that generation. Later, in the boat, Jesus warned His disciples: 'Watch out for the yeast of the Pharisees and the yeast of Herod.' The disciples, missing the point entirely, thought He was talking about bread, because they'd forgotten to bring any!\n\nJesus, somewhat exasperated, asked: 'Do you still not see or understand? Don't you remember the five loaves for the five thousand, and the seven for the four thousand? Are your hearts hardened?' Yeast spreads quietly through dough — Jesus was warning about how corrupted thinking spreads quietly too, if you're not watching for it.",
+        "es": "Otra multitud enorme no tenía nada que comer, y Jesús, teniendo compasión, no quería despedirlos con hambre — ¡podrían desmayarse en el camino a casa! Con siete panes y unos pocos pescaditos, Jesús dio gracias, los partió, y alimentó a unas CUATRO MIL personas, ¡con siete canastas llenas de sobras!\n\nIncluso después de ver este milagro (y la alimentación anterior de los cinco mil), los fariseos vinieron exigiendo una señal del cielo para poner a prueba a Jesús. Jesús, suspirando profundamente, se negó — no se daría ninguna señal a esa generación. Más tarde, en la barca, Jesús advirtió a Sus discípulos: \"Cuídense de la levadura de los fariseos y de la levadura de Herodes.\" Los discípulos, sin entender el punto en absoluto, pensaron que hablaba de pan, ¡porque habían olvidado traer alguno!\n\nJesús, algo exasperado, preguntó: \"¿Todavía no ven ni entienden? ¿No recuerdan los cinco panes para los cinco mil, y los siete para los cuatro mil? ¿Están endurecidos sus corazones?\" La levadura se esparce silenciosamente por la masa — Jesús estaba advirtiendo sobre cómo el pensamiento corrompido también se esparce silenciosamente, si no estás alerta.",
+        "fr": "Une autre immense foule n'avait rien à manger, et Jésus, ayant compassion, ne voulait pas les renvoyer à jeun — ils pourraient s'évanouir en chemin ! Avec sept pains et quelques petits poissons, Jésus rendit grâces, les rompit, et nourrit environ QUATRE MILLE personnes, avec sept corbeilles pleines de restes !\n\nMême après avoir vu ce miracle (et la précédente multiplication pour les cinq mille), les pharisiens vinrent exiger un signe du ciel pour mettre Jésus à l'épreuve. Jésus, soupirant profondément, refusa — aucun signe ne serait donné à cette génération. Plus tard, dans la barque, Jésus avertit Ses disciples : « Gardez-vous avec soin du levain des pharisiens et du levain d'Hérode. » Les disciples, manquant complètement le sens, pensèrent qu'Il parlait de pain, car ils avaient oublié d'en apporter !\n\nJésus, quelque peu exaspéré, demanda : « Ne voyez-vous pas encore, ne comprenez-vous pas encore ? Ne vous souvenez-vous pas des cinq pains pour les cinq mille, et des sept pour les quatre mille ? Avez-vous le cœur endurci ? » Le levain se répand silencieusement dans la pâte — Jésus avertissait de la façon dont la pensée corrompue se répand aussi silencieusement, si l'on n'y prend pas garde."
       }
     },
     {
       "type": "memory_verse",
       "verse": {
-        "en": "Watch out for the yeast of the Pharisees and that of Herod."
+        "en": "Watch out for the yeast of the Pharisees and that of Herod.",
+        "es": "Y les mandó, diciendo: Mirad, guardaos de la levadura de los Fariseos, y de la levadura de Herodes.",
+        "fr": "Jésus leur fit cette recommandation : Gardez-vous avec soin du levain des pharisiens et du levain d'Hérode."
       },
       "ref": {
-        "en": "Mark 8:15 (NIV)"
+        "en": "Mark 8:15 (NIV)",
+        "es": "Marcos 8:15 (Valera)",
+        "fr": "Marc 8:15 (LSG)"
       },
       "scramble_words": {
         "en": [
@@ -36,6 +46,22 @@
           "that",
           "of",
           "Herod"
+        ],
+        "es": [
+          "Y",
+          "les",
+          "mandó",
+          "diciendo",
+          "Mirad",
+          "guardaos"
+        ],
+        "fr": [
+          "Jésus",
+          "leur",
+          "fit",
+          "cette",
+          "recommandation",
+          "Gardez-vous"
         ]
       },
       "typing_challenge": true
@@ -43,7 +69,9 @@
     {
       "type": "song",
       "title": {
-        "en": "A Song for Watch Out for the Wrong Yeast"
+        "en": "A Song for Watch Out for the Wrong Yeast",
+        "es": "Una Canción para Cuídate de la Levadura Equivocada",
+        "fr": "Une Chanson pour Méfie-toi du Mauvais Levain"
       },
       "audio_en": "/static/audio/mark/lesson20_en.mp3"
     },
@@ -52,7 +80,9 @@
       "questions": [
         {
           "q": {
-            "en": "How many people did Jesus feed with seven loaves and a few fish?"
+            "en": "How many people did Jesus feed with seven loaves and a few fish?",
+            "es": "¿A cuántas personas alimentó Jesús con siete panes y unos pocos pescados?",
+            "fr": "Combien de personnes Jésus a-t-il nourries avec sept pains et quelques poissons ?"
           },
           "options": {
             "en": [
@@ -60,13 +90,27 @@
               "About four thousand",
               "Twelve",
               "A small family"
+            ],
+            "es": [
+              "Quinientas",
+              "Unas cuatro mil",
+              "Doce",
+              "Una pequeña familia"
+            ],
+            "fr": [
+              "Cinq cents",
+              "Environ quatre mille",
+              "Douze",
+              "Une petite famille"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "Why did Jesus refuse to give the Pharisees a sign, even after two feeding miracles?"
+            "en": "Why did Jesus refuse to give the Pharisees a sign, even after two feeding miracles?",
+            "es": "¿Por qué se negó Jesús a dar a los fariseos una señal, incluso después de dos milagros de alimentación?",
+            "fr": "Pourquoi Jésus a-t-il refusé de donner un signe aux pharisiens, même après deux miracles de multiplication ?"
           },
           "options": {
             "en": [
@@ -74,13 +118,27 @@
               "He had already shown plenty of signs; their demand was a test, not real seeking",
               "He forgot how",
               "There was no reason"
+            ],
+            "es": [
+              "Ya había mostrado suficientes señales; su exigencia era una prueba, no una búsqueda real",
+              "No tenía más poder",
+              "Lo olvidó",
+              "No había razón"
+            ],
+            "fr": [
+              "Il avait déjà montré suffisamment de signes ; leur exigence était un test, pas une vraie recherche",
+              "Il n'avait plus de pouvoir",
+              "Il a oublié",
+              "Il n'y avait aucune raison"
             ]
           },
           "answer": 1
         },
         {
           "q": {
-            "en": "What did Jesus actually mean by warning about 'yeast,' which the disciples misunderstood?"
+            "en": "What did Jesus actually mean by warning about 'yeast,' which the disciples misunderstood?",
+            "es": "¿Qué quiso decir realmente Jesús al advertir sobre la 'levadura', lo cual los discípulos malinterpretaron?",
+            "fr": "Que voulait vraiment dire Jésus en avertissant à propos du « levain », ce que les disciples ont mal compris ?"
           },
           "options": {
             "en": [
@@ -88,6 +146,18 @@
               "The corrupting, spreading influence of wrong thinking",
               "Nothing important",
               "A cooking lesson"
+            ],
+            "es": [
+              "Solo pan literal",
+              "La influencia corruptora y que se esparce del pensamiento equivocado",
+              "Nada importante",
+              "Una lección de cocina"
+            ],
+            "fr": [
+              "Seulement du pain littéral",
+              "L'influence corruptrice et qui se répand de la mauvaise pensée",
+              "Rien d'important",
+              "Une leçon de cuisine"
             ]
           },
           "answer": 1
@@ -99,7 +169,9 @@
       "items": [
         {
           "label": {
-            "en": "Activity sheet: Watch Out for the Wrong Yeast"
+            "en": "Activity sheet: Watch Out for the Wrong Yeast",
+            "es": "Hoja de actividad: Cuídate de la Levadura Equivocada",
+            "fr": "Fiche d'activité : Méfie-toi du Mauvais Levain"
           },
           "file": "/static/printables/mark/lesson20_sheet.pdf"
         }
@@ -108,7 +180,9 @@
     {
       "type": "parent_guide",
       "body": {
-        "en": "Big idea: even after witnessing repeated, abundant miracles, the disciples still struggled to grasp deeper spiritual truths — a sobering reminder that physical evidence alone doesn't guarantee spiritual understanding. The \"yeast\" warning uses a vivid, everyday picture (something small that spreads quietly through everything) for how subtly wrong thinking or compromised values can corrupt a whole life if unchecked.\n\nConversation starters: (1) Why might the disciples miss the point so badly, even after seeing two feeding miracles? (2) What does \"yeast\" spreading quietly through dough teach about how wrong influences can spread in a life? (3) What's a \"yeast\" — a small but spreading wrong influence — you want to watch out for?\n\nPray for hearts that aren't hardened, but stay alert and understanding."
+        "en": "Big idea: even after witnessing repeated, abundant miracles, the disciples still struggled to grasp deeper spiritual truths — a sobering reminder that physical evidence alone doesn't guarantee spiritual understanding. The \"yeast\" warning uses a vivid, everyday picture (something small that spreads quietly through everything) for how subtly wrong thinking or compromised values can corrupt a whole life if unchecked.\n\nConversation starters: (1) Why might the disciples miss the point so badly, even after seeing two feeding miracles? (2) What does \"yeast\" spreading quietly through dough teach about how wrong influences can spread in a life? (3) What's a \"yeast\" — a small but spreading wrong influence — you want to watch out for?\n\nPray for hearts that aren't hardened, but stay alert and understanding.",
+        "es": "Idea principal: incluso después de ser testigos de milagros repetidos y abundantes, los discípulos todavía luchaban por captar verdades espirituales más profundas — un recordatorio serio de que la evidencia física sola no garantiza el entendimiento espiritual. La advertencia sobre la 'levadura' usa una imagen vívida y cotidiana (algo pequeño que se esparce silenciosamente por todo) de cómo el pensamiento equivocado o los valores comprometidos pueden corromper sutilmente toda una vida si no se controla.\n\nPara conversar: (1) ¿Por qué podrían los discípulos perder el punto tan completamente, incluso después de ver dos milagros de alimentación? (2) ¿Qué enseña la levadura esparciéndose silenciosamente por la masa sobre cómo las influencias equivocadas pueden esparcirse en una vida? (3) ¿Cuál es una 'levadura' — una pequeña pero esparciente influencia equivocada — de la que quieres cuidarte?\n\nOren por corazones que no estén endurecidos, sino que permanezcan alerta y con entendimiento.",
+        "fr": "Idée principale : même après avoir été témoins de miracles répétés et abondants, les disciples avaient encore du mal à saisir des vérités spirituelles plus profondes — un rappel sobre que la preuve physique seule ne garantit pas la compréhension spirituelle. L'avertissement sur le « levain » utilise une image vivante et quotidienne (quelque chose de petit qui se répand silencieusement partout) de la façon dont une mauvaise pensée ou des valeurs compromises peuvent subtilement corrompre toute une vie si on n'y prend pas garde.\n\nPour la conversation : (1) Pourquoi les disciples pourraient-ils manquer le point si complètement, même après avoir vu deux miracles de multiplication ? (2) Qu'enseigne le levain se répandant silencieusement dans la pâte sur la façon dont de mauvaises influences peuvent se répandre dans une vie ? (3) Quel est un « levain » — une petite influence qui se répand — dont tu veux te méfier ?\n\nPriez pour des cœurs qui ne soient pas endurcis, mais qui restent alertes et compréhensifs."
       }
     }
   ]
