@@ -194,11 +194,11 @@
 
   /* ---------------- read-aloud (browser Web Speech API, no recorded audio) */
   if ("speechSynthesis" in window) {
-    const LOCALE = { en: "en-US", es: "es-ES", fr: "fr-FR" }[window.LANG] || "en-US";
+    const LOCALE = { en: "en-US", es: "es-ES", fr: "fr-FR", th: "th-TH" }[window.LANG] || "en-US";
     const ttsButtons = document.querySelectorAll(".tts-btn");
     const LABEL = {
-      listen: { en: "🔊 Listen", es: "🔊 Escuchar", fr: "🔊 Écouter" },
-      stop:   { en: "⏸ Stop",   es: "⏸ Detener",  fr: "⏸ Arrêter" },
+      listen: { en: "🔊 Listen", es: "🔊 Escuchar", fr: "🔊 Écouter", th: "🔊 ฟัง" },
+      stop:   { en: "⏸ Stop",   es: "⏸ Detener",  fr: "⏸ Arrêter", th: "⏸ หยุด" },
     };
     let activeBtn = null;
 

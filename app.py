@@ -51,7 +51,7 @@ limiter = Limiter(get_remote_address, app=app, default_limits=[])
 # Verified languages are human-reviewed; AI languages are machine-translated
 # (translate_series.py) and badged as such in the UI.
 VERIFIED_LANGS = {"en": "English", "es": "Español"}
-AI_LANGS = {"fr": "Français", "pt": "Português"}   # shown with a "beta" tag + feedback banner
+AI_LANGS = {"fr": "Français", "pt": "Português", "th": "ไทย"}   # shown with a "beta" tag + feedback banner
 LANGUAGES = {**VERIFIED_LANGS, **AI_LANGS}
 SUPPORTED_LANGS = tuple(LANGUAGES.keys())
 
@@ -82,18 +82,18 @@ def xp_for_lesson(quiz_score, total_q):
 
 app.jinja_env.globals.update(get_rank=get_rank, RANKS=RANKS)
 BADGES = {
-    "first_lamp":    {"name": "First Lamp",         "emoji": "🕯️",  "desc": {"en": "Complete your first lesson",           "es": "Completa tu primera lección",            "fr": "Complète ta première leçon"}},
-    "word_seeker":   {"name": "Word Seeker",         "emoji": "📖",  "desc": {"en": "Complete 5 lessons",                   "es": "Completa 5 lecciones",                   "fr": "Complète 5 leçons"}},
-    "explorer":      {"name": "Scripture Explorer",  "emoji": "🗺️",  "desc": {"en": "Complete 10 lessons",                  "es": "Completa 10 lecciones",                  "fr": "Complète 10 leçons"}},
-    "on_fire":       {"name": "On Fire!",            "emoji": "🔥",  "desc": {"en": "Keep a 3-day streak",                  "es": "Mantén un racha de 3 días",              "fr": "Garde une série de 3 jours"}},
-    "ablaze":        {"name": "Ablaze",              "emoji": "🔥🔥","desc": {"en": "Keep a 7-day streak",                  "es": "Mantén una racha de 7 días",             "fr": "Garde une série de 7 jours"}},
-    "quiz_hero":     {"name": "Quiz Hero",           "emoji": "⭐",  "desc": {"en": "Score 100% on a quiz",                 "es": "Obtén 100% en un quiz",                  "fr": "Obtiens 100% à un quiz"}},
-    "word_perfect":  {"name": "Word Perfect",        "emoji": "⌨️",  "desc": {"en": "Type a memory verse perfectly",        "es": "Escribe un versículo de memoria perfecto","fr": "Tape un verset de mémoire parfaitement"}},
-    "soul_winner":   {"name": "Soul Winner",         "emoji": "🌍",  "desc": {"en": "Add your first prayer target",         "es": "Agrega tu primer objetivo de oración",   "fr": "Ajoute ta première cible de prière"}},
-    "graduate":      {"name": "Graduate",            "emoji": "🎓",  "desc": {"en": "Complete an entire series",            "es": "Completa una serie completa",            "fr": "Complète une série entière"}},
-    "jesus_arrow":   {"name": "Jesus\' Arrow",       "emoji": "🏹",  "desc": {"en": "Reach Jesus\' Arrow rank",            "es": "Alcanza el rango Flecha de Jesús",       "fr": "Atteins le rang Flèche de Jésus"}},
-    "trilingual":    {"name": "Trilingual",          "emoji": "🌐",  "desc": {"en": "Study in 2+ languages",               "es": "Estudia en 2+ idiomas",                  "fr": "Étudie dans 2+ langues"}},
-    "certified":     {"name": "Certified!",          "emoji": "📜",  "desc": {"en": "Earn your first certificate",          "es": "Gana tu primer certificado",             "fr": "Gagne ton premier certificat"}},
+    "first_lamp":    {"name": "First Lamp",         "emoji": "🕯️",  "desc": {"en": "Complete your first lesson", "th": "จบบทเรียนแรกของคุณ",           "es": "Completa tu primera lección",            "fr": "Complète ta première leçon"}},
+    "word_seeker":   {"name": "Word Seeker",         "emoji": "📖",  "desc": {"en": "Complete 5 lessons", "th": "จบบทเรียน 5 บท",                   "es": "Completa 5 lecciones",                   "fr": "Complète 5 leçons"}},
+    "explorer":      {"name": "Scripture Explorer",  "emoji": "🗺️",  "desc": {"en": "Complete 10 lessons", "th": "จบบทเรียน 10 บท",                  "es": "Completa 10 lecciones",                  "fr": "Complète 10 leçons"}},
+    "on_fire":       {"name": "On Fire!",            "emoji": "🔥",  "desc": {"en": "Keep a 3-day streak", "th": "รักษาสถิติต่อเนื่อง 3 วัน",                  "es": "Mantén un racha de 3 días",              "fr": "Garde une série de 3 jours"}},
+    "ablaze":        {"name": "Ablaze",              "emoji": "🔥🔥","desc": {"en": "Keep a 7-day streak", "th": "รักษาสถิติต่อเนื่อง 7 วัน",                  "es": "Mantén una racha de 7 días",             "fr": "Garde une série de 7 jours"}},
+    "quiz_hero":     {"name": "Quiz Hero",           "emoji": "⭐",  "desc": {"en": "Score 100% on a quiz", "th": "ทำแบบทดสอบได้ 100%",                 "es": "Obtén 100% en un quiz",                  "fr": "Obtiens 100% à un quiz"}},
+    "word_perfect":  {"name": "Word Perfect",        "emoji": "⌨️",  "desc": {"en": "Type a memory verse perfectly", "th": "พิมพ์ข้อพระคัมภีร์ท่องจำได้ถูกต้องครบถ้วน",        "es": "Escribe un versículo de memoria perfecto","fr": "Tape un verset de mémoire parfaitement"}},
+    "soul_winner":   {"name": "Soul Winner",         "emoji": "🌍",  "desc": {"en": "Add your first prayer target", "th": "เพิ่มคนแรกที่คุณจะอธิษฐานเผื่อ",         "es": "Agrega tu primer objetivo de oración",   "fr": "Ajoute ta première cible de prière"}},
+    "graduate":      {"name": "Graduate",            "emoji": "🎓",  "desc": {"en": "Complete an entire series", "th": "จบชุดเรียนทั้งชุด",            "es": "Completa una serie completa",            "fr": "Complète une série entière"}},
+    "jesus_arrow":   {"name": "Jesus\' Arrow",       "emoji": "🏹",  "desc": {"en": "Reach Jesus\' Arrow rank", "th": "ไปถึงระดับลูกศรของพระเยซู",            "es": "Alcanza el rango Flecha de Jesús",       "fr": "Atteins le rang Flèche de Jésus"}},
+    "trilingual":    {"name": "Trilingual",          "emoji": "🌐",  "desc": {"en": "Study in 2+ languages", "th": "เรียนได้มากกว่า 2 ภาษา",               "es": "Estudia en 2+ idiomas",                  "fr": "Étudie dans 2+ langues"}},
+    "certified":     {"name": "Certified!",          "emoji": "📜",  "desc": {"en": "Earn your first certificate", "th": "รับประกาศนียบัตรแรกของคุณ",          "es": "Gana tu primer certificado",             "fr": "Gagne ton premier certificat"}},
 }
 app.jinja_env.globals["BADGES"] = BADGES
 
@@ -264,19 +264,19 @@ app.jinja_env.globals.update(t=t, get_lang=get_lang, active_child=active_child,
                              LANGUAGES=LANGUAGES, AI_LANGS=AI_LANGS)
 
 UI = {  # small UI string table — content strings live in the JSON, not here
-    "tagline": {"en": "Interactive Bible studies that light up Scripture for kids",
+    "tagline": {"en": "Interactive Bible studies that light up Scripture for kids", "th": "พระคัมภีร์ศึกษาแบบอินเทอร์แอกทีฟที่ทำให้พระวจนะสว่างไสวสำหรับเด็ก",
                 "es": "Estudios bíblicos interactivos que iluminan la Escritura para niños"},
-    "library": {"en": "Study library", "es": "Biblioteca de estudios"},
-    "start": {"en": "Start lesson", "es": "Comenzar lección"},
-    "locked": {"en": "Family plan", "es": "Plan familiar"},
-    "free": {"en": "Free", "es": "Gratis"},
-    "who_learning": {"en": "Who is learning today?", "es": "¿Quién aprende hoy?"},
-    "parent_guide": {"en": "Parent & teacher guide", "es": "Guía para padres y maestros"},
-    "memory_verse": {"en": "Memory verse", "es": "Versículo para memorizar"},
-    "quiz": {"en": "Quiz time!", "es": "¡Hora del quiz!"},
-    "song": {"en": "Sing along", "es": "Canta conmigo"},
-    "complete": {"en": "I finished this lesson!", "es": "¡Terminé esta lección!"},
-    "printables": {"en": "Printables", "es": "Imprimibles"},
+    "library": {"en": "Study library", "th": "คลังบทเรียน", "es": "Biblioteca de estudios"},
+    "start": {"en": "Start lesson", "th": "เริ่มบทเรียน", "es": "Comenzar lección"},
+    "locked": {"en": "Family plan", "th": "แพ็กเกจครอบครัว", "es": "Plan familiar"},
+    "free": {"en": "Free", "th": "ฟรี", "es": "Gratis"},
+    "who_learning": {"en": "Who is learning today?", "th": "ใครจะเรียนวันนี้?", "es": "¿Quién aprende hoy?"},
+    "parent_guide": {"en": "Parent & teacher guide", "th": "คู่มือสำหรับผู้ปกครองและครู", "es": "Guía para padres y maestros"},
+    "memory_verse": {"en": "Memory verse", "th": "ข้อพระคัมภีร์ท่องจำ", "es": "Versículo para memorizar"},
+    "quiz": {"en": "Quiz time!", "th": "ถึงเวลาทำแบบทดสอบ!", "es": "¡Hora del quiz!"},
+    "song": {"en": "Sing along", "th": "ร้องตาม", "es": "Canta conmigo"},
+    "complete": {"en": "I finished this lesson!", "th": "ฉันเรียนบทนี้จบแล้ว!", "es": "¡Terminé esta lección!"},
+    "printables": {"en": "Printables", "th": "ใบงานพิมพ์", "es": "Imprimibles"},
 }
 app.jinja_env.globals["UI"] = UI
 
@@ -409,7 +409,7 @@ def register():
     if request.method == "POST":
         email = request.form["email"].strip().lower()
         if User.query.filter_by(email=email).first():
-            flash(t({"en": "That email is already registered.",
+            flash(t({"en": "That email is already registered.", "th": "อีเมลนี้ถูกใช้ลงทะเบียนแล้ว",
                      "es": "Ese correo ya está registrado."}))
             return redirect(url_for("register"))
         user = User(email=email, display_name=request.form["name"].strip(),
@@ -443,7 +443,7 @@ def login():
         if user and user.check_password(request.form["password"]):
             login_user(user)
             return redirect(url_for("profiles"))
-        flash(t({"en": "Email or password didn't match.",
+        flash(t({"en": "Email or password didn't match.", "th": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
                  "es": "El correo o la contraseña no coinciden."}))
     return render_template("login.html")
 
@@ -460,7 +460,7 @@ def logout():
 def profiles():
     if request.method == "POST":
         if len(current_user.children) >= current_user.max_children:
-            flash(t({"en": "Your plan's profile limit is reached.",
+            flash(t({"en": "Your plan's profile limit is reached.", "th": "คุณใช้จำนวนโปรไฟล์ครบตามแพ็กเกจของคุณแล้ว",
                      "es": "Has llegado al límite de perfiles de tu plan."}))
         else:
             db.session.add(ChildProfile(user_id=current_user.id,
@@ -545,7 +545,7 @@ def feedback_submit():
         db.session.add(feedback)
         db.session.commit()
         send_feedback_email(feedback)
-        flash(t({"en": "Thank you! Your report helps us improve every language.",
+        flash(t({"en": "Thank you! Your report helps us improve every language.", "th": "ขอบคุณ! รายงานของคุณช่วยให้เราพัฒนาทุกภาษาให้ดีขึ้น",
                  "es": "¡Gracias! Tu reporte nos ayuda a mejorar cada idioma.",
                  "fr": "Merci ! Votre signalement nous aide à améliorer chaque langue."}))
     return redirect(request.form.get("page") or url_for("index"))
@@ -567,14 +567,14 @@ def feedback_list():
 def rate_limit_exceeded(e):
     if request.path == "/api/ask":
         return jsonify(answer=t({
-            "en": "Whoa, lots of questions! Take a little break and try again in a few minutes.",
+            "en": "Whoa, lots of questions! Take a little break and try again in a few minutes.", "th": "โอ้ คำถามเยอะมากเลย! พักสักครู่แล้วลองใหม่ในอีกไม่กี่นาที",
             "es": "¡Vaya, muchas preguntas! Toma un descanso y vuelve a intentarlo en unos minutos.",
             "fr": "Beaucoup de questions ! Fais une petite pause et réessaie dans quelques minutes.",
             "pt": "Uau, muitas perguntas! Faça uma pequena pausa e tente novamente em alguns minutos."
         }), rate_limited=True), 429
     if request.path in ("/login", "/register"):
         flash(t({
-            "en": "Too many attempts — please wait a few minutes and try again.",
+            "en": "Too many attempts — please wait a few minutes and try again.", "th": "พยายามมากเกินไป — กรุณารอสักไม่กี่นาทีแล้วลองใหม่",
             "es": "Demasiados intentos — espera unos minutos e inténtalo de nuevo.",
             "fr": "Trop de tentatives — attends quelques minutes et réessaie."
         }))
@@ -617,7 +617,7 @@ def api_ask():
             if b["type"] == "story":
                 lesson_text = b.get("body", {}).get("en", "")[:400]
                 break
-    lang_name = {"en":"English","es":"Spanish","fr":"French","pt":"Portuguese"}.get(lang,"English")
+    lang_name = {"en":"English", "es":"Spanish","fr":"French","pt":"Portuguese","th":"Thai"}.get(lang,"English")
     system = (f"You are a warm, wise Bible teacher answering questions from a child aged 6-12. "
               f"Lesson: {lesson_id} from {series.get('title',{}).get('en','this series') if series else 'this series'}. Content: {lesson_text[:300]} "
               f"Doctrinal framework: Wesleyan-Holiness biblical Christianity consistent with "
@@ -640,7 +640,7 @@ def api_ask():
     except Exception as e:
         print("Groq error:", e)
         return jsonify(answer=t({
-            "en": "I couldn't answer right now — try again in a moment!",
+            "en": "I couldn't answer right now — try again in a moment!", "th": "ตอนนี้ฉันตอบไม่ได้ — ลองใหม่อีกครั้งสักครู่นะ!",
             "es": "No pude responder ahora — ¡inténtalo de nuevo en un momento!",
             "fr": "Je n'ai pas pu répondre maintenant — réessaie dans un moment !",
             "pt": "Não consegui responder agora — tente novamente em um momento!"
@@ -661,7 +661,7 @@ def mission():
 def mission_add():
     child = active_child()
     if not child:
-        flash(t({"en": "Select a child profile first.", "es": "Selecciona un perfil de niño primero.",
+        flash(t({"en": "Select a child profile first.", "th": "เลือกโปรไฟล์เด็กก่อน", "es": "Selecciona un perfil de niño primero.",
                  "fr": "Sélectionne un profil d'enfant d'abord."}))
         return redirect(url_for("profiles"))
     name = request.form.get("name", "").strip()

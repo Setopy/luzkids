@@ -1,16 +1,16 @@
 {% extends "base.html" %}
-{% block title %}{{ t({'en':'Join free','es':'Únete gratis'}) }}{% endblock %}
+{% block title %}{{ t({'en':'Join free', 'th': 'เข้าร่วมฟรี','es':'Únete gratis'}) }}{% endblock %}
 {% block content %}
 <section class="auth-card">
-  <h1>{{ t({'en':'Create your family account','es':'Crea tu cuenta familiar'}) }}</h1>
+  <h1>{{ t({'en':'Create your family account', 'th': 'สร้างบัญชีครอบครัวของคุณ','es':'Crea tu cuenta familiar'}) }}</h1>
   <form method="post">
     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
-    <label>{{ t({'en':'Your name','es':'Tu nombre'}) }}<input name="name" required></label>
-    <label>{{ t({'en':'Email','es':'Correo'}) }}<input type="email" name="email" required></label>
-    <label>{{ t({'en':'Password','es':'Contraseña'}) }}<input type="password" name="password" minlength="8" required></label>
-    <button class="btn big" type="submit">{{ t({'en':'Join free','es':'Únete gratis'}) }}</button>
+    <label>{{ t({'en':'Your name', 'th': 'ชื่อของคุณ','es':'Tu nombre'}) }}<input name="name" required></label>
+    <label>{{ t({'en':'Email', 'th': 'อีเมล','es':'Correo'}) }}<input type="email" name="email" required></label>
+    <label>{{ t({'en':'Password', 'th': 'รหัสผ่าน','es':'Contraseña'}) }}<input type="password" name="password" minlength="8" required></label>
+    <button class="btn big" type="submit">{{ t({'en':'Join free', 'th': 'เข้าร่วมฟรี','es':'Únete gratis'}) }}</button>
   </form>
-  <p class="meta">{{ t({'en':'Everything is free — every series, every lesson, every language. No card, ever.',
+  <p class="meta">{{ t({'en':'Everything is free — every series, every lesson, every language. No card, ever.', 'th': 'ทุกอย่างฟรี — ทุกชุดเรียน ทุกบทเรียน ทุกภาษา ไม่ต้องใช้บัตรเครดิตเลย',
                         'es':'Todo es gratis — cada serie, cada lección, cada idioma. Sin tarjeta, nunca.',
                         'fr':'Tout est gratuit — chaque série, chaque leçon, chaque langue. Sans carte, jamais.'}) }}</p>
 </section>

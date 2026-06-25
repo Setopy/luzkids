@@ -22,7 +22,7 @@
   <ol class="lesson-list">
     {% for l in series.lessons %}
     <li class="lesson-row {{ 'done' if l.id in done }}">
-      <span class="lamp-mark" title="{{ t({'en':'Lamp lit!','es':'¡Lámpara encendida!'}) if l.id in done }}">{{ '🕯️' if l.id in done else '·' }}</span>
+      <span class="lamp-mark" title="{{ t({'en':'Lamp lit!', 'th': 'จุดตะเกียงแล้ว!','es':'¡Lámpara encendida!'}) if l.id in done }}">{{ '🕯️' if l.id in done else '·' }}</span>
       <div class="lesson-row-main">
         <strong>{{ t(l.title) }}</strong>
         <span class="meta">{{ l.ref }}</span>

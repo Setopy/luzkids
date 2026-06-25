@@ -2,17 +2,20 @@
   "title": {
     "en": "Hebrews for Kids",
     "es": "Hebreos para Niños",
-    "fr": "Hébreux pour les Enfants"
+    "fr": "Hébreux pour les Enfants",
+    "th": "ฮีบรูสำหรับเด็ก"
   },
   "subtitle": {
     "en": "All 13 chapters, mapped to the standard sections of the book — Jesus is better than everything!",
     "es": "Los 13 capítulos completos, mapeados a las secciones estándar del libro — ¡Jesús es mejor que todo!",
-    "fr": "Les 13 chapitres complets, alignés sur les sections standard du livre — Jésus est meilleur que tout !"
+    "fr": "Les 13 chapitres complets, alignés sur les sections standard du livre — Jésus est meilleur que tout !",
+    "th": "ทั้ง 13 บทเต็ม จัดตามหมวดมาตรฐานของหนังสือ — พระเยซูทรงดีกว่าทุกสิ่ง!"
   },
   "description": {
     "en": "A letter written to encourage believers who were tempted to give up. Twenty adventures through all thirteen chapters of Hebrews, following the same section divisions found in standard study Bibles — discovering that Jesus is better than angels, better than any priest, and worth running our whole race for, all the way to the finish line.",
     "es": "Una carta escrita para animar a los creyentes que estaban tentados a rendirse. Veinte aventuras a través de los trece capítulos de Hebreos, siguiendo las mismas divisiones de sección que se encuentran en las Biblias de estudio estándar — descubriendo que Jesús es mejor que los ángeles, mejor que cualquier sacerdote, y vale la pena correr toda nuestra carrera por Él, hasta la línea de meta.",
-    "fr": "Une lettre écrite pour encourager des croyants tentés d'abandonner. Vingt aventures à travers les treize chapitres d'Hébreux, suivant les mêmes divisions de section que l'on trouve dans les Bibles d'étude standard — découvrant que Jésus est meilleur que les anges, meilleur que tout sacrificateur, et qu'il vaut la peine de courir toute notre course pour Lui, jusqu'à la ligne d'arrivée."
+    "fr": "Une lettre écrite pour encourager des croyants tentés d'abandonner. Vingt aventures à travers les treize chapitres d'Hébreux, suivant les mêmes divisions de section que l'on trouve dans les Bibles d'étude standard — découvrant que Jésus est meilleur que les anges, meilleur que tout sacrificateur, et qu'il vaut la peine de courir toute notre course pour Lui, jusqu'à la ligne d'arrivée.",
+    "th": "จดหมายที่เขียนเพื่อให้กำลังใจผู้เชื่อที่ถูกทดลองให้ยอมแพ้ ยี่สิบการผจญภัยผ่านทั้งสิบสามบทของฮีบรู ตามหมวดมาตรฐานเดียวกันที่พบในพระคัมภีร์ศึกษามาตรฐาน — ค้นพบว่าพระเยซูทรงดีกว่าทูตสวรรค์ ดีกว่าปุโรหิตใดๆ และคุ้มค่าที่จะวิ่งการแข่งขันทั้งหมดของเราเพื่อพระองค์ จนถึงเส้นชัย"
   },
   "age_range": "6-12",
   "free": true,
@@ -25,7 +28,8 @@
       "title": {
         "en": "God's Final Word",
         "es": "La Palabra Final de Dios",
-        "fr": "La Parole Finale de Dieu"
+        "fr": "La Parole Finale de Dieu",
+        "th": "พระวจนะสุดท้ายของพระเจ้า"
       },
       "ref": "Hebrews 1:1-14",
       "section": "The Son Superior to Angels"
@@ -35,7 +39,8 @@
       "title": {
         "en": "Don't Drift Away!",
         "es": "¡No Te Alejes a la Deriva!",
-        "fr": "Ne Dérive Pas !"
+        "fr": "Ne Dérive Pas !",
+        "th": "อย่าล่องลอยจากไป!"
       },
       "ref": "Hebrews 2:1-4",
       "section": "Warning Against Drifting Away"
@@ -45,7 +50,8 @@
       "title": {
         "en": "Jesus Became Like Us",
         "es": "Jesús Se Hizo Como Nosotros",
-        "fr": "Jésus Est Devenu Comme Nous"
+        "fr": "Jésus Est Devenu Comme Nous",
+        "th": "พระเยซูทรงเป็นเหมือนเรา"
       },
       "ref": "Hebrews 2:5-18",
       "section": "Jesus Made Like His Brothers"
@@ -55,7 +61,8 @@
       "title": {
         "en": "Greater Than Moses",
         "es": "Mayor Que Moisés",
-        "fr": "Plus Grand Que Moïse"
+        "fr": "Plus Grand Que Moïse",
+        "th": "ยิ่งใหญ่กว่าโมเสส"
       },
       "ref": "Hebrews 3:1-6",
       "section": "Jesus Greater Than Moses"
@@ -65,7 +72,8 @@
       "title": {
         "en": "Today, If You Hear His Voice",
         "es": "Hoy, Si Oyes Su Voz",
-        "fr": "Aujourd'hui, Si Tu Entends Sa Voix"
+        "fr": "Aujourd'hui, Si Tu Entends Sa Voix",
+        "th": "วันนี้ ถ้าท่านฟังพระสุรเสียงของพระองค์"
       },
       "ref": "Hebrews 3:7-19",
       "section": "Warning Against Unbelief"
@@ -75,7 +83,8 @@
       "title": {
         "en": "A Rest Still Waiting",
         "es": "Un Reposo Que Todavía Espera",
-        "fr": "Un Repos Qui Attend Encore"
+        "fr": "Un Repos Qui Attend Encore",
+        "th": "การหยุดพักที่ยังคงรออยู่"
       },
       "ref": "Hebrews 4:1-13",
       "section": "A Sabbath-Rest for the People of God"
@@ -85,7 +94,8 @@
       "title": {
         "en": "Come Boldly to the Throne of Grace",
         "es": "Acércate Confiadamente al Trono de la Gracia",
-        "fr": "Approche-toi avec Assurance du Trône de la Grâce"
+        "fr": "Approche-toi avec Assurance du Trône de la Grâce",
+        "th": "เข้ามาอย่างกล้าหาญสู่พระที่นั่งแห่งพระคุณ"
       },
       "ref": "Hebrews 4:14-5:10",
       "section": "Jesus the Great High Priest"
@@ -95,7 +105,8 @@
       "title": {
         "en": "Grow Up — or Risk Falling Away",
         "es": "Crezcan — o Arriesguen Apartarse",
-        "fr": "Grandissez — ou Risquez de Vous Détourner"
+        "fr": "Grandissez — ou Risquez de Vous Détourner",
+        "th": "เติบโตขึ้น — หรือเสี่ยงที่จะหลงจากไป"
       },
       "ref": "Hebrews 5:11-6:12",
       "section": "Warning Against Falling Away"
@@ -105,7 +116,8 @@
       "title": {
         "en": "An Anchor for the Soul",
         "es": "Un Ancla para el Alma",
-        "fr": "Une Ancre pour l'Âme"
+        "fr": "Une Ancre pour l'Âme",
+        "th": "สมอสำหรับวิญญาณ"
       },
       "ref": "Hebrews 6:13-20",
       "section": "The Certainty of God's Promise"
@@ -115,7 +127,8 @@
       "title": {
         "en": "A Priest Forever",
         "es": "Un Sacerdote Para Siempre",
-        "fr": "Un Sacrificateur Pour Toujours"
+        "fr": "Un Sacrificateur Pour Toujours",
+        "th": "ปุโรหิตตลอดไป"
       },
       "ref": "Hebrews 7:1-28",
       "section": "Melchizedek the Priest"
@@ -125,7 +138,8 @@
       "title": {
         "en": "A Brand New Covenant",
         "es": "Un Pacto Completamente Nuevo",
-        "fr": "Une Toute Nouvelle Alliance"
+        "fr": "Une Toute Nouvelle Alliance",
+        "th": "พันธสัญญาใหม่เอี่ยม"
       },
       "ref": "Hebrews 8:1-13",
       "section": "The High Priest of a New Covenant"
@@ -135,7 +149,8 @@
       "title": {
         "en": "Behind the Curtain",
         "es": "Detrás de la Cortina",
-        "fr": "Derrière le Rideau"
+        "fr": "Derrière le Rideau",
+        "th": "หลังม่าน"
       },
       "ref": "Hebrews 9:1-10",
       "section": "Worship in the Earthly Tabernacle"
@@ -145,7 +160,8 @@
       "title": {
         "en": "The Blood That Truly Cleanses",
         "es": "La Sangre Que Verdaderamente Limpia",
-        "fr": "Le Sang Qui Purifie Vraiment"
+        "fr": "Le Sang Qui Purifie Vraiment",
+        "th": "พระโลหิตที่ชำระอย่างแท้จริง"
       },
       "ref": "Hebrews 9:11-28",
       "section": "The Blood of Christ"
@@ -155,7 +171,8 @@
       "title": {
         "en": "Once For All!",
         "es": "¡Una Vez Para Siempre!",
-        "fr": "Une Fois Pour Toutes !"
+        "fr": "Une Fois Pour Toutes !",
+        "th": "ครั้งเดียวเป็นพอ!"
       },
       "ref": "Hebrews 10:1-18",
       "section": "Christ's Sacrifice Once for All"
@@ -165,7 +182,8 @@
       "title": {
         "en": "Don't Throw Away Your Confidence!",
         "es": "¡No Deseches Tu Confianza!",
-        "fr": "Ne Rejette Pas Ton Assurance !"
+        "fr": "Ne Rejette Pas Ton Assurance !",
+        "th": "อย่าทิ้งความมั่นใจของท่าน!"
       },
       "ref": "Hebrews 10:19-39",
       "section": "A Call to Persevere in Faith"
@@ -175,7 +193,8 @@
       "title": {
         "en": "The Faith Hall of Fame",
         "es": "El Salón de la Fama de la Fe",
-        "fr": "Le Temple de la Renommée de la Foi"
+        "fr": "Le Temple de la Renommée de la Foi",
+        "th": "ห้องเกียรติยศแห่งความเชื่อ"
       },
       "ref": "Hebrews 11:1-40",
       "section": "By Faith"
@@ -185,7 +204,8 @@
       "title": {
         "en": "Run the Race!",
         "es": "¡Corre la Carrera!",
-        "fr": "Cours la Course !"
+        "fr": "Cours la Course !",
+        "th": "วิ่งการแข่งขัน!"
       },
       "ref": "Hebrews 12:1-13",
       "section": "God Disciplines His Children"
@@ -195,7 +215,8 @@
       "title": {
         "en": "Pursue Holiness!",
         "es": "¡Persigan la Santidad!",
-        "fr": "Recherchez la Sainteté !"
+        "fr": "Recherchez la Sainteté !",
+        "th": "ติดตามความบริสุทธิ์!"
       },
       "ref": "Hebrews 12:14-29",
       "section": "Warning Against Rejecting God"
@@ -205,7 +226,8 @@
       "title": {
         "en": "Love in Action",
         "es": "Amor en Acción",
-        "fr": "L'Amour en Action"
+        "fr": "L'Amour en Action",
+        "th": "ความรักในการกระทำ"
       },
       "ref": "Hebrews 13:1-19",
       "section": "Concluding Exhortations"
@@ -215,7 +237,8 @@
       "title": {
         "en": "The Final Blessing",
         "es": "La Bendición Final",
-        "fr": "La Bénédiction Finale"
+        "fr": "La Bénédiction Finale",
+        "th": "พระพรสุดท้าย"
       },
       "ref": "Hebrews 13:20-25",
       "section": "Benediction"

@@ -1,10 +1,10 @@
 {% extends "base.html" %}
-{% block title %}{{ t({'en':'Sing-Along Songs','es':'Canciones para Cantar','fr':'Chansons à Chanter'}) }}{% endblock %}
+{% block title %}{{ t({'en':'Sing-Along Songs', 'th': 'เพลงร้องตาม','es':'Canciones para Cantar','fr':'Chansons à Chanter'}) }}{% endblock %}
 {% block og_tags %}
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="LuzKids">
-<meta property="og:title" content="{{ t({'en':'Sing-Along Songs','es':'Canciones para Cantar'}) }} · LuzKids">
-<meta property="og:description" content="{{ t({'en':'Bible verses set to music — sing, learn, and hide God\'s word in your heart.','es':'Versículos bíblicos puestos en música — canta, aprende y guarda la palabra de Dios en tu corazón.'}) }}">
+<meta property="og:title" content="{{ t({'en':'Sing-Along Songs', 'th': 'เพลงร้องตาม','es':'Canciones para Cantar'}) }} · LuzKids">
+<meta property="og:description" content="{{ t({'en':'Bible verses set to music — sing, learn, and hide God\'s word in your heart.', 'th': 'ข้อพระคัมภีร์ที่นำมาแต่งเป็นเพลง — ร้อง เรียนรู้ และซ่อนพระวจนะของพระเจ้าไว้ในใจของคุณ','es':'Versículos bíblicos puestos en música — canta, aprende y guarda la palabra de Dios en tu corazón.'}) }}">
 <meta property="og:image" content="{{ url_for('static', filename='icons/icon-512x512.png', _external=True) }}">
 <meta property="og:url" content="{{ request.url }}">
 <meta name="twitter:card" content="summary_large_image">
@@ -12,13 +12,13 @@
 {% block content %}
 <section class="songs-hero">
   <div class="songs-hero-glow"></div>
-  <h1>🎵 {{ t({'en':'Sing-Along Songs','es':'Canciones para Cantar','fr':'Chansons à Chanter'}) }}</h1>
+  <h1>🎵 {{ t({'en':'Sing-Along Songs', 'th': 'เพลงร้องตาม','es':'Canciones para Cantar','fr':'Chansons à Chanter'}) }}</h1>
   <p class="tagline">{{ t({
-    'en':'Scripture set to music — easy enough to sing in the car, true enough to remember for life.',
+    'en':'Scripture set to music — easy enough to sing in the car, true enough to remember for life.', 'th': 'พระวจนะที่นำมาแต่งเป็นเพลง — ร้องง่ายพอจะร้องในรถ จริงพอจะจดจำไปตลอดชีวิต',
     'es':'Escritura puesta en música — fácil de cantar en el auto, verdadera para recordar toda la vida.',
     'fr':'L\'Écriture mise en musique — facile à chanter, vraie pour toujours.'}) }}</p>
   <div class="songs-stats">
-    <span><strong>{{ songs|length }}</strong> {{ t({'en':'songs','es':'canciones','fr':'chansons'}) }}</span>
+    <span><strong>{{ songs|length }}</strong> {{ t({'en':'songs', 'th': 'เพลง','es':'canciones','fr':'chansons'}) }}</span>
   </div>
 </section>
 
@@ -28,17 +28,17 @@
       <video id="now-playing-video" controls playsinline></video>
     </div>
     <div class="now-playing-info">
-      <p class="now-playing-label">{{ t({'en':'Now playing','es':'Sonando ahora','fr':'En cours'}) }}</p>
+      <p class="now-playing-label">{{ t({'en':'Now playing', 'th': 'กำลังเล่น','es':'Sonando ahora','fr':'En cours'}) }}</p>
       <h2 id="now-playing-title">—</h2>
       <p id="now-playing-ref" class="now-playing-ref"></p>
       <div class="player-controls">
-        <button id="player-prev" class="player-btn" aria-label="{{ t({'en':'Previous song','es':'Canción anterior'}) }}">⏮</button>
-        <button id="player-toggle" class="player-btn player-btn-main" aria-label="{{ t({'en':'Play or pause','es':'Reproducir o pausar'}) }}">▶</button>
-        <button id="player-next" class="player-btn" aria-label="{{ t({'en':'Next song','es':'Siguiente canción'}) }}">⏭</button>
+        <button id="player-prev" class="player-btn" aria-label="{{ t({'en':'Previous song', 'th': 'เพลงก่อนหน้า','es':'Canción anterior'}) }}">⏮</button>
+        <button id="player-toggle" class="player-btn player-btn-main" aria-label="{{ t({'en':'Play or pause', 'th': 'เล่นหรือหยุดชั่วคราว','es':'Reproducir o pausar'}) }}">▶</button>
+        <button id="player-next" class="player-btn" aria-label="{{ t({'en':'Next song', 'th': 'เพลงต่อไป','es':'Siguiente canción'}) }}">⏭</button>
       </div>
       <label class="autoplay-toggle">
         <input type="checkbox" id="autoplay-check" checked>
-        {{ t({'en':'Autoplay next song','es':'Reproducir siguiente automáticamente','fr':'Lecture automatique'}) }}
+        {{ t({'en':'Autoplay next song', 'th': 'เล่นเพลงต่อไปอัตโนมัติ','es':'Reproducir siguiente automáticamente','fr':'Lecture automatique'}) }}
       </label>
     </div>
   </div>
@@ -46,7 +46,7 @@
   <div class="songs-queue">
     <div class="songs-toolbar">
       <input id="song-search" type="search" autocomplete="off"
-        placeholder="{{ t({'en':'Search by title or Bible reference…','es':'Buscar por título o referencia bíblica…','fr':'Rechercher par titre ou référence…'}) }}">
+        placeholder="{{ t({'en':'Search by title or Bible reference…', 'th': 'ค้นหาด้วยชื่อเรื่องหรือข้ออ้างอิงพระคัมภีร์…','es':'Buscar por título o referencia bíblica…','fr':'Rechercher par titre ou référence…'}) }}">
     </div>
     <ol id="songs-list" class="songs-list">
       {% for s in songs %}
@@ -60,7 +60,7 @@
       </li>
       {% endfor %}
     </ol>
-    <p id="songs-empty" class="songs-empty" hidden>{{ t({'en':'No songs match your search.','es':'Ninguna canción coincide con tu búsqueda.','fr':'Aucune chanson ne correspond.'}) }}</p>
+    <p id="songs-empty" class="songs-empty" hidden>{{ t({'en':'No songs match your search.', 'th': 'ไม่พบเพลงที่ตรงกับการค้นหา','es':'Ninguna canción coincide con tu búsqueda.','fr':'Aucune chanson ne correspond.'}) }}</p>
   </div>
 </div>
 

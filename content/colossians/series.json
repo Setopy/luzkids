@@ -2,17 +2,20 @@
   "title": {
     "en": "Colossians for Kids",
     "es": "Colosenses para Niños",
-    "fr": "Colossiens pour les Enfants"
+    "fr": "Colossiens pour les Enfants",
+    "th": "โคโลสีสำหรับเด็ก"
   },
   "subtitle": {
     "en": "All 4 chapters, mapped to the standard sections of the book — discovering that Jesus holds everything together!",
     "es": "Los 4 capítulos completos, mapeados a las secciones estándar del libro — ¡descubriendo que Jesús mantiene todo unido!",
-    "fr": "Les 4 chapitres complets, alignés sur les sections standard du livre — découvrant que Jésus maintient tout ensemble !"
+    "fr": "Les 4 chapitres complets, alignés sur les sections standard du livre — découvrant que Jésus maintient tout ensemble !",
+    "th": "ทั้ง 4 บทเต็ม จัดตามหมวดมาตรฐานของหนังสือ — ค้นพบว่าพระเยซูทรงค้ำจุนทุกสิ่งไว้!"
   },
   "description": {
     "en": "Paul wrote to a church he'd never visited, but his message rings just as true today: Jesus holds everything together, lives inside every believer, and is worth putting off our old selves to follow with our whole hearts. Eight adventures through all four chapters of Colossians, following the same section divisions found in standard study Bibles.",
     "es": "Pablo escribió a una iglesia que nunca había visitado, pero su mensaje resuena igual de verdadero hoy: Jesús mantiene todo unido, vive dentro de cada creyente, y vale la pena dejar nuestro viejo yo para seguirlo con todo el corazón. Ocho aventuras a través de los cuatro capítulos de Colosenses, siguiendo las mismas divisiones de sección que se encuentran en las Biblias de estudio estándar.",
-    "fr": "Paul a écrit à une église qu'il n'avait jamais visitée, mais son message résonne tout aussi vrai aujourd'hui : Jésus maintient tout ensemble, vit en chaque croyant, et mérite que nous quittions notre ancien moi pour Le suivre de tout cœur. Huit aventures à travers les quatre chapitres de Colossiens, suivant les mêmes divisions de section que l'on trouve dans les Bibles d'étude standard."
+    "fr": "Paul a écrit à une église qu'il n'avait jamais visitée, mais son message résonne tout aussi vrai aujourd'hui : Jésus maintient tout ensemble, vit en chaque croyant, et mérite que nous quittions notre ancien moi pour Le suivre de tout cœur. Huit aventures à travers les quatre chapitres de Colossiens, suivant les mêmes divisions de section que l'on trouve dans les Bibles d'étude standard.",
+    "th": "เปาโลเขียนถึงคริสตจักรที่เขาไม่เคยไปเยือน แต่ข่าวสารของเขายังคงจริงเหมือนเดิมในวันนี้: พระเยซูทรงค้ำจุนทุกสิ่งไว้ ทรงสถิตอยู่ภายในผู้เชื่อทุกคน และคุ้มค่าที่จะละทิ้งตัวตนเก่าของเราเพื่อติดตามพระองค์ด้วยสุดใจ แปดการผจญภัยผ่านทั้งสี่บทของโคโลสี ตามหมวดมาตรฐานเดียวกันที่พบในพระคัมภีร์ศึกษามาตรฐาน"
   },
   "age_range": "6-12",
   "free": true,
@@ -25,7 +28,8 @@
       "title": {
         "en": "Faith, Love, and a Prayer for Wisdom",
         "es": "Fe, Amor, y una Oración por Sabiduría",
-        "fr": "Foi, Amour, et une Prière pour la Sagesse"
+        "fr": "Foi, Amour, et une Prière pour la Sagesse",
+        "th": "ความเชื่อ ความรัก และคำอธิษฐานขอสติปัญญา"
       },
       "ref": "Colossians 1:1-14",
       "section": "Thanksgiving and Prayer"
@@ -35,7 +39,8 @@
       "title": {
         "en": "Jesus Is Supreme Over Everything!",
         "es": "¡Jesús Es Supremo Sobre Todas las Cosas!",
-        "fr": "Jésus Est Suprême Sur Toutes Choses !"
+        "fr": "Jésus Est Suprême Sur Toutes Choses !",
+        "th": "พระเยซูทรงเป็นเอกเหนือสิ่งสารพัด!"
       },
       "ref": "Colossians 1:15-23",
       "section": "The Supremacy of Christ"
@@ -45,7 +50,8 @@
       "title": {
         "en": "The Mystery: Christ Lives in You!",
         "es": "El Misterio: ¡Cristo Vive en Ti!",
-        "fr": "Le Mystère : Christ Vit en Toi !"
+        "fr": "Le Mystère : Christ Vit en Toi !",
+        "th": "ความล้ำลึก: พระคริสต์สถิตในท่าน!"
       },
       "ref": "Colossians 1:24-2:7",
       "section": "Paul's Labor for the Church"
@@ -55,7 +61,8 @@
       "title": {
         "en": "Set Free — Don't Get Trapped Again!",
         "es": "Liberados — ¡No Caigas en la Trampa Otra Vez!",
-        "fr": "Libérés — Ne Tombez Pas Dans le Piège à Nouveau !"
+        "fr": "Libérés — Ne Tombez Pas Dans le Piège à Nouveau !",
+        "th": "เป็นไทแล้ว — อย่าตกในกับดักอีก!"
       },
       "ref": "Colossians 2:8-23",
       "section": "Freedom From Human Regulations Through Life With Christ"
@@ -65,7 +72,8 @@
       "title": {
         "en": "Put Off the Old, Put On the New!",
         "es": "¡Quita lo Viejo, Ponte lo Nuevo!",
-        "fr": "Quitte le Vieux, Revêts le Nouveau !"
+        "fr": "Quitte le Vieux, Revêts le Nouveau !",
+        "th": "ถอดสิ่งเก่า สวมสิ่งใหม่!"
       },
       "ref": "Colossians 3:1-17",
       "section": "The Old Self and the New Self"
@@ -75,7 +83,8 @@
       "title": {
         "en": "Love at Home!",
         "es": "¡Amor en el Hogar!",
-        "fr": "L'Amour à la Maison !"
+        "fr": "L'Amour à la Maison !",
+        "th": "ความรักในบ้าน!"
       },
       "ref": "Colossians 3:18-4:1",
       "section": "Rules for Christian Households"
@@ -85,7 +94,8 @@
       "title": {
         "en": "Pray, and Speak with Grace",
         "es": "Ora, y Habla con Gracia",
-        "fr": "Prie, et Parle avec Grâce"
+        "fr": "Prie, et Parle avec Grâce",
+        "th": "อธิษฐาน และพูดด้วยพระคุณ"
       },
       "ref": "Colossians 4:2-6",
       "section": "Further Instructions"
@@ -95,7 +105,8 @@
       "title": {
         "en": "Real People, Real Love",
         "es": "Personas Reales, Amor Real",
-        "fr": "Des Gens Réels, un Amour Réel"
+        "fr": "Des Gens Réels, un Amour Réel",
+        "th": "คนจริง ความรักจริง"
       },
       "ref": "Colossians 4:7-18",
       "section": "Final Greetings"

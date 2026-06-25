@@ -8,8 +8,8 @@
 {% block og_tags %}
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="LuzKids">
-<meta property="og:title" content="LuzKids — {{ t({'en':'Interactive Bible studies for kids','es':'Estudios bíblicos interactivos para niños'}) }}">
-<meta property="og:description" content="{{ t({'en':'Free, interactive Bible studies that light up Scripture for kids — in every language.','es':'Estudios bíblicos interactivos y gratuitos que iluminan la Escritura para niños — en cada idioma.'}) }}">
+<meta property="og:title" content="LuzKids — {{ t({'en':'Interactive Bible studies for kids', 'th': 'พระคัมภีร์ศึกษาแบบอินเทอร์แอกทีฟสำหรับเด็ก','es':'Estudios bíblicos interactivos para niños'}) }}">
+<meta property="og:description" content="{{ t({'en':'Free, interactive Bible studies that light up Scripture for kids — in every language.', 'th': 'พระคัมภีร์ศึกษาแบบอินเทอร์แอกทีฟฟรี ที่ทำให้พระวจนะสว่างไสวสำหรับเด็ก — ทุกภาษา','es':'Estudios bíblicos interactivos y gratuitos que iluminan la Escritura para niños — en cada idioma.'}) }}">
 <meta property="og:image" content="{{ url_for('static', filename='icons/icon-512x512.png', _external=True) }}">
 <meta property="og:url" content="{{ request.url }}">
 <meta name="twitter:card" content="summary_large_image">
@@ -32,18 +32,18 @@
     <a href="{{ url_for('library') }}">{{ t(UI.library) }}</a>
     <a href="{{ url_for('songs') }}" class="songs-nav-link">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
-      {{ t({'en':'Songs','es':'Canciones','fr':'Chansons'}) }}
+      {{ t({'en':'Songs', 'th': 'เพลง','es':'Canciones','fr':'Chansons'}) }}
     </a>
     {% if current_user.is_authenticated %}
       {% set child = active_child() %}
       <a href="{{ url_for('profiles') }}" class="child-chip">
-        {% if child %}{{ child.avatar }} {{ child.name }}{% else %}👤 {{ t({'en':'Choose child','es':'Elegir niño'}) }}{% endif %}
+        {% if child %}{{ child.avatar }} {{ child.name }}{% else %}👤 {{ t({'en':'Choose child', 'th': 'เลือกเด็ก','es':'Elegir niño'}) }}{% endif %}
       </a>
-      <a href="{{ url_for('dashboard') }}">{{ t({'en':'Dashboard','es':'Panel'}) }}</a>
-      <a href="{{ url_for('logout') }}">{{ t({'en':'Log out','es':'Salir'}) }}</a>
+      <a href="{{ url_for('dashboard') }}">{{ t({'en':'Dashboard', 'th': 'แดชบอร์ด','es':'Panel'}) }}</a>
+      <a href="{{ url_for('logout') }}">{{ t({'en':'Log out', 'th': 'ออกจากระบบ','es':'Salir'}) }}</a>
     {% else %}
-      <a href="{{ url_for('login') }}">{{ t({'en':'Log in','es':'Entrar'}) }}</a>
-      <a class="btn small" href="{{ url_for('register') }}">{{ t({'en':'Join free','es':'Únete gratis'}) }}</a>
+      <a href="{{ url_for('login') }}">{{ t({'en':'Log in', 'th': 'เข้าสู่ระบบ','es':'Entrar'}) }}</a>
+      <a class="btn small" href="{{ url_for('register') }}">{{ t({'en':'Join free', 'th': 'เข้าร่วมฟรี','es':'Únete gratis'}) }}</a>
     {% endif %}
     <select class="lang-select" onchange="location.href='/lang/'+this.value" aria-label="Language">
       {% for code, name in LANGUAGES.items() %}
@@ -54,7 +54,7 @@
 </nav>
 
 {% if true %}
-<div class="ai-lang-note">🌍 {{ t({'en':'Arise and shine, for thy light has come, and the glory of the Lord is risen upon thee.',
+<div class="ai-lang-note">🌍 {{ t({'en':'Arise and shine, for thy light has come, and the glory of the Lord is risen upon thee.', 'th': 'จงลุกขึ้น จงฉายแสง เพราะว่าความสว่างของเจ้ามาแล้ว และสง่าราศีของพระเยโฮวาห์ขึ้นมาเหนือเจ้า',
 'es':'Levántate, resplandece; porque ha venido tu lumbre, y la gloria de Jehová ha nacido sobre ti.',
 'fr':'Lève-toi, sois éclairée, car ta lumière arrive, et la gloire de l\'Éternel se lève sur toi.'}) }}</div>
 {% endif %}
@@ -64,23 +64,23 @@
 
 <main>{% block content %}{% endblock %}</main>
 
-<p class="ai-lang-note">🌍 {{ t({'en':'We know we can make mistakes. Spot something off? We\'d love to know.',
+<p class="ai-lang-note">🌍 {{ t({'en':'We know we can make mistakes. Spot something off? We\'d love to know.', 'th': 'เรารู้ว่าเราอาจทำผิดพลาดได้ พบอะไรที่ไม่ถูกต้องไหม? เราอยากรู้มาก',
 'es':'Sabemos que podemos equivocarnos. ¿Notas algo extraño? Nos encantaría saberlo.',
 'fr':'Nous savons que nous pouvons nous tromper. Quelque chose vous semble étrange ? Nous aimerions le savoir.'}) }}</p>
 <details class="report-box">
-  <summary>⚑ {{ t({'en':'Report an issue or give us feedback','es':'Reporta un problema o déjanos tu opinión','fr':'Signaler un problème ou laisser un avis'}) }}</summary>
+  <summary>⚑ {{ t({'en':'Report an issue or give us feedback', 'th': 'รายงานปัญหาหรือให้ความเห็นกับเรา','es':'Reporta un problema o déjanos tu opinión','fr':'Signaler un problème ou laisser un avis'}) }}</summary>
   <form method="post" action="{{ url_for('feedback_submit') }}">
     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
     <input type="hidden" name="page" value="{{ request.path }}">
     <textarea name="message" rows="3" required maxlength="2000"
-      placeholder="{{ t({'en':'A typo, a wrong translation, anything off — tell us.','es':'Un error, una mala traducción, lo que sea — cuéntanos.','fr':'Une faute, une mauvaise traduction, quoi que ce soit — dites-nous.'}) }}"></textarea>
-    <button class="btn small" type="submit">{{ t({'en':'Send','es':'Enviar','fr':'Envoyer'}) }}</button>
+      placeholder="{{ t({'en':'A typo, a wrong translation, anything off — tell us.', 'th': 'พิมพ์ผิด แปลผิด หรือมีอะไรไม่ถูกต้อง — บอกเราได้เลย','es':'Un error, una mala traducción, lo que sea — cuéntanos.','fr':'Une faute, une mauvaise traduction, quoi que ce soit — dites-nous.'}) }}"></textarea>
+    <button class="btn small" type="submit">{{ t({'en':'Send', 'th': 'ส่ง','es':'Enviar','fr':'Envoyer'}) }}</button>
   </form>
 </details>
 <footer class="footer">
-  <p>“{{ t({'en':'Let your light shine before others','es':'Que brille la luz de ustedes delante de todos'}) }}” — {{ t({'en':'Matthew','es':'Mateo'}) }} 5:16</p>
+  <p>“{{ t({'en':'Let your light shine before others', 'th': 'จงให้ความสว่างของพวกท่านส่องไปต่อหน้าคนทั้งปวงอย่างนั้น','es':'Que brille la luz de ustedes delante de todos'}) }}” — {{ t({'en':'Matthew', 'th': 'มัทธิว','es':'Mateo'}) }} 5:16</p>
   <div class="footer-contact">
-    <span class="footer-contact-label">{{ t({'en':'Contact us','es':'Contáctanos','fr':'Contactez-nous'}) }}:</span>
+    <span class="footer-contact-label">{{ t({'en':'Contact us', 'th': 'ติดต่อเรา','es':'Contáctanos','fr':'Contactez-nous'}) }}:</span>
     <a href="https://www.facebook.com/profile.php?id=61586669940313" target="_blank" rel="noopener" class="footer-contact-link">
       <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12a10 10 0 1 0-11.6 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.5.3v2.7h-1.7c-1.3 0-1.6.6-1.6 1.5V12h2.8l-.4 2.9h-2.4v7A10 10 0 0 0 22 12Z"/></svg>
       Facebook

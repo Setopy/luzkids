@@ -1,38 +1,38 @@
 {% extends "base.html" %}
-{% block title %}{{ t({'en':'Plans','es':'Planes'}) }}{% endblock %}
+{% block title %}{{ t({'en':'Plans', 'th': 'แพ็กเกจ','es':'Planes'}) }}{% endblock %}
 {% block content %}
 <section class="strip">
-  <h1>{{ t({'en':'Simple plans for every family and church','es':'Planes sencillos para cada familia e iglesia'}) }}</h1>
+  <h1>{{ t({'en':'Simple plans for every family and church', 'th': 'แพ็กเกจง่ายๆ สำหรับทุกครอบครัวและคริสตจักร','es':'Planes sencillos para cada familia e iglesia'}) }}</h1>
   <div class="cards pricing">
     <div class="card">
-      <h3>{{ t({'en':'Free','es':'Gratis'}) }}</h3>
+      <h3>{{ t({'en':'Free', 'th': 'ฟรี','es':'Gratis'}) }}</h3>
       <p class="price">$0</p>
       <ul>
-        <li>{{ t({'en':'1 full free series','es':'1 serie gratuita completa'}) }}</li>
-        <li>{{ t({'en':'2 child profiles','es':'2 perfiles de niños'}) }}</li>
-        <li>{{ t({'en':'English & Spanish','es':'Inglés y español'}) }}</li>
+        <li>{{ t({'en':'1 full free series', 'th': 'ชุดเรียนฟรีครบชุด 1 ชุด','es':'1 serie gratuita completa'}) }}</li>
+        <li>{{ t({'en':'2 child profiles', 'th': 'โปรไฟล์เด็ก 2 คน','es':'2 perfiles de niños'}) }}</li>
+        <li>{{ t({'en':'English & Spanish', 'th': 'ภาษาอังกฤษและสเปน','es':'Inglés y español'}) }}</li>
       </ul>
-      <a class="btn ghost" href="{{ url_for('register') }}">{{ t({'en':'Join free','es':'Únete gratis'}) }}</a>
+      <a class="btn ghost" href="{{ url_for('register') }}">{{ t({'en':'Join free', 'th': 'เข้าร่วมฟรี','es':'Únete gratis'}) }}</a>
     </div>
     <div class="card featured">
-      <h3>{{ t({'en':'Family','es':'Familiar'}) }}</h3>
-      <p class="price">$6<span>/{{ t({'en':'month','es':'mes'}) }}</span></p>
+      <h3>{{ t({'en':'Family', 'th': 'ครอบครัว','es':'Familiar'}) }}</h3>
+      <p class="price">$6<span>/{{ t({'en':'month', 'th': 'เดือน','es':'mes'}) }}</span></p>
       <ul>
-        <li>{{ t({'en':'Every series, every lesson','es':'Todas las series, todas las lecciones'}) }}</li>
-        <li>{{ t({'en':'4 child profiles','es':'4 perfiles de niños'}) }}</li>
-        <li>{{ t({'en':'All songs & printables','es':'Todas las canciones e imprimibles'}) }}</li>
+        <li>{{ t({'en':'Every series, every lesson', 'th': 'ทุกชุดเรียน ทุกบทเรียน','es':'Todas las series, todas las lecciones'}) }}</li>
+        <li>{{ t({'en':'4 child profiles', 'th': 'โปรไฟล์เด็ก 4 คน','es':'4 perfiles de niños'}) }}</li>
+        <li>{{ t({'en':'All songs & printables', 'th': 'เพลงและใบงานทั้งหมด','es':'Todas las canciones e imprimibles'}) }}</li>
       </ul>
-      <a class="btn big" href="{{ url_for('subscribe', plan='family') }}">{{ t({'en':'Start Family plan','es':'Iniciar plan Familiar'}) }}</a>
+      <a class="btn big" href="{{ url_for('subscribe', plan='family') }}">{{ t({'en':'Start Family plan', 'th': 'เริ่มแพ็กเกจครอบครัว','es':'Iniciar plan Familiar'}) }}</a>
     </div>
     <div class="card">
-      <h3>{{ t({'en':'Church & School','es':'Iglesia y Escuela'}) }}</h3>
-      <p class="price">$199<span>/{{ t({'en':'year','es':'año'}) }}</span></p>
+      <h3>{{ t({'en':'Church & School', 'th': 'คริสตจักรและโรงเรียน','es':'Iglesia y Escuela'}) }}</h3>
+      <p class="price">$199<span>/{{ t({'en':'year', 'th': 'ปี','es':'año'}) }}</span></p>
       <ul>
-        <li>{{ t({'en':'Classroom mode, 40 profiles','es':'Modo aula, 40 perfiles'}) }}</li>
-        <li>{{ t({'en':'Teacher guides & projection licence','es':'Guías para maestros y licencia de proyección'}) }}</li>
-        <li>{{ t({'en':'Print at scale','es':'Impresión a escala'}) }}</li>
+        <li>{{ t({'en':'Classroom mode, 40 profiles', 'th': 'โหมดห้องเรียน โปรไฟล์ 40 คน','es':'Modo aula, 40 perfiles'}) }}</li>
+        <li>{{ t({'en':'Teacher guides & projection licence', 'th': 'คู่มือครูและใบอนุญาตฉายภาพ','es':'Guías para maestros y licencia de proyección'}) }}</li>
+        <li>{{ t({'en':'Print at scale', 'th': 'พิมพ์ตามขนาดจริง','es':'Impresión a escala'}) }}</li>
       </ul>
-      <a class="btn ghost" href="{{ url_for('subscribe', plan='church') }}">{{ t({'en':'Licence your church','es':'Licencia tu iglesia'}) }}</a>
+      <a class="btn ghost" href="{{ url_for('subscribe', plan='church') }}">{{ t({'en':'Licence your church', 'th': 'ขอใบอนุญาตสำหรับคริสตจักรของคุณ','es':'Licencia tu iglesia'}) }}</a>
     </div>
   </div>
 </section>

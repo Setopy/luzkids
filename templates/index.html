@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ t({'en':'Home','es':'Inicio'}) }}{% endblock %}
+{% block title %}{{ t({'en':'Home', 'th': 'หน้าแรก','es':'Inicio'}) }}{% endblock %}
 {% block content %}
 
 <section class="hero">
@@ -13,103 +13,103 @@
         <h1>Scripture, <em>lit up</em> for kids</h1>
       {% endif %}
       <p class="tagline">{{ t(UI.tagline) }}</p>
-      <p class="hero-sub">{{ t({'en':'Stories, songs, games and parent guides — fully in English and Spanish.',
+      <p class="hero-sub">{{ t({'en':'Stories, songs, games and parent guides — fully in English and Spanish.', 'th': 'เรื่องราว เพลง เกม และคู่มือผู้ปกครอง — ครบทั้งภาษาอังกฤษและสเปน',
                                 'es':'Historias, canciones, juegos y guías para padres — totalmente en inglés y español.'}) }}</p>
       <div class="hero-ctas">
-        <a class="btn big" href="{{ url_for('library') }}">✨ {{ t({'en':'Explore the library','es':'Explora la biblioteca'}) }}</a>
-        <a class="btn ghost light" href="{{ url_for('register') }}">{{ t({'en':'Join free','es':'Únete gratis'}) }}</a>
+        <a class="btn big" href="{{ url_for('library') }}">✨ {{ t({'en':'Explore the library', 'th': 'สำรวจคลังบทเรียน','es':'Explora la biblioteca'}) }}</a>
+        <a class="btn ghost light" href="{{ url_for('register') }}">{{ t({'en':'Join free', 'th': 'เข้าร่วมฟรี','es':'Únete gratis'}) }}</a>
       </div>
     </div>
     <div class="hero-photos">
-      <figure class="polaroid p1"><img src="{{ url_for('static', filename='img/kids_tree.jpg') }}" alt="{{ t({'en':'Our four youngest by the big tree','es':'Nuestros cuatro pequeños junto al árbol'}) }}"><figcaption>{{ t({'en':'Learning together','es':'Aprendiendo juntos'}) }}</figcaption></figure>
-      <figure class="polaroid p2"><img src="{{ url_for('static', filename='img/boys_park.jpg') }}" alt="{{ t({'en':'Two of our boys at the park','es':'Dos de nuestros niños en el parque'}) }}"><figcaption>{{ t({'en':'Adventure time!','es':'¡Hora de aventura!'}) }}</figcaption></figure>
+      <figure class="polaroid p1"><img src="{{ url_for('static', filename='img/kids_tree.jpg') }}" alt="{{ t({'en':'Our four youngest by the big tree', 'th': 'ลูกสี่คนที่เล็กที่สุดของเราอยู่ข้างต้นไม้ใหญ่','es':'Nuestros cuatro pequeños junto al árbol'}) }}"><figcaption>{{ t({'en':'Learning together', 'th': 'เรียนรู้ไปด้วยกัน','es':'Aprendiendo juntos'}) }}</figcaption></figure>
+      <figure class="polaroid p2"><img src="{{ url_for('static', filename='img/boys_park.jpg') }}" alt="{{ t({'en':'Two of our boys at the park', 'th': 'ลูกชายสองคนของเราที่สวนสาธารณะ','es':'Dos de nuestros niños en el parque'}) }}"><figcaption>{{ t({'en':'Adventure time!', 'th': 'ถึงเวลาผจญภัย!','es':'¡Hora de aventura!'}) }}</figcaption></figure>
       <div class="mascot mascot-hero" aria-hidden="true">{% include "_lumi.html" %}</div>
     </div>
   </div>
 </section>
 
 <section class="strip features reveal">
-  <span class="eyebrow center">{{ t({'en':'What\'s inside','es':'Qué hay dentro'}) }}</span>
-  <h2 class="center">{{ t({'en':'Every lesson is an adventure','es':'Cada lección es una aventura'}) }}</h2>
+  <span class="eyebrow center">{{ t({'en':'What\'s inside', 'th': 'มีอะไรอยู่ในนี้','es':'Qué hay dentro'}) }}</span>
+  <h2 class="center">{{ t({'en':'Every lesson is an adventure', 'th': 'ทุกบทเรียนคือการผจญภัย','es':'Cada lección es una aventura'}) }}</h2>
   <div class="cards">
     <div class="card feature" style="--accent: var(--sea)">
       <div class="card-emoji">📖</div>
-      <h3>{{ t({'en':'Stories that come alive','es':'Historias que cobran vida'}) }}</h3>
-      <p>{{ t({'en':'Bible narratives retold the way you would tell them to your own children — wonder first, lecture never.',
+      <h3>{{ t({'en':'Stories that come alive', 'th': 'เรื่องราวที่มีชีวิต','es':'Historias que cobran vida'}) }}</h3>
+      <p>{{ t({'en':'Bible narratives retold the way you would tell them to your own children — wonder first, lecture never.', 'th': 'เรื่องราวจากพระคัมภีร์ที่เล่าใหม่แบบที่คุณจะเล่าให้ลูกของคุณฟัง — ให้ความประหลาดใจมาก่อน ไม่ใช่การบรรยาย',
                'es':'Relatos bíblicos contados como se los contarías a tus propios hijos — primero el asombro, nunca el sermón.'}) }}</p>
     </div>
     <div class="card feature" style="--accent: var(--berry)">
       <div class="card-emoji">🎵</div>
-      <h3>{{ t({'en':'Songs they keep singing','es':'Canciones que no dejan de cantar'}) }}</h3>
-      <p>{{ t({'en':'Original scripture songs in English and Spanish that hide God\'s Word in little hearts.',
+      <h3>{{ t({'en':'Songs they keep singing', 'th': 'เพลงที่พวกเขาร้องไม่เลิก','es':'Canciones que no dejan de cantar'}) }}</h3>
+      <p>{{ t({'en':'Original scripture songs in English and Spanish that hide God\'s Word in little hearts.', 'th': 'เพลงจากพระคัมภีร์ต้นฉบับเป็นภาษาอังกฤษและสเปน ที่ซ่อนพระวจนะของพระเจ้าไว้ในใจเล็กๆ',
                'es':'Canciones originales de la Escritura en inglés y español que guardan la Palabra de Dios en corazones pequeños.'}) }}</p>
     </div>
     <div class="card feature" style="--accent: var(--meadow)">
       <div class="card-emoji">🎮</div>
-      <h3>{{ t({'en':'Games that light lamps','es':'Juegos que encienden lámparas'}) }}</h3>
-      <p>{{ t({'en':'Verse puzzles, quizzes and star-burst celebrations — every finished lesson lights a lamp on their progress.',
+      <h3>{{ t({'en':'Games that light lamps', 'th': 'เกมที่จุดตะเกียง','es':'Juegos que encienden lámparas'}) }}</h3>
+      <p>{{ t({'en':'Verse puzzles, quizzes and star-burst celebrations — every finished lesson lights a lamp on their progress.', 'th': 'ปริศนาข้อพระคัมภีร์ แบบทดสอบ และการเฉลิมฉลองด้วยดาวกระจาย — ทุกบทเรียนที่จบจะจุดตะเกียงในความคืบหน้าของพวกเขา',
                'es':'Rompecabezas de versículos, quizzes y lluvias de estrellas — cada lección terminada enciende una lámpara en su progreso.'}) }}</p>
     </div>
   </div>
 </section>
 
 <div class="stats-ribbon reveal">
-  <div><strong>{{ stats.languages }}</strong><span>{{ t({'en':'languages','es':'idiomas','fr':'langues'}) }}</span></div>
-  <div><strong>{{ stats.free_lessons }}</strong><span>{{ t({'en':'free lessons','es':'lecciones gratis','fr':'leçons gratuites'}) }}</span></div>
-  <div><strong>0</strong><span>{{ t({'en':'ads, ever','es':'anuncios, nunca','fr':'pubs, jamais'}) }}</span></div>
-  <div><strong>1</strong><span>{{ t({'en':'family behind it all','es':'familia detrás de todo','fr':'famille derrière tout'}) }}</span></div>
+  <div><strong>{{ stats.languages }}</strong><span>{{ t({'en':'languages', 'th': 'ภาษา','es':'idiomas','fr':'langues'}) }}</span></div>
+  <div><strong>{{ stats.free_lessons }}</strong><span>{{ t({'en':'free lessons', 'th': 'บทเรียนฟรี','es':'lecciones gratis','fr':'leçons gratuites'}) }}</span></div>
+  <div><strong>0</strong><span>{{ t({'en':'ads, ever', 'th': 'โฆษณา, ไม่มีเลย','es':'anuncios, nunca','fr':'pubs, jamais'}) }}</span></div>
+  <div><strong>1</strong><span>{{ t({'en':'family behind it all', 'th': 'ครอบครัวที่อยู่เบื้องหลังทั้งหมด','es':'familia detrás de todo','fr':'famille derrière tout'}) }}</span></div>
 </div>
 
 <section class="family-band reveal">
   <div class="family-inner">
     <div class="family-copy">
-      <span class="eyebrow">{{ t({'en':'Why we built this','es':'Por qué creamos esto'}) }}</span>
-      <h2>{{ t({'en':'Made by a real family, for real families','es':'Hecho por una familia real, para familias reales'}) }}</h2>
-      <blockquote class="mission-verse">“{{ t({'en':'Like arrows in the hands of a warrior are children born in one\'s youth.',
+      <span class="eyebrow">{{ t({'en':'Why we built this', 'th': 'ทำไมเราถึงสร้างสิ่งนี้','es':'Por qué creamos esto'}) }}</span>
+      <h2>{{ t({'en':'Made by a real family, for real families', 'th': 'สร้างขึ้นโดยครอบครัวจริง เพื่อครอบครัวจริง','es':'Hecho por una familia real, para familias reales'}) }}</h2>
+      <blockquote class="mission-verse">“{{ t({'en':'Like arrows in the hands of a warrior are children born in one\'s youth.', 'th': 'บรรดาลูกธนูในมือของผู้มีอำนาจคนหนึ่งเป็นอย่างไร บุตรทั้งหลายของคนหนุ่มก็เป็นอย่างนั้น',
                'es':'Como flechas en las manos del guerrero son los hijos de la juventud.',
                'fr':'Comme les flèches dans la main d\'un guerrier, ainsi sont les fils de la jeunesse.'}) }}”
-        <cite>{{ t({'en':'Psalm 127:4','es':'Salmo 127:4','fr':'Psaume 127:4'}) }}</cite></blockquote>
-      <p>{{ t({'en':'LuzKids was born from a deep passion to see children learning about and following the Lord Jesus Christ right from childhood. Our desire is to see children raised as Jesus\' Arrows — shaped, sharpened and sent — that He might find them worthy in holiness and righteousness, and use them as agents of revival in these last days.',
+        <cite>{{ t({'en':'Psalm 127:4', 'th': 'สดุดี 127:4','es':'Salmo 127:4','fr':'Psaume 127:4'}) }}</cite></blockquote>
+      <p>{{ t({'en':'LuzKids was born from a deep passion to see children learning about and following the Lord Jesus Christ right from childhood. Our desire is to see children raised as Jesus\' Arrows — shaped, sharpened and sent — that He might find them worthy in holiness and righteousness, and use them as agents of revival in these last days.', 'th': 'LuzKids เกิดจากความปรารถนาอันลึกซึ้งที่จะเห็นเด็กๆ เรียนรู้และติดตามองค์พระเยซูคริสต์ตั้งแต่ยังเล็ก ความตั้งใจของเราคือให้เด็กๆ เติบโตขึ้นเป็นลูกศรของพระเยซู — ถูกหล่อหลอม เหลาให้แหลมคม และถูกส่งออกไป — เพื่อพระองค์จะทรงเห็นว่าพวกเขาสมควรในความบริสุทธิ์และความชอบธรรม และทรงใช้พวกเขาเป็นผู้นำการฟื้นฟูในยุคสุดท้ายนี้',
                'es':'LuzKids nace de una profunda pasión por ver a los niños conocer y seguir al Señor Jesucristo desde la infancia. Nuestro anhelo es ver a los niños criados como Flechas de Jesús — formados, afilados y enviados — para que Él los halle dignos en santidad y justicia, y los use como agentes de avivamiento en estos últimos días.',
                'fr':'LuzKids est né d\'une passion profonde : voir les enfants connaître et suivre le Seigneur Jésus-Christ dès l\'enfance. Notre désir est de voir les enfants élevés comme les Flèches de Jésus — façonnés, aiguisés et envoyés — afin qu\'Il les trouve dignes dans la sainteté et la justice, et qu\'Il les emploie comme agents de réveil dans ces derniers temps.'}) }}</p>
     </div>
     <div class="family-collage">
-      <figure class="polaroid p3"><img src="{{ url_for('static', filename='img/mom_smile.jpg') }}" alt="{{ t({'en':'Mum smiling in the sunshine','es':'Mamá sonriendo bajo el sol'}) }}"><figcaption>{{ t({'en':'Mum — our chief storyteller','es':'Mamá — nuestra cuentacuentos principal'}) }}</figcaption></figure>
-      <figure class="polaroid p4"><img src="{{ url_for('static', filename='img/founders_swing.jpg') }}" alt="{{ t({'en':'Mum and Dad at the playground','es':'Mamá y papá en el parque','fr':'Maman et papa au parc'}) }}"><figcaption>{{ t({'en':'Mum & Dad — the whole team','es':'Mamá y papá — todo el equipo','fr':'Maman et papa — toute l\'équipe'}) }}</figcaption></figure>
+      <figure class="polaroid p3"><img src="{{ url_for('static', filename='img/mom_smile.jpg') }}" alt="{{ t({'en':'Mum smiling in the sunshine', 'th': 'คุณแม่ยิ้มในแสงแดด','es':'Mamá sonriendo bajo el sol'}) }}"><figcaption>{{ t({'en':'Mum — our chief storyteller', 'th': 'คุณแม่ — นักเล่าเรื่องคนสำคัญของเรา','es':'Mamá — nuestra cuentacuentos principal'}) }}</figcaption></figure>
+      <figure class="polaroid p4"><img src="{{ url_for('static', filename='img/founders_swing.jpg') }}" alt="{{ t({'en':'Mum and Dad at the playground', 'th': 'คุณแม่และคุณพ่อที่สนามเด็กเล่น','es':'Mamá y papá en el parque','fr':'Maman et papa au parc'}) }}"><figcaption>{{ t({'en':'Mum & Dad — the whole team', 'th': 'คุณแม่และคุณพ่อ — ทีมทั้งหมด','es':'Mamá y papá — todo el equipo','fr':'Maman et papa — toute l\'équipe'}) }}</figcaption></figure>
     </div>
   </div>
 </section>
 
 <section class="love-photo reveal">
   <img src="{{ url_for('static', filename='img/kids_love_sign.jpg') }}"
-       alt="{{ t({'en':'Our children playing on a giant LOVE sign','es':'Nuestros hijos jugando en un letrero gigante de LOVE'}) }}">
+       alt="{{ t({'en':'Our children playing on a giant LOVE sign', 'th': 'ลูกๆ ของเรากำลังเล่นอยู่บนป้าย LOVE ตัวใหญ่','es':'Nuestros hijos jugando en un letrero gigante de LOVE'}) }}">
   <div class="love-caption">
-    <p>“{{ t({'en':'And walk in the way of love, just as Christ loved us','es':'Y vivan una vida de amor, así como Cristo nos amó'}) }}” — {{ t({'en':'Ephesians','es':'Efesios'}) }} 5:2</p>
+    <p>“{{ t({'en':'And walk in the way of love, just as Christ loved us', 'th': 'และจงดำเนินในความรักเหมือนอย่างที่พระคริสต์ได้ทรงรักพวกเราด้วย','es':'Y vivan una vida de amor, así como Cristo nos amó'}) }}” — {{ t({'en':'Ephesians', 'th': 'เอเฟซัส','es':'Efesios'}) }} 5:2</p>
   </div>
 </section>
 
 <section class="strip steps reveal">
-  <span class="eyebrow center">{{ t({'en':'Three simple steps','es':'Tres pasos sencillos'}) }}</span>
-  <h2 class="center">{{ t({'en':'How it works','es':'Cómo funciona'}) }}</h2>
+  <span class="eyebrow center">{{ t({'en':'Three simple steps', 'th': 'สามขั้นตอนง่ายๆ','es':'Tres pasos sencillos'}) }}</span>
+  <h2 class="center">{{ t({'en':'How it works', 'th': 'วิธีใช้งาน','es':'Cómo funciona'}) }}</h2>
   <div class="cards">
     <div class="card step"><span class="step-num">1</span>
-      <h3>{{ t({'en':'Create a free account','es':'Crea una cuenta gratis'}) }}</h3>
-      <p>{{ t({'en':'Add a profile for each child — just a first name and a fun avatar. No child data, ever.',
+      <h3>{{ t({'en':'Create a free account', 'th': 'สร้างบัญชีฟรี','es':'Crea una cuenta gratis'}) }}</h3>
+      <p>{{ t({'en':'Add a profile for each child — just a first name and a fun avatar. No child data, ever.', 'th': 'เพิ่มโปรไฟล์ให้เด็กแต่ละคน — แค่ชื่อเล่นกับอวาตาร์น่ารัก เราไม่เก็บข้อมูลส่วนตัวของเด็กเลย',
                'es':'Agrega un perfil para cada niño — solo un nombre y un avatar divertido. Nunca datos de niños.'}) }}</p></div>
     <div class="card step"><span class="step-num">2</span>
-      <h3>{{ t({'en':'Pick an adventure','es':'Elige una aventura'}) }}</h3>
-      <p>{{ t({'en':'Start with our free flagship series and switch between English and Spanish any time.',
+      <h3>{{ t({'en':'Pick an adventure', 'th': 'เลือกการผจญภัย','es':'Elige una aventura'}) }}</h3>
+      <p>{{ t({'en':'Start with our free flagship series and switch between English and Spanish any time.', 'th': 'เริ่มต้นด้วยชุดเรียนหลักของเราที่ฟรี และสลับระหว่างภาษาอังกฤษกับสเปนได้ทุกเมื่อ',
                'es':'Comienza con nuestra serie gratuita y cambia entre inglés y español cuando quieras.'}) }}</p></div>
     <div class="card step"><span class="step-num">3</span>
-      <h3>{{ t({'en':'Light the lamps','es':'Enciende las lámparas'}) }}</h3>
-      <p>{{ t({'en':'Kids play, sing and learn; you follow their progress and lead the conversation with our parent guides.',
+      <h3>{{ t({'en':'Light the lamps', 'th': 'จุดตะเกียง','es':'Enciende las lámparas'}) }}</h3>
+      <p>{{ t({'en':'Kids play, sing and learn; you follow their progress and lead the conversation with our parent guides.', 'th': 'เด็กๆ เล่น ร้องเพลง และเรียนรู้ ส่วนคุณติดตามความคืบหน้าและนำการสนทนาด้วยคู่มือสำหรับผู้ปกครองของเรา',
                'es':'Los niños juegan, cantan y aprenden; tú sigues su progreso y guías la conversación con nuestras guías para padres.'}) }}</p></div>
   </div>
 </section>
 
 <section class="strip reveal">
-  <span class="eyebrow center">{{ t({'en':'The library','es':'La biblioteca'}) }}</span>
-  <h2 class="center">{{ t({'en':'Start free with our flagship series','es':'Comienza gratis con nuestra serie principal'}) }}</h2>
+  <span class="eyebrow center">{{ t({'en':'The library', 'th': 'คลังบทเรียน','es':'La biblioteca'}) }}</span>
+  <h2 class="center">{{ t({'en':'Start free with our flagship series', 'th': 'เริ่มฟรีกับชุดเรียนหลักของเรา','es':'Comienza gratis con nuestra serie principal'}) }}</h2>
   <div class="cards">
     {% for s in series_list[:3] %}
     <a class="card" href="{{ url_for('series_page', series_id=s.id) }}" style="--accent: {{ s.color }}">
@@ -125,8 +125,8 @@
 <section class="cta-band reveal">
   <div class="stars"></div>
   <div class="mascot mascot-cta" aria-hidden="true">{% include "_lumi.html" %}</div>
-  <h2>{{ t({'en':'Ready to light the first lamp?','es':'¿Listos para encender la primera lámpara?'}) }}</h2>
-  <a class="btn big" href="{{ url_for('register') }}">🕯️ {{ t({'en':'Join free today','es':'Únete gratis hoy'}) }}</a>
+  <h2>{{ t({'en':'Ready to light the first lamp?', 'th': 'พร้อมจุดตะเกียงแรกหรือยัง?','es':'¿Listos para encender la primera lámpara?'}) }}</h2>
+  <a class="btn big" href="{{ url_for('register') }}">🕯️ {{ t({'en':'Join free today', 'th': 'เข้าร่วมฟรีวันนี้','es':'Únete gratis hoy'}) }}</a>
 </section>
 
 {% endblock %}

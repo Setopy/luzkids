@@ -2,7 +2,8 @@
   "title": {
     "en": "Don't Drift Away!",
     "es": "¡No Te Alejes a la Deriva!",
-    "fr": "Ne Dérive Pas !"
+    "fr": "Ne Dérive Pas !",
+    "th": "อย่าล่องลอยจากไป!"
   },
   "ref": "Hebrews 2:1-4",
   "section": "Warning Against Drifting Away",
@@ -12,12 +13,14 @@
       "heading": {
         "en": "A boat with no anchor",
         "es": "Un bote sin ancla",
-        "fr": "Un bateau sans ancre"
+        "fr": "Un bateau sans ancre",
+        "th": "เรือที่ไม่มีสมอ"
       },
       "body": {
         "en": "Imagine a small boat floating near shore — no one rowing, no anchor dropped. It doesn't crash suddenly; it just slowly drifts further out until the shore disappears. The writer uses this picture as a warning: pay MUCH closer attention to what we've heard about Jesus, so we don't DRIFT AWAY.\n\nIf the law given through angels carried serious consequences for disobedience, how much more serious is it to ignore the salvation announced by the Lord Himself, confirmed by signs, wonders, and the Holy Spirit?",
         "es": "Imagina un pequeño bote flotando cerca de la orilla — nadie remando, ningún ancla echada. No se estrella de repente; simplemente se aleja lentamente cada vez más hasta que la orilla desaparece. El escritor usa esta imagen como advertencia: pongamos MUCHA más atención a lo que hemos oído acerca de Jesús, para que no nos ALEJEMOS A LA DERIVA.\n\nSi la ley dada por medio de ángeles llevaba consecuencias serias por la desobediencia, ¿cuánto más serio es ignorar la salvación anunciada por el Señor mismo, confirmada con señales, milagros, y el Espíritu Santo?",
-        "fr": "Imagine un petit bateau flottant près du rivage — personne ne rame, aucune ancre n'est jetée. Il ne s'écrase pas soudainement ; il dérive simplement, lentement, de plus en plus loin jusqu'à ce que le rivage disparaisse. L'auteur utilise cette image comme avertissement : prêtons une attention BIEN plus grande à ce que nous avons entendu à propos de Jésus, afin de ne pas DÉRIVER.\n\nSi la loi donnée par des anges entraînait des conséquences sérieuses pour la désobéissance, à quel point est-il plus sérieux d'ignorer le salut annoncé par le Seigneur Lui-même, confirmé par des signes, des miracles, et le Saint-Esprit ?"
+        "fr": "Imagine un petit bateau flottant près du rivage — personne ne rame, aucune ancre n'est jetée. Il ne s'écrase pas soudainement ; il dérive simplement, lentement, de plus en plus loin jusqu'à ce que le rivage disparaisse. L'auteur utilise cette image comme avertissement : prêtons une attention BIEN plus grande à ce que nous avons entendu à propos de Jésus, afin de ne pas DÉRIVER.\n\nSi la loi donnée par des anges entraînait des conséquences sérieuses pour la désobéissance, à quel point est-il plus sérieux d'ignorer le salut annoncé par le Seigneur Lui-même, confirmé par des signes, des miracles, et le Saint-Esprit ?",
+        "th": "ลองนึกถึงเรือเล็กที่ลอยอยู่ใกล้ชายฝั่ง — ไม่มีใครพาย ไม่มีสมอหย่อนลง มันไม่ชนเข้ากับอะไรอย่างกะทันหัน มันแค่ล่องลอยช้าๆออกไปเรื่อยๆจนกระทั่งชายฝั่งหายไป ผู้เขียนใช้ภาพนี้เป็นคำเตือน: ให้ใส่ใจมากขึ้นต่อสิ่งที่เราได้ยินเกี่ยวกับพระเยซู เพื่อเราจะไม่ ล่องลอยจากไป\n\nถ้าธรรมบัญญัติที่ให้ผ่านทูตสวรรค์มีผลที่ร้ายแรงสำหรับการไม่เชื่อฟัง การเมินความรอดที่องค์พระผู้เป็นเจ้าเองทรงประกาศ ที่ได้รับการยืนยันด้วยเครื่องหมาย การอัศจรรย์ และพระวิญญาณบริสุทธิ์ จะร้ายแรงกว่าเพียงใด?"
       }
     },
     {
@@ -25,12 +28,14 @@
       "verse": {
         "en": "We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away.",
         "es": "POR tanto, es menester que con más diligencia atendamos á las cosas que hemos oído, porque acaso no nos escurramos.",
-        "fr": "C'est pourquoi nous devons d'autant plus nous attacher aux choses que nous avons entendues, de peur que nous ne soyons emportés loin d'elles."
+        "fr": "C'est pourquoi nous devons d'autant plus nous attacher aux choses que nous avons entendues, de peur que nous ne soyons emportés loin d'elles.",
+        "th": "เหตุฉะนั้นพวกเราควรจะเอาใจใส่อย่างเอาจริงเอาจังต่อสิ่งเหล่านั้นซึ่งพวกเราได้ยินแล้ว เกรงว่าในเวลาหนึ่งเวลาใดพวกเราอาจจะปล่อยสิ่งเหล่านั้นให้หลุดลอยไป"
       },
       "ref": {
         "en": "Hebrews 2:1 (NIV)",
         "es": "Hebreos 2:1 (Valera)",
-        "fr": "Hébreux 2:1 (LSG)"
+        "fr": "Hébreux 2:1 (LSG)",
+        "th": "ฮีบรู 2:1 (Thai KJV)"
       },
       "scramble_words": {
         "en": [
@@ -57,6 +62,10 @@
           "devons",
           "d'autant",
           "plus"
+        ],
+        "th": [
+          "เหตุฉะนั้นพวกเราควรจะเอาใจใส่อย่างเอาจริงเอาจังต่อสิ่งเหล่านั้นซึ่งพวกเราได้ยินแล้ว",
+          "เกรงว่าในเวลาหนึ่งเวลาใดพวกเราอาจจะปล่อยสิ่งเหล่านั้นให้หลุดลอยไป"
         ]
       },
       "typing_challenge": true
@@ -66,7 +75,8 @@
       "title": {
         "en": "A Song for Don't Drift Away!",
         "es": "Una Canción para ¡No Te Alejes a la Deriva!",
-        "fr": "Une Chanson pour Ne Dérive Pas !"
+        "fr": "Une Chanson pour Ne Dérive Pas !",
+        "th": "เพลงสำหรับ อย่าล่องลอยจากไป!"
       },
       "audio_en": "/static/audio/hebrews/lesson02_en.mp3"
     },
@@ -77,7 +87,8 @@
           "q": {
             "en": "What warning picture does this lesson use?",
             "es": "¿Qué imagen de advertencia usa esta lección?",
-            "fr": "Quelle image d'avertissement cette leçon utilise-t-elle ?"
+            "fr": "Quelle image d'avertissement cette leçon utilise-t-elle ?",
+            "th": "บทเรียนนี้ใช้ภาพเตือนอะไร?"
           },
           "options": {
             "en": [
@@ -97,6 +108,12 @@
               "Un bateau qui dérive lentement du rivage",
               "Une porte qui claque",
               "Une course"
+            ],
+            "th": [
+              "ไฟไหม้บ้าน",
+              "เรือที่ล่องลอยช้าๆจากชายฝั่ง",
+              "ประตูที่ปิดดัง",
+              "การแข่งขัน"
             ]
           },
           "answer": 1
@@ -105,7 +122,8 @@
           "q": {
             "en": "Why is ignoring the salvation Jesus brought so serious?",
             "es": "¿Por qué es tan serio ignorar la salvación que trajo Jesús?",
-            "fr": "Pourquoi est-il si sérieux d'ignorer le salut que Jésus a apporté ?"
+            "fr": "Pourquoi est-il si sérieux d'ignorer le salut que Jésus a apporté ?",
+            "th": "ทำไมการเมินความรอดที่พระเยซูทรงนำมาจึงร้ายแรงมาก?"
           },
           "options": {
             "en": [
@@ -125,6 +143,12 @@
               "Parce qu'il a été confirmé par le Seigneur Lui-même, des signes, et l'Esprit",
               "Les anges se fâchent",
               "Aucune raison n'est donnée"
+            ],
+            "th": [
+              "ไม่ร้ายแรงจริงๆ",
+              "เพราะได้รับการยืนยันโดยองค์พระผู้เป็นเจ้าเอง เครื่องหมาย และพระวิญญาณ",
+              "ทูตสวรรค์ไม่พอใจ",
+              "ไม่มีเหตุผลที่ให้ไว้"
             ]
           },
           "answer": 1
@@ -133,7 +157,8 @@
           "q": {
             "en": "What kind of attention does the writer say we need?",
             "es": "¿Qué tipo de atención dice el escritor que necesitamos?",
-            "fr": "Quel genre d'attention l'auteur dit-il que nous devons avoir ?"
+            "fr": "Quel genre d'attention l'auteur dit-il que nous devons avoir ?",
+            "th": "ผู้เขียนกล่าวว่าเราต้องการความใส่ใจแบบใด?"
           },
           "options": {
             "en": [
@@ -153,6 +178,12 @@
               "Une attention soigneuse et proche, quotidienne",
               "Une attention une fois par an",
               "Une attention seulement en cas de problème"
+            ],
+            "th": [
+              "ไม่มีเลย — ความเชื่อทำงานแบบอัตโนมัติ",
+              "ความใส่ใจที่รอบคอบและใกล้ชิด ทุกวัน",
+              "ความใส่ใจปีละครั้ง",
+              "ความใส่ใจเฉพาะเมื่อมีปัญหา"
             ]
           },
           "answer": 1
@@ -166,7 +197,8 @@
           "label": {
             "en": "Activity sheet: Don't Drift Away!",
             "es": "Hoja de actividad: ¡No Te Alejes a la Deriva!",
-            "fr": "Fiche d'activité : Ne Dérive Pas !"
+            "fr": "Fiche d'activité : Ne Dérive Pas !",
+            "th": "ใบกิจกรรม: อย่าล่องลอยจากไป!"
           },
           "file": "/static/printables/hebrews/lesson02_sheet.pdf"
         }
@@ -177,7 +209,8 @@
       "body": {
         "en": "Big idea: the danger of gradual, quiet spiritual drift — the first of five warning passages in Hebrews. Salvation is not presumed automatic; ongoing attentiveness matters.\n\nConversation starters: (1) What are quiet ways faith could \"drift\" unnoticed? (2) What helps you stay anchored? (3) Why might gradual drift be more dangerous than one big fall?\n\nPray for hearts that stay anchored and attentive.",
         "es": "Idea principal: el peligro de la deriva espiritual gradual y silenciosa — la primera de cinco advertencias en Hebreos. La salvación no se presume automática; la atención continua importa.\n\nPara conversar: (1) ¿Cuáles son maneras silenciosas en que la fe podría 'alejarse a la deriva' sin que nos demos cuenta? (2) ¿Qué te ayuda a permanecer anclado? (3) ¿Por qué podría la deriva gradual ser más peligrosa que una gran caída de una sola vez?\n\nOren por corazones que permanezcan anclados y atentos.",
-        "fr": "Idée principale : le danger d'une dérive spirituelle progressive et silencieuse — le premier des cinq passages d'avertissement dans Hébreux. Le salut n'est pas présumé automatique ; l'attention continue importe.\n\nPour la conversation : (1) Quelles sont des façons silencieuses dont la foi pourrait « dériver » sans qu'on s'en aperçoive ? (2) Qu'est-ce qui t'aide à rester ancré ? (3) Pourquoi une dérive progressive pourrait-elle être plus dangereuse qu'une grande chute soudaine ?\n\nPriez pour des cœurs qui restent ancrés et attentifs."
+        "fr": "Idée principale : le danger d'une dérive spirituelle progressive et silencieuse — le premier des cinq passages d'avertissement dans Hébreux. Le salut n'est pas présumé automatique ; l'attention continue importe.\n\nPour la conversation : (1) Quelles sont des façons silencieuses dont la foi pourrait « dériver » sans qu'on s'en aperçoive ? (2) Qu'est-ce qui t'aide à rester ancré ? (3) Pourquoi une dérive progressive pourrait-elle être plus dangereuse qu'une grande chute soudaine ?\n\nPriez pour des cœurs qui restent ancrés et attentifs.",
+        "th": "ใจความสำคัญ: อันตรายของการล่องลอยฝ่ายจิตวิญญาณอย่างช้าๆและเงียบๆ — คำเตือนข้อแรกจากห้าตอนเตือนในฮีบรู ความรอดไม่ถือว่าเป็นไปโดยอัตโนมัติ การใส่ใจอย่างต่อเนื่องสำคัญ\n\nชวนคุยกัน: (1) มีวิธีเงียบๆใดบ้างที่ความเชื่ออาจ \"ล่องลอย\" โดยไม่มีใครสังเกต? (2) อะไรช่วยให้คุณยึดติดอยู่กับหลัก? (3) ทำไมการล่องลอยอย่างช้าๆอาจเป็นอันตรายมากกว่าการล้มครั้งใหญ่ครั้งเดียว?\n\nอธิษฐานเผื่อใจที่ยึดติดอยู่กับหลักและใส่ใจ"
       }
     }
   ]
