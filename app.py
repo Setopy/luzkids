@@ -571,7 +571,7 @@ def rate_limit_exceeded(e):
             "es": "¡Vaya, muchas preguntas! Toma un descanso y vuelve a intentarlo en unos minutos.",
             "fr": "Beaucoup de questions ! Fais une petite pause et réessaie dans quelques minutes.",
             "pt": "Uau, muitas perguntas! Faça uma pequena pausa e tente novamente em alguns minutos."
-        }), rate_limited=True), 429
+        }), ok=False, rate_limited=True), 429
     if request.path in ("/login", "/register"):
         flash(t({
             "en": "Too many attempts — please wait a few minutes and try again.", "th": "พยายามมากเกินไป — กรุณารอสักไม่กี่นาทีแล้วลองใหม่",
@@ -593,22 +593,38 @@ def _ask_rate_key():
     return get_remote_address()
 
 
+def _ask_unavailable(code):
+    return jsonify(ok=False, error=code, answer=t({
+        "en": "I couldn't answer right now — try again in a moment!",
+        "th": "ตอนนี้ฉันตอบไม่ได้ — ลองใหม่อีกครั้งสักครู่นะ!",
+        "es": "No pude responder ahora — ¡inténtalo de nuevo en un momento!",
+        "fr": "Je n'ai pas pu répondre maintenant — réessaie dans un moment !",
+        "pt": "Não consegui responder agora — tente novamente em um momento!"
+    })), 503
+
+
 @app.route("/api/ask", methods=["POST"])
 @limiter.limit("6/minute;40/day", key_func=_ask_rate_key)
 def api_ask():
     if not current_user.is_authenticated:
-        return jsonify(answer="Please log in to use the AI companion."), 200
-    import os as _os
-    data = request.get_json(force=True)
+        return jsonify(ok=False, error="login_required",
+                       answer="Please log in to use the AI companion."), 401
+    data = request.get_json(silent=True)
+    if not isinstance(data, dict) or any(
+        not isinstance(data.get(field, ""), str)
+        for field in ("question", "lesson_id", "series_id", "lang")
+    ):
+        return jsonify(ok=False, error="invalid_request"), 400
     question = data.get("question", "").strip()[:300]
     lesson_id = data.get("lesson_id", "")
     series_id = data.get("series_id", "")
     lang = data.get("lang", "en")
     if not question:
-        return jsonify(error="No question"), 400
-    key = _os.environ.get("GROQ_API_KEY")
+        return jsonify(ok=False, error="No question"), 400
+    key = os.environ.get("GROQ_API_KEY", "").strip()
     if not key:
-        return jsonify(answer="The AI companion needs a GROQ_API_KEY. Ask your parent to set it up!")
+        app.logger.error("AI companion unavailable: GROQ_API_KEY is not configured")
+        return _ask_unavailable("not_configured")
     lesson = load_lesson(series_id, lesson_id)
     series = load_series(series_id)
     lesson_text = ""
@@ -626,25 +642,61 @@ def api_ask():
               f"holy living, personal evangelism, no unconditional eternal security. "
               f"Answer in {lang_name}. Max 4 sentences. Warm, simple, joyful, age-appropriate. "
               f"Never mention AI, technology, or any denomination by name.")
+    # Groq retired llama-3.1-8b-instant for free/developer accounts on
+    # 2026-08-16. Keep the replacement configurable for future migrations.
+    model = os.environ.get("GROQ_MODEL", "").strip() or "openai/gpt-oss-20b"
+    from groq import Groq, APIStatusError, APITimeoutError, APIConnectionError
+    options = {}
+    if model in ("openai/gpt-oss-20b", "openai/gpt-oss-120b"):
+        # The completion budget includes reasoning. 180 tokens could leave
+        # no final answer; never display reasoning to the child.
+        options = {"reasoning_effort": "low", "include_reasoning": False}
     try:
-        from groq import Groq
-        client = Groq(api_key=key)
-        completion = client.chat.completions.create(
-            model="llama-3.1-8b-instant",
-            messages=[{"role":"system","content":system},
-                      {"role":"user","content":question}],
-            max_completion_tokens=180,
-            temperature=0.5,
-        )
-        return jsonify(answer=completion.choices[0].message.content.strip())
-    except Exception as e:
-        print("Groq error:", e)
-        return jsonify(answer=t({
-            "en": "I couldn't answer right now — try again in a moment!", "th": "ตอนนี้ฉันตอบไม่ได้ — ลองใหม่อีกครั้งสักครู่นะ!",
-            "es": "No pude responder ahora — ¡inténtalo de nuevo en un momento!",
-            "fr": "Je n'ai pas pu répondre maintenant — réessaie dans un moment !",
-            "pt": "Não consegui responder agora — tente novamente em um momento!"
-        }))
+        # Stay within Gunicorn's worker timeout. SDK defaults wait up to
+        # 60 seconds and retry twice, leaving the page stuck "Thinking".
+        with Groq(api_key=key, timeout=10.0, max_retries=0) as client:
+            completion = client.chat.completions.create(
+                model=model,
+                messages=[{"role": "system", "content": system},
+                          {"role": "user", "content": question}],
+                max_completion_tokens=1024,
+                temperature=0.5,
+                **options,
+            )
+        answer = completion.choices[0].message.content if completion.choices else None
+        if not isinstance(answer, str) or not answer.strip():
+            app.logger.warning("AI companion returned an empty answer: model=%s", model)
+            return _ask_unavailable("empty_answer")
+        return jsonify(ok=True, answer=answer.strip())
+    except APIStatusError as exc:
+        # Log diagnostic metadata, not the provider body, credentials,
+        # or the child's question. The body can contain private content.
+        details = exc.body if isinstance(exc.body, dict) else {}
+        details = details.get("error", details)
+        provider_code = details.get("code") if isinstance(details, dict) else None
+        # Accept only a short identifier for safe, single-line logging.
+        if not isinstance(provider_code, str) or not provider_code.replace("_", "").isalnum():
+            provider_code = "unknown"
+        app.logger.warning("AI companion provider error: status=%s code=%s model=%s",
+                           exc.status_code, provider_code[:80], model)
+        if exc.status_code in (401, 403):
+            code = "provider_auth"
+        elif exc.status_code == 429:
+            code = "provider_rate_limited"
+        elif exc.status_code == 404 or provider_code in ("model_decommissioned", "model_not_found"):
+            code = "model_unavailable"
+        else:
+            code = "provider_error"
+        return _ask_unavailable(code)
+    except APITimeoutError:
+        app.logger.warning("AI companion provider timeout: model=%s", model)
+        return _ask_unavailable("provider_timeout")
+    except APIConnectionError:
+        app.logger.warning("AI companion provider connection failed: model=%s", model)
+        return _ask_unavailable("provider_connection")
+    except Exception as exc:
+        app.logger.error("AI companion unexpected failure: type=%s", type(exc).__name__)
+        return _ask_unavailable("provider_error")
 
 
 @app.route("/mission")
