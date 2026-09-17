@@ -162,30 +162,37 @@ updateLimit();
 if (askBtn) {
   askBtn.addEventListener("click", function() {
     var q = (askInput ? askInput.value.trim() : "");
-    if (!q || questionsLeft <= 0) return;
-    questionsLeft--;
-    updateLimit();
+    if (!q || questionsLeft <= 0 || askBtn.disabled) return;
     askBtn.disabled = true;
     askBtn.textContent = {"en":"Thinking...","es":"Pensando...","fr":"Je réfléchis..."}[LANG] || "...";
     if (answerBox) { answerBox.hidden = false; answerBox.textContent = "⏳ ..."; }
 
+    var controller = new AbortController();
+    var timeout = setTimeout(function() { controller.abort(); }, 20000);
+    var csrfMeta = document.querySelector('meta[name="csrf-token"]');
     fetch("/api/ask", {
       method: "POST",
+      signal: controller.signal,
       headers: {"Content-Type": "application/json",
-                "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content},
+                "X-CSRFToken": csrfMeta ? csrfMeta.content : ""},
       body: JSON.stringify({question: q, series_id: SERIES_ID, lesson_id: LESSON_ID, lang: LANG})
-    }).then(function(r) { return r.json(); }).then(function(d) {
-      if (d.rate_limited) {
-        questionsLeft++;
-        updateLimit();
-      }
-      if (answerBox) {
-        answerBox.hidden = false;
-        answerBox.textContent = d.answer || d.error || "Sorry, I couldn't answer that right now.";
-      }
+    }).then(function(r) {
+      return r.json().then(function(d) {
+        // Only a real answer uses the session allowance. Server failures,
+        // login prompts, rate limits and malformed replies remain retryable.
+        if (r.ok && d.ok === true && typeof d.answer === "string" && d.answer.trim()) {
+          questionsLeft--;
+          updateLimit();
+        }
+        if (answerBox) {
+          answerBox.hidden = false;
+          answerBox.textContent = d.answer || "Sorry, I couldn't answer that right now.";
+        }
+      });
     }).catch(function() {
       if (answerBox) { answerBox.textContent = "Sorry — something went wrong. Try again!"; }
     }).finally(function() {
+      clearTimeout(timeout);
       if (askBtn) {
         askBtn.disabled = questionsLeft <= 0;
         askBtn.textContent = {"en":"Ask","es":"Preguntar","fr":"Demander"}[LANG] || "Ask";

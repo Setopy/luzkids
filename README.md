@@ -2,6 +2,44 @@
 Bilingual (EN/ES) interactive Bible studies for children aged 6–12.
 *"Let your light shine before others" — Matthew 5:16*
 
+## AI companion configuration and troubleshooting
+
+The lesson question feature uses Groq. On the Railway **web** service, set
+`GROQ_API_KEY` to an active key from your Groq project. Never commit a key.
+
+`GROQ_MODEL` is optional and defaults to `openai/gpt-oss-20b`, Groq's
+[recommended replacement](https://console.groq.com/docs/deprecations) for
+`llama-3.1-8b-instant`, which was retired for free/developer accounts on
+August 16, 2026. This continues to use Groq and the existing Groq key;
+an OpenAI API key is not needed. If you set a model override, confirm that
+your Groq project permits that model.
+
+GPT-OSS requests use low reasoning effort, omit reasoning from the response,
+and reserve 1024 tokens for reasoning plus the final answer. The prompt still
+requests at most four child-friendly sentences. Calls have a 10-second SDK
+timeout and no automatic retries; the page also stops waiting after 20 seconds.
+Only successful answers reduce the browser's three-question session allowance.
+The server's per-account request limits still apply to attempts.
+
+If questions fail after deployment, inspect Railway logs for
+`AI companion provider error`:
+- `status=401` or `403`: check the Groq key, project access and model permissions.
+- `code=model_decommissioned` / `model_not_found`: check `GROQ_MODEL` against
+  Groq's current supported models.
+- `status=429`: check Groq usage/quota and retry later.
+- Timeouts, connection failures or `status=5xx`: check Groq service health.
+
+The endpoint returns HTTP 503 and an error code for provider failures, while
+keeping the child-facing message simple. Logs omit API keys, provider response
+bodies and children's questions. A 401 from **/api/ask** itself means the user
+must log in again.
+
+Run regression checks with `pytest -q` and, with Node.js installed,
+`node --test tests/test_ai_companion_ui.cjs`. Provider responses are simulated
+through the real Groq SDK; no live API key is needed for these tests.
+After deployment, log in at luzkids.org, open a lesson and ask one short question
+to verify the real Groq account and model access.
+
 ## Stack
 Flask + SQLAlchemy + vanilla JS. SQLite locally by default, Postgres in
 production (set `DATABASE_URL`). Same stack as ElisaVoz — deliberately

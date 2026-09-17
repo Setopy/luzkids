@@ -7,7 +7,7 @@ flask-migrate>=4.0
 gunicorn>=21.2
 psycopg2-binary>=2.9
 reportlab
-groq
+groq>=1.7.0,<2
 httpx
 python-dotenv
 pytest>=8.0
