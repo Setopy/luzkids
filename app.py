@@ -1,48 +1,24 @@
 """
-LuzKids — bilingual interactive Bible studies for children.
+LuzKids — interactive Bible studies for children.
 "Let your light shine before others" — Matthew 5:16
 "Que brille la luz de ustedes delante de todos" — Mateo 5:16
 
-Flask MVP. Deliberately boring technology: the value is the content.
-Deploy target: Railway (same stack as ElisaVoz).
+A static site. Flask is used only to render the pages: `python build.py`
+writes every page, in every language, to dist/ for Cloudflare Pages, and
+`python app.py` runs the same pages locally for development. There is no
+database and nothing about children is stored anywhere but the family's
+own device (static/js/progress.js).
 """
 import os
-from datetime import datetime
-import hmac
-import json
 
-from flask import (Flask, render_template, redirect, url_for, request,
-                   session, flash, jsonify, abort)
-from werkzeug.middleware.proxy_fix import ProxyFix
-from flask_sqlalchemy import SQLAlchemy
-from flask_migrate import Migrate
-from flask_wtf import CSRFProtect
-from flask_limiter import Limiter
-from flask_limiter.util import get_remote_address
+from flask import Flask, render_template, redirect, url_for, request, abort, g, jsonify
 
 from content_loader import load_all_series, load_series, load_lesson, load_songs
 
 # ---------------------------------------------------------------- app setup
 app = Flask(__name__)
-# Railway routes through two proxy hops in front of the app (an edge LB,
-# then an internal proxy that also re-appends its own IP). Without this,
-# request.remote_addr is one of those hops' addresses (and varies per
-# request), which breaks anything keyed on client IP — e.g. the AI
-# rate limiter below never accumulates because every request looks like
-# a different "client". x_for=2 unwraps both hops to reach the real client.
-app.wsgi_app = ProxyFix(app.wsgi_app, x_for=2, x_proto=1, x_host=1)
-app.config["SECRET_KEY"] = os.environ.get("SECRET_KEY", "dev-only-change-me")
-app.config["SESSION_COOKIE_SECURE"] = True
-app.config["SESSION_COOKIE_SAMESITE"] = "Lax"
-app.config["SESSION_COOKIE_HTTPONLY"] = True
-app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
-    "DATABASE_URL", "sqlite:///luzkids.db").replace("postgres://", "postgresql://")
-app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
-db = SQLAlchemy(app)
-migrate = Migrate(app, db)
-csrf = CSRFProtect(app)
-limiter = Limiter(get_remote_address, app=app, default_limits=[])
+FEEDBACK_EMAIL = "aielitazit@gmail.com"
 
 # Verified languages are human-reviewed; AI languages are machine-translated
 # (translate_series.py) and badged as such in the UI.
@@ -94,26 +70,35 @@ BADGES = {
 app.jinja_env.globals["BADGES"] = BADGES
 
 
-# ---------------------------------------------------------------- models
-# Privacy by design: the server stores NOTHING about children. Child
-# profiles, progress, XP, badges, certificates and the Mission log live
-# only in the browser on the family's device (see static/js/progress.js).
-# The only table left is anonymous site feedback from adults.
-class Feedback(db.Model):
-    """Visitor reports — the QA system for unreviewed languages (and everything else)."""
-    id = db.Column(db.Integer, primary_key=True)
-    page = db.Column(db.String(200))
-    lang = db.Column(db.String(5))
-    message = db.Column(db.Text, nullable=False)
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-
-
 # ---------------------------------------------------------------- helpers
 def get_lang():
-    """Language priority: session toggle > browser > en."""
-    if session.get("lang") in SUPPORTED_LANGS:
-        return session["lang"]
+    """The language comes from the address: /en/..., /es/..., and so on."""
+    lang = g.get("lang")
+    if lang in SUPPORTED_LANGS:
+        return lang
     return request.accept_languages.best_match(SUPPORTED_LANGS) or "en"
+
+
+def lang_url(code):
+    """The current page's address in another language."""
+    path = request.path
+    prefix = "/" + g.get("lang", "")
+    rest = path[len(prefix):] if g.get("lang") and path.startswith(prefix) else "/"
+    return "/" + code + (rest or "/")
+
+
+@app.url_value_preprocessor
+def pull_lang(endpoint, values):
+    if values and "lang" in values:
+        g.lang = values.pop("lang")
+        if g.lang not in SUPPORTED_LANGS:
+            abort(404)
+
+
+@app.url_defaults
+def add_lang(endpoint, values):
+    if "lang" not in values and app.url_map.is_endpoint_expecting(endpoint, "lang"):
+        values["lang"] = get_lang()
 
 
 def t(field):
@@ -141,7 +126,7 @@ def paragraphs_filter(text):
         f'<p class="content-p">{markupsafe.escape(p)}</p>' for p in paras
     ))
 
-app.jinja_env.globals.update(t=t, get_lang=get_lang,
+app.jinja_env.globals.update(t=t, get_lang=get_lang, lang_url=lang_url, FEEDBACK_EMAIL=FEEDBACK_EMAIL,
                              series_access_allowed=series_access_allowed,
                              LANGUAGES=LANGUAGES, AI_LANGS=AI_LANGS)
 
@@ -206,6 +191,7 @@ def client_data():
     Contains no personal data: only ranks, badges and interface text."""
     return {
         "lang": get_lang(),
+        "base": "/" + get_lang(),
         "ranks": [[th, name, emoji] for th, name, emoji in RANKS],
         "badges": {bid: {"name": b["name"], "emoji": b["emoji"], "desc": t(b["desc"])}
                    for bid, b in BADGES.items()},
@@ -217,14 +203,16 @@ app.jinja_env.globals["client_data"] = client_data
 
 
 # ---------------------------------------------------------------- routes
-@app.route("/lang/<lang>")
-def set_lang(lang):
-    if lang in SUPPORTED_LANGS:
-        session["lang"] = lang
-    return redirect(request.referrer or url_for("index"))
-
-
+# Every page lives under a language prefix (/en/, /es/, ...) so it can be
+# pre-built as a plain file. Addresses end in "/" to match the built files.
 @app.route("/")
+def root():
+    """Local development only; on the static site, dist/index.html picks
+    the language in the browser."""
+    return redirect(url_for("index", lang=get_lang()))
+
+
+@app.route("/<lang>/")
 def index():
     series_list = load_all_series()
     stats = {
@@ -234,24 +222,24 @@ def index():
     return render_template("index.html", series_list=series_list, stats=stats)
 
 
-@app.route("/library")
+@app.route("/<lang>/library/")
 def library():
     return render_template("library.html", series_list=load_all_series())
 
 
-@app.route("/songs")
+@app.route("/<lang>/songs/")
 def songs():
     return render_template("songs.html", songs=load_songs())
 
 
-@app.route("/series/<series_id>")
+@app.route("/<lang>/series/<series_id>/")
 def series_page(series_id):
     series = load_series(series_id) or abort(404)
     # Which lessons are done is marked in the browser from on-device data.
     return render_template("series.html", series=series)
 
 
-@app.route("/series/<series_id>/<lesson_id>")
+@app.route("/<lang>/series/<series_id>/<lesson_id>/")
 def lesson_page(series_id, lesson_id):
     series = load_series(series_id) or abort(404)
     lesson = load_lesson(series_id, lesson_id) or abort(404)
@@ -273,122 +261,34 @@ def series_catalog():
             for s in load_all_series()]
 
 
-@app.route("/profiles")
+@app.route("/<lang>/profiles/")
 def profiles():
     return render_template("profiles.html")
 
 
-@app.route("/progress")
+@app.route("/<lang>/progress/")
 def progress_page():
     return render_template("progress.html", catalog=series_catalog())
 
 
-@app.route("/dashboard")
-def dashboard():
-    return redirect(url_for("progress_page"), code=301)
-
-
-@app.route("/mission")
+@app.route("/<lang>/mission/")
 def mission():
     return render_template("mission.html")
 
 
-@app.route("/certificate")
+@app.route("/<lang>/certificate/")
 def certificate():
     return render_template("certificate.html", catalog=series_catalog())
 
 
-@app.route("/privacy")
+@app.route("/<lang>/privacy/")
 def privacy():
     return render_template("privacy.html")
 
 
-# ----------------------------------------------------- feedback
-FEEDBACK_NOTIFY_EMAIL = "aielitazit@gmail.com"
-
-
-def send_feedback_email(feedback):
-    """Best-effort notification — feedback is already saved in the DB
-    regardless of whether this succeeds, so failures here must never
-    break the user-facing request.
-
-    Uses Resend's HTTP API rather than SMTP: Railway (and most PaaS
-    hosts) block outbound SMTP ports by default, so raw smtplib never
-    reaches Gmail's servers from production even with valid creds.
-    HTTPS isn't blocked, so an HTTP-based email API is the only
-    transport that actually works from this host.
-    """
-    api_key = os.environ.get("RESEND_API_KEY")
-    if not api_key:
-        return
-    import httpx
-    try:
-        body = (
-            f"Page: {feedback.page or '(unknown)'}\n"
-            f"Language: {feedback.lang or '(unknown)'}\n"
-            f"Time: {feedback.created_at} UTC\n\n"
-            f"{feedback.message}"
-        )
-        httpx.post(
-            "https://api.resend.com/emails",
-            headers={"Authorization": f"Bearer {api_key}"},
-            json={
-                "from": "LuzKids <onboarding@resend.dev>",
-                "to": [FEEDBACK_NOTIFY_EMAIL],
-                "subject": "LuzKids feedback received",
-                "text": body,
-            },
-            timeout=10,
-        ).raise_for_status()
-    except Exception as e:
-        print("Feedback email error:", e)
-
-
-@app.route("/feedback/submit", methods=["POST"])
-@limiter.limit("10/hour")
-def feedback_submit():
-    msg = request.form.get("message", "").strip()
-    if msg:
-        feedback = Feedback(page=request.form.get("page", "")[:200],
-                            lang=get_lang(), message=msg[:2000])
-        db.session.add(feedback)
-        db.session.commit()
-        send_feedback_email(feedback)
-        flash(t({"en": "Thank you! Your report helps us improve every language.", "th": "ขอบคุณ! รายงานของคุณช่วยให้เราพัฒนาทุกภาษาให้ดีขึ้น",
-                 "es": "¡Gracias! Tu reporte nos ayuda a mejorar cada idioma.",
-                 "fr": "Merci ! Votre signalement nous aide à améliorer chaque langue."}))
-    return redirect(request.form.get("page") or url_for("index"))
-
-
-@app.route("/feedback")
-def feedback_list():
-    """Owner-only list of feedback. Protected by the FEEDBACK_ADMIN_TOKEN
-    environment variable (open /feedback?token=...); hidden if unset."""
-    expected = os.environ.get("FEEDBACK_ADMIN_TOKEN", "")
-    given = request.args.get("token", "")
-    if not expected or not hmac.compare_digest(given.encode(), expected.encode()):
-        abort(404)
-    rows = Feedback.query.order_by(Feedback.created_at.desc()).all()
-    return render_template("feedback.html", rows=rows)
-
-
-@app.errorhandler(429)
-def rate_limit_exceeded(e):
-    flash(t({
-        "en": "Too many messages — please wait a little and try again.",
-        "th": "ส่งข้อความมากเกินไป — กรุณารอสักครู่แล้วลองใหม่",
-        "es": "Demasiados mensajes — espera un poco e inténtalo de nuevo.",
-        "fr": "Trop de messages — attends un peu et réessaie.",
-        "pt": "Muitas mensagens — espere um pouco e tente novamente."
-    }))
-    return redirect(url_for("index"))
-
-
 # ----------------------------------------------------- PWA
-@app.route("/manifest.json")
-def pwa_manifest():
-    from flask import jsonify
-    return jsonify({
+def manifest_data():
+    return {
         "name": "LuzKids — Jesus' Arrows",
         "short_name": "LuzKids",
         "description": "Interactive Bible studies for children, in every language",
@@ -404,18 +304,24 @@ def pwa_manifest():
              "purpose": "any maskable"}
             for s in [72, 96, 128, 144, 152, 192, 384, 512]
         ]
-    })
+    }
+
+
+@app.route("/manifest.json")
+def pwa_manifest():
+    return jsonify(manifest_data())
+
 
 @app.route("/sw.js")
 def service_worker():
     from flask import send_from_directory
-    return send_from_directory("static", "sw.js",
-                               mimetype="application/javascript")
+    return send_from_directory("static", "sw.js", mimetype="application/javascript")
 
 
-# ---------------------------------------------------------------- main
-# Schema is managed by Flask-Migrate now (see migrations/). Run
-# `flask db upgrade` on deploy instead of relying on db.create_all().
+@app.errorhandler(404)
+def not_found(e):
+    return render_template("404.html"), 404
+
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+    app.run(debug=True, host="127.0.0.1", port=int(os.environ.get("PORT", 5000)))

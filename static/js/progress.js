@@ -154,6 +154,7 @@
   var dataEl = doc.getElementById("luz-data");
   var LUZ = dataEl ? JSON.parse(dataEl.textContent) : { ranks: [[0, "Seeker", "🔍"]], badges: {}, s: {} };
   var S = LUZ.s || {};
+  var BASE = LUZ.base || "/en";   // language prefix, e.g. "/es"
 
   function load() {
     try { return sanitizeState(JSON.parse(root.localStorage.getItem(KEY) || "null")) || emptyState(); }
@@ -179,7 +180,7 @@
     return b.emoji + " " + b.name;
   }
   function certUrl(profileId, seriesId, lessonId) {
-    return "/certificate?p=" + encodeURIComponent(profileId) + "&s=" + encodeURIComponent(seriesId) +
+    return BASE + "/certificate/?p=" + encodeURIComponent(profileId) + "&s=" + encodeURIComponent(seriesId) +
       (lessonId ? "&l=" + encodeURIComponent(lessonId) : "");
   }
 
@@ -220,7 +221,7 @@
     var info = pageData("lesson-data");
     if (!lp) {
       foot.appendChild(el("p", "meta", S.pick_child_first));
-      var go = el("a", "btn ghost", S.who_learning); go.href = "/profiles"; foot.appendChild(go);
+      var go = el("a", "btn ghost", S.who_learning); go.href = BASE + "/profiles/"; foot.appendChild(go);
     } else {
       var r0 = rankFor(lp.xp, LUZ.ranks);
       var bar = el("div", "pre-complete-bar");
@@ -280,7 +281,7 @@
         if (p.id === st.active) card.appendChild(el("p", "meta", "✔ " + S.learning_now));
         else {
           var sel = el("button", "btn small", S.select); sel.type = "button";
-          sel.addEventListener("click", function () { var s2 = load(); s2.active = p.id; save(s2); location.href = "/library"; });
+          sel.addEventListener("click", function () { var s2 = load(); s2.active = p.id; save(s2); location.href = BASE + "/library/"; });
           card.appendChild(sel);
         }
         var rm = el("button", "btn small ghost", S.remove); rm.type = "button";
@@ -341,7 +342,7 @@
     var st0 = load();
     if (!st0.profiles.length) {
       progApp.appendChild(el("p", "meta", S.no_profiles));
-      var addA = el("a", "btn", S.add_child); addA.href = "/profiles"; progApp.appendChild(addA);
+      var addA = el("a", "btn", S.add_child); addA.href = BASE + "/profiles/"; progApp.appendChild(addA);
     }
     st0.profiles.forEach(function (p) {
       var box = el("div", "dash-child");

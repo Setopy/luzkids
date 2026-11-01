@@ -2,7 +2,6 @@
 <html lang="{{ get_lang() }}">
 <head>
 <meta charset="utf-8">
-<meta name="csrf-token" content="{{ csrf_token() }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}LuzKids{% endblock %} · LuzKids</title>
 {% block og_tags %}
@@ -15,6 +14,8 @@
 <meta name="twitter:card" content="summary_large_image">
 {% endblock %}
 <link rel="manifest" href="/manifest.json">
+{% for code in LANGUAGES %}<link rel="alternate" hreflang="{{ code }}" href="https://luzkids.org{{ lang_url(code) }}">
+{% endfor %}
 <meta name="theme-color" content="#f6ab3a">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -36,9 +37,9 @@
     </a>
     <a href="{{ url_for('profiles') }}" class="child-chip" id="child-chip">👤 {{ t({'en':'Choose child', 'th': 'เลือกเด็ก','es':'Elegir niño','fr':'Choisir l\'enfant'}) }}</a>
     <a href="{{ url_for('progress_page') }}">{{ t({'en':'Progress', 'th': 'ความคืบหน้า','es':'Progreso','fr':'Progrès'}) }}</a>
-    <select class="lang-select" onchange="location.href='/lang/'+this.value" aria-label="Language">
+    <select class="lang-select" onchange="location.href=this.value" aria-label="Language">
       {% for code, name in LANGUAGES.items() %}
-      <option value="{{ code }}" {{ 'selected' if get_lang()==code }}>{{ name }}</option>
+      <option value="{{ lang_url(code) }}" {{ 'selected' if get_lang()==code }}>{{ name }}</option>
       {% endfor %}
     </select>
   </div>
@@ -60,14 +61,8 @@
 'fr':'Nous savons que nous pouvons nous tromper. Quelque chose vous semble étrange ? Nous aimerions le savoir.'}) }}</p>
 <details class="report-box">
   <summary>⚑ {{ t({'en':'Report an issue or give us feedback', 'th': 'รายงานปัญหาหรือให้ความเห็นกับเรา','es':'Reporta un problema o déjanos tu opinión','fr':'Signaler un problème ou laisser un avis'}) }}</summary>
-  <form method="post" action="{{ url_for('feedback_submit') }}">
-    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
-    <input type="hidden" name="page" value="{{ request.path }}">
-    <textarea name="message" rows="3" required maxlength="2000"
-      placeholder="{{ t({'en':'A typo, a wrong translation, anything off — tell us.', 'th': 'พิมพ์ผิด แปลผิด หรือมีอะไรไม่ถูกต้อง — บอกเราได้เลย','es':'Un error, una mala traducción, lo que sea — cuéntanos.','fr':'Une faute, une mauvaise traduction, quoi que ce soit — dites-nous.'}) }}"></textarea>
     <p class="meta">{{ t({'en':'Please don\'t include your child\'s name or any personal details.', 'th': 'กรุณาอย่าใส่ชื่อบุตรหลานหรือข้อมูลส่วนตัวใด ๆ','es':'Por favor, no incluyas el nombre de tu hijo ni datos personales.','fr':'Merci de ne pas indiquer le nom de votre enfant ni de données personnelles.'}) }}</p>
-    <button class="btn small" type="submit">{{ t({'en':'Send', 'th': 'ส่ง','es':'Enviar','fr':'Envoyer'}) }}</button>
-  </form>
+  <p><a class="btn small" href="mailto:{{ FEEDBACK_EMAIL }}?subject={{ ('LuzKids feedback ' ~ request.path)|urlencode }}">✉️ {{ t({'en':'Send', 'th': 'ส่ง','es':'Enviar','fr':'Envoyer'}) }}</a></p>
 </details>
 <footer class="footer">
   <p>“{{ t({'en':'Let your light shine before others', 'th': 'จงให้ความสว่างของพวกท่านส่องไปต่อหน้าคนทั้งปวงอย่างนั้น','es':'Que brille la luz de ustedes delante de todos'}) }}” — {{ t({'en':'Matthew', 'th': 'มัทธิว','es':'Mateo'}) }} 5:16</p>

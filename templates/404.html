@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}404{% endblock %}
+{% block content %}
+<section class="strip" style="text-align:center">
+  <div class="card-emoji big">🕯️</div>
+  <h1>404</h1>
+  <p><a class="btn" href="{{ url_for('library', lang=get_lang()) }}">{{ t(UI.library) }}</a></p>
+</section>
+{% endblock %}
