@@ -1028,3 +1028,27 @@ h2.center::after {
   .now-playing { position: static; }
   .now-playing-video-wrap { max-height: 50vh; }
 }
+
+/* ---------- privacy & on-device certificate ---------- */
+.footer-privacy { margin: .4rem 0 .8rem; font-size: .95rem; }
+.footer-privacy a { color: inherit; }
+.privacy .card { margin-top: 1.1rem; }
+.privacy ul { padding-left: 1.2rem; line-height: 1.6; }
+.cert-sheet {
+  max-width: 760px; margin: 1.5rem auto; padding: 2.6rem 2rem; text-align: center;
+  background: #fffaf0; border: 6px double #f6ab3a; border-radius: var(--radius);
+  box-shadow: var(--shadow); color: var(--ink);
+}
+.cert-lamp { font-size: 3rem; }
+.cert-title { font-family: "Fredoka", sans-serif; font-size: 2.2rem; margin: .4rem 0 1rem; color: #1e2547; }
+.cert-sub { font-size: 1.05rem; margin: .4rem 0; opacity: .8; }
+.cert-name { font-family: "Fredoka", sans-serif; font-size: 2.4rem; margin: .5rem 0; color: #b86e00; overflow-wrap: anywhere; }
+.cert-what { font-size: 1.3rem; font-weight: 800; margin: .5rem 0 1.2rem; }
+.cert-meta { font-size: .95rem; opacity: .75; }
+.cert-verse { font-style: italic; margin-top: 1.4rem; opacity: .8; }
+#certificate-app > .btn { display: block; margin: 0 auto 2rem; }
+@media print {
+  .nav, .footer, .report-box, .ai-lang-note, .flash, .no-print { display: none !important; }
+  body { background: #fff; }
+  .cert-sheet { box-shadow: none; margin: 0 auto; }
+}

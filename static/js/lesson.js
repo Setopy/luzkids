@@ -28,19 +28,6 @@
   }
 
   /* ---------------- badge notifications */
-  function showBadges(badges, parent) {
-    if (!badges || !badges.length) return;
-    var wrap = document.createElement("div");
-    wrap.className = "badge-earned-wrap";
-    badges.forEach(function(b) {
-      var el = document.createElement("div");
-      el.className = "badge-earned pop-in";
-      el.innerHTML = "<span class='badge-emoji'>" + b.emoji + "</span><span class='badge-label'>New badge: <strong>" + b.name + "</strong></span>";
-      wrap.appendChild(el);
-    });
-    parent.appendChild(wrap);
-    if (window.celebrate) celebrate(wrap, badges.length * 6);
-  }
 
   /* ---------------- memory verse scramble ---------------- */
   document.querySelectorAll(".scramble").forEach(function (root) {
@@ -109,6 +96,7 @@
           markCorrect(qEl, q.answer);   // always reveal the right answer
           if (answered === questions.length) {
             quizScore = correct;
+            window.LuzQuizScore = correct;
             scoreEl.hidden = false;
             if (correct === questions.length) celebrate(scoreEl, 18);
             scoreEl.textContent = (window.LANG === "es")
@@ -137,60 +125,10 @@
     return field;
   }
 
-  /* ---------------- completion ---------------- */
-  const btn = document.getElementById("complete-btn");
-  if (btn) {
-    btn.addEventListener("click", function () {
-      fetch("/api/complete", {
-        method: "POST",
-        headers: { "Content-Type": "application/json",
-                   "X-CSRFToken": document.querySelector('meta[name="csrf-token"]').content },
-        body: JSON.stringify({ series_id: seriesId, lesson_id: lessonId,
-                               quiz_score: quizScore })
-      }).then(r => r.json()).then(function (d) {
-        if (d.ok) {
-          btn.hidden = true;
-          var panel = document.getElementById("complete-panel");
-          panel.hidden = false;
-
-          // XP award display
-          var xpEl = document.getElementById("xp-award");
-          if (xpEl && d.xp_earned > 0) {
-            xpEl.textContent = "+" + d.xp_earned + " XP  ·  Total: " + d.total_xp + " XP";
-            xpEl.className = "xp-award pop-in";
-          }
-
-          // rank up
-          var rankEl = document.getElementById("rank-award");
-          if (rankEl && d.rank_up) {
-            rankEl.textContent = "🎉 New rank: " + d.rank_emoji + " " + d.rank;
-            rankEl.className = "rank-award rank-up pop-in";
-          }
-
-          // streak
-          if (d.streak > 1) {
-            var chip = document.querySelector(".streak-chip");
-            if (chip) chip.textContent = "🔥 " + d.streak + " day streak";
-          }
-
-          // series complete certificate link
-          if (d.series_complete) {
-            var sl = document.getElementById("series-cert-link");
-            if (sl) sl.hidden = false;
-            celebrate(panel, 40);
-          if (d.new_badges && d.new_badges.length) {
-            showBadges(d.new_badges, panel);
-          }
-          } else {
-            celebrate(panel, 24);
-          if (d.new_badges && d.new_badges.length) {
-            showBadges(d.new_badges, panel);
-          }
-          }
-        }
-      });
-    });
-  }
+  /* ---------------- completion ----------------
+     Handled on the device by progress.js (nothing is sent to the server).
+     Share the quiz score and the celebration effect with it. */
+  window.LuzCelebrate = celebrate;
 
   /* ---------------- read-aloud (browser Web Speech API, no recorded audio) */
   if ("speechSynthesis" in window) {

@@ -124,6 +124,7 @@ document.querySelectorAll(".typing-check").forEach(function(btn) {
       result.className = "typing-result result-perfect";
       result.textContent = {"en":"🎉 Perfect! You know it by heart!","es":"🎉 ¡Perfecto! ¡Lo sabes de memoria!","fr":"🎉 Parfait ! Tu le sais par cœur !"}[LANG] || "🎉 Perfect!";
       if (window.celebrate) celebrate(result, 18);
+      if (window.LuzProgress && window.LuzProgress.awardActive) window.LuzProgress.awardActive("word_perfect");
     } else if (pct >= 70) {
       result.className = "typing-result result-good";
       result.textContent = ({"en":"✅ Great — " + pct + "% correct. Keep practising!","es":"✅ ¡Genial — " + pct + "% correcto. ¡Sigue practicando!","fr":"✅ Super — " + pct + "% correct. Continue !"}[LANG] || "✅ " + pct + "%");
@@ -133,78 +134,6 @@ document.querySelectorAll(".typing-check").forEach(function(btn) {
     }
   });
 });
-
-/* ================================================================
-   3. AI BIBLE COMPANION  (Groq free tier — zero cost)
-   The endpoint /api/ask proxies to Groq on the server side.
-   Rate-limited to 3 questions per lesson session.
-   ================================================================ */
-var askBtn  = document.getElementById("ai-ask-btn");
-var askInput = document.getElementById("ai-question");
-var answerBox = document.getElementById("ai-answer");
-var limitMsg  = document.getElementById("ai-limit");
-var questionsLeft = 3;
-
-function updateLimit() {
-  if (limitMsg) {
-    limitMsg.style.display = "block";
-    limitMsg.textContent = questionsLeft > 0
-      ? ({"en": questionsLeft + " question(s) remaining this session",
-          "es": questionsLeft + " pregunta(s) restante(s) esta sesión",
-          "fr": questionsLeft + " question(s) restante(s) cette session"}[LANG] || "")
-      : ({"en": "Question limit reached — come back next time!",
-          "es": "Límite de preguntas alcanzado — ¡vuelve la próxima vez!",
-          "fr": "Limite atteinte — reviens la prochaine fois !"}[LANG] || "");
-  }
-}
-updateLimit();
-
-if (askBtn) {
-  askBtn.addEventListener("click", function() {
-    var q = (askInput ? askInput.value.trim() : "");
-    if (!q || questionsLeft <= 0 || askBtn.disabled) return;
-    askBtn.disabled = true;
-    askBtn.textContent = {"en":"Thinking...","es":"Pensando...","fr":"Je réfléchis..."}[LANG] || "...";
-    if (answerBox) { answerBox.hidden = false; answerBox.textContent = "⏳ ..."; }
-
-    var controller = new AbortController();
-    var timeout = setTimeout(function() { controller.abort(); }, 20000);
-    var csrfMeta = document.querySelector('meta[name="csrf-token"]');
-    fetch("/api/ask", {
-      method: "POST",
-      signal: controller.signal,
-      headers: {"Content-Type": "application/json",
-                "X-CSRFToken": csrfMeta ? csrfMeta.content : ""},
-      body: JSON.stringify({question: q, series_id: SERIES_ID, lesson_id: LESSON_ID, lang: LANG})
-    }).then(function(r) {
-      return r.json().then(function(d) {
-        // Only a real answer uses the session allowance. Server failures,
-        // login prompts, rate limits and malformed replies remain retryable.
-        if (r.ok && d.ok === true && typeof d.answer === "string" && d.answer.trim()) {
-          questionsLeft--;
-          updateLimit();
-        }
-        if (answerBox) {
-          answerBox.hidden = false;
-          answerBox.textContent = d.answer || "Sorry, I couldn't answer that right now.";
-        }
-      });
-    }).catch(function() {
-      if (answerBox) { answerBox.textContent = "Sorry — something went wrong. Try again!"; }
-    }).finally(function() {
-      clearTimeout(timeout);
-      if (askBtn) {
-        askBtn.disabled = questionsLeft <= 0;
-        askBtn.textContent = {"en":"Ask","es":"Preguntar","fr":"Demander"}[LANG] || "Ask";
-      }
-    });
-  });
-
-  // Enter key submits
-  if (askInput) {
-    askInput.addEventListener("keydown", function(e) { if (e.key === "Enter") askBtn.click(); });
-  }
-}
 
 })();
 

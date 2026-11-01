@@ -1,26 +1,24 @@
 {% extends "base.html" %}
 {% block title %}{{ t(UI.who_learning) }}{% endblock %}
 {% block content %}
-<section class="strip">
+<section class="strip" id="profiles-app">
   <h1>{{ t(UI.who_learning) }}</h1>
-  <div class="cards profiles">
-    {% for c in current_user.children %}
-    <a class="card profile {{ 'selected' if session.get('active_child_id') == c.id }}"
-       href="{{ url_for('select_child', child_id=c.id) }}">
-      <div class="card-emoji big">{{ c.avatar }}</div>
-      <h3>{{ c.name }}</h3>
-    </a>
-    {% endfor %}
-    {% if current_user.children|length < current_user.max_children %}
-    <form class="card add-profile" method="post">
-      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
-      <input name="name" placeholder="{{ t({'en':'Child\'s name', 'th': 'ชื่อเด็ก','es':'Nombre del niño'}) }}" required>
-      <select name="avatar">
-        {% for e in ['🌟','🦁','🐑','🕊️','🌈','🛡️','🎺','🌻'] %}<option>{{ e }}</option>{% endfor %}
-      </select>
-      <button class="btn small" type="submit">{{ t({'en':'Add child', 'th': 'เพิ่มเด็ก','es':'Agregar niño'}) }}</button>
-    </form>
-    {% endif %}
+  <p class="tagline">🔒 {{ t({'en':'Profiles and progress are saved only on this device. Nothing about your child is sent to us.', 'th': 'โปรไฟล์และความคืบหน้าถูกบันทึกไว้บนอุปกรณ์นี้เท่านั้น ไม่มีข้อมูลใด ๆ ของบุตรหลานคุณถูกส่งมาที่เรา','es':'Los perfiles y el progreso se guardan solo en este dispositivo. No nos llega nada sobre tu hijo.','fr':'Les profils et la progression sont enregistrés uniquement sur cet appareil. Rien sur votre enfant ne nous est envoyé.'}) }}</p>
+  <div class="cards profiles" id="profile-cards"></div>
+  <form class="card add-profile" id="add-profile">
+    <input id="new-name" maxlength="40" required autocomplete="off"
+      placeholder="{{ t({'en':'Nickname (no full names)', 'th': 'ชื่อเล่น (ไม่ใช้ชื่อจริงเต็ม)','es':'Apodo (sin nombre completo)','fr':'Surnom (pas de nom complet)'}) }}">
+    <select id="new-avatar" aria-label="Avatar"></select>
+    <button class="btn small" type="submit">{{ t({'en':'Add child', 'th': 'เพิ่มเด็ก','es':'Agregar niño','fr':'Ajouter un enfant'}) }}</button>
+  </form>
+
+  <div class="card" style="margin-top:1.5rem">
+    <h3>💾 {{ t({'en':'Move progress to another device', 'th': 'ย้ายความคืบหน้าไปยังอุปกรณ์อื่น','es':'Llevar el progreso a otro dispositivo','fr':'Transférer la progression vers un autre appareil'}) }}</h3>
+    <p class="meta">{{ t({'en':'Clearing this browser\'s data deletes the progress. Save a file to keep a copy, then load it on a new phone or computer. The file stays with you.', 'th': 'การล้างข้อมูลเบราว์เซอร์จะลบความคืบหน้า บันทึกไฟล์ไว้เป็นสำเนา แล้วโหลดบนโทรศัพท์หรือคอมพิวเตอร์เครื่องใหม่ ไฟล์จะอยู่กับคุณเท่านั้น','es':'Si borras los datos del navegador, se borra el progreso. Guarda un archivo como copia y cárgalo en otro teléfono o computadora. El archivo se queda contigo.','fr':'Effacer les données du navigateur supprime la progression. Enregistrez un fichier comme copie, puis chargez-le sur un autre téléphone ou ordinateur. Le fichier reste chez vous.'}) }}</p>
+    <button class="btn small" type="button" id="export-btn">⬇️ {{ t({'en':'Save progress to a file', 'th': 'บันทึกความคืบหน้าเป็นไฟล์','es':'Guardar progreso en un archivo','fr':'Enregistrer la progression dans un fichier'}) }}</button>
+    <label class="btn small ghost">⬆️ {{ t({'en':'Load progress from a file', 'th': 'โหลดความคืบหน้าจากไฟล์','es':'Cargar progreso desde un archivo','fr':'Charger la progression depuis un fichier'}) }}
+      <input type="file" id="import-file" accept="application/json,.json" hidden></label>
+    <p class="meta" id="file-msg" role="status"></p>
   </div>
 </section>
 {% endblock %}

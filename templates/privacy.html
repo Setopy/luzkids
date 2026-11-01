@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}{{ t({'en':'Privacy', 'th': 'ความเป็นส่วนตัว', 'es':'Privacidad', 'fr':'Confidentialité'}) }}{% endblock %}
+{% block content %}
+<section class="strip privacy">
+  <h1>🔒 {{ t({'en':'Privacy', 'th': 'ความเป็นส่วนตัว', 'es':'Privacidad', 'fr':'Confidentialité'}) }}</h1>
+  <p class="tagline">{{ t({
+    'en':'LuzKids does not store anything about your child. There are no accounts, no logins and no AI chat.',
+    'th':'LuzKids ไม่เก็บข้อมูลใด ๆ เกี่ยวกับบุตรหลานของคุณ ไม่มีบัญชีผู้ใช้ ไม่มีการเข้าสู่ระบบ และไม่มีแชต AI',
+    'es':'LuzKids no guarda nada sobre tu hijo. No hay cuentas, ni inicios de sesión, ni chat con IA.',
+    'fr':'LuzKids ne stocke rien sur votre enfant. Pas de compte, pas de connexion et pas de chat IA.'}) }}</p>
+
+  <div class="card">
+    <h3>📱 {{ t({'en':'Kept on your device only', 'th':'เก็บไว้บนอุปกรณ์ของคุณเท่านั้น', 'es':'Solo en tu dispositivo', 'fr':'Uniquement sur votre appareil'}) }}</h3>
+    <p>{{ t({
+      'en':'Child profiles (nickname and avatar), lessons completed, stars, streaks, badges, certificates and the Mission Field list are saved in your browser on this device. They are never sent to our server. Clearing your browser data deletes them; use “Save progress to a file” on the Profiles page to keep a copy.',
+      'th':'โปรไฟล์เด็ก (ชื่อเล่นและอวาตาร์) บทเรียนที่เรียนจบ ดาว สถิติต่อเนื่อง เหรียญ ประกาศนียบัตร และรายชื่อในพื้นที่ภารกิจ ถูกบันทึกไว้ในเบราว์เซอร์บนอุปกรณ์นี้ และไม่เคยถูกส่งไปยังเซิร์ฟเวอร์ของเรา การล้างข้อมูลเบราว์เซอร์จะลบข้อมูลเหล่านี้ ใช้ “บันทึกความคืบหน้าเป็นไฟล์” ในหน้าโปรไฟล์เพื่อเก็บสำเนา',
+      'es':'Los perfiles (apodo y avatar), las lecciones completadas, estrellas, rachas, insignias, certificados y la lista del Campo Misionero se guardan en tu navegador, en este dispositivo. Nunca se envían a nuestro servidor. Si borras los datos del navegador, se borran; usa “Guardar progreso en un archivo” en la página de Perfiles para tener una copia.',
+      'fr':'Les profils (surnom et avatar), les leçons terminées, les étoiles, les séries, les badges, les certificats et la liste du Champ de Mission sont enregistrés dans votre navigateur, sur cet appareil. Ils ne sont jamais envoyés à notre serveur. Effacer les données du navigateur les supprime ; utilisez « Enregistrer la progression dans un fichier » sur la page Profils pour garder une copie.'}) }}</p>
+  </div>
+
+  <div class="card">
+    <h3>📨 {{ t({'en':'What reaches us', 'th':'ข้อมูลที่มาถึงเรา', 'es':'Lo que nos llega', 'fr':'Ce qui nous parvient'}) }}</h3>
+    <ul>
+      <li>{{ t({
+        'en':'Feedback you choose to send with the “Report an issue” form: your message, the page and the language. Please don’t include names or personal details.',
+        'th':'ความคิดเห็นที่คุณเลือกส่งผ่านแบบฟอร์ม “รายงานปัญหา”: ข้อความ หน้าเว็บ และภาษา กรุณาอย่าใส่ชื่อหรือข้อมูลส่วนตัว',
+        'es':'Los comentarios que decidas enviar con el formulario “Reporta un problema”: tu mensaje, la página y el idioma. Por favor, no incluyas nombres ni datos personales.',
+        'fr':'Les retours que vous choisissez d’envoyer avec le formulaire « Signaler un problème » : votre message, la page et la langue. Merci de ne pas inclure de noms ni de données personnelles.'}) }}</li>
+      <li>{{ t({
+        'en':'Your language choice, kept in a small cookie so pages appear in the right language.',
+        'th':'ภาษาที่คุณเลือก เก็บไว้ในคุกกี้ขนาดเล็กเพื่อให้หน้าเว็บแสดงภาษาที่ถูกต้อง',
+        'es':'Tu idioma elegido, en una pequeña cookie para mostrar las páginas en el idioma correcto.',
+        'fr':'Votre choix de langue, conservé dans un petit cookie pour afficher les pages dans la bonne langue.'}) }}</li>
+      <li>{{ t({
+        'en':'Visit counts from Cloudflare Web Analytics, which uses no cookies and does not identify visitors.',
+        'th':'สถิติการเข้าชมจาก Cloudflare Web Analytics ซึ่งไม่ใช้คุกกี้และไม่ระบุตัวตนผู้เข้าชม',
+        'es':'Recuentos de visitas de Cloudflare Web Analytics, que no usa cookies ni identifica a los visitantes.',
+        'fr':'Des statistiques de visites de Cloudflare Web Analytics, sans cookies et sans identifier les visiteurs.'}) }}</li>
+      <li>{{ t({
+        'en':'Like every website, our host (Railway) and the font service (Google Fonts) see standard technical information such as IP addresses when pages load.',
+        'th':'เช่นเดียวกับทุกเว็บไซต์ ผู้ให้บริการโฮสต์ (Railway) และบริการฟอนต์ (Google Fonts) จะเห็นข้อมูลทางเทคนิคมาตรฐาน เช่น ที่อยู่ IP เมื่อโหลดหน้าเว็บ',
+        'es':'Como en cualquier sitio web, nuestro proveedor de alojamiento (Railway) y el servicio de fuentes (Google Fonts) ven información técnica estándar, como direcciones IP, al cargar las páginas.',
+        'fr':'Comme pour tout site web, notre hébergeur (Railway) et le service de polices (Google Fonts) voient des informations techniques standard, comme les adresses IP, lors du chargement des pages.'}) }}</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>💬 {{ t({'en':'Questions', 'th':'คำถาม', 'es':'Preguntas', 'fr':'Questions'}) }}</h3>
+    <p>{{ t({
+      'en':'Contact us through the Facebook or WhatsApp links at the bottom of every page.',
+      'th':'ติดต่อเราผ่านลิงก์ Facebook หรือ WhatsApp ที่ด้านล่างของทุกหน้า',
+      'es':'Contáctanos por los enlaces de Facebook o WhatsApp al pie de cada página.',
+      'fr':'Contactez-nous via les liens Facebook ou WhatsApp en bas de chaque page.'}) }}</p>
+  </div>
+</section>
+{% endblock %}

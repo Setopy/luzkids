@@ -19,10 +19,10 @@
     </div>
   </div>
 
-  <ol class="lesson-list">
+  <ol class="lesson-list" data-series="{{ series.id }}">
     {% for l in series.lessons %}
-    <li class="lesson-row {{ 'done' if l.id in done }}">
-      <span class="lamp-mark" title="{{ t({'en':'Lamp lit!', 'th': 'จุดตะเกียงแล้ว!','es':'¡Lámpara encendida!'}) if l.id in done }}">{{ '🕯️' if l.id in done else '·' }}</span>
+    <li class="lesson-row" data-lesson="{{ l.id }}">
+      <span class="lamp-mark">·</span>
       <div class="lesson-row-main">
         <strong>{{ t(l.title) }}</strong>
         <span class="meta">{{ l.ref }}</span>
