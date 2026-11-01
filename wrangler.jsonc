@@ -1,0 +1,11 @@
+// Cloudflare Workers static assets: serve the pre-built site in dist/.
+// Build first with `pip install -r requirements.txt && python build.py`.
+{
+  "name": "luzkids",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+}

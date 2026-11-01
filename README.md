@@ -34,13 +34,13 @@ python app.py            # http://localhost:5000  (same pages as the build)
 python build.py          # writes the static site to dist/
 ```
 
-## Deploy to Cloudflare Pages (free)
-1. Cloudflare dashboard → Workers & Pages → Create → Pages → Connect to Git →
-   `Setopy/luzkids`.
-2. Build command: `pip install -r requirements.txt && python build.py`
-   Build output directory: `dist`
-   Environment variable: `PYTHON_VERSION` = `3.12`
-3. Custom domains: add `luzkids.org` and `www.luzkids.org`.
+## Deploy to Cloudflare (free)
+Cloudflare Workers with static assets (Workers & Pages → Create → Import a
+repository → `Setopy/luzkids`):
+- Build command: `pip install -r requirements.txt && python build.py`
+- Deploy command: `npx wrangler deploy` (uses `wrangler.jsonc`, which serves `dist/`)
+- Custom domains: `luzkids.org` and `www.luzkids.org`
+
 `_headers` (security headers, caching) and `_redirects` (old Railway
 addresses such as `/library` → `/en/library/`) are copied into `dist/`.
 
