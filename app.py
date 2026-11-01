@@ -1,52 +1,24 @@
 """
-LuzKids — bilingual interactive Bible studies for children.
+LuzKids — interactive Bible studies for children.
 "Let your light shine before others" — Matthew 5:16
 "Que brille la luz de ustedes delante de todos" — Mateo 5:16
 
-Flask MVP. Deliberately boring technology: the value is the content.
-Deploy target: Railway (same stack as ElisaVoz).
+A static site. Flask is used only to render the pages: `python build.py`
+writes every page, in every language, to dist/ for Cloudflare Pages, and
+`python app.py` runs the same pages locally for development. There is no
+database and nothing about children is stored anywhere but the family's
+own device (static/js/progress.js).
 """
 import os
-from datetime import datetime
-from functools import wraps
 
-from flask import (Flask, render_template, redirect, url_for, request,
-                   session, flash, jsonify, abort)
-from werkzeug.middleware.proxy_fix import ProxyFix
-from flask_sqlalchemy import SQLAlchemy
-from flask_migrate import Migrate
-from flask_login import (LoginManager, UserMixin, login_user, logout_user,
-                         login_required, current_user)
-from flask_wtf import CSRFProtect
-from flask_limiter import Limiter
-from flask_limiter.util import get_remote_address
-from werkzeug.security import generate_password_hash, check_password_hash
+from flask import Flask, render_template, redirect, url_for, request, abort, g, jsonify
 
 from content_loader import load_all_series, load_series, load_lesson, load_songs
 
 # ---------------------------------------------------------------- app setup
 app = Flask(__name__)
-# Railway routes through two proxy hops in front of the app (an edge LB,
-# then an internal proxy that also re-appends its own IP). Without this,
-# request.remote_addr is one of those hops' addresses (and varies per
-# request), which breaks anything keyed on client IP — e.g. the AI
-# rate limiter below never accumulates because every request looks like
-# a different "client". x_for=2 unwraps both hops to reach the real client.
-app.wsgi_app = ProxyFix(app.wsgi_app, x_for=2, x_proto=1, x_host=1)
-app.config["SECRET_KEY"] = os.environ.get("SECRET_KEY", "dev-only-change-me")
-app.config["SESSION_COOKIE_SECURE"] = True
-app.config["SESSION_COOKIE_SAMESITE"] = "Lax"
-app.config["SESSION_COOKIE_HTTPONLY"] = True
-app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
-    "DATABASE_URL", "sqlite:///luzkids.db").replace("postgres://", "postgresql://")
-app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
-db = SQLAlchemy(app)
-migrate = Migrate(app, db)
-login_manager = LoginManager(app)
-login_manager.login_view = "login"
-csrf = CSRFProtect(app)
-limiter = Limiter(get_remote_address, app=app, default_limits=[])
+FEEDBACK_EMAIL = "aielitazit@gmail.com"
 
 # Verified languages are human-reviewed; AI languages are machine-translated
 # (translate_series.py) and badged as such in the UI.
@@ -98,130 +70,35 @@ BADGES = {
 app.jinja_env.globals["BADGES"] = BADGES
 
 
-def award_badge(child, badge_id):
-    """Award a badge if not already earned. Returns True if new."""
-    if Badge.query.filter_by(child_id=child.id, badge_id=badge_id).first():
-        return False
-    db.session.add(Badge(child_id=child.id, badge_id=badge_id))
-    return True
-
-
-def check_badges(child, series_id=None, quiz_score=None, total_q=None):
-    """Check and award all applicable badges. Returns list of new badge_ids."""
-    new_badges = []
-    done_count = Progress.query.filter_by(child_id=child.id, completed=True).count()
-    if done_count >= 1  and award_badge(child, "first_lamp"):   new_badges.append("first_lamp")
-    if done_count >= 5  and award_badge(child, "word_seeker"):  new_badges.append("word_seeker")
-    if done_count >= 10 and award_badge(child, "explorer"):     new_badges.append("explorer")
-    if (child.streak or 0) >= 3 and award_badge(child, "on_fire"):  new_badges.append("on_fire")
-    if (child.streak or 0) >= 7 and award_badge(child, "ablaze"):   new_badges.append("ablaze")
-    if quiz_score is not None and total_q and quiz_score == total_q and award_badge(child, "quiz_hero"):
-        new_badges.append("quiz_hero")
-    if series_id:
-        series = load_series(series_id)
-        if series:
-            total = len(series["lessons"])
-            done  = Progress.query.filter_by(child_id=child.id, series_id=series_id, completed=True).count()
-            if done >= total and award_badge(child, "graduate"): new_badges.append("graduate")
-    _, rank_name, _ = get_rank(child.xp or 0)
-    if rank_name == "Jesus' Arrow" and award_badge(child, "jesus_arrow"): new_badges.append("jesus_arrow")
-    # certified badge triggered from cert route
-    return new_badges
-
-
-
-# ---------------------------------------------------------------- models
-class User(UserMixin, db.Model):
-    """A parent / teacher account. Children are profiles, not accounts."""
-    id = db.Column(db.Integer, primary_key=True)
-    email = db.Column(db.String(255), unique=True, nullable=False)
-    password_hash = db.Column(db.String(255), nullable=False)
-    display_name = db.Column(db.String(80), nullable=False)
-    plan = db.Column(db.String(20), default="free")   # free | family | church
-    lang = db.Column(db.String(5), default="en")
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-    children = db.relationship("ChildProfile", backref="owner", lazy=True,
-                               cascade="all, delete-orphan")
-
-    def set_password(self, pw):
-        self.password_hash = generate_password_hash(pw)
-
-    def check_password(self, pw):
-        return check_password_hash(self.password_hash, pw)
-
-    @property
-    def max_children(self):
-        return 10   # everything is free — generous fixed limit
-
-
-class ChildProfile(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    user_id = db.Column(db.Integer, db.ForeignKey("user.id"), nullable=False)
-    name = db.Column(db.String(60), nullable=False)
-    avatar = db.Column(db.String(10), default="🌟")  # emoji avatar, kid-pickable
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-    xp = db.Column(db.Integer, default=0)
-    streak = db.Column(db.Integer, default=0)
-    longest_streak = db.Column(db.Integer, default=0)
-    last_active = db.Column(db.Date)
-    progress = db.relationship("Progress", backref="child", lazy=True,
-                               cascade="all, delete-orphan")
-
-
-class Badge(db.Model):
-    """One-time achievement badges earned by a child."""
-    id = db.Column(db.Integer, primary_key=True)
-    child_id = db.Column(db.Integer, db.ForeignKey("child_profile.id"), nullable=False)
-    badge_id = db.Column(db.String(40), nullable=False)
-    earned_at = db.Column(db.DateTime, default=datetime.utcnow)
-    __table_args__ = (db.UniqueConstraint("child_id", "badge_id"),)
-
-class MissionTarget(db.Model):
-    """Soul winner tracker — personal evangelism log per child."""
-    id = db.Column(db.Integer, primary_key=True)
-    child_id = db.Column(db.Integer, db.ForeignKey("child_profile.id"), nullable=False)
-    name = db.Column(db.String(100), nullable=False)
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-    prayed_today = db.Column(db.Boolean, default=False)
-    shared_gospel = db.Column(db.Boolean, default=False)
-    responded = db.Column(db.Boolean, default=False)
-    notes = db.Column(db.String(300))
-
-class Progress(db.Model):
-    """One row per (child, series, lesson). Completed lessons light a lamp."""
-    id = db.Column(db.Integer, primary_key=True)
-    child_id = db.Column(db.Integer, db.ForeignKey("child_profile.id"),
-                         nullable=False)
-    series_id = db.Column(db.String(60), nullable=False)
-    lesson_id = db.Column(db.String(60), nullable=False)
-    completed = db.Column(db.Boolean, default=False)
-    quiz_score = db.Column(db.Integer)          # out of quiz length
-    completed_at = db.Column(db.DateTime)
-    __table_args__ = (db.UniqueConstraint("child_id", "series_id", "lesson_id"),)
-
-
-class Feedback(db.Model):
-    """Visitor reports — the QA system for unreviewed languages (and everything else)."""
-    id = db.Column(db.Integer, primary_key=True)
-    page = db.Column(db.String(200))
-    lang = db.Column(db.String(5))
-    message = db.Column(db.Text, nullable=False)
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-
-
-@login_manager.user_loader
-def load_user(user_id):
-    return db.session.get(User, int(user_id))
-
-
 # ---------------------------------------------------------------- helpers
 def get_lang():
-    """Language priority: session toggle > account setting > browser > en."""
-    if "lang" in session:
-        return session["lang"]
-    if current_user.is_authenticated and current_user.lang in SUPPORTED_LANGS:
-        return current_user.lang
+    """The language comes from the address: /en/..., /es/..., and so on."""
+    lang = g.get("lang")
+    if lang in SUPPORTED_LANGS:
+        return lang
     return request.accept_languages.best_match(SUPPORTED_LANGS) or "en"
+
+
+def lang_url(code):
+    """The current page's address in another language."""
+    path = request.path
+    prefix = "/" + g.get("lang", "")
+    rest = path[len(prefix):] if g.get("lang") and path.startswith(prefix) else "/"
+    return "/" + code + (rest or "/")
+
+
+@app.url_value_preprocessor
+def pull_lang(endpoint, values):
+    if values and "lang" in values:
+        g.lang = values.pop("lang")
+        if g.lang not in SUPPORTED_LANGS:
+            abort(404)
+
+
+@app.url_defaults
+def add_lang(endpoint, values):
+    if "lang" not in values and app.url_map.is_endpoint_expecting(endpoint, "lang"):
+        values["lang"] = get_lang()
 
 
 def t(field):
@@ -230,16 +107,6 @@ def t(field):
         lang = get_lang()
         return field.get(lang) or field.get("en") or next(iter(field.values()), "")
     return field
-
-
-def active_child():
-    """The child profile currently 'signed in' on this device."""
-    cid = session.get("active_child_id")
-    if cid and current_user.is_authenticated:
-        child = db.session.get(ChildProfile, cid)
-        if child and child.user_id == current_user.id:
-            return child
-    return None
 
 
 def series_access_allowed(series):
@@ -259,7 +126,7 @@ def paragraphs_filter(text):
         f'<p class="content-p">{markupsafe.escape(p)}</p>' for p in paras
     ))
 
-app.jinja_env.globals.update(t=t, get_lang=get_lang, active_child=active_child,
+app.jinja_env.globals.update(t=t, get_lang=get_lang, lang_url=lang_url, FEEDBACK_EMAIL=FEEDBACK_EMAIL,
                              series_access_allowed=series_access_allowed,
                              LANGUAGES=LANGUAGES, AI_LANGS=AI_LANGS)
 
@@ -280,19 +147,72 @@ UI = {  # small UI string table — content strings live in the JSON, not here
 }
 app.jinja_env.globals["UI"] = UI
 
+# Strings used by the on-device progress code (static/js/progress.js).
+CLIENT_STRINGS = {
+    "choose_child": {"en": "Choose child", "es": "Elegir niño", "fr": "Choisir l'enfant", "th": "เลือกเด็ก"},
+    "who_learning": UI["who_learning"],
+    "complete": UI["complete"],
+    "lamp_lit": {"en": "Lamp lit! Well done,", "es": "¡Lámpara encendida! Bien hecho,", "fr": "Lampe allumée ! Bravo,", "th": "จุดตะเกียงแล้ว! เยี่ยมมาก"},
+    "day_streak": {"en": "day streak", "es": "días seguidos", "fr": "jours de suite", "th": "วันต่อเนื่อง"},
+    "new_rank": {"en": "New rank:", "es": "Nuevo rango:", "fr": "Nouveau rang :", "th": "ระดับใหม่:"},
+    "new_badge": {"en": "New badge:", "es": "Nueva insignia:", "fr": "Nouveau badge :", "th": "เหรียญใหม่:"},
+    "total": {"en": "Total", "es": "Total", "fr": "Total", "th": "รวม"},
+    "lesson_cert": {"en": "Lesson certificate", "es": "Certificado de lección", "fr": "Certificat de leçon", "th": "ประกาศนียบัตรบทเรียน"},
+    "series_cert": {"en": "SERIES certificate!", "es": "¡Certificado de SERIE!", "fr": "Certificat de SÉRIE !", "th": "ประกาศนียบัตรชุดเรียน!"},
+    "pick_child_first": {"en": "Choose who is learning to light lamps and earn stars.", "es": "Elige quién aprende para encender lámparas y ganar estrellas.", "fr": "Choisis qui apprend pour allumer des lampes et gagner des étoiles.", "th": "เลือกว่าใครกำลังเรียนเพื่อจุดตะเกียงและสะสมดาว"},
+    "name_ph": {"en": "Nickname (no full names)", "es": "Apodo (sin nombre completo)", "fr": "Surnom (pas de nom complet)", "th": "ชื่อเล่น (ไม่ใช้ชื่อจริงเต็ม)"},
+    "add_child": {"en": "Add child", "es": "Agregar niño", "fr": "Ajouter un enfant", "th": "เพิ่มเด็ก"},
+    "remove": {"en": "Remove", "es": "Quitar", "fr": "Retirer", "th": "ลบ"},
+    "confirm_remove": {"en": "Remove this profile and all its progress from this device?", "es": "¿Quitar este perfil y todo su progreso de este dispositivo?", "fr": "Retirer ce profil et toute sa progression de cet appareil ?", "th": "ลบโปรไฟล์นี้และความคืบหน้าทั้งหมดออกจากอุปกรณ์นี้หรือไม่?"},
+    "learning_now": {"en": "Learning now", "es": "Aprendiendo ahora", "fr": "Apprend maintenant", "th": "กำลังเรียนอยู่"},
+    "select": {"en": "Choose", "es": "Elegir", "fr": "Choisir", "th": "เลือก"},
+    "saved_file": {"en": "Progress file saved.", "es": "Archivo de progreso guardado.", "fr": "Fichier de progression enregistré.", "th": "บันทึกไฟล์ความคืบหน้าแล้ว"},
+    "loaded_file": {"en": "Progress loaded onto this device.", "es": "Progreso cargado en este dispositivo.", "fr": "Progression chargée sur cet appareil.", "th": "โหลดความคืบหน้าลงอุปกรณ์นี้แล้ว"},
+    "bad_file": {"en": "That file isn't a LuzKids progress file.", "es": "Ese archivo no es un archivo de progreso de LuzKids.", "fr": "Ce fichier n'est pas un fichier de progression LuzKids.", "th": "ไฟล์นี้ไม่ใช่ไฟล์ความคืบหน้าของ LuzKids"},
+    "confirm_load": {"en": "Replace the progress on this device with the file?", "es": "¿Reemplazar el progreso de este dispositivo con el archivo?", "fr": "Remplacer la progression de cet appareil par le fichier ?", "th": "แทนที่ความคืบหน้าบนอุปกรณ์นี้ด้วยไฟล์หรือไม่?"},
+    "no_profiles": {"en": "No profiles on this device yet.", "es": "Aún no hay perfiles en este dispositivo.", "fr": "Aucun profil sur cet appareil pour l'instant.", "th": "ยังไม่มีโปรไฟล์บนอุปกรณ์นี้"},
+    "complete_word": {"en": "Complete!", "es": "¡Completa!", "fr": "Terminée !", "th": "เสร็จสมบูรณ์!"},
+    "certificate": {"en": "Certificate", "es": "Certificado", "fr": "Certificat", "th": "ประกาศนียบัตร"},
+    "xp_to": {"en": "XP to", "es": "XP para", "fr": "XP pour", "th": "XP ถึง"},
+    "prayed": {"en": "Prayed today", "es": "Oré hoy", "fr": "Prié aujourd'hui", "th": "อธิษฐานวันนี้แล้ว"},
+    "shared": {"en": "Shared the gospel", "es": "Compartí el evangelio", "fr": "Partagé l'évangile", "th": "แบ่งปันข่าวประเสริฐแล้ว"},
+    "responded": {"en": "Responded!", "es": "¡Respondió!", "fr": "A répondu !", "th": "ตอบรับแล้ว!"},
+    "cert_title": {"en": "Certificate of Completion", "es": "Certificado de Finalización", "fr": "Certificat de Réussite", "th": "ประกาศนียบัตรแห่งความสำเร็จ"},
+    "cert_awarded": {"en": "This certificate is proudly awarded to", "es": "Este certificado se otorga con orgullo a", "fr": "Ce certificat est fièrement décerné à", "th": "ประกาศนียบัตรนี้มอบให้แก่"},
+    "cert_for_lesson": {"en": "for completing the lesson", "es": "por completar la lección", "fr": "pour avoir terminé la leçon", "th": "สำหรับการเรียนจบบทเรียน"},
+    "cert_for_series": {"en": "for completing every lesson in the series", "es": "por completar todas las lecciones de la serie", "fr": "pour avoir terminé toutes les leçons de la série", "th": "สำหรับการเรียนจบทุกบทเรียนในชุด"},
+    "cert_not_done": {"en": "This certificate unlocks when the lesson or series is finished on this device.", "es": "Este certificado se desbloquea al terminar la lección o la serie en este dispositivo.", "fr": "Ce certificat se débloque une fois la leçon ou la série terminée sur cet appareil.", "th": "ประกาศนียบัตรนี้จะปลดล็อกเมื่อเรียนจบบทเรียนหรือชุดเรียนบนอุปกรณ์นี้"},
+    "print": {"en": "Print or save as PDF", "es": "Imprimir o guardar como PDF", "fr": "Imprimer ou enregistrer en PDF", "th": "พิมพ์หรือบันทึกเป็น PDF"},
+}
+
+
+def client_data():
+    """Everything progress.js needs, already in the visitor's language.
+    Contains no personal data: only ranks, badges and interface text."""
+    return {
+        "lang": get_lang(),
+        "base": "/" + get_lang(),
+        "ranks": [[th, name, emoji] for th, name, emoji in RANKS],
+        "badges": {bid: {"name": b["name"], "emoji": b["emoji"], "desc": t(b["desc"])}
+                   for bid, b in BADGES.items()},
+        "s": {k: t(v) for k, v in CLIENT_STRINGS.items()},
+    }
+
+
+app.jinja_env.globals["client_data"] = client_data
+
 
 # ---------------------------------------------------------------- routes
-@app.route("/lang/<lang>")
-def set_lang(lang):
-    if lang in SUPPORTED_LANGS:
-        session["lang"] = lang
-        if current_user.is_authenticated:
-            current_user.lang = lang
-            db.session.commit()
-    return redirect(request.referrer or url_for("index"))
-
-
+# Every page lives under a language prefix (/en/, /es/, ...) so it can be
+# pre-built as a plain file. Addresses end in "/" to match the built files.
 @app.route("/")
+def root():
+    """Local development only; on the static site, dist/index.html picks
+    the language in the browser."""
+    return redirect(url_for("index", lang=get_lang()))
+
+
+@app.route("/<lang>/")
 def index():
     series_list = load_all_series()
     stats = {
@@ -302,524 +222,73 @@ def index():
     return render_template("index.html", series_list=series_list, stats=stats)
 
 
-@app.route("/library")
+@app.route("/<lang>/library/")
 def library():
     return render_template("library.html", series_list=load_all_series())
 
 
-@app.route("/songs")
+@app.route("/<lang>/songs/")
 def songs():
     return render_template("songs.html", songs=load_songs())
 
 
-@app.route("/series/<series_id>")
+@app.route("/<lang>/series/<series_id>/")
 def series_page(series_id):
     series = load_series(series_id) or abort(404)
-    done = set()
-    child = active_child()
-    if child:
-        done = {p.lesson_id for p in Progress.query.filter_by(
-            child_id=child.id, series_id=series_id, completed=True)}
-    return render_template("series.html", series=series, done=done)
+    # Which lessons are done is marked in the browser from on-device data.
+    return render_template("series.html", series=series)
 
 
-@app.route("/series/<series_id>/<lesson_id>")
+@app.route("/<lang>/series/<series_id>/<lesson_id>/")
 def lesson_page(series_id, lesson_id):
     series = load_series(series_id) or abort(404)
     lesson = load_lesson(series_id, lesson_id) or abort(404)
-    return render_template("lesson.html", series=series, lesson=lesson)
-
-
-@app.route("/api/complete", methods=["POST"])
-@login_required
-def api_complete():
-    from datetime import date as _date
-    child = active_child()
-    if not child:
-        return jsonify(error="no_active_child"), 400
-    data = request.get_json(force=True)
-    row = Progress.query.filter_by(child_id=child.id,
-                                   series_id=data["series_id"],
-                                   lesson_id=data["lesson_id"]).first()
-    already_done = row and row.completed
-    if not row:
-        row = Progress(child_id=child.id, series_id=data["series_id"],
-                       lesson_id=data["lesson_id"])
-        db.session.add(row)
-    row.completed = True
-    row.quiz_score = data.get("quiz_score")
-    row.completed_at = datetime.utcnow()
-
-    series = load_series(data["series_id"])
-    lesson = load_lesson(data["series_id"], data["lesson_id"])
     total_q = 0
-    for b in (lesson or {}).get("blocks", []):
-        if b["type"] == "quiz":
-            total_q = len(b["questions"])
-
-    rank_up = False
-    xp_earned = 0
-    if not already_done:
-        xp_earned = xp_for_lesson(data.get("quiz_score"), total_q)
-        old_rank = get_rank(child.xp)
-        child.xp = (child.xp or 0) + xp_earned
-        new_rank = get_rank(child.xp)
-        rank_up = new_rank[1] != old_rank[1]
-
-        # Streak
-        today = _date.today()
-        if child.last_active is None or child.last_active < today:
-            from datetime import timedelta
-            if child.last_active == today - timedelta(days=1):
-                child.streak = (child.streak or 0) + 1
-            elif child.last_active != today:
-                child.streak = 1
-            child.last_active = today
-            if (child.streak or 0) > (child.longest_streak or 0):
-                child.longest_streak = child.streak
-
-    db.session.commit()
-
-    # check series complete
-    series_complete = False
-    if series:
-        total = len(series["lessons"])
-        done = Progress.query.filter_by(child_id=child.id,
-                                        series_id=data["series_id"],
-                                        completed=True).count()
-        series_complete = done >= total
-
-    new_badges = check_badges(child, series_id=data["series_id"],
-                              quiz_score=data.get("quiz_score"), total_q=total_q)
-    if new_badges:
-        db.session.commit()
-    _, rank_name, rank_emoji = get_rank(child.xp)
-    badge_details = [{"id": b, "name": BADGES[b]["name"], "emoji": BADGES[b]["emoji"]}
-                     for b in new_badges if b in BADGES]
-    return jsonify(ok=True, xp_earned=xp_earned, total_xp=child.xp,
-                   rank=rank_name, rank_emoji=rank_emoji, rank_up=rank_up,
-                   streak=child.streak or 0, series_complete=series_complete,
-                   new_badges=badge_details)
+    for b in lesson.get("blocks", []):
+        if b.get("type") == "quiz":
+            total_q = len(b.get("questions", []))
+    return render_template("lesson.html", series=series, lesson=lesson, total_q=total_q)
 
 
-# ----------------------------------------------------- auth & profiles
-@app.route("/register", methods=["GET", "POST"])
-@limiter.limit("5/hour", methods=["POST"])
-def register():
-    if request.method == "POST":
-        email = request.form["email"].strip().lower()
-        if User.query.filter_by(email=email).first():
-            flash(t({"en": "That email is already registered.", "th": "อีเมลนี้ถูกใช้ลงทะเบียนแล้ว",
-                     "es": "Ese correo ya está registrado."}))
-            return redirect(url_for("register"))
-        user = User(email=email, display_name=request.form["name"].strip(),
-                    lang=get_lang())
-        user.set_password(request.form["password"])
-        db.session.add(user)
-        db.session.commit()
-        login_user(user)
-        return redirect(url_for("profiles"))
-    return render_template("register.html")
+# ----------------------------------------------------- on-device pages
+# These pages are shells: everything about a child is read from and
+# written to the browser's own storage by static/js/progress.js. The
+# server never receives a child's name, progress or Mission log.
+def series_catalog():
+    """Public lesson catalogue (titles and ids only) for on-device pages."""
+    return [{"id": s["id"], "emoji": s.get("emoji", ""), "title": t(s["title"]),
+             "lessons": [{"id": l["id"], "title": t(l["title"])} for l in s["lessons"]]}
+            for s in load_all_series()]
 
 
-def _login_rate_key():
-    # Key by the target email, not source IP: mobile/CGNAT networks can
-    # present a different apparent IP on every single request (confirmed
-    # against this exact app's traffic — see the /api/ask rate limiter
-    # above), making IP-keyed throttling useless against exactly the
-    # attacker behavior it's meant to stop. Keying by email also means
-    # an attacker rotating IPs to brute-force ONE account is still
-    # blocked, which IP-keying could never guarantee anyway.
-    email = request.form.get("email", "").strip().lower()
-    return email or get_remote_address()
-
-
-@app.route("/login", methods=["GET", "POST"])
-@limiter.limit("10/minute;50/day", methods=["POST"], key_func=_login_rate_key)
-def login():
-    if request.method == "POST":
-        user = User.query.filter_by(
-            email=request.form["email"].strip().lower()).first()
-        if user and user.check_password(request.form["password"]):
-            login_user(user)
-            return redirect(url_for("profiles"))
-        flash(t({"en": "Email or password didn't match.", "th": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
-                 "es": "El correo o la contraseña no coinciden."}))
-    return render_template("login.html")
-
-
-@app.route("/logout")
-def logout():
-    logout_user()
-    session.pop("active_child_id", None)
-    return redirect(url_for("index"))
-
-
-@app.route("/profiles", methods=["GET", "POST"])
-@login_required
+@app.route("/<lang>/profiles/")
 def profiles():
-    if request.method == "POST":
-        if len(current_user.children) >= current_user.max_children:
-            flash(t({"en": "Your plan's profile limit is reached.", "th": "คุณใช้จำนวนโปรไฟล์ครบตามแพ็กเกจของคุณแล้ว",
-                     "es": "Has llegado al límite de perfiles de tu plan."}))
-        else:
-            db.session.add(ChildProfile(user_id=current_user.id,
-                                        name=request.form["name"].strip(),
-                                        avatar=request.form.get("avatar", "🌟")))
-            db.session.commit()
     return render_template("profiles.html")
 
 
-@app.route("/profiles/<int:child_id>/select")
-@login_required
-def select_child(child_id):
-    child = db.session.get(ChildProfile, child_id)
-    if child and child.user_id == current_user.id:
-        session["active_child_id"] = child.id
-    return redirect(url_for("library"))
+@app.route("/<lang>/progress/")
+def progress_page():
+    return render_template("progress.html", catalog=series_catalog())
 
 
-@app.route("/dashboard")
-@login_required
-def dashboard():
-    """Parent view: every child's lamps across every series."""
-    all_series = load_all_series()
-    report = []
-    for child in current_user.children:
-        rows = Progress.query.filter_by(child_id=child.id, completed=True).all()
-        done_map = {}
-        for r in rows:
-            done_map.setdefault(r.series_id, set()).add(r.lesson_id)
-        badges = Badge.query.filter_by(child_id=child.id).all()
-        report.append({"child": child, "done": done_map, "badges": badges})
-    return render_template("dashboard.html", report=report, all_series=all_series)
-
-
-# ----------------------------------------------------- feedback
-FEEDBACK_NOTIFY_EMAIL = "aielitazit@gmail.com"
-
-
-def send_feedback_email(feedback):
-    """Best-effort notification — feedback is already saved in the DB
-    regardless of whether this succeeds, so failures here must never
-    break the user-facing request.
-
-    Uses Resend's HTTP API rather than SMTP: Railway (and most PaaS
-    hosts) block outbound SMTP ports by default, so raw smtplib never
-    reaches Gmail's servers from production even with valid creds.
-    HTTPS isn't blocked, so an HTTP-based email API is the only
-    transport that actually works from this host.
-    """
-    api_key = os.environ.get("RESEND_API_KEY")
-    if not api_key:
-        return
-    import httpx
-    try:
-        body = (
-            f"Page: {feedback.page or '(unknown)'}\n"
-            f"Language: {feedback.lang or '(unknown)'}\n"
-            f"Time: {feedback.created_at} UTC\n\n"
-            f"{feedback.message}"
-        )
-        httpx.post(
-            "https://api.resend.com/emails",
-            headers={"Authorization": f"Bearer {api_key}"},
-            json={
-                "from": "LuzKids <onboarding@resend.dev>",
-                "to": [FEEDBACK_NOTIFY_EMAIL],
-                "subject": "LuzKids feedback received",
-                "text": body,
-            },
-            timeout=10,
-        ).raise_for_status()
-    except Exception as e:
-        print("Feedback email error:", e)
-
-
-@app.route("/feedback/submit", methods=["POST"])
-def feedback_submit():
-    msg = request.form.get("message", "").strip()
-    if msg:
-        feedback = Feedback(page=request.form.get("page", "")[:200],
-                            lang=get_lang(), message=msg[:2000])
-        db.session.add(feedback)
-        db.session.commit()
-        send_feedback_email(feedback)
-        flash(t({"en": "Thank you! Your report helps us improve every language.", "th": "ขอบคุณ! รายงานของคุณช่วยให้เราพัฒนาทุกภาษาให้ดีขึ้น",
-                 "es": "¡Gracias! Tu reporte nos ayuda a mejorar cada idioma.",
-                 "fr": "Merci ! Votre signalement nous aide à améliorer chaque langue."}))
-    return redirect(request.form.get("page") or url_for("index"))
-
-
-@app.route("/feedback")
-@login_required
-def feedback_list():
-    if current_user.id != 1:        # owner only (first registered account)
-        abort(403)
-    rows = Feedback.query.order_by(Feedback.created_at.desc()).all()
-    return render_template("feedback.html", rows=rows)
-
-
-
-
-# ----------------------------------------------------- AI companion (Groq free tier)
-@app.errorhandler(429)
-def rate_limit_exceeded(e):
-    if request.path == "/api/ask":
-        return jsonify(answer=t({
-            "en": "Whoa, lots of questions! Take a little break and try again in a few minutes.", "th": "โอ้ คำถามเยอะมากเลย! พักสักครู่แล้วลองใหม่ในอีกไม่กี่นาที",
-            "es": "¡Vaya, muchas preguntas! Toma un descanso y vuelve a intentarlo en unos minutos.",
-            "fr": "Beaucoup de questions ! Fais une petite pause et réessaie dans quelques minutes.",
-            "pt": "Uau, muitas perguntas! Faça uma pequena pausa e tente novamente em alguns minutos."
-        }), ok=False, rate_limited=True), 429
-    if request.path in ("/login", "/register"):
-        flash(t({
-            "en": "Too many attempts — please wait a few minutes and try again.", "th": "พยายามมากเกินไป — กรุณารอสักไม่กี่นาทีแล้วลองใหม่",
-            "es": "Demasiados intentos — espera unos minutos e inténtalo de nuevo.",
-            "fr": "Trop de tentatives — attends quelques minutes et réessaie."
-        }))
-        return redirect(url_for(request.path.strip("/")))
-    return e
-
-
-def _ask_rate_key():
-    # Key by account, not IP: kids on mobile/CGNAT networks can appear to
-    # change IP address between requests, which would make an IP-keyed
-    # limit useless (or worse, randomly punish unrelated users sharing
-    # an IP). The route already requires login, so the account id is a
-    # stable, meaningful unit to rate-limit.
-    if current_user.is_authenticated:
-        return f"user:{current_user.id}"
-    return get_remote_address()
-
-
-def _ask_unavailable(code):
-    return jsonify(ok=False, error=code, answer=t({
-        "en": "I couldn't answer right now — try again in a moment!",
-        "th": "ตอนนี้ฉันตอบไม่ได้ — ลองใหม่อีกครั้งสักครู่นะ!",
-        "es": "No pude responder ahora — ¡inténtalo de nuevo en un momento!",
-        "fr": "Je n'ai pas pu répondre maintenant — réessaie dans un moment !",
-        "pt": "Não consegui responder agora — tente novamente em um momento!"
-    })), 503
-
-
-@app.route("/api/ask", methods=["POST"])
-@limiter.limit("6/minute;40/day", key_func=_ask_rate_key)
-def api_ask():
-    if not current_user.is_authenticated:
-        return jsonify(ok=False, error="login_required",
-                       answer="Please log in to use the AI companion."), 401
-    data = request.get_json(silent=True)
-    if not isinstance(data, dict) or any(
-        not isinstance(data.get(field, ""), str)
-        for field in ("question", "lesson_id", "series_id", "lang")
-    ):
-        return jsonify(ok=False, error="invalid_request"), 400
-    question = data.get("question", "").strip()[:300]
-    lesson_id = data.get("lesson_id", "")
-    series_id = data.get("series_id", "")
-    lang = data.get("lang", "en")
-    if not question:
-        return jsonify(ok=False, error="No question"), 400
-    key = os.environ.get("GROQ_API_KEY", "").strip()
-    if not key:
-        app.logger.error("AI companion unavailable: GROQ_API_KEY is not configured")
-        return _ask_unavailable("not_configured")
-    lesson = load_lesson(series_id, lesson_id)
-    series = load_series(series_id)
-    lesson_text = ""
-    if lesson:
-        for b in lesson.get("blocks", []):
-            if b["type"] == "story":
-                lesson_text = b.get("body", {}).get("en", "")[:400]
-                break
-    lang_name = {"en":"English", "es":"Spanish","fr":"French","pt":"Portuguese","th":"Thai"}.get(lang,"English")
-    system = (f"You are a warm, wise Bible teacher answering questions from a child aged 6-12. "
-              f"Lesson: {lesson_id} from {series.get('title',{}).get('en','this series') if series else 'this series'}. Content: {lesson_text[:300]} "
-              f"Doctrinal framework: Wesleyan-Holiness biblical Christianity consistent with "
-              f"Deeper Life Bible Church — repentance required before saving faith, entire sanctification "
-              f"as a definite second work of grace, Holy Ghost baptism upon the sanctified believer, "
-              f"holy living, personal evangelism, no unconditional eternal security. "
-              f"Answer in {lang_name}. Max 4 sentences. Warm, simple, joyful, age-appropriate. "
-              f"Never mention AI, technology, or any denomination by name.")
-    # Groq retired llama-3.1-8b-instant for free/developer accounts on
-    # 2026-08-16. Keep the replacement configurable for future migrations.
-    model = os.environ.get("GROQ_MODEL", "").strip() or "openai/gpt-oss-20b"
-    from groq import Groq, APIStatusError, APITimeoutError, APIConnectionError
-    options = {}
-    if model in ("openai/gpt-oss-20b", "openai/gpt-oss-120b"):
-        # The completion budget includes reasoning. 180 tokens could leave
-        # no final answer; never display reasoning to the child.
-        options = {"reasoning_effort": "low", "include_reasoning": False}
-    try:
-        # Stay within Gunicorn's worker timeout. SDK defaults wait up to
-        # 60 seconds and retry twice, leaving the page stuck "Thinking".
-        with Groq(api_key=key, timeout=10.0, max_retries=0) as client:
-            completion = client.chat.completions.create(
-                model=model,
-                messages=[{"role": "system", "content": system},
-                          {"role": "user", "content": question}],
-                max_completion_tokens=1024,
-                temperature=0.5,
-                **options,
-            )
-        answer = completion.choices[0].message.content if completion.choices else None
-        if not isinstance(answer, str) or not answer.strip():
-            app.logger.warning("AI companion returned an empty answer: model=%s", model)
-            return _ask_unavailable("empty_answer")
-        return jsonify(ok=True, answer=answer.strip())
-    except APIStatusError as exc:
-        # Log diagnostic metadata, not the provider body, credentials,
-        # or the child's question. The body can contain private content.
-        details = exc.body if isinstance(exc.body, dict) else {}
-        details = details.get("error", details)
-        provider_code = details.get("code") if isinstance(details, dict) else None
-        # Accept only a short identifier for safe, single-line logging.
-        if not isinstance(provider_code, str) or not provider_code.replace("_", "").isalnum():
-            provider_code = "unknown"
-        app.logger.warning("AI companion provider error: status=%s code=%s model=%s",
-                           exc.status_code, provider_code[:80], model)
-        if exc.status_code in (401, 403):
-            code = "provider_auth"
-        elif exc.status_code == 429:
-            code = "provider_rate_limited"
-        elif exc.status_code == 404 or provider_code in ("model_decommissioned", "model_not_found"):
-            code = "model_unavailable"
-        else:
-            code = "provider_error"
-        return _ask_unavailable(code)
-    except APITimeoutError:
-        app.logger.warning("AI companion provider timeout: model=%s", model)
-        return _ask_unavailable("provider_timeout")
-    except APIConnectionError:
-        app.logger.warning("AI companion provider connection failed: model=%s", model)
-        return _ask_unavailable("provider_connection")
-    except Exception as exc:
-        app.logger.error("AI companion unexpected failure: type=%s", type(exc).__name__)
-        return _ask_unavailable("provider_error")
-
-
-@app.route("/mission")
-@login_required
+@app.route("/<lang>/mission/")
 def mission():
-    child = active_child()
-    targets = MissionTarget.query.filter_by(child_id=child.id).order_by(
-        MissionTarget.created_at.desc()).all() if child else []
-    return render_template("mission.html", targets=targets, child=child)
+    return render_template("mission.html")
 
 
-@app.route("/mission/add", methods=["POST"])
-@login_required
-def mission_add():
-    child = active_child()
-    if not child:
-        flash(t({"en": "Select a child profile first.", "th": "เลือกโปรไฟล์เด็กก่อน", "es": "Selecciona un perfil de niño primero.",
-                 "fr": "Sélectionne un profil d'enfant d'abord."}))
-        return redirect(url_for("profiles"))
-    name = request.form.get("name", "").strip()
-    if name:
-        db.session.add(MissionTarget(child_id=child.id, name=name,
-                                     notes=request.form.get("notes","").strip()[:300]))
-        db.session.commit()
-        if award_badge(child, "soul_winner"): db.session.commit()
-    return redirect(url_for("mission"))
+@app.route("/<lang>/certificate/")
+def certificate():
+    return render_template("certificate.html", catalog=series_catalog())
 
 
-@app.route("/mission/<int:target_id>/toggle/<field>", methods=["POST"])
-@login_required
-def mission_toggle(target_id, field):
-    child = active_child()
-    t_obj = db.session.get(MissionTarget, target_id)
-    if t_obj and child and t_obj.child_id == child.id and field in ("prayed_today","shared_gospel","responded"):
-        setattr(t_obj, field, not getattr(t_obj, field))
-        db.session.commit()
-    return redirect(url_for("mission"))
-
-
-@app.route("/mission/<int:target_id>/delete", methods=["POST"])
-@login_required
-def mission_delete(target_id):
-    child = active_child()
-    t_obj = db.session.get(MissionTarget, target_id)
-    if t_obj and child and t_obj.child_id == child.id:
-        db.session.delete(t_obj); db.session.commit()
-    return redirect(url_for("mission"))
-
-
-# ----------------------------------------------------- certificates
-from flask import send_file
-import io
-
-@app.route("/certificate/lesson/<series_id>/<lesson_id>/<int:child_id>")
-@login_required
-def cert_lesson(series_id, lesson_id, child_id):
-    child = db.session.get(ChildProfile, child_id)
-    if not child or child.user_id != current_user.id:
-        abort(403)
-    progress = Progress.query.filter_by(child_id=child_id, series_id=series_id,
-                                        lesson_id=lesson_id, completed=True).first()
-    if not progress:
-        abort(404)
-    series = load_series(series_id)
-    lesson = load_lesson(series_id, lesson_id)
-    if not series or not lesson:
-        abort(404)
-    lesson_num = next((i+1 for i, l in enumerate(series["lessons"])
-                       if l["id"] == lesson_id), 1)
-    _, rank_name, _ = get_rank(child.xp or 0)
-    lang = get_lang()
-    from certificate import lesson_certificate
-    pdf = lesson_certificate(
-        child_name=child.name,
-        lesson_title=t(lesson["title"]),
-        series_title=t(series["title"]),
-        lesson_ref=lesson.get("ref",""),
-        rank_name=rank_name,
-        lesson_number=lesson_num,
-        total_lessons=len(series["lessons"]),
-        lang=lang
-    )
-    if award_badge(child, "certified"): db.session.commit()
-    fname = f"LuzKids_{child.name}_{lesson_id}.pdf".replace(" ","_")
-    return send_file(io.BytesIO(pdf), mimetype="application/pdf",
-                     as_attachment=False, download_name=fname)
-
-
-@app.route("/certificate/series/<series_id>/<int:child_id>")
-@login_required
-def cert_series(series_id, child_id):
-    child = db.session.get(ChildProfile, child_id)
-    if not child or child.user_id != current_user.id:
-        abort(403)
-    series = load_series(series_id)
-    if not series:
-        abort(404)
-    done = Progress.query.filter_by(child_id=child_id, series_id=series_id,
-                                    completed=True).count()
-    if done < len(series["lessons"]):
-        abort(403)  # not complete yet
-    _, rank_name, _ = get_rank(child.xp or 0)
-    lang = get_lang()
-    from certificate import series_certificate
-    pdf = series_certificate(
-        child_name=child.name,
-        series_title=t(series["title"]),
-        total_lessons=len(series["lessons"]),
-        rank_name=rank_name,
-        total_xp=child.xp or 0,
-        lang=lang
-    )
-    fname = f"LuzKids_{child.name}_{series_id}_Complete.pdf".replace(" ","_")
-    return send_file(io.BytesIO(pdf), mimetype="application/pdf",
-                     as_attachment=False, download_name=fname)
-
+@app.route("/<lang>/privacy/")
+def privacy():
+    return render_template("privacy.html")
 
 
 # ----------------------------------------------------- PWA
-@app.route("/manifest.json")
-def pwa_manifest():
-    from flask import jsonify
-    return jsonify({
+def manifest_data():
+    return {
         "name": "LuzKids — Jesus' Arrows",
         "short_name": "LuzKids",
         "description": "Interactive Bible studies for children, in every language",
@@ -835,18 +304,24 @@ def pwa_manifest():
              "purpose": "any maskable"}
             for s in [72, 96, 128, 144, 152, 192, 384, 512]
         ]
-    })
+    }
+
+
+@app.route("/manifest.json")
+def pwa_manifest():
+    return jsonify(manifest_data())
+
 
 @app.route("/sw.js")
 def service_worker():
     from flask import send_from_directory
-    return send_from_directory("static", "sw.js",
-                               mimetype="application/javascript")
+    return send_from_directory("static", "sw.js", mimetype="application/javascript")
 
 
-# ---------------------------------------------------------------- main
-# Schema is managed by Flask-Migrate now (see migrations/). Run
-# `flask db upgrade` on deploy instead of relying on db.create_all().
+@app.errorhandler(404)
+def not_found(e):
+    return render_template("404.html"), 404
+
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+    app.run(debug=True, host="127.0.0.1", port=int(os.environ.get("PORT", 5000)))

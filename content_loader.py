@@ -30,6 +30,11 @@ def _load_series_cached(series_id: str):
 
 
 def load_series(series_id: str):
+    # Only real series folders reach the cache: arbitrary ids from URLs or
+    # requests would otherwise each add a permanent cache entry (memory leak)
+    # and could reach outside content/.
+    if series_id not in _all_series_ids():
+        return None
     # Return a copy so callers mutating the dict (e.g. setting series["id"])
     # can't corrupt the cached object shared across requests.
     series = _load_series_cached(series_id)
@@ -65,6 +70,9 @@ def _load_lesson_cached(series_id: str, lesson_id: str):
 
 
 def load_lesson(series_id: str, lesson_id: str):
+    series = load_series(series_id)
+    if not series or lesson_id not in {l.get("id") for l in series.get("lessons", [])}:
+        return None
     lesson = _load_lesson_cached(series_id, lesson_id)
     return dict(lesson) if lesson is not None else None
 

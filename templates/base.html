@@ -2,7 +2,6 @@
 <html lang="{{ get_lang() }}">
 <head>
 <meta charset="utf-8">
-<meta name="csrf-token" content="{{ csrf_token() }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}LuzKids{% endblock %} · LuzKids</title>
 {% block og_tags %}
@@ -15,6 +14,8 @@
 <meta name="twitter:card" content="summary_large_image">
 {% endblock %}
 <link rel="manifest" href="/manifest.json">
+{% for code in LANGUAGES %}<link rel="alternate" hreflang="{{ code }}" href="https://luzkids.org{{ lang_url(code) }}">
+{% endfor %}
 <meta name="theme-color" content="#f6ab3a">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -34,20 +35,11 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
       {{ t({'en':'Songs', 'th': 'เพลง','es':'Canciones','fr':'Chansons'}) }}
     </a>
-    {% if current_user.is_authenticated %}
-      {% set child = active_child() %}
-      <a href="{{ url_for('profiles') }}" class="child-chip">
-        {% if child %}{{ child.avatar }} {{ child.name }}{% else %}👤 {{ t({'en':'Choose child', 'th': 'เลือกเด็ก','es':'Elegir niño'}) }}{% endif %}
-      </a>
-      <a href="{{ url_for('dashboard') }}">{{ t({'en':'Dashboard', 'th': 'แดชบอร์ด','es':'Panel'}) }}</a>
-      <a href="{{ url_for('logout') }}">{{ t({'en':'Log out', 'th': 'ออกจากระบบ','es':'Salir'}) }}</a>
-    {% else %}
-      <a href="{{ url_for('login') }}">{{ t({'en':'Log in', 'th': 'เข้าสู่ระบบ','es':'Entrar'}) }}</a>
-      <a class="btn small" href="{{ url_for('register') }}">{{ t({'en':'Join free', 'th': 'เข้าร่วมฟรี','es':'Únete gratis'}) }}</a>
-    {% endif %}
-    <select class="lang-select" onchange="location.href='/lang/'+this.value" aria-label="Language">
+    <a href="{{ url_for('profiles') }}" class="child-chip" id="child-chip">👤 {{ t({'en':'Choose child', 'th': 'เลือกเด็ก','es':'Elegir niño','fr':'Choisir l\'enfant'}) }}</a>
+    <a href="{{ url_for('progress_page') }}">{{ t({'en':'Progress', 'th': 'ความคืบหน้า','es':'Progreso','fr':'Progrès'}) }}</a>
+    <select class="lang-select" onchange="location.href=this.value" aria-label="Language">
       {% for code, name in LANGUAGES.items() %}
-      <option value="{{ code }}" {{ 'selected' if get_lang()==code }}>{{ name }}</option>
+      <option value="{{ lang_url(code) }}" {{ 'selected' if get_lang()==code }}>{{ name }}</option>
       {% endfor %}
     </select>
   </div>
@@ -69,16 +61,12 @@
 'fr':'Nous savons que nous pouvons nous tromper. Quelque chose vous semble étrange ? Nous aimerions le savoir.'}) }}</p>
 <details class="report-box">
   <summary>⚑ {{ t({'en':'Report an issue or give us feedback', 'th': 'รายงานปัญหาหรือให้ความเห็นกับเรา','es':'Reporta un problema o déjanos tu opinión','fr':'Signaler un problème ou laisser un avis'}) }}</summary>
-  <form method="post" action="{{ url_for('feedback_submit') }}">
-    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
-    <input type="hidden" name="page" value="{{ request.path }}">
-    <textarea name="message" rows="3" required maxlength="2000"
-      placeholder="{{ t({'en':'A typo, a wrong translation, anything off — tell us.', 'th': 'พิมพ์ผิด แปลผิด หรือมีอะไรไม่ถูกต้อง — บอกเราได้เลย','es':'Un error, una mala traducción, lo que sea — cuéntanos.','fr':'Une faute, une mauvaise traduction, quoi que ce soit — dites-nous.'}) }}"></textarea>
-    <button class="btn small" type="submit">{{ t({'en':'Send', 'th': 'ส่ง','es':'Enviar','fr':'Envoyer'}) }}</button>
-  </form>
+    <p class="meta">{{ t({'en':'Please don\'t include your child\'s name or any personal details.', 'th': 'กรุณาอย่าใส่ชื่อบุตรหลานหรือข้อมูลส่วนตัวใด ๆ','es':'Por favor, no incluyas el nombre de tu hijo ni datos personales.','fr':'Merci de ne pas indiquer le nom de votre enfant ni de données personnelles.'}) }}</p>
+  <p><a class="btn small" href="mailto:{{ FEEDBACK_EMAIL }}?subject={{ ('LuzKids feedback ' ~ request.path)|urlencode }}">✉️ {{ t({'en':'Send', 'th': 'ส่ง','es':'Enviar','fr':'Envoyer'}) }}</a></p>
 </details>
 <footer class="footer">
   <p>“{{ t({'en':'Let your light shine before others', 'th': 'จงให้ความสว่างของพวกท่านส่องไปต่อหน้าคนทั้งปวงอย่างนั้น','es':'Que brille la luz de ustedes delante de todos'}) }}” — {{ t({'en':'Matthew', 'th': 'มัทธิว','es':'Mateo'}) }} 5:16</p>
+  <p class="footer-privacy"><a href="{{ url_for('privacy') }}">🔒 {{ t({'en':'Privacy: we store nothing about your child', 'th': 'ความเป็นส่วนตัว: เราไม่เก็บข้อมูลใด ๆ ของบุตรหลานคุณ','es':'Privacidad: no guardamos nada sobre tu hijo','fr':'Confidentialité : nous ne stockons rien sur votre enfant'}) }}</a></p>
   <div class="footer-contact">
     <span class="footer-contact-label">{{ t({'en':'Contact us', 'th': 'ติดต่อเรา','es':'Contáctanos','fr':'Contactez-nous'}) }}:</span>
     <a href="https://www.facebook.com/profile.php?id=61586669940313" target="_blank" rel="noopener" class="footer-contact-link">
@@ -94,6 +82,8 @@
 <script src="{{ url_for('static', filename='js/main.js') }}" defer></script>
 <script src="{{ url_for('static', filename='js/games.js') }}" defer></script>
 {% block scripts %}{% endblock %}
+<script type="application/json" id="luz-data">{{ client_data()|tojson }}</script>
+<script src="{{ url_for('static', filename='js/progress.js') }}"></script>
 <script>
 if('serviceWorker' in navigator){
   window.addEventListener('load', function(){

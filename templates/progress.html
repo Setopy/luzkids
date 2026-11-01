@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ t({'en':'Progress', 'th': 'ความคืบหน้า','es':'Progreso','fr':'Progrès'}) }}{% endblock %}
+{% block content %}
+<section class="strip">
+  <h1>{{ t({'en':'Family progress on this device', 'th': 'ความคืบหน้าของครอบครัวบนอุปกรณ์นี้','es':'Progreso familiar en este dispositivo','fr':'Progrès de la famille sur cet appareil'}) }}</h1>
+  <p class="tagline">🔒 {{ t({'en':'Read from this device only. We never see it.', 'th': 'อ่านจากอุปกรณ์นี้เท่านั้น เราไม่เคยเห็นข้อมูลนี้','es':'Se lee solo desde este dispositivo. Nosotros nunca lo vemos.','fr':'Lu uniquement depuis cet appareil. Nous ne le voyons jamais.'}) }}
+    · <a href="{{ url_for('profiles') }}">{{ t({'en':'Profiles', 'th': 'โปรไฟล์','es':'Perfiles','fr':'Profils'}) }}</a>
+    · <a href="{{ url_for('mission') }}">🌍 {{ t({'en':'My Mission Field', 'th': 'พื้นที่ภารกิจของฉัน','es':'Mi Campo Misionero','fr':'Mon Champ de Mission'}) }}</a></p>
+  <div id="progress-app"></div>
+  <script type="application/json" id="catalog-data">{{ catalog|tojson }}</script>
+</section>
+{% endblock %}

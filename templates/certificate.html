@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block title %}{{ t({'en':'Certificate', 'th': 'ประกาศนียบัตร','es':'Certificado','fr':'Certificat'}) }}{% endblock %}
+{% block content %}
+<section class="strip" id="certificate-app"></section>
+<script type="application/json" id="catalog-data">{{ catalog|tojson }}</script>
+{% endblock %}

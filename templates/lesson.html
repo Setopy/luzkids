@@ -169,51 +169,10 @@
 
   {% endfor %}
 
-  <footer class="lesson-foot">
-    {% set child = active_child() %}
-    {% if current_user.is_authenticated and child %}
-      {% set rank_info = get_rank(child.xp or 0) %}
-      <div class="pre-complete-bar">
-        <span class="streak-chip">🔥 {{ child.streak or 0 }} {{ t({'en':'day streak', 'th': 'วันต่อเนื่อง','es':'días seguidos','fr':'jours de suite'}) }}</span>
-        <span class="rank-chip">{{ rank_info[2] }} {{ rank_info[1] }}</span>
-        <span class="xp-chip">⭐ {{ child.xp or 0 }} XP</span>
-      </div>
-      <button id="complete-btn" class="btn big">🕯️ {{ t(UI.complete) }}</button>
-      <div id="complete-panel" hidden>
-        <p class="complete-name">{{ t({'en':'Lamp lit! Well done,', 'th': 'จุดตะเกียงแล้ว! เยี่ยมมาก','es':'¡Lámpara encendida! Bien hecho,','fr':'Lampe allumée ! Bravo,'}) }} <strong>{{ child.name }}</strong> 🌟</p>
-        <div class="xp-award" id="xp-award"></div>
-        <div class="rank-award" id="rank-award"></div>
-        <div class="cert-links" id="cert-links">
-          <a class="btn small" href="{{ url_for('cert_lesson', series_id=series.id, lesson_id=lesson.id, child_id=child.id) }}" target="_blank">
-            📜 {{ t({'en':'Download lesson certificate', 'th': 'ดาวน์โหลดประกาศนียบัตรบทเรียน','es':'Descargar certificado de lección','fr':'Télécharger le certificat de leçon'}) }}
-          </a>
-          <span id="series-cert-link" hidden>
-            <a class="btn small gold" href="{{ url_for('cert_series', series_id=series.id, child_id=child.id) }}" target="_blank">
-              🏆 {{ t({'en':'Download SERIES certificate!', 'th': 'ดาวน์โหลดประกาศนียบัตรชุด SERIES!','es':'¡Descargar certificado de SERIE!','fr':'Télécharger le certificat de SÉRIE !'}) }}
-            </a>
-          </span>
-        </div>
-      </div>
-    {% elif current_user.is_authenticated %}
-      <a class="btn ghost" href="{{ url_for('profiles') }}">{{ t(UI.who_learning) }}</a>
-    {% else %}
-      <a class="btn ghost" href="{{ url_for('register') }}">{{ t({'en':'Join free to track progress', 'th': 'เข้าร่วมฟรีเพื่อติดตามความคืบหน้า','es':'Únete gratis para guardar el progreso','fr':'Rejoignez gratuitement pour suivre les progrès'}) }}</a>
-    {% endif %}
+  <footer class="lesson-foot" id="lesson-progress">
+    {# Filled in by progress.js from this device only. #}
   </footer>
-
-  <section class="block ai-companion">
-    <h2>💬 {{ t({'en':'Ask a question about this lesson', 'th': 'ถามคำถามเกี่ยวกับบทเรียนนี้','es':'Haz una pregunta sobre esta lección','fr':'Pose une question sur cette leçon'}) }}</h2>
-    <p class="meta">{{ t({'en':'Powered by AI — answers are grounded in this lesson and Bible truth.', 'th': 'ขับเคลื่อนด้วย AI — คำตอบอ้างอิงจากบทเรียนนี้และความจริงในพระคัมภีร์',
-      'es':'Impulsado por IA — las respuestas se basan en esta lección y la verdad bíblica.',
-      'fr':'Propulsé par l\'IA — les réponses sont ancrées dans cette leçon et la vérité biblique.'}) }}</p>
-    <div class="ai-form">
-      <input type="text" id="ai-question" maxlength="200"
-        placeholder="{{ t({'en':'e.g. Why did Paul write this from prison?', 'th': 'เช่น ทำไมเปาโลถึงเขียนเรื่องนี้จากในคุก?','es':'Ej: ¿Por qué Pablo escribió esto desde la cárcel?','fr':'Ex : Pourquoi Paul a-t-il écrit cela depuis la prison ?'}) }}" />
-      <button class="btn small" id="ai-ask-btn">{{ t({'en':'Ask', 'th': 'ถาม','es':'Preguntar','fr':'Demander'}) }}</button>
-    </div>
-    <div class="ai-answer" id="ai-answer" hidden></div>
-    <p class="ai-limit meta" id="ai-limit" style="display:none"></p>
-  </section>
+  <script type="application/json" id="lesson-data">{{ {"series": series.id, "lesson": lesson.id, "total_q": total_q, "lessons": series.lessons|map(attribute="id")|list}|tojson }}</script>
 </article>
 {% endblock %}
 
